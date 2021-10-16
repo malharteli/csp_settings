@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>kyle watercolor paper new</name>
+
+  <cloudcontentid>122213037</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>abb41b1354-2d11-79b9-2ec7-5d1d25b086</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>98/46</subpath>
+
+  <basePath></basePath>
+
+  <size>2385584</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:44:36</createdat>
+
+  <updatedat>2020-12-24 14:44:54</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

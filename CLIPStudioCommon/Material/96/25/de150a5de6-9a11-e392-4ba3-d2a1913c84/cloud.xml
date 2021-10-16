@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Leathly LP</name>
+
+  <cloudcontentid>122219150</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>de150a5de6-9a11-e392-4ba3-d2a1913c84</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>96/25</subpath>
+
+  <basePath></basePath>
+
+  <size>420822</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:38:23</createdat>
+
+  <updatedat>2020-12-24 15:38:38</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="419f7b856a-aa4a-66b2-4f76-a87b9f5105">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>Painting_material</data>
+      <data>Monochrome</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

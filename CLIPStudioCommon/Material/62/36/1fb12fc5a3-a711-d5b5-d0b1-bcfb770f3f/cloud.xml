@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Sampled Tip</name>
+
+  <cloudcontentid>122219091</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>1fb12fc5a3-a711-d5b5-d0b1-bcfb770f3f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>62/36</subpath>
+
+  <basePath></basePath>
+
+  <size>145504</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:37:48</createdat>
+
+  <updatedat>2020-12-24 15:38:01</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>チロリアンテープ黄</name>
+
+  <cloudcontentid>198</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>97b688c888-a243-eb8a-3e4b-b9d2add26c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint002</subpath>
+
+  <basePath>installation_material/98/01/198</basePath>
+
+  <size>148173</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:39:42</createdat>
+
+  <updatedat>2016-07-13 14:39:45</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

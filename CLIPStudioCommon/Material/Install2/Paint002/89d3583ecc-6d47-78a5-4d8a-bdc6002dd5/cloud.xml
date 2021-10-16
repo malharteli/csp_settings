@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>振り向く</name>
+
+  <cloudcontentid>193</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>89d3583ecc-6d47-78a5-4d8a-bdc6002dd5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>pose</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint002</subpath>
+
+  <basePath>installation_material/93/01/193</basePath>
+
+  <size>121899</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:39:24</createdat>
+
+  <updatedat>2016-07-13 14:39:27</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

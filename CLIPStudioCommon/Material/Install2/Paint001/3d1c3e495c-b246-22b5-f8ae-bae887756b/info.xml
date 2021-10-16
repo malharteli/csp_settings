@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="1c6434b7ad-a949-2d8b-ddf5-6216a794f7">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>Daily_behavior</data>
+      <data>Walk</data>
+      <data>3D</data>
+      <data>Entire_body</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

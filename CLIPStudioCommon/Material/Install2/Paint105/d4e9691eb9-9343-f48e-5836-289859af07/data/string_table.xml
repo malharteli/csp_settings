@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="CLIP STUDIO SERIES 1.5.0"/>
+
+  <string_data version="1.0.0">
+    <string data="Car1" id="267b75f4-1497-428a-9f13-5adb18a9f6f8"/>
+    <string data="Root node" id="51d8d7ab-2cbe-4731-95de-a09689261b14"/>
+    <string data="Car5" id="57765230-eefc-41cb-a04c-ac332b84e2ae"/>
+    <string data="Car2" id="65afe149-6f53-411b-a9ba-64ced4745a7a"/>
+    <string data="trainExterior" id="ac90affe-bc77-495e-bd54-38c2bf99c83b"/>
+    <string data="Car3" id="cd503bf5-b6f2-4e78-81d5-445ef146a5dd"/>
+    <string data="Car4" id="ed9a505b-ab0c-423f-b9b1-f1d671cfd94b"/>
+  </string_data>
+
+</celsysdocument>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ハートチョコ</name>
+
+  <cloudcontentid>501</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>137758b327-4544-45a4-9b60-ffe3b0ba9b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint006</subpath>
+
+  <basePath>installation_material/01/05/501</basePath>
+
+  <size>655055</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:57:32</createdat>
+
+  <updatedat>2016-07-13 14:57:35</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

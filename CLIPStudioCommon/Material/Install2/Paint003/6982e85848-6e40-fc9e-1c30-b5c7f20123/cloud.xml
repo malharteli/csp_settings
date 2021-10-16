@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>迷彩</name>
+
+  <cloudcontentid>266</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6982e85848-6e40-fc9e-1c30-b5c7f20123</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint003</subpath>
+
+  <basePath>installation_material/66/02/266</basePath>
+
+  <size>1330673</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:43:30</createdat>
+
+  <updatedat>2016-07-13 14:43:34</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

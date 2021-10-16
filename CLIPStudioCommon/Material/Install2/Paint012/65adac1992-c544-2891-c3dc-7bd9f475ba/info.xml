@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="e0df743ad5-e74b-7586-fcb9-b74433d964">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>Monochrome</data>
+      <data>Flash</data>
+      <data>Comic_material</data>
+      <data>Effect_line</data>
+      <data>Sea_urchin_flash</data>
+      <data>Feeling</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

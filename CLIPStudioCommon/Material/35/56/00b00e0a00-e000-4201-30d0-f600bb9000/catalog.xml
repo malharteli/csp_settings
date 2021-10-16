@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="00b00e0a00-e000-4201-30d0-f600bb9000">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Swirl</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3b5db47469-d340-e58e-9a34-3d696c08b4">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1733c0c2c7-9946-548c-e04a-9b30502da3">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Swirl</name>
+            <created_date>2020/12/14 01:32:15</created_date>
+            <modified_date>2020/12/14 01:32:15</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="73a0bd0933-2743-f599-98cf-7179840a27"/>
+            </thumbnail>
+            <data>
+              <fileref idref="47d3ffb33b-2a42-ff88-8b2a-7ca10f4cfb"/>
+            </data>
+            <icedata>
+              <fileref idref="e0128a0c8d-0c4c-0985-526a-a33e6ec886"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="47d3ffb33b-2a42-ff88-8b2a-7ca10f4cfb" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="73a0bd0933-2743-f599-98cf-7179840a27" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="e0128a0c8d-0c4c-0985-526a-a33e6ec886" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="104c995bf8-5643-28be-6bda-44dd14c174">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.2"/>
+    <name>microTexture_006</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b51ea74460-1e4f-8187-2967-3659eee575">
+        <tool company="celsys" name="paint" version="1.6.2"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="8f08fe5ac0-724a-6082-c381-15f7fd3a15">
+            <tool company="celsys" name="paint" version="1.6.2"/>
+            <type ver="1.0.1">image</type>
+            <name>DAUB microTexture_006</name>
+            <created_date>2017/03/06 15:59:33</created_date>
+            <modified_date>2017/03/06 15:59:33</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="ebe0b3e570-5c4c-7ea4-cd90-e26d32e197"/>
+            </thumbnail>
+            <data>
+              <fileref idref="45662e7809-b441-ad96-bfdc-77e6ed3792"/>
+            </data>
+            <icedata>
+              <fileref idref="1ce15c427a-1048-9cb6-40b0-4d2c5eed26"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1ce15c427a-1048-9cb6-40b0-4d2c5eed26" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="45662e7809-b441-ad96-bfdc-77e6ed3792" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="ebe0b3e570-5c4c-7ea4-cd90-e26d32e197" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

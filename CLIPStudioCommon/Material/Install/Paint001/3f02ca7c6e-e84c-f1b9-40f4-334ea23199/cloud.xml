@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>3段5コマ4</name>
+
+  <cloudcontentid>59</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>3f02ca7c6e-e84c-f1b9-40f4-334ea23199</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>frame_template</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint001</subpath>
+
+  <basePath>installation_material/59/00/59</basePath>
+
+  <size>273096</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:31:30</createdat>
+
+  <updatedat>2016-07-13 14:31:33</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

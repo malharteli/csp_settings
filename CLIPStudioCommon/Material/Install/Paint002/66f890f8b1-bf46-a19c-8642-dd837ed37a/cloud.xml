@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>桜花弁</name>
+
+  <cloudcontentid>179</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>66f890f8b1-bf46-a19c-8642-dd837ed37a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint002</subpath>
+
+  <basePath>installation_material/79/01/179</basePath>
+
+  <size>122087</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:38:37</createdat>
+
+  <updatedat>2016-07-13 14:38:39</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

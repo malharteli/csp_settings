@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>砂煙4</name>
+
+  <cloudcontentid>109</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9bd1257221-bd42-919e-d5bd-890e964654</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint001</subpath>
+
+  <basePath>installation_material/09/01/109</basePath>
+
+  <size>265849</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:34:31</createdat>
+
+  <updatedat>2016-07-13 14:34:33</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

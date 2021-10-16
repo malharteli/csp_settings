@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ゴキゲン</name>
+
+  <cloudcontentid>1295</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>78aafd1593-684d-6cb6-13dc-ae6e643eb8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint023</subpath>
+
+  <basePath>installation_material/95/12/1295</basePath>
+
+  <size>220572</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:50:24</createdat>
+
+  <updatedat>2016-07-13 15:50:27</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

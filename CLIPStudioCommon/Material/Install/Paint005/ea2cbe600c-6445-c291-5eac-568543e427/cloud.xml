@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>星</name>
+
+  <cloudcontentid>449</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ea2cbe600c-6445-c291-5eac-568543e427</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint005</subpath>
+
+  <basePath>installation_material/49/04/449</basePath>
+
+  <size>86539</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:54:16</createdat>
+
+  <updatedat>2016-07-13 14:54:18</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>雲</name>
+
+  <cloudcontentid>2962</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>30e3b97c99-b742-e18d-e00e-a76c2da3e7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint110</subpath>
+
+  <basePath>installation_material/62/29/2962</basePath>
+
+  <size>117536</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-26 13:41:21</createdat>
+
+  <updatedat>2021-05-26 13:41:23</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

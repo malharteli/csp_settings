@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>雲と雷</name>
+
+  <cloudcontentid>641</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>575b1dd799-3642-1ab1-0758-0cf3ccd6f0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint007</subpath>
+
+  <basePath>installation_material/41/06/641</basePath>
+
+  <size>828934</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:07:50</createdat>
+
+  <updatedat>2016-07-13 15:07:53</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

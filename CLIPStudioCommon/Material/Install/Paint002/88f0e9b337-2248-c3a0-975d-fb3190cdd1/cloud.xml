@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>コスモス3</name>
+
+  <cloudcontentid>192</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>88f0e9b337-2248-c3a0-975d-fb3190cdd1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint002</subpath>
+
+  <basePath>installation_material/92/01/192</basePath>
+
+  <size>429245</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:39:20</createdat>
+
+  <updatedat>2016-07-13 14:39:23</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

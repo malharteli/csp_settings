@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="bc654f8b18-4944-b7ac-c596-95c88d3480">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.2"/>
+    <name>graphit_mottled_seamless</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d6f74f7fe6-c04f-80a9-5809-b6ebecbb81">
+        <tool company="celsys" name="paint" version="1.6.2"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="90c1104f84-274e-49a7-a761-60a27a61e8">
+            <tool company="celsys" name="paint" version="1.6.2"/>
+            <type ver="1.0.1">image</type>
+            <name>graphit_mottled_seamless</name>
+            <created_date>2017/05/17 00:47:10</created_date>
+            <modified_date>2017/05/17 00:47:10</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="82cd310eb2-9048-e396-36df-d7f0b343e9"/>
+            </thumbnail>
+            <data>
+              <fileref idref="7f5f7a5f93-834b-6a86-7aaf-e8416bf47f"/>
+            </data>
+            <icedata>
+              <fileref idref="313b7c41f4-3d41-348e-331f-fb77488974"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="313b7c41f4-3d41-348e-331f-fb77488974" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="7f5f7a5f93-834b-6a86-7aaf-e8416bf47f" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="82cd310eb2-9048-e396-36df-d7f0b343e9" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

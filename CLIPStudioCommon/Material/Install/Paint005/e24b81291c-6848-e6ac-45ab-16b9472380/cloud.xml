@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>砂目ほわB</name>
+
+  <cloudcontentid>429</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e24b81291c-6848-e6ac-45ab-16b9472380</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint005</subpath>
+
+  <basePath>installation_material/29/04/429</basePath>
+
+  <size>129097</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:53:05</createdat>
+
+  <updatedat>2016-07-13 14:53:07</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

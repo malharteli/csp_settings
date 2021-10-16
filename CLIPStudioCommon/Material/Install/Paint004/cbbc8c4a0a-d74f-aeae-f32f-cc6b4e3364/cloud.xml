@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>三つ編み縄</name>
+
+  <cloudcontentid>389</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>cbbc8c4a0a-d74f-aeae-f32f-cc6b4e3364</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint004</subpath>
+
+  <basePath>installation_material/89/03/389</basePath>
+
+  <size>106578</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:50:51</createdat>
+
+  <updatedat>2016-07-13 14:50:55</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

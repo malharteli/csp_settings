@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="fd9c032bc5-b949-c3a5-1897-ec9d3df19e">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

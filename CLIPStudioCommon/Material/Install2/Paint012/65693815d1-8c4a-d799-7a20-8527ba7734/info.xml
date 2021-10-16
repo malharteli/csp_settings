@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="ad29e2e7de-7e4f-e2b9-99c9-45f56d0ba6">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>Monochrome</data>
+      <data>White_tone</data>
+      <data>Monochromatic_pattern</data>
+      <data>Basic</data>
+      <data>Parallel_line</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

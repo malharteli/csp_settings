@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>桜文様3</name>
+
+  <cloudcontentid>271</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7127721e9e-9b4c-09a7-f2d5-a196df055d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint003</subpath>
+
+  <basePath>installation_material/71/02/271</basePath>
+
+  <size>133014</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:43:53</createdat>
+
+  <updatedat>2016-07-13 14:43:56</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>$$$/Patterns/Defaults/Noise=Noise</name>
+
+  <cloudcontentid>122219486</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c77bd07068-8d11-77b2-e5b7-15d4e2a635</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>62/38</subpath>
+
+  <basePath></basePath>
+
+  <size>138911</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:41:38</createdat>
+
+  <updatedat>2020-12-24 15:41:50</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

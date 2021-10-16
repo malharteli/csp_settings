@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>4段6コマ2</name>
+
+  <cloudcontentid>330</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ab6f7875e3-9f42-b785-212f-042b428f25</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>frame_template</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint004</subpath>
+
+  <basePath>installation_material/30/03/330</basePath>
+
+  <size>294968</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:47:24</createdat>
+
+  <updatedat>2016-07-13 14:47:26</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

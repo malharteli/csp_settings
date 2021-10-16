@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>gouache_wet002</name>
+
+  <cloudcontentid>124536718</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>16651c2766-5746-bab4-5cca-2d3529ce6f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>02/78</subpath>
+
+  <basePath></basePath>
+
+  <size>183716</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-08 14:01:49</createdat>
+
+  <updatedat>2021-01-08 14:02:02</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

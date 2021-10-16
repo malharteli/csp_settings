@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>MM11-駅前03</name>
+
+  <cloudcontentid>827</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5575115a20-d04b-3783-e474-bf11fc16eb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint009</subpath>
+
+  <basePath>installation_material/27/08/827</basePath>
+
+  <size>1524141</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:22:09</createdat>
+
+  <updatedat>2016-07-13 15:22:12</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>水染み3</name>
+
+  <cloudcontentid>124536247</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>910659389e-0242-f08f-10b6-8d066584cb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>05/58</subpath>
+
+  <basePath></basePath>
+
+  <size>80656</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-08 13:56:37</createdat>
+
+  <updatedat>2021-01-08 13:56:49</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>nozzle 01</name>
+
+  <cloudcontentid>123406334</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>fef820e7bd-be41-6396-7634-9c5c595f8c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>02/04</subpath>
+
+  <basePath></basePath>
+
+  <size>156350</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:28:47</createdat>
+
+  <updatedat>2021-01-01 08:29:02</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

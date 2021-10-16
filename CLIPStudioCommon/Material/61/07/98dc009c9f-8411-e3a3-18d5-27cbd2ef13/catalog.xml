@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="98dc009c9f-8411-e3a3-18d5-27cbd2ef13">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Grut PapercanvasHicon</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="34093b5ab6-0a44-4f81-ae10-62993610b5">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2bbb928ce6-ac43-58b5-847e-657ea82437">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Grut PapercanvasHicon</name>
+            <created_date>2020/12/14 01:32:24</created_date>
+            <modified_date>2020/12/14 01:32:24</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1f92e37ebb-f743-ba9b-a5dd-6d3746b3a1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="ac56a9ab8d-a94f-0ebf-b369-9c91043c2c"/>
+            </data>
+            <icedata>
+              <fileref idref="48e8fbef0e-9b46-119c-10c5-5afc539f34"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1f92e37ebb-f743-ba9b-a5dd-6d3746b3a1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="48e8fbef0e-9b46-119c-10c5-5afc539f34" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="ac56a9ab8d-a94f-0ebf-b369-9c91043c2c" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

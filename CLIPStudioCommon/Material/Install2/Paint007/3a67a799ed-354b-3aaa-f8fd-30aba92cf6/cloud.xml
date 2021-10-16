@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ステンドグラス</name>
+
+  <cloudcontentid>626</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>3a67a799ed-354b-3aaa-f8fd-30aba92cf6</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint007</subpath>
+
+  <basePath>installation_material/26/06/626</basePath>
+
+  <size>902963</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:06:53</createdat>
+
+  <updatedat>2016-07-13 15:06:56</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

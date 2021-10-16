@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="95a40331ce-7749-02b4-ef92-e1e55fb918">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Round hole_large</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="738ec1d172-0e4f-88ba-475e-d8bbb7f9dd">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="03ef35b5ee-8a41-f19f-3d2a-109efdfca3">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Round hole_large</name>
+            <created_date>2016/06/21 10:07:15</created_date>
+            <modified_date>2016/06/21 10:07:15</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="551f46bcaf-e042-0094-9be3-7994bde94c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6180d940ce-414a-85bf-d17c-b58b760b66"/>
+            </data>
+            <icedata>
+              <fileref idref="16156a5bc5-514e-de8e-fb1a-d7dec14882"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="16156a5bc5-514e-de8e-fb1a-d7dec14882" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="551f46bcaf-e042-0094-9be3-7994bde94c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="6180d940ce-414a-85bf-d17c-b58b760b66" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

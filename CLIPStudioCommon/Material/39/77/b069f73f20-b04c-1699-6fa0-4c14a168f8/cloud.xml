@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>stroke36 small</name>
+
+  <cloudcontentid>123405931</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b069f73f20-b04c-1699-6fa0-4c14a168f8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>39/77</subpath>
+
+  <basePath></basePath>
+
+  <size>104167</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:13:02</createdat>
+
+  <updatedat>2021-01-01 08:13:22</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

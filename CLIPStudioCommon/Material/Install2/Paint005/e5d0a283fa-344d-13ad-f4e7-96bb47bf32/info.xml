@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="812c2da41b-af45-ba89-af92-1922d09c49">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>Seamless</data>
+      <data>Japanese_pattern</data>
+      <data>Color</data>
+      <data>Flower</data>
+      <data>Color_pattern</data>
+      <data>Pattern</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

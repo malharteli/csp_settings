@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="296c0ad3af-764d-20ad-61d9-c96b3863bf">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Cloudy sky 01</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="542e2a2c3c-eb47-f485-fc79-000d1a9919">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="472b6e6956-bd4e-e7af-ffe9-6a62edfba9">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Cloudy sky 01</name>
+            <created_date>2016/06/21 10:07:11</created_date>
+            <modified_date>2016/06/21 10:07:11</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="15b300a5d4-3a46-9d92-5093-a9268e3365"/>
+            </thumbnail>
+            <data>
+              <fileref idref="db028dd013-9a44-08a5-d6df-40a8ace820"/>
+            </data>
+            <icedata>
+              <fileref idref="56e863b0c9-3d49-149c-5ba9-05b0d73d21"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="15b300a5d4-3a46-9d92-5093-a9268e3365" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="56e863b0c9-3d49-149c-5ba9-05b0d73d21" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="db028dd013-9a44-08a5-d6df-40a8ace820" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

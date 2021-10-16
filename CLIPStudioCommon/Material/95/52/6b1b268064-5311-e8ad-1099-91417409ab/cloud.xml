@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - PT LinesBam</name>
+
+  <cloudcontentid>122221538</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6b1b268064-5311-e8ad-1099-91417409ab</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>95/52</subpath>
+
+  <basePath></basePath>
+
+  <size>170479</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:03:39</createdat>
+
+  <updatedat>2020-12-24 16:03:51</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

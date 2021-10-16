@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Spekklyvivi</name>
+
+  <cloudcontentid>122218497</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>bf6f8bff0f-f111-e6ae-a184-f8c2e46266</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>61/39</subpath>
+
+  <basePath></basePath>
+
+  <size>469160</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:31:22</createdat>
+
+  <updatedat>2020-12-24 15:31:38</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

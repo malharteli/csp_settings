@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>手の表情014</name>
+
+  <cloudcontentid>113</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0355f30eb9-b945-34bf-2ab9-83f2b5d522</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>pose</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint002</subpath>
+
+  <basePath>installation_material/13/01/113</basePath>
+
+  <size>119387</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:34:46</createdat>
+
+  <updatedat>2016-07-13 14:34:48</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

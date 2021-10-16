@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ビル09</name>
+
+  <cloudcontentid>3037</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ec083da6af-cd45-8b92-39fd-fc3cbd3201</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint110</subpath>
+
+  <basePath>installation_material/37/30/3037</basePath>
+
+  <size>179442</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-26 13:45:26</createdat>
+
+  <updatedat>2021-05-26 13:45:29</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

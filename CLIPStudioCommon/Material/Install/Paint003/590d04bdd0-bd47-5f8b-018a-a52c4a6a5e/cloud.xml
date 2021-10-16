@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>滲2</name>
+
+  <cloudcontentid>253</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>590d04bdd0-bd47-5f8b-018a-a52c4a6a5e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint003</subpath>
+
+  <basePath>installation_material/53/02/253</basePath>
+
+  <size>62481</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:42:48</createdat>
+
+  <updatedat>2016-07-13 14:42:50</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

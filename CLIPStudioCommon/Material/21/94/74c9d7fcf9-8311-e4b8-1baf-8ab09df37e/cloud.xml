@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Sponge Spots</name>
+
+  <cloudcontentid>122216837</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>74c9d7fcf9-8311-e4b8-1baf-8ab09df37e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>21/94</subpath>
+
+  <basePath></basePath>
+
+  <size>453249</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:15:35</createdat>
+
+  <updatedat>2020-12-24 15:15:52</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

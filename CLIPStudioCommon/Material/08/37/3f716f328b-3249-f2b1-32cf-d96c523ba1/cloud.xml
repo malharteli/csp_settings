@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>正方形ペン先</name>
+
+  <cloudcontentid>102509897</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>3f716f328b-3249-f2b1-32cf-d96c523ba1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>08/37</subpath>
+
+  <basePath></basePath>
+
+  <size>67641</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:59:15</createdat>
+
+  <updatedat>2020-07-20 23:59:26</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

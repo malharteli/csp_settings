@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>携帯電話を操作する</name>
+
+  <cloudcontentid>70</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4c55c66f13-fb40-29a9-63ae-c27ad87be0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>pose</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint001</subpath>
+
+  <basePath>installation_material/70/00/70</basePath>
+
+  <size>124039</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:32:06</createdat>
+
+  <updatedat>2016-07-13 14:32:08</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

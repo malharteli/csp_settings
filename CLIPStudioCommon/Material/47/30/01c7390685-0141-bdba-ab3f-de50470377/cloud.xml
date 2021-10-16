@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Painterly</name>
+
+  <cloudcontentid>102509010</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>01c7390685-0141-bdba-ab3f-de50470377</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>47/30</subpath>
+
+  <basePath></basePath>
+
+  <size>164660</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:48:18</createdat>
+
+  <updatedat>2020-07-20 23:48:31</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

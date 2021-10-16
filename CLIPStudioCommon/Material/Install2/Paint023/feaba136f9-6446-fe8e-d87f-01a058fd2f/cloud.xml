@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>真剣</name>
+
+  <cloudcontentid>1326</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>feaba136f9-6446-fe8e-d87f-01a058fd2f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint023</subpath>
+
+  <basePath>installation_material/26/13/1326</basePath>
+
+  <size>212852</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:52:55</createdat>
+
+  <updatedat>2016-07-13 15:52:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

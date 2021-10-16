@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>スプラッシュ水彩02</name>
+
+  <cloudcontentid>2964</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>3343308c6d-6947-32be-26af-f59143c2b5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint110</subpath>
+
+  <basePath>installation_material/64/29/2964</basePath>
+
+  <size>277312</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-26 13:41:27</createdat>
+
+  <updatedat>2021-05-26 13:41:29</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Fish Feathers</name>
+
+  <cloudcontentid>122216908</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9c0da0a6d0-2e11-e498-d4c6-6eef489694</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>28/12</subpath>
+
+  <basePath></basePath>
+
+  <size>399062</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:16:13</createdat>
+
+  <updatedat>2020-12-24 15:16:25</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

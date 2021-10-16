@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Lichen Parasol 400</name>
+
+  <cloudcontentid>122220810</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f9d791b08c-0711-e680-a1d9-ba68138da2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>23/27</subpath>
+
+  <basePath></basePath>
+
+  <size>386549</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:54:00</createdat>
+
+  <updatedat>2020-12-24 15:54:17</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

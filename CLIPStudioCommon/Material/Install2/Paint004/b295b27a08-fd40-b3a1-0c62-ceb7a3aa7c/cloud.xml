@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ドキッ_縦</name>
+
+  <cloudcontentid>346</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b295b27a08-fd40-b3a1-0c62-ceb7a3aa7c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint004</subpath>
+
+  <basePath>installation_material/46/03/346</basePath>
+
+  <size>123610</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:48:17</createdat>
+
+  <updatedat>2016-07-13 14:48:19</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

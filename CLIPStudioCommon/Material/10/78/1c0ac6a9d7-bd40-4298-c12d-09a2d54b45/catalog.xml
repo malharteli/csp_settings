@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="1c0ac6a9d7-bd40-4298-c12d-09a2d54b45">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>Layer 1 Copy</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="70c7dc6ce2-7847-3499-3310-59eaf3fcf8">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="cbe550bf3b-964b-3f80-8037-bffdecdb3a">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>square003</name>
+            <created_date>2018/02/18 20:26:12</created_date>
+            <modified_date>2018/02/18 20:26:12</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="98bc623705-4d43-c0a8-e7b7-79f08e49c1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="19674d9bca-fa46-95a8-1e6e-4f3ee07a7f"/>
+            </data>
+            <icedata>
+              <fileref idref="5c05a69e28-3346-1199-56c4-2da51f359e"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="19674d9bca-fa46-95a8-1e6e-4f3ee07a7f" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="5c05a69e28-3346-1199-56c4-2da51f359e" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="98bc623705-4d43-c0a8-e7b7-79f08e49c1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

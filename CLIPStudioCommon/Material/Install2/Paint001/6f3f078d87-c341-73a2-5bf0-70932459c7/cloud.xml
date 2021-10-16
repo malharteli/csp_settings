@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>不安_02</name>
+
+  <cloudcontentid>89</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6f3f078d87-c341-73a2-5bf0-70932459c7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>balloon</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint001</subpath>
+
+  <basePath>installation_material/89/00/89</basePath>
+
+  <size>89952</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:33:15</createdat>
+
+  <updatedat>2016-07-13 14:33:17</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

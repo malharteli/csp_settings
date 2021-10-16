@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Medium textured</name>
+
+  <cloudcontentid>102224188</cloudcontentid>
+
+  <revision>2</revision>
+
+  <key>0a9f153c48-814b-d7a7-1232-da9d3eae13</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>53/30</subpath>
+
+  <basePath></basePath>
+
+  <size>288272</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-18 12:50:36</createdat>
+
+  <updatedat>2020-07-24 23:55:43</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

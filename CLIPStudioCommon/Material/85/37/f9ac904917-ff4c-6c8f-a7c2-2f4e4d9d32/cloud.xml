@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>dp-abst 2-3</name>
+
+  <cloudcontentid>102511347</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f9ac904917-ff4c-6c8f-a7c2-2f4e4d9d32</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>85/37</subpath>
+
+  <basePath></basePath>
+
+  <size>769535</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:15:35</createdat>
+
+  <updatedat>2020-07-21 00:15:49</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

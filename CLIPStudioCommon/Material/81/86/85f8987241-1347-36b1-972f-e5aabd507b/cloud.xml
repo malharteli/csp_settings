@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>DAUB_PaperTexture_028</name>
+
+  <cloudcontentid>123406834</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>85f8987241-1347-36b1-972f-e5aabd507b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>81/86</subpath>
+
+  <basePath></basePath>
+
+  <size>3199968</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:45:09</createdat>
+
+  <updatedat>2021-01-01 08:45:25</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

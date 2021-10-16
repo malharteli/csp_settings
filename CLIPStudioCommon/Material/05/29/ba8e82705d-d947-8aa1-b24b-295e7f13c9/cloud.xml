@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>gouache_001</name>
+
+  <cloudcontentid>124536666</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ba8e82705d-d947-8aa1-b24b-295e7f13c9</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>05/29</subpath>
+
+  <basePath></basePath>
+
+  <size>547366</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-08 14:01:17</createdat>
+
+  <updatedat>2021-01-08 14:01:30</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

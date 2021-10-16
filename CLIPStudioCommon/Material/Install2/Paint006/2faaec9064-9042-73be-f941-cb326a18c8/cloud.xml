@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>枯れ木</name>
+
+  <cloudcontentid>511</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2faaec9064-9042-73be-f941-cb326a18c8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint006</subpath>
+
+  <basePath>installation_material/11/05/511</basePath>
+
+  <size>3122806</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:58:17</createdat>
+
+  <updatedat>2016-07-13 14:58:21</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

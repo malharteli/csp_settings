@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Art Marker</name>
+
+  <cloudcontentid>102503538</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>cf1b192efc-2942-da8a-0da1-1dd89f01a8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>40/21</subpath>
+
+  <basePath></basePath>
+
+  <size>81636</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 22:57:30</createdat>
+
+  <updatedat>2020-07-20 22:57:43</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

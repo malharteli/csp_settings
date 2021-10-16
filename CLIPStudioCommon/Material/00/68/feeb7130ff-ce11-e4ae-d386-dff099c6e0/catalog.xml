@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="feeb7130ff-ce11-e4ae-d386-dff099c6e0">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Grut - CardOchre 1400</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ef3e4cdf26-c640-50aa-7953-89c499a28f">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b4d475dd95-5a45-57ab-8cc6-8bc80477b2">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Grut - CardOchre 1400</name>
+            <created_date>2020/12/14 01:33:31</created_date>
+            <modified_date>2020/12/14 01:33:31</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="6905d1326f-a748-4894-8c92-aeb7395ddf"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e41d94a9c0-6740-928c-55c9-d5342a1cc1"/>
+            </data>
+            <icedata>
+              <fileref idref="a0804bbf13-9c48-f9bc-d758-e3abeeeeff"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="6905d1326f-a748-4894-8c92-aeb7395ddf" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="a0804bbf13-9c48-f9bc-d758-e3abeeeeff" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="e41d94a9c0-6740-928c-55c9-d5342a1cc1" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

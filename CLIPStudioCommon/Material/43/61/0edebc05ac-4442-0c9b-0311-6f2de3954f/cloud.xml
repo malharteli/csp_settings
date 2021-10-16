@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>瓦礫影 1-07R</name>
+
+  <cloudcontentid>102511693</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0edebc05ac-4442-0c9b-0311-6f2de3954f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>43/61</subpath>
+
+  <basePath></basePath>
+
+  <size>233364</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:19:24</createdat>
+
+  <updatedat>2020-07-21 00:19:36</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

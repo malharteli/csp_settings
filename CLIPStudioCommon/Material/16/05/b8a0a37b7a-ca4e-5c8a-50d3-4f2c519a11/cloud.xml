@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Charcoal_512</name>
+
+  <cloudcontentid>102503655</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b8a0a37b7a-ca4e-5c8a-50d3-4f2c519a11</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>16/05</subpath>
+
+  <basePath></basePath>
+
+  <size>430472</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 22:58:48</createdat>
+
+  <updatedat>2020-07-20 22:59:01</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

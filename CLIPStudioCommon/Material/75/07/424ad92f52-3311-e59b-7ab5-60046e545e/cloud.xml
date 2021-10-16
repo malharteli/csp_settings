@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - smallpelt</name>
+
+  <cloudcontentid>122215313</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>424ad92f52-3311-e59b-7ab5-60046e545e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>75/07</subpath>
+
+  <basePath></basePath>
+
+  <size>248170</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:02:52</createdat>
+
+  <updatedat>2020-12-24 15:03:10</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>薔薇2</name>
+
+  <cloudcontentid>238</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>418054b0dc-164e-f285-658f-865e86f486</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint003</subpath>
+
+  <basePath>installation_material/38/02/238</basePath>
+
+  <size>227239</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:41:59</createdat>
+
+  <updatedat>2016-07-13 14:42:02</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

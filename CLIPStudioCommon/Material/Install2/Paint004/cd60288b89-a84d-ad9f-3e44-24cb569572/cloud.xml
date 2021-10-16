@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>軽い鞄を持つ</name>
+
+  <cloudcontentid>391</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>cd60288b89-a84d-ad9f-3e44-24cb569572</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>pose</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint004</subpath>
+
+  <basePath>installation_material/91/03/391</basePath>
+
+  <size>109225</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:50:59</createdat>
+
+  <updatedat>2016-07-13 14:51:02</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

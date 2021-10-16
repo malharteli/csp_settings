@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>寒い風</name>
+
+  <cloudcontentid>513</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>38fd1d1737-dc48-3db6-f0ce-a9e689b16a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint006</subpath>
+
+  <basePath>installation_material/13/05/513</basePath>
+
+  <size>8837299</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:58:35</createdat>
+
+  <updatedat>2016-07-13 14:58:42</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

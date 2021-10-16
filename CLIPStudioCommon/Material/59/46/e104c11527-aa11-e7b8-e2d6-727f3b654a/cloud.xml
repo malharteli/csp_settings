@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Deedswin HICON 240</name>
+
+  <cloudcontentid>122216581</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e104c11527-aa11-e7b8-e2d6-727f3b654a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>59/46</subpath>
+
+  <basePath></basePath>
+
+  <size>258577</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:13:44</createdat>
+
+  <updatedat>2020-12-24 15:13:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

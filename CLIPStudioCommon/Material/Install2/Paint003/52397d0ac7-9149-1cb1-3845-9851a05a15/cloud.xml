@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>物を拾う</name>
+
+  <cloudcontentid>249</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>52397d0ac7-9149-1cb1-3845-9851a05a15</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>pose</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint003</subpath>
+
+  <basePath>installation_material/49/02/249</basePath>
+
+  <size>115772</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:42:36</createdat>
+
+  <updatedat>2016-07-13 14:42:38</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

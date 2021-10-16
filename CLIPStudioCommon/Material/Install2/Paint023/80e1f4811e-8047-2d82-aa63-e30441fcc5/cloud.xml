@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>euro06</name>
+
+  <cloudcontentid>1300</cloudcontentid>
+
+  <revision>2</revision>
+
+  <key>80e1f4811e-8047-2d82-aa63-e30441fcc5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint023</subpath>
+
+  <basePath>installation_material/00/13/1300</basePath>
+
+  <size>3495784</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:50:47</createdat>
+
+  <updatedat>2016-07-22 15:12:16</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

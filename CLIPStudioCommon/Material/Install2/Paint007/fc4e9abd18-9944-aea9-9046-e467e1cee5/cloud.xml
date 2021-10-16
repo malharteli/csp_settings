@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>円形レース</name>
+
+  <cloudcontentid>723</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>fc4e9abd18-9944-aea9-9046-e467e1cee5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint007</subpath>
+
+  <basePath>installation_material/23/07/723</basePath>
+
+  <size>546026</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:13:24</createdat>
+
+  <updatedat>2016-07-13 15:13:27</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

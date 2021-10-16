@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>MM09-菱窓</name>
+
+  <cloudcontentid>812</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>23d9029a21-2546-ff93-87c1-6bd91e6e65</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint009</subpath>
+
+  <basePath>installation_material/12/08/812</basePath>
+
+  <size>92798</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:20:53</createdat>
+
+  <updatedat>2016-07-13 15:20:56</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Spotty Inker 2_50%</name>
+
+  <cloudcontentid>102504410</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>316d07f408-e449-8eb2-a533-fc819eb994</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>17/84</subpath>
+
+  <basePath></basePath>
+
+  <size>104154</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:06:24</createdat>
+
+  <updatedat>2020-07-20 23:06:35</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

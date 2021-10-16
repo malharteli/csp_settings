@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>フキダシ乙女</name>
+
+  <cloudcontentid>659</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8639cef278-5844-00b2-a8ce-0981420551</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint007</subpath>
+
+  <basePath>installation_material/59/06/659</basePath>
+
+  <size>632503</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:09:00</createdat>
+
+  <updatedat>2016-07-13 15:09:03</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

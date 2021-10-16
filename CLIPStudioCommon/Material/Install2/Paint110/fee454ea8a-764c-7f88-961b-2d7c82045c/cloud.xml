@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>落ち葉04</name>
+
+  <cloudcontentid>3051</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>fee454ea8a-764c-7f88-961b-2d7c82045c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint110</subpath>
+
+  <basePath>installation_material/51/30/3051</basePath>
+
+  <size>129165</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-26 13:46:15</createdat>
+
+  <updatedat>2021-05-26 13:46:18</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

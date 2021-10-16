@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="85107ecfb5-1b43-1681-7526-361252cd5e">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Pick tissue paper</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6edf4f80b0-2045-0a85-f260-d82bbfd7aa">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8fc6478632-dd4e-d6b1-3967-3fc18fca50">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">pose</type>
+            <name>Pick tissue paper</name>
+            <created_date>2016/06/21 10:06:50</created_date>
+            <modified_date>2016/06/21 10:06:50</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="4a0c2605ea-5343-41b4-2bb6-86ce68eb54"/>
+            </thumbnail>
+            <data>
+              <fileref idref="20c520357d-b540-71a3-11b8-fa49c63a80"/>
+            </data>
+            <icedata>
+              <fileref idref="b1194de51e-d147-7681-6554-60b6b0bfd4"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="20c520357d-b540-71a3-11b8-fa49c63a80" mime="application/octet-stream">
+      <path>data/material.pose</path>
+    </file>
+    <file document="false" encrypt="false" id="4a0c2605ea-5343-41b4-2bb6-86ce68eb54" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="b1194de51e-d147-7681-6554-60b6b0bfd4" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

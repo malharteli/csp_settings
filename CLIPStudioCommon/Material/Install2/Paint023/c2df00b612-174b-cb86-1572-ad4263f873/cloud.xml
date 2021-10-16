@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>和紙02</name>
+
+  <cloudcontentid>1313</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c2df00b612-174b-cb86-1572-ad4263f873</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint023</subpath>
+
+  <basePath>installation_material/13/13/1313</basePath>
+
+  <size>2692132</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:51:42</createdat>
+
+  <updatedat>2016-07-13 15:51:48</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

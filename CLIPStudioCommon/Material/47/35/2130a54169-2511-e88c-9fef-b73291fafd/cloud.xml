@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Loft</name>
+
+  <cloudcontentid>122221500</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2130a54169-2511-e88c-9fef-b73291fafd</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>47/35</subpath>
+
+  <basePath></basePath>
+
+  <size>238156</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:03:07</createdat>
+
+  <updatedat>2020-12-24 16:03:20</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

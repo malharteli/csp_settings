@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="2c491ca55e-e140-c490-0c35-541765be0b">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.4.4"/>
+    <name>Tone Curve 1</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ed140893bd-9c4d-f589-e09b-27089e3f99">
+        <tool company="celsys" name="paint" version="1.4.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="af6d9fad57-bd47-aa9f-9059-dc5d9cab2e">
+            <tool company="celsys" name="paint" version="1.4.4"/>
+            <type ver="1.0.0">image</type>
+            <name>lightBumpMap</name>
+            <created_date>2020/12/26 22:45:07</created_date>
+            <modified_date>2020/12/26 22:45:07</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="bd4d86a4de-2545-01a3-467c-27e4e5e4d1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="2157c7b77d-3f41-db80-2d44-cbb89c289c"/>
+            </data>
+            <icedata>
+              <fileref idref="99ff9e52d6-7148-5380-8239-e8c4fd39ea"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="2157c7b77d-3f41-db80-2d44-cbb89c289c" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="99ff9e52d6-7148-5380-8239-e8c4fd39ea" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="bd4d86a4de-2545-01a3-467c-27e4e5e4d1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

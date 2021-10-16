@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>樹木1</name>
+
+  <cloudcontentid>411</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d63d43f809-bc41-ee80-42c6-4cfbb2ce06</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint005</subpath>
+
+  <basePath>installation_material/11/04/411</basePath>
+
+  <size>165875</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:52:03</createdat>
+
+  <updatedat>2016-07-13 14:52:05</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

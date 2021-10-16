@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>tombowSeamless</name>
+
+  <cloudcontentid>123410315</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f27ce3a0a3-c748-1ea0-5454-05cdfa41dc</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>99/12</subpath>
+
+  <basePath></basePath>
+
+  <size>234722</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 09:32:17</createdat>
+
+  <updatedat>2021-01-01 09:32:35</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

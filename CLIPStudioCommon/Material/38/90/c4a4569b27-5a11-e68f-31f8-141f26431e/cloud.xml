@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Hatch forp Thin</name>
+
+  <cloudcontentid>122217976</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c4a4569b27-5a11-e68f-31f8-141f26431e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>38/90</subpath>
+
+  <basePath></basePath>
+
+  <size>203782</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:25:14</createdat>
+
+  <updatedat>2020-12-24 15:25:27</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

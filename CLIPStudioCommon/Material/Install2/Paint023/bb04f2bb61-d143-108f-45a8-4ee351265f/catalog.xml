@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="bb04f2bb61-d143-108f-45a8-4ee351265f">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.5.6"/>
+    <name>Nico painting _ nihil</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="dddf48dae4-7148-c297-77f5-f1dec9789e">
+        <tool company="celsys" name="paint" version="1.5.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="bcf57143b8-8642-d298-7a2d-200eb6ad09">
+            <tool company="celsys" name="paint" version="1.5.6"/>
+            <type ver="1.0.1">image</type>
+            <name>Nihilistic</name>
+            <created_date>2016/06/20 05:30:40</created_date>
+            <modified_date>2016/06/20 05:30:40</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b0e326643f-ca47-cfb5-bace-60071430ac"/>
+            </thumbnail>
+            <data>
+              <fileref idref="7028a70022-1048-c889-8468-44736df6ee"/>
+            </data>
+            <icedata>
+              <fileref idref="1ab89e2ac6-684c-d6a1-d90b-8355ee1a75"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1ab89e2ac6-684c-d6a1-d90b-8355ee1a75" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="7028a70022-1048-c889-8468-44736df6ee" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="b0e326643f-ca47-cfb5-bace-60071430ac" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

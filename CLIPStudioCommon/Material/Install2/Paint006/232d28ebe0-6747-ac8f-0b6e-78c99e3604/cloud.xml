@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>和柄02小梅_IS</name>
+
+  <cloudcontentid>508</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>232d28ebe0-6747-ac8f-0b6e-78c99e3604</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint006</subpath>
+
+  <basePath>installation_material/08/05/508</basePath>
+
+  <size>250889</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:58:01</createdat>
+
+  <updatedat>2016-07-13 14:58:05</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>MM11-住宅09</name>
+
+  <cloudcontentid>843</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>89cf3f5c54-d14e-e4bc-4b26-393a7921f4</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint009</subpath>
+
+  <basePath>installation_material/43/08/843</basePath>
+
+  <size>801548</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:23:15</createdat>
+
+  <updatedat>2016-07-13 15:23:18</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>カケアミA</name>
+
+  <cloudcontentid>142066102</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0ea2037687-624c-3296-3214-9aa0e423ee</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>76/96</subpath>
+
+  <basePath></basePath>
+
+  <size>103126</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:29:30</createdat>
+
+  <updatedat>2021-05-09 15:29:42</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

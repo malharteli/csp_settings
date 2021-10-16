@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="7f20c2744d-6344-6787-1fb2-5b6e04b041">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Comm_Alex_DoctorDrow</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="59acd8a56b-7f42-4197-053f-4af03f1476">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="96d16509e3-4d45-78b8-d16a-7c2c40cb2c">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>Comm_Alex_DoctorDrow</name>
+            <created_date>2021/09/27 15:37:28</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="6149c8c909-af48-2387-e072-70c9f3013f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4170c480f8-fc4a-f38e-ba86-85ded34d10"/>
+            </data>
+            <icedata>
+              <fileref idref="93fccc87ce-b541-a086-2686-b109358b68"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="4170c480f8-fc4a-f38e-ba86-85ded34d10" mime="application/octet-stream">
+      <path>Comm_Alex_DoctorDrow.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="6149c8c909-af48-2387-e072-70c9f3013f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="93fccc87ce-b541-a086-2686-b109358b68" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Wrecked Linoleum</name>
+
+  <cloudcontentid>122219010</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a8099d8fe5-b611-e392-4ba3-d2a1913c84</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>18/67</subpath>
+
+  <basePath></basePath>
+
+  <size>706481</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:36:58</createdat>
+
+  <updatedat>2020-12-24 15:37:12</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

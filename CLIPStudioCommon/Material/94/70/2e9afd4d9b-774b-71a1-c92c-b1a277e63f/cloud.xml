@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>建物汚し</name>
+
+  <cloudcontentid>102510225</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2e9afd4d9b-774b-71a1-c92c-b1a277e63f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>94/70</subpath>
+
+  <basePath></basePath>
+
+  <size>107974</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:02:54</createdat>
+
+  <updatedat>2020-07-21 00:03:06</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

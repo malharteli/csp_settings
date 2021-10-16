@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>cloudyNib 03</name>
+
+  <cloudcontentid>123406818</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f2ac3fe7e7-1045-9db6-c127-3a1a23bc10</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>42/85</subpath>
+
+  <basePath></basePath>
+
+  <size>882450</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:44:38</createdat>
+
+  <updatedat>2021-01-01 08:44:51</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

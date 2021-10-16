@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>草C5</name>
+
+  <cloudcontentid>95</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7b42bef48e-1448-02ba-01fd-c02f02439a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint001</subpath>
+
+  <basePath>installation_material/95/00/95</basePath>
+
+  <size>171112</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:33:39</createdat>
+
+  <updatedat>2016-07-13 14:33:41</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

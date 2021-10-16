@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>WatercolorGrain_512</name>
+
+  <cloudcontentid>102507581</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b993172b38-f443-989c-01b6-21d4cdc3f1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>57/71</subpath>
+
+  <basePath></basePath>
+
+  <size>407676</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:34:37</createdat>
+
+  <updatedat>2020-07-20 23:34:56</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

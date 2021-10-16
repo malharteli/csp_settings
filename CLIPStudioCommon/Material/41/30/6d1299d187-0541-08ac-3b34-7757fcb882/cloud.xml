@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>nib_055 Dual</name>
+
+  <cloudcontentid>123406949</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6d1299d187-0541-08ac-3b34-7757fcb882</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>41/30</subpath>
+
+  <basePath></basePath>
+
+  <size>1088145</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:47:46</createdat>
+
+  <updatedat>2021-01-01 08:47:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>河川_夕</name>
+
+  <cloudcontentid>512</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>304eeecb8d-0f4d-47a1-7653-c7e923b653</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint006</subpath>
+
+  <basePath>installation_material/12/05/512</basePath>
+
+  <size>9648384</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:58:22</createdat>
+
+  <updatedat>2016-07-13 14:58:34</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

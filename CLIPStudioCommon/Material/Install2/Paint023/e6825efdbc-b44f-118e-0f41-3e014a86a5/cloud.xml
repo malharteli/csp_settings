@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>モザイク07</name>
+
+  <cloudcontentid>1321</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e6825efdbc-b44f-118e-0f41-3e014a86a5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint023</subpath>
+
+  <basePath>installation_material/21/13/1321</basePath>
+
+  <size>139653</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:52:31</createdat>
+
+  <updatedat>2016-07-13 15:52:34</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>vine fat</name>
+
+  <cloudcontentid>122212596</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>671cf138d4-3111-7880-48d1-e514ff3d17</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>18/74</subpath>
+
+  <basePath></basePath>
+
+  <size>135092</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:40:52</createdat>
+
+  <updatedat>2020-12-24 14:41:06</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

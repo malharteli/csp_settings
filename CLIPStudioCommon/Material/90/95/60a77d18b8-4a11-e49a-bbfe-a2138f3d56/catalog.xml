@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="60a77d18b8-4a11-e49a-bbfe-a2138f3d56">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Grut - DirtyDrywall-512px</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9a0a61230e-b04f-e291-c060-17915cdce3">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8d52fc7142-744e-218e-d442-28d8cf82ee">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Grut - DirtyDrywall-512px</name>
+            <created_date>2020/12/14 01:32:24</created_date>
+            <modified_date>2020/12/14 01:32:24</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1ef9c3e565-a64d-80ae-7695-e08ed1efcf"/>
+            </thumbnail>
+            <data>
+              <fileref idref="d93efc2eab-b043-54a3-2ff3-d45c8721f2"/>
+            </data>
+            <icedata>
+              <fileref idref="e5d8e5b7a9-e844-8bb5-9954-4ed10548de"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1ef9c3e565-a64d-80ae-7695-e08ed1efcf" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="d93efc2eab-b043-54a3-2ff3-d45c8721f2" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="e5d8e5b7a9-e844-8bb5-9954-4ed10548de" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

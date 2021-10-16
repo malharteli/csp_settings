@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="f3bb54ff97-c211-e585-98b3-7c3e646aca">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Grut - Archisketch 600off280rot180</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="53731efefe-b24b-9281-f67f-61c47505f6">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fd2c44fb58-3046-dfae-5255-d68e97e69b">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Grut - Archisketch 600off280rot180</name>
+            <created_date>2020/12/14 01:31:48</created_date>
+            <modified_date>2020/12/14 01:31:48</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="325aeabb9d-e34f-0dac-9b9a-9da7bdd269"/>
+            </thumbnail>
+            <data>
+              <fileref idref="29295c9058-4146-ffbe-82c7-2741fcd39d"/>
+            </data>
+            <icedata>
+              <fileref idref="d4782a7aa2-504f-8697-5d48-e4cce75d7e"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="29295c9058-4146-ffbe-82c7-2741fcd39d" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="325aeabb9d-e34f-0dac-9b9a-9da7bdd269" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="d4782a7aa2-504f-8697-5d48-e4cce75d7e" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ぷちもや</name>
+
+  <cloudcontentid>428</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e23b8bbc52-974c-5491-f3da-5cba20212f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint005</subpath>
+
+  <basePath>installation_material/28/04/428</basePath>
+
+  <size>1290212</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:53:01</createdat>
+
+  <updatedat>2016-07-13 14:53:05</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

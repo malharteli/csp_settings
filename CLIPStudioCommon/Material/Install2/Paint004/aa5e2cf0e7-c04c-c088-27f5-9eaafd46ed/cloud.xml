@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>楕円_02</name>
+
+  <cloudcontentid>327</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>aa5e2cf0e7-c04c-c088-27f5-9eaafd46ed</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>balloon</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint004</subpath>
+
+  <basePath>installation_material/27/03/327</basePath>
+
+  <size>88211</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:47:14</createdat>
+
+  <updatedat>2016-07-13 14:47:17</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

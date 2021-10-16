@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>細筆01</name>
+
+  <cloudcontentid>2941</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7d3d30aa44-1749-19b2-209b-53921003b2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint109</subpath>
+
+  <basePath>installation_material/41/29/2941</basePath>
+
+  <size>82305</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2019-02-28 11:08:19</createdat>
+
+  <updatedat>2019-02-28 11:08:21</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

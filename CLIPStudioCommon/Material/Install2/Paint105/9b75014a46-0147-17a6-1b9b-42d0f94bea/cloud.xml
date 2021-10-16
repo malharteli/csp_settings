@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>フロアブラシ</name>
+
+  <cloudcontentid>2901</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9b75014a46-0147-17a6-1b9b-42d0f94bea</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>other_3dmodel</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/01/29/2901</basePath>
+
+  <size>1947589</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2017-06-19 14:45:45</createdat>
+
+  <updatedat>2017-06-19 14:45:49</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

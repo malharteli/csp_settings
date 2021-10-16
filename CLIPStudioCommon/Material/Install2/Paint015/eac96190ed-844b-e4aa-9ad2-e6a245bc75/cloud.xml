@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>50% 直線 M</name>
+
+  <cloudcontentid>1263</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>eac96190ed-844b-e4aa-9ad2-e6a245bc75</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint015</subpath>
+
+  <basePath>installation_material/63/12/1263</basePath>
+
+  <size>115385</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:48:21</createdat>
+
+  <updatedat>2016-07-13 15:48:23</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

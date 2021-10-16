@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ハンドガンA</name>
+
+  <cloudcontentid>2909</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e23b11378d-e342-8699-8a7f-4355ab2f0d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>other_3dmodel</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/09/29/2909</basePath>
+
+  <size>2636021</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2017-06-19 14:46:26</createdat>
+
+  <updatedat>2017-06-19 14:46:31</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

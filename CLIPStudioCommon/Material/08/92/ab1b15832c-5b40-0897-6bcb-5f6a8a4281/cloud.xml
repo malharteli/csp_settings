@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>DAUB_Nib_0002</name>
+
+  <cloudcontentid>123409698</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ab1b15832c-5b40-0897-6bcb-5f6a8a4281</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>08/92</subpath>
+
+  <basePath></basePath>
+
+  <size>260196</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 09:23:47</createdat>
+
+  <updatedat>2021-01-01 09:24:05</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

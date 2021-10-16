@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>てがき斜線</name>
+
+  <cloudcontentid>133814139</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>60f45854c1-5544-9388-caa8-0ecff24a3e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>35/06</subpath>
+
+  <basePath></basePath>
+
+  <size>341676</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-03-11 23:05:15</createdat>
+
+  <updatedat>2021-03-11 23:05:27</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

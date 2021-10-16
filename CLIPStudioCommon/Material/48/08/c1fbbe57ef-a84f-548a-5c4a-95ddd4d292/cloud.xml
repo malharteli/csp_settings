@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>상어연필</name>
+
+  <cloudcontentid>142064253</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c1fbbe57ef-a84f-548a-5c4a-95ddd4d292</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>48/08</subpath>
+
+  <basePath></basePath>
+
+  <size>483105</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:16:00</createdat>
+
+  <updatedat>2021-05-09 15:16:14</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

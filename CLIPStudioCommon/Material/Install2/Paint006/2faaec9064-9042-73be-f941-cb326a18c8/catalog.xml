@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="2faaec9064-9042-73be-f941-cb326a18c8">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Deadwood</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0cbacd3b29-0d48-638a-93d0-2b75e84ad6">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cedb8e7694-4849-4883-5651-79baee1d39">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Deadwood</name>
+            <created_date>2016/06/21 10:07:11</created_date>
+            <modified_date>2016/06/21 10:07:11</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="32c5e8c5a0-8946-53a7-0142-66e6ce50cb"/>
+            </thumbnail>
+            <data>
+              <fileref idref="41d7af76cf-5243-c790-a00a-d96c99e4e7"/>
+            </data>
+            <icedata>
+              <fileref idref="f927b58899-c643-3f96-e3d3-b239b7d1bc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="32c5e8c5a0-8946-53a7-0142-66e6ce50cb" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="41d7af76cf-5243-c790-a00a-d96c99e4e7" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="f927b58899-c643-3f96-e3d3-b239b7d1bc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

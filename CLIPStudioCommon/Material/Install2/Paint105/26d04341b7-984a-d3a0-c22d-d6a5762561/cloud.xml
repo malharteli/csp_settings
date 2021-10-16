@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>一眼レフカメラ</name>
+
+  <cloudcontentid>2885</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>26d04341b7-984a-d3a0-c22d-d6a5762561</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>other_3dmodel</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/85/28/2885</basePath>
+
+  <size>2572807</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2017-06-19 14:44:18</createdat>
+
+  <updatedat>2017-06-19 14:44:24</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

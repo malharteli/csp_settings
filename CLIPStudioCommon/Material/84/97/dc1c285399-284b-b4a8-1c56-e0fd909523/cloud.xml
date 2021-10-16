@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Square Rough</name>
+
+  <cloudcontentid>102509109</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>dc1c285399-284b-b4a8-1c56-e0fd909523</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>84/97</subpath>
+
+  <basePath></basePath>
+
+  <size>218496</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:49:41</createdat>
+
+  <updatedat>2020-07-20 23:49:54</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Thumbprint</name>
+
+  <cloudcontentid>122218395</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>54383292f3-3d11-e49a-3f89-b265ff8b22</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>12/29</subpath>
+
+  <basePath></basePath>
+
+  <size>238050</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:30:10</createdat>
+
+  <updatedat>2020-12-24 15:30:23</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

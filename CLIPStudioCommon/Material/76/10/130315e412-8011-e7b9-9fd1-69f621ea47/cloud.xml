@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Countsit</name>
+
+  <cloudcontentid>122221934</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>130315e412-8011-e7b9-9fd1-69f621ea47</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>76/10</subpath>
+
+  <basePath></basePath>
+
+  <size>126607</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:07:41</createdat>
+
+  <updatedat>2020-12-24 16:07:54</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

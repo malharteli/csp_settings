@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>レース重ね</name>
+
+  <cloudcontentid>683</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>abe3bead67-334d-f980-5ea6-34a4823c19</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint007</subpath>
+
+  <basePath>installation_material/83/06/683</basePath>
+
+  <size>1193603</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:10:36</createdat>
+
+  <updatedat>2016-07-13 15:10:40</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8e213f315a-5c47-e8a8-4366-a7013dcc58">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.9.11"/>
+    <name>レイヤー 1</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c8511a2657-204f-9d95-d0e9-9afdccc3af">
+        <tool company="celsys" name="paint" version="1.9.11"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="df30f3630e-6a43-5f8d-d6e0-02119a3737">
+            <tool company="celsys" name="paint" version="1.9.11"/>
+            <type ver="1.0.1">image</type>
+            <name>ランダム縦線3</name>
+            <created_date>2020/12/12 00:45:35</created_date>
+            <modified_date>2020/12/12 00:45:48</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="4ccab67c8e-944a-c9ae-819e-13c3e9a252"/>
+            </thumbnail>
+            <data>
+              <fileref idref="afbc39a045-e048-0d96-ff7b-6a6b13adea"/>
+            </data>
+            <icedata>
+              <fileref idref="272315e8d5-e742-a3ac-a30b-c43659e2bc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="272315e8d5-e742-a3ac-a30b-c43659e2bc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="4ccab67c8e-944a-c9ae-819e-13c3e9a252" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="afbc39a045-e048-0d96-ff7b-6a6b13adea" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Crm_wcスパッタリングぼかし</name>
+
+  <cloudcontentid>165042495</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4a44855943-1f49-5db8-42a2-ee89c267ef</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>64/57</subpath>
+
+  <basePath></basePath>
+
+  <size>162210</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-09-25 15:02:15</createdat>
+
+  <updatedat>2021-09-25 15:02:27</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

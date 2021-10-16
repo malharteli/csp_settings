@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="1bc7b4aec8-5945-fb8f-696b-20a7c4e829">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.2"/>
+    <name>Grunge_512</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8017d814eb-e84d-28ba-560f-1c4ab628f0">
+        <tool company="celsys" name="paint" version="1.6.2"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5276aedf2c-154b-1fad-fc8b-764766e7a5">
+            <tool company="celsys" name="paint" version="1.6.2"/>
+            <type ver="1.0.1">image</type>
+            <name>Grunge_512</name>
+            <created_date>2017/11/15 01:03:56</created_date>
+            <modified_date>2017/11/15 01:03:56</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b5a781b516-454c-6398-0287-660b1665f2"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f682916e6f-8341-9bb6-dc10-c95fe5544e"/>
+            </data>
+            <icedata>
+              <fileref idref="4f3b261733-2a40-27be-c67a-a3e3d9be59"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="4f3b261733-2a40-27be-c67a-a3e3d9be59" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="b5a781b516-454c-6398-0287-660b1665f2" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="f682916e6f-8341-9bb6-dc10-c95fe5544e" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

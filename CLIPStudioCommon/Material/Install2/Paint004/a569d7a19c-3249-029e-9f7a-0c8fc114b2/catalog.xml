@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a569d7a19c-3249-029e-9f7a-0c8fc114b2">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Anxious_01</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0cfa4f6fd6-7746-1680-b270-952c73c81f">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="52753a6c92-2842-209b-01e7-4f7834697f">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">balloon</type>
+            <name>Anxious_01</name>
+            <created_date>2016/06/21 10:06:54</created_date>
+            <modified_date>2016/06/21 10:06:54</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f7f8cbe9f3-934f-c9bb-52cb-975a536dfa"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f4c5189b23-6346-8eb0-ad57-11cb3f4d49"/>
+            </data>
+            <icedata>
+              <fileref idref="c71d2580cd-b949-e9a4-0b6c-49f543cdf6"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="c71d2580cd-b949-e9a4-0b6c-49f543cdf6" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="f4c5189b23-6346-8eb0-ad57-11cb3f4d49" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="f7f8cbe9f3-934f-c9bb-52cb-975a536dfa" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

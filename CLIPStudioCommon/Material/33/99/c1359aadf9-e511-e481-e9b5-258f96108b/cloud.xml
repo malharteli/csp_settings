@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Broad Strokes</name>
+
+  <cloudcontentid>122220095</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c1359aadf9-e511-e481-e9b5-258f96108b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>33/99</subpath>
+
+  <basePath></basePath>
+
+  <size>331703</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:46:18</createdat>
+
+  <updatedat>2020-12-24 15:46:31</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

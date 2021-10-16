@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>水彩にじみ</name>
+
+  <cloudcontentid>124536469</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a02185c4ec-d346-d0b3-3455-2e4bb6ba2e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>75/77</subpath>
+
+  <basePath></basePath>
+
+  <size>139185</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-08 13:58:46</createdat>
+
+  <updatedat>2021-01-08 13:58:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

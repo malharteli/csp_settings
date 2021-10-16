@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Sampled Brush bigstock 3</name>
+
+  <cloudcontentid>122221344</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5b00b9cfb6-2311-e49f-52d4-ce7c00cb51</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>39/70</subpath>
+
+  <basePath></basePath>
+
+  <size>161060</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:01:10</createdat>
+
+  <updatedat>2020-12-24 16:01:23</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

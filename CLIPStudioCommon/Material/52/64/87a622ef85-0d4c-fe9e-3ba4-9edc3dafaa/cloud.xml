@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>水染み5</name>
+
+  <cloudcontentid>124536289</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>87a622ef85-0d4c-fe9e-3ba4-9edc3dafaa</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>52/64</subpath>
+
+  <basePath></basePath>
+
+  <size>75732</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-08 13:57:06</createdat>
+
+  <updatedat>2021-01-08 13:57:17</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

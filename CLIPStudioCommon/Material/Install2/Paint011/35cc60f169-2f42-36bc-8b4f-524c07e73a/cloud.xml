@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>単色</name>
+
+  <cloudcontentid>913</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>35cc60f169-2f42-36bc-8b4f-524c07e73a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint011</subpath>
+
+  <basePath>installation_material/13/09/913</basePath>
+
+  <size>73996</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:28:13</createdat>
+
+  <updatedat>2016-07-13 15:28:15</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

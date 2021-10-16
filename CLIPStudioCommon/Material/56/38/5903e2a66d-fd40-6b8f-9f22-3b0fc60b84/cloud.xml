@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>AAA</name>
+
+  <cloudcontentid>102509874</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5903e2a66d-fd40-6b8f-9f22-3b0fc60b84</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>56/38</subpath>
+
+  <basePath></basePath>
+
+  <size>665816</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:58:59</createdat>
+
+  <updatedat>2020-07-20 23:59:13</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

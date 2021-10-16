@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Flat brush</name>
+
+  <cloudcontentid>102507072</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7f5d493c9f-f242-28a0-f7e1-02f6ebb87d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>57/50</subpath>
+
+  <basePath></basePath>
+
+  <size>110161</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:29:49</createdat>
+
+  <updatedat>2020-07-20 23:30:02</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

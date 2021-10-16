@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Simple Sable</name>
+
+  <cloudcontentid>102506078</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e03ef199a1-924e-fc8b-8a61-f1d55299b1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>39/04</subpath>
+
+  <basePath></basePath>
+
+  <size>81349</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:21:13</createdat>
+
+  <updatedat>2020-07-20 23:21:24</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

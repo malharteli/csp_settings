@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>burnedWood</name>
+
+  <cloudcontentid>102508353</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e27c63661c-df48-77b7-69c7-727e348007</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>84/14</subpath>
+
+  <basePath></basePath>
+
+  <size>1147303</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:40:36</createdat>
+
+  <updatedat>2020-07-20 23:40:50</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

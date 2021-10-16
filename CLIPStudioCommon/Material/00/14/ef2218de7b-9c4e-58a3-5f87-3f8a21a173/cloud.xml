@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>デニム</name>
+
+  <cloudcontentid>142065283</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ef2218de7b-9c4e-58a3-5f87-3f8a21a173</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>00/14</subpath>
+
+  <basePath></basePath>
+
+  <size>579220</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:23:36</createdat>
+
+  <updatedat>2021-05-09 15:23:50</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

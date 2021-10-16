@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="234ce49230-d743-838a-55c6-f78be1bd4c">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>MM04-heavy rain</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="acdb79a588-d547-228c-4690-c76e155357">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2be2761704-5f40-b7b8-1a32-864cbe8d34">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>MM04-heavy rain</name>
+            <created_date>2016/06/21 10:07:34</created_date>
+            <modified_date>2016/06/21 10:07:34</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="c7aba408fa-e24a-21b1-25d3-21c183ef70"/>
+            </thumbnail>
+            <data>
+              <fileref idref="3eb3f58b57-b945-44a0-dc74-7fc8f64b70"/>
+            </data>
+            <icedata>
+              <fileref idref="f1eea32c01-ff4f-5e83-e277-e9c3aa02dc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="3eb3f58b57-b945-44a0-dc74-7fc8f64b70" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="c7aba408fa-e24a-21b1-25d3-21c183ef70" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="f1eea32c01-ff4f-5e83-e277-e9c3aa02dc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

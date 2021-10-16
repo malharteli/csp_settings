@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="2238f39188-5f4a-cfb6-eee7-1eb85644e4">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Wave looking right</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="50e120b197-d34a-8c88-72e7-6c3407fc4f">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2179fc16b1-ef44-f28c-6125-4c19ff0031">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">pose</type>
+            <name>Wave looking right</name>
+            <created_date>2016/06/21 10:06:45</created_date>
+            <modified_date>2016/06/21 10:06:45</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="803bf10ab9-6e4b-70ad-c933-2836da0789"/>
+            </thumbnail>
+            <data>
+              <fileref idref="bbc1b1f85f-564e-6e95-df42-03a620e7a8"/>
+            </data>
+            <icedata>
+              <fileref idref="e01e19ff4c-6f40-7f80-be72-0f89231712"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="803bf10ab9-6e4b-70ad-c933-2836da0789" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="bbc1b1f85f-564e-6e95-df42-03a620e7a8" mime="application/octet-stream">
+      <path>data/material.pose</path>
+    </file>
+    <file document="false" encrypt="false" id="e01e19ff4c-6f40-7f80-be72-0f89231712" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

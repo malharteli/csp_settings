@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="316d07f408-e449-8eb2-a533-fc819eb994">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.2"/>
+    <name>Spotty Inker 2_50%</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="60f3597bfe-a44b-139a-ef69-222a69356e">
+        <tool company="celsys" name="paint" version="1.6.2"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="32b3c7572d-e340-079f-c1c5-5fe1cea20c">
+            <tool company="celsys" name="paint" version="1.6.2"/>
+            <type ver="1.0.1">image</type>
+            <name>Spotty Inker 2_50%</name>
+            <created_date>2017/11/15 00:06:46</created_date>
+            <modified_date>2017/11/15 00:06:46</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="09e1fe810e-304c-e9ba-a8e0-8be64cf8b5"/>
+            </thumbnail>
+            <data>
+              <fileref idref="21c04e85ca-d144-4baf-2966-d4a018ce9c"/>
+            </data>
+            <icedata>
+              <fileref idref="ed2b9d8643-b64f-7aa2-9e81-56e09dc7cd"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="09e1fe810e-304c-e9ba-a8e0-8be64cf8b5" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="21c04e85ca-d144-4baf-2966-d4a018ce9c" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="ed2b9d8643-b64f-7aa2-9e81-56e09dc7cd" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

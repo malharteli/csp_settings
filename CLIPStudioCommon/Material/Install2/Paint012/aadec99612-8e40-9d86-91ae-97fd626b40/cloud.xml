@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ハート01_桃</name>
+
+  <cloudcontentid>1076</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>aadec99612-8e40-9d86-91ae-97fd626b40</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint012</subpath>
+
+  <basePath>installation_material/76/10/1076</basePath>
+
+  <size>274393</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:37:52</createdat>
+
+  <updatedat>2016-07-13 15:37:55</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

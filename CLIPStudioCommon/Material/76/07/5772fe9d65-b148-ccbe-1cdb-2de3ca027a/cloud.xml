@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Bristles</name>
+
+  <cloudcontentid>102508982</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5772fe9d65-b148-ccbe-1cdb-2de3ca027a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>76/07</subpath>
+
+  <basePath></basePath>
+
+  <size>84074</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:47:46</createdat>
+
+  <updatedat>2020-07-20 23:47:58</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

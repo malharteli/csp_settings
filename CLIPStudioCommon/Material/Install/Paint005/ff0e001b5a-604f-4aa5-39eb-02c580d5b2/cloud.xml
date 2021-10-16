@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>2段等分</name>
+
+  <cloudcontentid>489</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ff0e001b5a-604f-4aa5-39eb-02c580d5b2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>frame_template</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint005</subpath>
+
+  <basePath>installation_material/89/04/489</basePath>
+
+  <size>184994</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:56:39</createdat>
+
+  <updatedat>2016-07-13 14:56:41</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>女子学生B-Ver.3</name>
+
+  <cloudcontentid>1362</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b8d54db769-cb44-8ab2-1fc3-8805578d3d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>character</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/62/13/1362</basePath>
+
+  <size>22512617</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 16:01:52</createdat>
+
+  <updatedat>2016-07-13 16:04:40</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

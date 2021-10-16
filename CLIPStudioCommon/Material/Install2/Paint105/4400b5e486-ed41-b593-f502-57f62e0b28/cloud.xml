@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>自動車(セダン)A</name>
+
+  <cloudcontentid>2893</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4400b5e486-ed41-b593-f502-57f62e0b28</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>other_3dmodel</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/93/28/2893</basePath>
+
+  <size>1404402</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2017-06-19 14:45:02</createdat>
+
+  <updatedat>2017-06-19 14:45:07</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

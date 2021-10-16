@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>水彩紙テクスチャ透過</name>
+
+  <cloudcontentid>140276403</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0061b83273-8744-028d-5b71-95d59b9363</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>16/05</subpath>
+
+  <basePath></basePath>
+
+  <size>581399</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-04-26 03:19:28</createdat>
+
+  <updatedat>2021-04-26 03:19:45</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

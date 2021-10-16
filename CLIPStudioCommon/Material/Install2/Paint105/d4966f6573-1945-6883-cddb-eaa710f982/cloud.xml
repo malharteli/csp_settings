@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>踏切周辺-Ver.2</name>
+
+  <cloudcontentid>2934</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d4966f6573-1945-6883-cddb-eaa710f982</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>other_3dmodel</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/34/29/2934</basePath>
+
+  <size>17431452</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2018-08-30 12:33:13</createdat>
+
+  <updatedat>2018-08-30 12:33:40</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

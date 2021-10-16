@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Bloodstain</name>
+
+  <cloudcontentid>102506944</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8cb7470d5f-eb4b-cb97-b0f6-8c52f3889f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>52/84</subpath>
+
+  <basePath></basePath>
+
+  <size>95904</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:28:33</createdat>
+
+  <updatedat>2020-07-20 23:28:44</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

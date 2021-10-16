@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ktw 2500 rough paper pencils</name>
+
+  <cloudcontentid>122212977</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>119a8636af-eb11-7780-38bc-426a89459f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>21/98</subpath>
+
+  <basePath></basePath>
+
+  <size>5462952</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:44:09</createdat>
+
+  <updatedat>2020-12-24 14:44:33</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

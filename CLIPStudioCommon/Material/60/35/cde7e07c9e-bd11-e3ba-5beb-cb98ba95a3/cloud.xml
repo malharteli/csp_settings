@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut Hatching</name>
+
+  <cloudcontentid>122221228</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>cde7e07c9e-bd11-e3ba-5beb-cb98ba95a3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>60/35</subpath>
+
+  <basePath></basePath>
+
+  <size>158256</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:59:54</createdat>
+
+  <updatedat>2020-12-24 16:00:10</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

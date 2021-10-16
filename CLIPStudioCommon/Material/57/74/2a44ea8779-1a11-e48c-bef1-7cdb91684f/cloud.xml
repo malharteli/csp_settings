@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Harshmarsh</name>
+
+  <cloudcontentid>122220136</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2a44ea8779-1a11-e48c-bef1-7cdb91684f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>57/74</subpath>
+
+  <basePath></basePath>
+
+  <size>220959</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:46:34</createdat>
+
+  <updatedat>2020-12-24 15:46:48</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

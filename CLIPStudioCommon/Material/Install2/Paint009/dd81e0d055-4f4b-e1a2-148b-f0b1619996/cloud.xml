@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>MM08-雲35</name>
+
+  <cloudcontentid>869</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>dd81e0d055-4f4b-e1a2-148b-f0b1619996</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint009</subpath>
+
+  <basePath>installation_material/69/08/869</basePath>
+
+  <size>6870369</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:25:26</createdat>
+
+  <updatedat>2016-07-13 15:25:32</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

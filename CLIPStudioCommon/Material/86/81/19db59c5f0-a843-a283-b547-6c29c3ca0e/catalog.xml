@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="19db59c5f0-a843-a283-b547-6c29c3ca0e">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.4"/>
+    <name>レベル補正 1 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8e42542c28-f849-a98e-4bb1-a7d21a1d4b">
+        <tool company="celsys" name="paint" version="1.6.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="43f4e67a30-1f45-a59e-75f0-8e149efa37">
+            <tool company="celsys" name="paint" version="1.6.4"/>
+            <type ver="1.0.1">image</type>
+            <name>鉛筆がしゃがしゃ</name>
+            <created_date>2017/05/01 04:11:03</created_date>
+            <modified_date>2017/05/01 04:11:03</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f45f673634-d943-f38d-89db-6728c6d70b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9510132e81-824b-0ab1-7aa9-d5a21be67f"/>
+            </data>
+            <icedata>
+              <fileref idref="2a83395585-3b4d-7eb5-8dd8-f87ac40c91"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2a83395585-3b4d-7eb5-8dd8-f87ac40c91" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="9510132e81-824b-0ab1-7aa9-d5a21be67f" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="f45f673634-d943-f38d-89db-6728c6d70b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

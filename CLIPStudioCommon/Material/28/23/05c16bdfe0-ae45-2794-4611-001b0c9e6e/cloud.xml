@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>DAUB paper13_seamless</name>
+
+  <cloudcontentid>123406982</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>05c16bdfe0-ae45-2794-4611-001b0c9e6e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>28/23</subpath>
+
+  <basePath></basePath>
+
+  <size>4208325</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:48:17</createdat>
+
+  <updatedat>2021-01-01 08:48:35</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

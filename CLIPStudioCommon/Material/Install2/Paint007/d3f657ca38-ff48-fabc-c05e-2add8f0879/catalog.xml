@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="d3f657ca38-ff48-fabc-c05e-2add8f0879">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Shadow of woods</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="61eb2eb8a6-f14e-70b9-d907-7f7764508e">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="67b715cab2-fa4c-bc9f-70e1-fe16f78093">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Shadow of woods</name>
+            <created_date>2016/06/21 10:07:31</created_date>
+            <modified_date>2016/06/21 10:07:31</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="907b6b1478-d94a-8fb8-ea46-902478df57"/>
+            </thumbnail>
+            <data>
+              <fileref idref="2b0af7207e-f042-63b9-48aa-9012ac91ae"/>
+            </data>
+            <icedata>
+              <fileref idref="8d336daebe-1c4d-41ad-6842-0e06f4b2fe"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="2b0af7207e-f042-63b9-48aa-9012ac91ae" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="8d336daebe-1c4d-41ad-6842-0e06f4b2fe" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="907b6b1478-d94a-8fb8-ea46-902478df57" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

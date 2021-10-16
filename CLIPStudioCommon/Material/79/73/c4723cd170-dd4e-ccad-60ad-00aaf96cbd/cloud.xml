@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Dust1</name>
+
+  <cloudcontentid>142065375</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c4723cd170-dd4e-ccad-60ad-00aaf96cbd</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>79/73</subpath>
+
+  <basePath></basePath>
+
+  <size>63041</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:24:22</createdat>
+
+  <updatedat>2021-05-09 15:24:34</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

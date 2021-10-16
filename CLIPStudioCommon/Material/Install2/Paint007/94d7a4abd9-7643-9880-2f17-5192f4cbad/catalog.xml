@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="94d7a4abd9-7643-9880-2f17-5192f4cbad">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Rough line,darker</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="04d2a13837-714f-6a87-4e36-8996cb3c74">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a9f5143e73-434a-f38f-f2fb-46e49874af">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Rough line,darker</name>
+            <created_date>2016/06/21 10:07:27</created_date>
+            <modified_date>2016/06/21 10:07:27</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="365bc440e6-2c40-bd85-1131-2daa707c86"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6a39456ac1-0c43-5394-ec9e-4c0267b8f5"/>
+            </data>
+            <icedata>
+              <fileref idref="3ff6b4d22e-8c48-ae89-cb22-6e609dafec"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="365bc440e6-2c40-bd85-1131-2daa707c86" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="3ff6b4d22e-8c48-ae89-cb22-6e609dafec" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="6a39456ac1-0c43-5394-ec9e-4c0267b8f5" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Fractalstextured 800</name>
+
+  <cloudcontentid>122221423</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6868488235-5211-e5bb-6b90-d371585256</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>23/89</subpath>
+
+  <basePath></basePath>
+
+  <size>645209</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:02:01</createdat>
+
+  <updatedat>2020-12-24 16:02:15</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

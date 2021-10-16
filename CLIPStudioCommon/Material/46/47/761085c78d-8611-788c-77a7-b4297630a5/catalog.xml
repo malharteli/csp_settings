@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="761085c78d-8611-788c-77a7-b4297630a5">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Kyle WC Seamless 1</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2f0bb27688-e148-57ae-c7e5-85600a59bd">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e741169ac7-054e-efac-2000-3e85362c50">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Kyle WC Seamless 1</name>
+            <created_date>2020/12/14 01:15:59</created_date>
+            <modified_date>2020/12/14 01:15:59</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f7bcf028c3-2b4b-2fa9-b827-67da276ec4"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6a21bbdf78-3544-6b9c-ac7d-df4eff9968"/>
+            </data>
+            <icedata>
+              <fileref idref="6dc380c2fa-924e-ab8e-0426-194dda41f5"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="6a21bbdf78-3544-6b9c-ac7d-df4eff9968" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="6dc380c2fa-924e-ab8e-0426-194dda41f5" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="f7bcf028c3-2b4b-2fa9-b827-67da276ec4" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

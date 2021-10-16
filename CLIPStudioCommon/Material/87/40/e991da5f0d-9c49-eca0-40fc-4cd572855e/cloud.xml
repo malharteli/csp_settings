@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>200</name>
+
+  <cloudcontentid>122222846</cloudcontentid>
+
+  <revision>2</revision>
+
+  <key>e991da5f0d-9c49-eca0-40fc-4cd572855e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>87/40</subpath>
+
+  <basePath></basePath>
+
+  <size>111795</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:17:09</createdat>
+
+  <updatedat>2021-09-25 15:12:45</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

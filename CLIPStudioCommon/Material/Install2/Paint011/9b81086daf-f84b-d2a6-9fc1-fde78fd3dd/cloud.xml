@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>点四角</name>
+
+  <cloudcontentid>972</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9b81086daf-f84b-d2a6-9fc1-fde78fd3dd</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>balloon</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint011</subpath>
+
+  <basePath>installation_material/72/09/972</basePath>
+
+  <size>91368</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:31:43</createdat>
+
+  <updatedat>2016-07-13 15:31:46</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

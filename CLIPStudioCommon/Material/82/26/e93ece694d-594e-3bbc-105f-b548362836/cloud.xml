@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Coffee_512</name>
+
+  <cloudcontentid>102508098</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e93ece694d-594e-3bbc-105f-b548362836</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>82/26</subpath>
+
+  <basePath></basePath>
+
+  <size>421975</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:38:15</createdat>
+
+  <updatedat>2020-07-20 23:38:28</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

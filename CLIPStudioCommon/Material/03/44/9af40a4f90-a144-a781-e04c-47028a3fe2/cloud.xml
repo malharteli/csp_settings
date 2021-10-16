@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>にじみ先端</name>
+
+  <cloudcontentid>140276423</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9af40a4f90-a144-a781-e04c-47028a3fe2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>03/44</subpath>
+
+  <basePath></basePath>
+
+  <size>244457</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-04-26 03:19:49</createdat>
+
+  <updatedat>2021-04-26 03:20:07</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

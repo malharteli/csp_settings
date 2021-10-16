@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Hatch Crackle</name>
+
+  <cloudcontentid>122217704</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4ad70cbf1a-8f11-e5a1-48c4-0186873a6c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>35/05</subpath>
+
+  <basePath></basePath>
+
+  <size>181490</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:22:30</createdat>
+
+  <updatedat>2020-12-24 15:22:44</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

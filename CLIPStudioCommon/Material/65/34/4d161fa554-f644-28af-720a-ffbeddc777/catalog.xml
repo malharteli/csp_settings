@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="4d161fa554-f644-28af-720a-ffbeddc777">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.3"/>
+    <name>廃墟影 1-4</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0ec4459e4b-8640-4888-86b8-acf6b1c21f">
+        <tool company="celsys" name="paint" version="1.6.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="81736348ed-5a44-6cae-23f4-7396ccfdce">
+            <tool company="celsys" name="paint" version="1.6.3"/>
+            <type ver="1.0.1">image</type>
+            <name>廃墟影 1-4</name>
+            <created_date>2016/11/27 10:53:55</created_date>
+            <modified_date>2016/11/27 10:53:55</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="539e43b9f8-d840-9eb6-beb0-ebc225e4e8"/>
+            </thumbnail>
+            <data>
+              <fileref idref="94d5644eb4-e640-f1be-3beb-40f82bd677"/>
+            </data>
+            <icedata>
+              <fileref idref="ca86246529-2a46-3b9f-12f4-79654de00d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="539e43b9f8-d840-9eb6-beb0-ebc225e4e8" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="94d5644eb4-e640-f1be-3beb-40f82bd677" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="ca86246529-2a46-3b9f-12f4-79654de00d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

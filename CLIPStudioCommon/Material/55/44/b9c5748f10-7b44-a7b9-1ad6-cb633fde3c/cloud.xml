@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>琳派1</name>
+
+  <cloudcontentid>115404514</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b9c5748f10-7b44-a7b9-1ad6-cb633fde3c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>55/44</subpath>
+
+  <basePath></basePath>
+
+  <size>2998175</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-11-07 13:05:51</createdat>
+
+  <updatedat>2020-11-07 13:06:08</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

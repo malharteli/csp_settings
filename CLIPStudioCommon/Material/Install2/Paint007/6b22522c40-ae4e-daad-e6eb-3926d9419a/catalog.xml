@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="6b22522c40-ae4e-daad-e6eb-3926d9419a">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Stippled monologue ring 02</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="79c73b8cab-fe46-029a-0585-7d1001396f">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6ade589361-ff4e-2195-205c-954f8d9f46">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Stippled monologue ring 02</name>
+            <created_date>2016/06/21 10:07:26</created_date>
+            <modified_date>2016/06/21 10:07:26</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="7246cf21c9-8342-e1b0-4af3-2dd26e7d85"/>
+            </thumbnail>
+            <data>
+              <fileref idref="ceb68cd78e-a94b-fd89-fd5a-f8e1eaa479"/>
+            </data>
+            <icedata>
+              <fileref idref="3c1ad377f0-6f4a-fa9b-e9d8-09cba14dd6"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3c1ad377f0-6f4a-fa9b-e9d8-09cba14dd6" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="7246cf21c9-8342-e1b0-4af3-2dd26e7d85" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="ceb68cd78e-a94b-fd89-fd5a-f8e1eaa479" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

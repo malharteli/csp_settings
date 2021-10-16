@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="70f3ff8678-9f49-c1b3-4132-6ff6dc5beb">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>BunnyMelly_pinup</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="324a116620-1f4d-f681-8c88-aad2797e94">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ea95006447-6e4d-09b1-5cd2-20fafa95a1">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>BunnyMelly_pinup</name>
+            <created_date>2020/12/31 06:11:33</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="9d9193d914-c943-099b-af30-68224a0b9f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f0a06a23f0-194c-3a86-b830-8dd695ad79"/>
+            </data>
+            <icedata>
+              <fileref idref="ccd8482f3a-284d-44bf-d5a3-522fd8387d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="9d9193d914-c943-099b-af30-68224a0b9f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="ccd8482f3a-284d-44bf-d5a3-522fd8387d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="f0a06a23f0-194c-3a86-b830-8dd695ad79" mime="application/octet-stream">
+      <path>BunnyMelly_pinup.clip</path>
+    </file>
+  </files>
+
+</archive>

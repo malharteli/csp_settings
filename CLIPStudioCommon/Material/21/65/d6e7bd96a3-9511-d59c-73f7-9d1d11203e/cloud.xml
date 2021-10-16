@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Paintbrush Tool Texture Comb</name>
+
+  <cloudcontentid>122215099</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d6e7bd96a3-9511-d59c-73f7-9d1d11203e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>21/65</subpath>
+
+  <basePath></basePath>
+
+  <size>138330</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:00:58</createdat>
+
+  <updatedat>2020-12-24 15:01:16</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

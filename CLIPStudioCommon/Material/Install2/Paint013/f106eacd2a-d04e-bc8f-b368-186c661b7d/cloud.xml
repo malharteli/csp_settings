@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>モグモグ横</name>
+
+  <cloudcontentid>1167</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f106eacd2a-d04e-bc8f-b368-186c661b7d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint013</subpath>
+
+  <basePath>installation_material/67/11/1167</basePath>
+
+  <size>473739</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:42:58</createdat>
+
+  <updatedat>2016-07-13 15:43:01</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Oil Pastel Large</name>
+
+  <cloudcontentid>122212236</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8531a73ca3-9f11-d5b9-d884-b2aced726a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>94/21</subpath>
+
+  <basePath></basePath>
+
+  <size>126969</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:38:07</createdat>
+
+  <updatedat>2020-12-24 14:38:23</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

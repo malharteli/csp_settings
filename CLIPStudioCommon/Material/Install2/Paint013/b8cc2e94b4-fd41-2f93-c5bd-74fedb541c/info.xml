@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="f696b5b689-bc48-a896-0c58-7432bb8144">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>ComicStudio journal</data>
+      <data>Monochrome</data>
+      <data>Scream</data>
+      <data>Comic_material</data>
+      <data>Dialog</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

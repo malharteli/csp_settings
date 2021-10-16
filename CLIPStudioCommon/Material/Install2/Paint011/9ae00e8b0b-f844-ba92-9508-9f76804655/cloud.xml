@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>絆創膏2</name>
+
+  <cloudcontentid>970</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9ae00e8b0b-f844-ba92-9508-9f76804655</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint011</subpath>
+
+  <basePath>installation_material/70/09/970</basePath>
+
+  <size>319114</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:31:36</createdat>
+
+  <updatedat>2016-07-13 15:31:39</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Rough textured</name>
+
+  <cloudcontentid>102509763</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0b8aa316f6-5440-3783-ad01-182ac015dd</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>95/60</subpath>
+
+  <basePath></basePath>
+
+  <size>270077</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:57:45</createdat>
+
+  <updatedat>2020-07-20 23:57:57</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

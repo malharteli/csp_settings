@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>掛けアミの2カケ</name>
+
+  <cloudcontentid>451</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ebe409513f-e84a-b0b9-cfec-49b59fdd5d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint005</subpath>
+
+  <basePath>installation_material/51/04/451</basePath>
+
+  <size>967420</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:54:22</createdat>
+
+  <updatedat>2016-07-13 14:54:25</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

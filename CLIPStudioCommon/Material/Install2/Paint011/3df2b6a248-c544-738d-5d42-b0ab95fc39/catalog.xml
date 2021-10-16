@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="3df2b6a248-c544-738d-5d42-b0ab95fc39">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Jaggy_curve_04</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ad455abb45-f447-b797-db15-e5c9854763">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8c1c69800d-5d4a-8e98-d741-bcfdb10d43">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">balloon</type>
+            <name>Jaggy_curve_04</name>
+            <created_date>2016/06/21 10:07:52</created_date>
+            <modified_date>2016/06/21 10:07:52</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="9f1caeb245-6a4b-f9bc-2ffc-a81d1127a1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="cb2488d5b9-df49-56ab-7237-b8cfecbd70"/>
+            </data>
+            <icedata>
+              <fileref idref="ca69d31942-b64d-3f91-ac8d-735cbd7dd9"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="9f1caeb245-6a4b-f9bc-2ffc-a81d1127a1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="ca69d31942-b64d-3f91-ac8d-735cbd7dd9" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="cb2488d5b9-df49-56ab-7237-b8cfecbd70" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

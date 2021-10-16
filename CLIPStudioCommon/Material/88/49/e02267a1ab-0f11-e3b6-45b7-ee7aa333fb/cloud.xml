@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut WaterSplat 01</name>
+
+  <cloudcontentid>122218978</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e02267a1ab-0f11-e3b6-45b7-ee7aa333fb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>88/49</subpath>
+
+  <basePath></basePath>
+
+  <size>269592</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:36:41</createdat>
+
+  <updatedat>2020-12-24 15:36:55</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

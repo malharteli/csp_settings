@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="feaba136f9-6446-fe8e-d87f-01a058fd2f">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.5.6"/>
+    <name>Nico painting _ seriously</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7e40e79823-254a-5fbb-dc82-54db504e2b">
+        <tool company="celsys" name="paint" version="1.5.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5c94294113-694e-3687-d6a7-f4e0e4b5e7">
+            <tool company="celsys" name="paint" version="1.5.6"/>
+            <type ver="1.0.1">image</type>
+            <name>Serious</name>
+            <created_date>2016/06/20 05:23:23</created_date>
+            <modified_date>2016/06/20 05:23:23</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="554020ddde-a248-df8c-07ba-1b38aa5f7f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="b17292bd3e-4f44-76a3-2d17-a65f542990"/>
+            </data>
+            <icedata>
+              <fileref idref="4b902b5c3a-674c-9588-9e67-0b56319367"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="4b902b5c3a-674c-9588-9e67-0b56319367" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="554020ddde-a248-df8c-07ba-1b38aa5f7f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="b17292bd3e-4f44-76a3-2d17-a65f542990" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

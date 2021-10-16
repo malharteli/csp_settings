@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>1カケアミ</name>
+
+  <cloudcontentid>142065654</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8e2a4a71c3-4b40-5aaa-e8e6-9f8360960d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>81/87</subpath>
+
+  <basePath></basePath>
+
+  <size>68865</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:26:23</createdat>
+
+  <updatedat>2021-05-09 15:26:34</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

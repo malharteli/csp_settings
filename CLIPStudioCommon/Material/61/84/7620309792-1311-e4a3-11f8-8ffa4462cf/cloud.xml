@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>WaterDry</name>
+
+  <cloudcontentid>122222437</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7620309792-1311-e4a3-11f8-8ffa4462cf</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>61/84</subpath>
+
+  <basePath></basePath>
+
+  <size>270447</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:12:20</createdat>
+
+  <updatedat>2020-12-24 16:12:34</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

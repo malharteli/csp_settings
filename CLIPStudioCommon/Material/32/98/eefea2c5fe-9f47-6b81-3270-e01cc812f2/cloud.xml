@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>四角</name>
+
+  <cloudcontentid>142064651</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>eefea2c5fe-9f47-6b81-3270-e01cc812f2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>32/98</subpath>
+
+  <basePath></basePath>
+
+  <size>88958</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:18:48</createdat>
+
+  <updatedat>2021-05-09 15:18:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

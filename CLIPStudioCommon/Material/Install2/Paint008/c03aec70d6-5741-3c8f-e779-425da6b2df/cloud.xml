@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>MM08-雲24</name>
+
+  <cloudcontentid>778</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c03aec70d6-5741-3c8f-e779-425da6b2df</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint008</subpath>
+
+  <basePath>installation_material/78/07/778</basePath>
+
+  <size>6414923</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:17:50</createdat>
+
+  <updatedat>2016-07-13 15:17:57</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

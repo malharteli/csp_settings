@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="77de7064cb-7a41-488c-5ce8-5c1a10ebb1">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.0"/>
+    <name>モノクロ鉛筆3</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="26bcff747f-c842-898d-eae8-b266c30cf4">
+        <tool company="celsys" name="paint" version="1.6.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="afdc327342-4048-ea84-836e-a5959b854a">
+            <tool company="celsys" name="paint" version="1.6.0"/>
+            <type ver="1.0.1">image</type>
+            <name>平ざりざり3</name>
+            <created_date>2016/08/27 07:15:14</created_date>
+            <modified_date>2016/08/27 07:15:14</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="0a3e46af75-9244-93be-fe5c-4ccdc0edaf"/>
+            </thumbnail>
+            <data>
+              <fileref idref="08f8d2eaf3-444d-9e9f-fd96-af0ea4a078"/>
+            </data>
+            <icedata>
+              <fileref idref="8199307406-9f45-8186-37b3-576ffecbca"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="08f8d2eaf3-444d-9e9f-fd96-af0ea4a078" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="0a3e46af75-9244-93be-fe5c-4ccdc0edaf" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="8199307406-9f45-8186-37b3-576ffecbca" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>激_曲線_小_01</name>
+
+  <cloudcontentid>933</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5bca4e85b2-894d-a2ae-4ec8-2ea2112115</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>balloon</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint011</subpath>
+
+  <basePath>installation_material/33/09/933</basePath>
+
+  <size>79413</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:29:17</createdat>
+
+  <updatedat>2016-07-13 15:29:19</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

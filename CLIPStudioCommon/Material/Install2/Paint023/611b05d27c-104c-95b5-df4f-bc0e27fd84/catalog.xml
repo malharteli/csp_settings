@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="611b05d27c-104c-95b5-df4f-bc0e27fd84">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.5.6"/>
+    <name>Ultrasound Mark</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="601436e601-0542-c291-78b1-f6ea0b33ff">
+        <tool company="celsys" name="paint" version="1.5.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5f6f3098d2-c64a-de97-3dd7-fb755b4d9f">
+            <tool company="celsys" name="paint" version="1.5.6"/>
+            <type ver="1.0.1">image</type>
+            <name>Ultrasound Mark</name>
+            <created_date>2016/06/20 04:06:37</created_date>
+            <modified_date>2016/06/20 04:06:37</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="a42c12b848-a04b-6cae-d899-7468b34731"/>
+            </thumbnail>
+            <data>
+              <fileref idref="ce5716d0d0-1147-9ca2-df9a-75f2498b0a"/>
+            </data>
+            <icedata>
+              <fileref idref="57b0ed37de-1545-b281-e5ec-5819bd9c9d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="57b0ed37de-1545-b281-e5ec-5819bd9c9d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="a42c12b848-a04b-6cae-d899-7468b34731" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="ce5716d0d0-1147-9ca2-df9a-75f2498b0a" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grass1_gs2</name>
+
+  <cloudcontentid>110353577</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d1cf5bfc34-2946-7086-e388-db715c0f25</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>57/01</subpath>
+
+  <basePath></basePath>
+
+  <size>189878</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-09-23 10:26:53</createdat>
+
+  <updatedat>2020-09-23 10:27:05</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

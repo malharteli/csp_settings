@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ランダム縦線Ⅱ</name>
+
+  <cloudcontentid>122223004</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d73c692ade-534a-3494-3af5-cad7a4f75a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>89/37</subpath>
+
+  <basePath></basePath>
+
+  <size>113305</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:18:48</createdat>
+
+  <updatedat>2020-12-24 16:19:01</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

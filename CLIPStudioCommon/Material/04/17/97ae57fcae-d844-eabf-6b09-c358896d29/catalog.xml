@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="97ae57fcae-d844-eabf-6b09-c358896d29">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.10"/>
+    <name>レイヤー 2 2 2 2 2 2 2 2 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="284c44ae91-4b45-3990-d520-76b36443e2">
+        <tool company="celsys" name="paint" version="1.10.10"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="c9b2383aad-7a49-0785-8832-d951464780">
+            <tool company="celsys" name="paint" version="1.10.10"/>
+            <type ver="1.0.1">image</type>
+            <name>Crm_tex_ガタガタストライプ</name>
+            <created_date>2021/05/29 04:31:45</created_date>
+            <modified_date>2021/05/29 04:32:00</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="e7453d525b-e644-b38b-897b-c7a8580431"/>
+            </thumbnail>
+            <data>
+              <fileref idref="5d30041b51-d345-1fad-c821-0c7e10e173"/>
+            </data>
+            <icedata>
+              <fileref idref="3cbe2d8fe4-5d47-34a0-49ec-fbf0894972"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3cbe2d8fe4-5d47-34a0-49ec-fbf0894972" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="5d30041b51-d345-1fad-c821-0c7e10e173" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="e7453d525b-e644-b38b-897b-c7a8580431" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

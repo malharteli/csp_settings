@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Cloud Sizzle</name>
+
+  <cloudcontentid>122218375</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7910e187a9-c311-e5b3-a5be-b24ef8e05d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>81/05</subpath>
+
+  <basePath></basePath>
+
+  <size>731827</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:29:53</createdat>
+
+  <updatedat>2020-12-24 15:30:07</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

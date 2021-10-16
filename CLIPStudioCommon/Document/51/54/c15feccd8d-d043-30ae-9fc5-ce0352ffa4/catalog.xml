@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="c15feccd8d-d043-30ae-9fc5-ce0352ffa4">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Roulette_Jagues_Tatiana</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ef9aa09ab6-8545-e2b5-3364-51799ece11">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="63e091a3df-b043-3296-245d-eb6860cbd9">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_Jagues_Tatiana</name>
+            <created_date>2021/09/25 02:36:18</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b2752f6552-3e43-8db1-7193-9b0ab9585b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4e390bd75f-0e4f-4a81-3424-27d9004aeb"/>
+            </data>
+            <icedata>
+              <fileref idref="333a0d913d-1c4e-bf92-419b-13e7431921"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="333a0d913d-1c4e-bf92-419b-13e7431921" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="4e390bd75f-0e4f-4a81-3424-27d9004aeb" mime="application/octet-stream">
+      <path>Roulette_Jagues_Tatiana.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="b2752f6552-3e43-8db1-7193-9b0ab9585b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

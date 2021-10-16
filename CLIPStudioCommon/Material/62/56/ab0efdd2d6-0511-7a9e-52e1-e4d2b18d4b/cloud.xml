@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>kyle square wc new</name>
+
+  <cloudcontentid>122212694</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ab0efdd2d6-0511-7a9e-52e1-e4d2b18d4b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>62/56</subpath>
+
+  <basePath></basePath>
+
+  <size>145516</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:41:44</createdat>
+
+  <updatedat>2020-12-24 14:41:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Layer 3</name>
+
+  <cloudcontentid>102504825</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>989422a593-b94f-00b5-d072-e1e15c4d05</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>07/05</subpath>
+
+  <basePath></basePath>
+
+  <size>100864</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:10:05</createdat>
+
+  <updatedat>2020-07-20 23:10:16</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

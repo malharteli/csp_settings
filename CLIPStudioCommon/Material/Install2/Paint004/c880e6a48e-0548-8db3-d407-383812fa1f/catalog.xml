@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="c880e6a48e-0548-8db3-d407-383812fa1f">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Hold an umbrella</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c44d023f68-374d-2c82-1c4e-055f92edc0">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="14b8ff2b07-b843-b486-8315-2c554b0274">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">pose</type>
+            <name>Hold an umbrella</name>
+            <created_date>2016/06/21 10:07:00</created_date>
+            <modified_date>2016/06/21 10:07:00</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="00ff11dfaa-6f41-84a8-ad26-6443dacb89"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9656ad1fa7-6242-c199-42d2-e8e44f2fac"/>
+            </data>
+            <icedata>
+              <fileref idref="11297eb275-b842-dfaf-5393-23ac829631"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="00ff11dfaa-6f41-84a8-ad26-6443dacb89" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="11297eb275-b842-dfaf-5393-23ac829631" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="9656ad1fa7-6242-c199-42d2-e8e44f2fac" mime="application/octet-stream">
+      <path>data/material.pose</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - WallR10</name>
+
+  <cloudcontentid>122221095</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>fa4111099c-1911-e4a9-d6f6-5a3ff8e444</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>17/86</subpath>
+
+  <basePath></basePath>
+
+  <size>459766</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:57:31</createdat>
+
+  <updatedat>2020-12-24 15:57:44</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

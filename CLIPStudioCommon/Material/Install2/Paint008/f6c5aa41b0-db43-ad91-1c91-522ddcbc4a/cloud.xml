@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>MM03-校舎K04-夜</name>
+
+  <cloudcontentid>796</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f6c5aa41b0-db43-ad91-1c91-522ddcbc4a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint008</subpath>
+
+  <basePath>installation_material/96/07/796</basePath>
+
+  <size>1190645</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:19:23</createdat>
+
+  <updatedat>2016-07-13 15:19:27</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

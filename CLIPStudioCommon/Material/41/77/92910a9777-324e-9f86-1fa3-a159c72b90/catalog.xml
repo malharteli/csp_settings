@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="92910a9777-324e-9f86-1fa3-a159c72b90" ver="20201219013915">
+    <ccf_registed_at>2020/12/19 01:39:15</ccf_registed_at>
+    <content_id>1807632</content_id>
+    <origin_content_id>1807632</origin_content_id>
+    <url>https://assets.clip-studio.com</url>
+    <type>catalog</type>
+    <user_id>2554404</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="ice" version="1.10.5"/>
+    <name>최창민 진짜 피그먼트 라이너</name>
+    <created_date>2020/12/18 20:15:05</created_date>
+    <modified_date>2020/12/18 20:15:05</modified_date>
+    <description>
+      <fileref idref="aa8ab21dea-3f48-9d94-7054-d57336ea97"/>
+    </description>
+    <thumbnail>
+      <fileref idref="87d9ede845-5b47-8f8f-5f9c-dce04d33b6"/>
+    </thumbnail>
+    <icedata>
+      <fileref idref="60d9c72d90-d541-1491-a5e1-3f945acea9"/>
+    </icedata>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="58c1d45b95-594d-2a90-b228-54559e0784" ver="20201219013915">
+        <ccf_registed_at>2020/12/19 01:39:15</ccf_registed_at>
+        <tool company="celsys" name="ice" version="1.10.5"/>
+        <user_id>2554404</user_id>
+        <group_id>844946</group_id>
+        <type ver="1.0.0">group</type>
+        <name>카테고리 1</name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3a8534e10d-8f4c-48a4-3e56-254bcb456f" ver="20201219013915">
+          <ccf_registed_at>2020/12/19 01:39:15</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.10.5"/>
+          <user_id>2554404</user_id>
+          <group_id>844947</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="578854f9e8-2f4c-c6be-d055-9a0d8b0152" ver="20201219013915">
+              <ccf_registed_at>2020/12/19 01:39:15</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.10.5"/>
+              <user_id>2554404</user_id>
+              <item_id>844949</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>진짜 피그먼트 라이너 컬러</name>
+              <created_date>2020/12/18 20:15:05</created_date>
+              <modified_date>2020/12/18 20:15:05</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="a4031c7517-a346-0aaa-4ca4-6444822a3b"/>
+              </thumbnail>
+              <data>
+                <fileref idref="89b7a67ffd-ca48-41bc-3a1e-42f3960362"/>
+              </data>
+              <icedata>
+                <fileref idref="976c4134bc-8641-4eb9-d939-b2288897ac"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8219098fb3-1a48-d280-fc84-13824bf0b5" ver="20201219013915">
+          <ccf_registed_at>2020/12/19 01:39:15</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.10.5"/>
+          <user_id>2554404</user_id>
+          <group_id>844948</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6c58c8d963-8f43-30bf-28b9-53d84c3eb4" ver="20201219013915">
+              <ccf_registed_at>2020/12/19 01:39:15</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.10.5"/>
+              <user_id>2554404</user_id>
+              <item_id>844950</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>진짜 피그먼트 라이너</name>
+              <created_date>2020/12/18 20:15:05</created_date>
+              <modified_date>2020/12/18 20:15:05</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="0f88fd8b3c-df41-c484-e333-69c9e75841"/>
+              </thumbnail>
+              <data>
+                <fileref idref="dcd49c395a-004f-fab6-0354-f6b4d24dbd"/>
+              </data>
+              <icedata>
+                <fileref idref="c4b7049f97-da4b-ca9f-5036-8419b42335"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0f88fd8b3c-df41-c484-e333-69c9e75841" mime="image/png">
+      <path>6c58c8d963-8f43-30bf-28b9-53d84c3eb4/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="60d9c72d90-d541-1491-a5e1-3f945acea9" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="87d9ede845-5b47-8f8f-5f9c-dce04d33b6" mime="image/png">
+      <path>thumbnail/catalogThumb.png</path>
+    </file>
+    <file document="false" encrypt="true" id="89b7a67ffd-ca48-41bc-3a1e-42f3960362" mime="application/octet-stream">
+      <path>578854f9e8-2f4c-c6be-d055-9a0d8b0152/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="976c4134bc-8641-4eb9-d939-b2288897ac" mime="text/xml">
+      <path>578854f9e8-2f4c-c6be-d055-9a0d8b0152/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="a4031c7517-a346-0aaa-4ca4-6444822a3b" mime="image/png">
+      <path>578854f9e8-2f4c-c6be-d055-9a0d8b0152/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="aa8ab21dea-3f48-9d94-7054-d57336ea97" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+    <file document="false" encrypt="false" id="c4b7049f97-da4b-ca9f-5036-8419b42335" mime="text/xml">
+      <path>6c58c8d963-8f43-30bf-28b9-53d84c3eb4/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="dcd49c395a-004f-fab6-0354-f6b4d24dbd" mime="application/octet-stream">
+      <path>6c58c8d963-8f43-30bf-28b9-53d84c3eb4/data/material_0.tool</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>叫び_02</name>
+
+  <cloudcontentid>1031</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>700309e486-ac48-1285-e38a-885bcb43ab</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>balloon</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint012</subpath>
+
+  <basePath>installation_material/31/10/1031</basePath>
+
+  <size>95804</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:35:14</createdat>
+
+  <updatedat>2016-07-13 15:35:17</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

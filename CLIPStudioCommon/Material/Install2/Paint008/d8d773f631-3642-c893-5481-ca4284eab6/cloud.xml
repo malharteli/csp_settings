@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>MM04-炎03-黒地</name>
+
+  <cloudcontentid>788</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d8d773f631-3642-c893-5481-ca4284eab6</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint008</subpath>
+
+  <basePath>installation_material/88/07/788</basePath>
+
+  <size>872940</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:18:40</createdat>
+
+  <updatedat>2016-07-13 15:18:43</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

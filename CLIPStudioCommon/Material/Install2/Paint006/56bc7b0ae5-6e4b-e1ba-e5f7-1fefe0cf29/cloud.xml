@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>民族系ライン_IS</name>
+
+  <cloudcontentid>526</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>56bc7b0ae5-6e4b-e1ba-e5f7-1fefe0cf29</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint006</subpath>
+
+  <basePath>installation_material/26/05/526</basePath>
+
+  <size>153872</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:59:33</createdat>
+
+  <updatedat>2016-07-13 14:59:36</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

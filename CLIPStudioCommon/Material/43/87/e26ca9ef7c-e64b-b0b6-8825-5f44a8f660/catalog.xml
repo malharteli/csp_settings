@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="e26ca9ef7c-e64b-b0b6-8825-5f44a8f660">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.9.5"/>
+    <name>달</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b3da236dcd-5f42-6780-c22b-5124bbd4fe">
+        <tool company="celsys" name="paint" version="1.9.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="a053f4a269-7f44-5993-0632-f636548124">
+            <tool company="celsys" name="paint" version="1.9.5"/>
+            <type ver="1.0.1">image</type>
+            <name>거친달</name>
+            <created_date>2020/02/11 16:40:16</created_date>
+            <modified_date>2020/02/11 16:40:20</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f3c68c5242-7346-8cab-ad39-3ab44948ec"/>
+            </thumbnail>
+            <data>
+              <fileref idref="64b5cbc3e3-f64a-e9a3-2839-ca959b930a"/>
+            </data>
+            <icedata>
+              <fileref idref="f894ae6e2e-df40-ccb1-f129-eae399e764"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="64b5cbc3e3-f64a-e9a3-2839-ca959b930a" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="f3c68c5242-7346-8cab-ad39-3ab44948ec" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="f894ae6e2e-df40-ccb1-f129-eae399e764" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

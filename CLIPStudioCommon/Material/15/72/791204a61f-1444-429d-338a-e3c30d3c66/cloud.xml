@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Triangle Brush</name>
+
+  <cloudcontentid>102505182</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>791204a61f-1444-429d-338a-e3c30d3c66</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>15/72</subpath>
+
+  <basePath></basePath>
+
+  <size>57543</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:13:22</createdat>
+
+  <updatedat>2020-07-20 23:13:33</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

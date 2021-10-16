@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Tall go</name>
+
+  <cloudcontentid>122217463</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>67e8e2bb7c-2911-e798-35fa-8337979f95</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>24/59</subpath>
+
+  <basePath></basePath>
+
+  <size>159756</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:20:44</createdat>
+
+  <updatedat>2020-12-24 15:20:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

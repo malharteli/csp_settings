@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>DAUB Crumpled Paper</name>
+
+  <cloudcontentid>123406873</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b43e94e378-9043-86b8-ae71-1c6449decd</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>36/88</subpath>
+
+  <basePath></basePath>
+
+  <size>2684070</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:46:19</createdat>
+
+  <updatedat>2021-01-01 08:46:36</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

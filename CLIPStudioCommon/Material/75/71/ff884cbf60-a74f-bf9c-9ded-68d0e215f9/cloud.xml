@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>leather_seamless_highpass_bitmap</name>
+
+  <cloudcontentid>102509050</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ff884cbf60-a74f-bf9c-9ded-68d0e215f9</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>75/71</subpath>
+
+  <basePath></basePath>
+
+  <size>333548</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:48:52</createdat>
+
+  <updatedat>2020-07-20 23:49:05</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

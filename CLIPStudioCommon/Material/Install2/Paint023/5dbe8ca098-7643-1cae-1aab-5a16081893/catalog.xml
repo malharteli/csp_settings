@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5dbe8ca098-7643-1cae-1aab-5a16081893">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.5.6"/>
+    <name>Nico painting _ Tara</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9a6f0e15c9-eb47-e394-55c6-b8f950cc32">
+        <tool company="celsys" name="paint" version="1.5.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="da42c43cf5-204b-09a6-280f-7055db7a10">
+            <tool company="celsys" name="paint" version="1.5.6"/>
+            <type ver="1.0.1">image</type>
+            <name>Cold Sweat</name>
+            <created_date>2016/06/20 05:30:43</created_date>
+            <modified_date>2016/06/20 05:30:43</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="c05e2dc322-774e-cba7-c85d-83316a03ac"/>
+            </thumbnail>
+            <data>
+              <fileref idref="8b3d7d376c-0b48-ba81-a12e-ef319e60ff"/>
+            </data>
+            <icedata>
+              <fileref idref="a220cb3c11-b849-fa81-b592-2c9038816a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="8b3d7d376c-0b48-ba81-a12e-ef319e60ff" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="a220cb3c11-b849-fa81-b592-2c9038816a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="c05e2dc322-774e-cba7-c85d-83316a03ac" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="53ad6fe832-e74a-448a-944f-888f1e7c8f">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Precure_Sakuragawa</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="068c610118-2a4b-deba-664e-4296410040">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fa68175e92-b94b-84ae-0600-d7b8d7d09e">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>Precure_Sakuragawa</name>
+            <created_date>2021/08/27 03:20:18</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b9a7ee9049-8e44-18b8-61c0-44a36ff64e"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f511d742fb-fc45-da89-ad75-a3b8c759d3"/>
+            </data>
+            <icedata>
+              <fileref idref="515390563f-2c41-5fa5-d5bf-ab35712cb8"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="515390563f-2c41-5fa5-d5bf-ab35712cb8" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="b9a7ee9049-8e44-18b8-61c0-44a36ff64e" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="f511d742fb-fc45-da89-ad75-a3b8c759d3" mime="application/octet-stream">
+      <path>Precure_Sakuragawa.clip</path>
+    </file>
+  </files>
+
+</archive>

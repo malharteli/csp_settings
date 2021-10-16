@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="773c5651ad-3640-4d8c-826e-133de32520">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>MirriM</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7d9fc87d1f-0647-d893-f9a5-ef5d507568">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1134ae301d-c14f-439f-7a09-ba11676969">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>MirriM</name>
+            <created_date>2021/08/02 01:03:26</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="7ad2b5143a-ab4c-3096-cad2-a98857be4f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="afc45e5800-c543-758c-0647-4cb92d9576"/>
+            </data>
+            <icedata>
+              <fileref idref="1949c2f8c1-cf44-d7be-bd59-2df13fb973"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1949c2f8c1-cf44-d7be-bd59-2df13fb973" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="7ad2b5143a-ab4c-3096-cad2-a98857be4f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="afc45e5800-c543-758c-0647-4cb92d9576" mime="application/octet-stream">
+      <path>MirriM.clip</path>
+    </file>
+  </files>
+
+</archive>

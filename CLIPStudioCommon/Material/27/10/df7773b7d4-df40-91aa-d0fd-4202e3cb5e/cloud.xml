@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>seam</name>
+
+  <cloudcontentid>129334146</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>df7773b7d4-df40-91aa-d0fd-4202e3cb5e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>27/10</subpath>
+
+  <basePath></basePath>
+
+  <size>82183</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-02-08 00:44:45</createdat>
+
+  <updatedat>2021-02-08 00:44:56</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

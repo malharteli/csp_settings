@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>スタスタ歩く左前</name>
+
+  <cloudcontentid>316</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a50776ef8b-8b4b-9d8c-a1ab-f90c4d26c5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>pose</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint004</subpath>
+
+  <basePath>installation_material/16/03/316</basePath>
+
+  <size>125240</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:46:36</createdat>
+
+  <updatedat>2016-07-13 14:46:39</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

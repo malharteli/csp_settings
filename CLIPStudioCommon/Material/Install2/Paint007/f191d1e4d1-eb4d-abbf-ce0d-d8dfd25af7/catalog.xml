@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="f191d1e4d1-eb4d-abbf-ce0d-d8dfd25af7">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Looking-up trees-gray</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9dba8ad780-af48-c1ac-4cdc-c8f42e48b5">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a0e9c3f750-a04c-c2bf-c4e8-dd54661c1c">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Looking-up trees-gray</name>
+            <created_date>2016/06/21 10:07:33</created_date>
+            <modified_date>2016/06/21 10:07:33</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="7b6933602e-6749-baa4-412b-a1f417adfb"/>
+            </thumbnail>
+            <data>
+              <fileref idref="27a812e4ac-1b45-2282-d3ec-a89c67643c"/>
+            </data>
+            <icedata>
+              <fileref idref="f60e4b1b8e-bf48-c682-7474-0a617a4572"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="27a812e4ac-1b45-2282-d3ec-a89c67643c" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="7b6933602e-6749-baa4-412b-a1f417adfb" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="f60e4b1b8e-bf48-c682-7474-0a617a4572" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8300c82c27-e649-dca5-0c66-717e4f6f5c">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.9.5"/>
+    <name>레이어 1</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b0e330bb5b-7445-b8bc-c884-ee4a45f506">
+        <tool company="celsys" name="paint" version="1.9.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="058aa95283-ce48-509d-06f1-2d8bbf55af">
+            <tool company="celsys" name="paint" version="1.9.5"/>
+            <type ver="1.0.1">image</type>
+            <name>빗금</name>
+            <created_date>2020/01/31 17:23:53</created_date>
+            <modified_date>2020/01/31 17:24:06</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="d8d1d10e0b-d645-ca8f-ea93-bea9220670"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e9d696d211-be49-cfb0-bd44-f197dbedb4"/>
+            </data>
+            <icedata>
+              <fileref idref="dc58de8dd9-b645-2185-d5c3-d2862a1312"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="d8d1d10e0b-d645-ca8f-ea93-bea9220670" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="dc58de8dd9-b645-2185-d5c3-d2862a1312" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="e9d696d211-be49-cfb0-bd44-f197dbedb4" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

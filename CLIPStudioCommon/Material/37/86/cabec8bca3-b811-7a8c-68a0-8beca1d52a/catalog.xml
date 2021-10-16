@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="cabec8bca3-b811-7a8c-68a0-8beca1d52a">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>$$$/Presets/BrushTips/Sampled/RoundSketchBallpointPen=Round Sketch Ballpoint Pen</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3a5ebac316-b845-f3b2-9781-02539e8414">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b54c22f43a-6747-4e9e-9cde-6deaf84269">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>$$$/Presets/BrushTips/Sampled/RoundSketchBallpointPen=Round Sketch Ballpoint Pen</name>
+            <created_date>2021/05/09 02:46:55</created_date>
+            <modified_date>2021/05/09 02:46:55</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="a6156f80c3-ee4e-fcbb-0535-b14f0c520c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="113cb57843-aa4b-7abd-5434-baab0a806f"/>
+            </data>
+            <icedata>
+              <fileref idref="bea946bc9e-6449-1ea0-a6bf-7c34b7a6d5"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="113cb57843-aa4b-7abd-5434-baab0a806f" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="a6156f80c3-ee4e-fcbb-0535-b14f0c520c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="bea946bc9e-6449-1ea0-a6bf-7c34b7a6d5" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

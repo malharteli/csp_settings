@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="2dc7de78f7-bf45-8587-bb52-d0c2a558a3">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>BlackClover</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3e2c2e1348-5c40-52b7-a2ed-7ac82530a1">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a752540e47-3a4b-e5b8-076f-b8c88bb183">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>BlackClover</name>
+            <created_date>2021/08/22 05:21:54</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="5b12c641c8-bc49-02be-5d6a-46aec46612"/>
+            </thumbnail>
+            <data>
+              <fileref idref="b86a84bca9-2140-98b3-6c27-a5a96488d4"/>
+            </data>
+            <icedata>
+              <fileref idref="2d1bfa0622-f64a-75af-7014-ed6727326f"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2d1bfa0622-f64a-75af-7014-ed6727326f" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="5b12c641c8-bc49-02be-5d6a-46aec46612" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="b86a84bca9-2140-98b3-6c27-a5a96488d4" mime="application/octet-stream">
+      <path>BlackClover.clip</path>
+    </file>
+  </files>
+
+</archive>

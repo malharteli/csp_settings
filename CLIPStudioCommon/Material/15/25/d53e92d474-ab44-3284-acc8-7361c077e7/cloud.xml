@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>bristleNib02</name>
+
+  <cloudcontentid>123407708</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d53e92d474-ab44-3284-acc8-7361c077e7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>15/25</subpath>
+
+  <basePath></basePath>
+
+  <size>132951</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 09:00:54</createdat>
+
+  <updatedat>2021-01-01 09:01:12</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

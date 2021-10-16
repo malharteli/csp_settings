@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Basic Bristles</name>
+
+  <cloudcontentid>102504206</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>1b686ad76a-4a48-2eae-8ef9-0ffd3bb9f0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>00/14</subpath>
+
+  <basePath></basePath>
+
+  <size>106520</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:04:32</createdat>
+
+  <updatedat>2020-07-20 23:04:44</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

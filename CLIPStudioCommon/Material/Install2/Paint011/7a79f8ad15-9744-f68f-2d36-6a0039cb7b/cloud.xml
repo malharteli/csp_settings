@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>トゲ多_02</name>
+
+  <cloudcontentid>954</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7a79f8ad15-9744-f68f-2d36-6a0039cb7b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>balloon</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint011</subpath>
+
+  <basePath>installation_material/54/09/954</basePath>
+
+  <size>113587</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:30:40</createdat>
+
+  <updatedat>2016-07-13 15:30:43</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

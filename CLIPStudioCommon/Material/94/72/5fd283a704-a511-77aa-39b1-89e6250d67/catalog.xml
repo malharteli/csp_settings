@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5fd283a704-a511-77aa-39b1-89e6250d67">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>$$$/Presets/Patterns/halftonedotsmediumdots=halftone dots - medium dots</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4eeabfa9a3-b942-28bd-fb5a-7a9ea2b080">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5b6e520440-e842-6792-2112-a22f1296a5">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>$$$/Presets/Patterns/halftonedotsmediumdots=halftone dots - medium dots</name>
+            <created_date>2021/05/09 02:47:06</created_date>
+            <modified_date>2021/05/09 02:47:06</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="e9cc37ca34-dc42-e49e-e721-6191fb2e8a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="405648a272-c24d-92a8-8e00-667d3306f3"/>
+            </data>
+            <icedata>
+              <fileref idref="d29af56bee-8a4e-5aad-f4d5-b81a68d180"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="405648a272-c24d-92a8-8e00-667d3306f3" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="d29af56bee-8a4e-5aad-f4d5-b81a68d180" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="e9cc37ca34-dc42-e49e-e721-6191fb2e8a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

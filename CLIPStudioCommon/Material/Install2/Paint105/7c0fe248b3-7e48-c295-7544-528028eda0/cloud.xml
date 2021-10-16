@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>積み上げられた本</name>
+
+  <cloudcontentid>2898</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7c0fe248b3-7e48-c295-7544-528028eda0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>other_3dmodel</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/98/28/2898</basePath>
+
+  <size>1484397</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2017-06-19 14:45:31</createdat>
+
+  <updatedat>2017-06-19 14:45:35</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

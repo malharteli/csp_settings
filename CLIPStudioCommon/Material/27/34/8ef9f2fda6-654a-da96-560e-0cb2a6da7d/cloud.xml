@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>exaustedMarkerNib</name>
+
+  <cloudcontentid>123410149</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8ef9f2fda6-654a-da96-560e-0cb2a6da7d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>27/34</subpath>
+
+  <basePath></basePath>
+
+  <size>134009</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 09:30:09</createdat>
+
+  <updatedat>2021-01-01 09:30:29</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

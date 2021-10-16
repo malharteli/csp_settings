@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>nib_320</name>
+
+  <cloudcontentid>123406775</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ed58d096b4-4e44-0fb4-a9c1-61ea0adfbb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>37/18</subpath>
+
+  <basePath></basePath>
+
+  <size>152315</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:43:20</createdat>
+
+  <updatedat>2021-01-01 08:43:32</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

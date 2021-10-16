@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="d093204217-7c47-0bb8-3811-277e64e600">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.8.4"/>
+    <name>Nib_25</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="75977993df-6641-02b2-2d18-b43379dcc6">
+        <tool company="celsys" name="paint" version="1.8.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="705b4ede06-e74d-30af-717a-9413898f82">
+            <tool company="celsys" name="paint" version="1.8.4"/>
+            <type ver="1.0.1">image</type>
+            <name>Nib_25</name>
+            <created_date>2019/08/10 07:35:53</created_date>
+            <modified_date>2019/08/10 07:35:53</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="0127d403de-a140-628b-769e-623fe031cf"/>
+            </thumbnail>
+            <data>
+              <fileref idref="845324d78d-0044-afae-4ee7-b89de12ea7"/>
+            </data>
+            <icedata>
+              <fileref idref="df87794901-b844-b583-3bf1-2fedd94907"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0127d403de-a140-628b-769e-623fe031cf" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="845324d78d-0044-afae-4ee7-b89de12ea7" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="df87794901-b844-b583-3bf1-2fedd94907" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

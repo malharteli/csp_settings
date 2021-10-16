@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>slice1</name>
+
+  <cloudcontentid>123406210</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>684b9b0fe6-3045-35a3-72de-c89401d3f3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>90/79</subpath>
+
+  <basePath></basePath>
+
+  <size>83142</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:24:37</createdat>
+
+  <updatedat>2021-01-01 08:24:56</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

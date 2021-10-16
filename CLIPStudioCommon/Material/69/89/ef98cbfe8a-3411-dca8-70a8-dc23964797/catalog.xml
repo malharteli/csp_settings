@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ef98cbfe8a-3411-dca8-70a8-dc23964797">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>Charcoal 59 pixels</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d4eb25effc-9b4a-a89d-d139-7fb4815091">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6ba6869cd1-c744-d79b-e7e4-32f074c7d5">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>Charcoal 59 pixels</name>
+            <created_date>2021/05/09 02:55:48</created_date>
+            <modified_date>2021/05/09 02:55:48</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="a344b505b5-c248-c7a4-13c9-79e91cd1c1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="631538515c-9942-61ac-3b75-53d36b09dd"/>
+            </data>
+            <icedata>
+              <fileref idref="760e31ded1-1547-75bf-ff9b-2528aaefc6"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="631538515c-9942-61ac-3b75-53d36b09dd" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="760e31ded1-1547-75bf-ff9b-2528aaefc6" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="a344b505b5-c248-c7a4-13c9-79e91cd1c1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>edgedup</name>
+
+  <cloudcontentid>122220003</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4a142e4b9e-a011-e3ba-5beb-cb98ba95a3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>18/42</subpath>
+
+  <basePath></basePath>
+
+  <size>297699</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:45:25</createdat>
+
+  <updatedat>2020-12-24 15:45:38</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

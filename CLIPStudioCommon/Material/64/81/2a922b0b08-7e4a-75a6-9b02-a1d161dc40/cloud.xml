@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Layout Red</name>
+
+  <cloudcontentid>102506453</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2a922b0b08-7e4a-75a6-9b02-a1d161dc40</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>64/81</subpath>
+
+  <basePath></basePath>
+
+  <size>144464</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:23:49</createdat>
+
+  <updatedat>2020-07-20 23:24:01</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

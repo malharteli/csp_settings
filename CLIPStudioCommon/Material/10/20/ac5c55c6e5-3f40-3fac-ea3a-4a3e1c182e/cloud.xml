@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Square</name>
+
+  <cloudcontentid>102224285</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ac5c55c6e5-3f40-3fac-ea3a-4a3e1c182e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>10/20</subpath>
+
+  <basePath></basePath>
+
+  <size>160041</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-18 12:52:08</createdat>
+
+  <updatedat>2020-07-18 12:52:23</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

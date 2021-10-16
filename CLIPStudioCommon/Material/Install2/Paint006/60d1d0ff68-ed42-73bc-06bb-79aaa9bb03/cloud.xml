@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ポップスタイル_IS</name>
+
+  <cloudcontentid>531</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>60d1d0ff68-ed42-73bc-06bb-79aaa9bb03</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint006</subpath>
+
+  <basePath>installation_material/31/05/531</basePath>
+
+  <size>98667</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:59:55</createdat>
+
+  <updatedat>2016-07-13 14:59:58</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

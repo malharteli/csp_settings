@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>照れ_赤</name>
+
+  <cloudcontentid>1050</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>92fe3f00b0-8c4b-8aa4-d27f-341c8def02</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint012</subpath>
+
+  <basePath>installation_material/50/10/1050</basePath>
+
+  <size>240736</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:36:21</createdat>
+
+  <updatedat>2016-07-13 15:36:24</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

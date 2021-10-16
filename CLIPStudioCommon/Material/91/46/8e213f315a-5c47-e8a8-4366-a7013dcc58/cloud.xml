@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ランダム縦線3</name>
+
+  <cloudcontentid>122222973</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8e213f315a-5c47-e8a8-4366-a7013dcc58</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>91/46</subpath>
+
+  <basePath></basePath>
+
+  <size>104641</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:18:30</createdat>
+
+  <updatedat>2020-12-24 16:18:45</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

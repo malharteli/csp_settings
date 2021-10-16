@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="43dcbdcce9-2e4b-1197-6b86-46188b1597">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Walling wooden wall_IS</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1e5e3dcfe6-3a4b-8796-b5f6-465c67c4c2">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f171406e7e-a04a-f481-9b4a-5de0889d5a">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Walling wooden wall_IS</name>
+            <created_date>2016/06/21 10:07:12</created_date>
+            <modified_date>2016/06/21 10:07:12</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3f851b1b83-7944-21b8-d84f-538f3d8493"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a4858b561e-1440-37a6-0ac9-3e96c2f564"/>
+            </data>
+            <icedata>
+              <fileref idref="5dcd898cea-004e-0181-341d-3758dc45ab"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3f851b1b83-7944-21b8-d84f-538f3d8493" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="5dcd898cea-004e-0181-341d-3758dc45ab" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="a4858b561e-1440-37a6-0ac9-3e96c2f564" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

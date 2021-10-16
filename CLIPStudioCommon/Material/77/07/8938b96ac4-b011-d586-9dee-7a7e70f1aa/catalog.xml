@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8938b96ac4-b011-d586-9dee-7a7e70f1aa">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Oil Heavy Flow Small Tip</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="482eedcd8f-d24d-509a-20f1-36a394030f">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9ecb4db873-164b-99bd-823f-c244c71543">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Oil Heavy Flow Small Tip</name>
+            <created_date>2020/12/14 01:30:18</created_date>
+            <modified_date>2020/12/14 01:30:18</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="69cc262fae-dd42-3e94-dd04-a8e3e06671"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a3ccdc4506-6441-d0ab-64ad-88fc1abd26"/>
+            </data>
+            <icedata>
+              <fileref idref="24341b360f-ec41-6e9c-bddd-a1c70cc0b2"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="24341b360f-ec41-6e9c-bddd-a1c70cc0b2" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="69cc262fae-dd42-3e94-dd04-a8e3e06671" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="a3ccdc4506-6441-d0ab-64ad-88fc1abd26" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

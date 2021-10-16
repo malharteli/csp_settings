@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>縦雲小_03</name>
+
+  <cloudcontentid>1125</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c9ad0cb006-6745-4699-270a-d9758bd667</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>balloon</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint013</subpath>
+
+  <basePath>installation_material/25/11/1125</basePath>
+
+  <size>77508</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:40:36</createdat>
+
+  <updatedat>2016-07-13 15:40:39</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

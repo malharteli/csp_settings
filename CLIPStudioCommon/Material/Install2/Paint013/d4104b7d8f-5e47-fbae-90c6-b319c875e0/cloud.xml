@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>激_直線_歪</name>
+
+  <cloudcontentid>1140</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d4104b7d8f-5e47-fbae-90c6-b319c875e0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>balloon</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint013</subpath>
+
+  <basePath>installation_material/40/11/1140</basePath>
+
+  <size>109989</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:41:24</createdat>
+
+  <updatedat>2016-07-13 15:41:26</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

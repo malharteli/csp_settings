@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>MM03-校舎K06-夜</name>
+
+  <cloudcontentid>762</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8a6a37d1da-244e-be90-04c0-9ee693a50d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint008</subpath>
+
+  <basePath>installation_material/62/07/762</basePath>
+
+  <size>1204345</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:16:31</createdat>
+
+  <updatedat>2016-07-13 15:16:35</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

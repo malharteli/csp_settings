@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>종이~</name>
+
+  <cloudcontentid>102509921</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>50fe35f9f5-1e46-27b0-6083-4d4bb9d600</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>01/55</subpath>
+
+  <basePath></basePath>
+
+  <size>513311</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:59:30</createdat>
+
+  <updatedat>2020-07-20 23:59:43</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

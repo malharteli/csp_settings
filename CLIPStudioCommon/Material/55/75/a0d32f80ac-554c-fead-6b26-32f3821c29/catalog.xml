@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a0d32f80ac-554c-fead-6b26-32f3821c29">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.8.6"/>
+    <name>Layer 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ee5d1990cb-514e-65b1-6694-dc83fd706b">
+        <tool company="celsys" name="paint" version="1.8.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="ac9dc6992d-1b44-2294-c8ae-db06508513">
+            <tool company="celsys" name="paint" version="1.8.6"/>
+            <type ver="1.0.1">image</type>
+            <name>gentle pencil</name>
+            <created_date>2019/06/17 21:56:49</created_date>
+            <modified_date>2019/06/17 21:56:49</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="24d514b40a-4f4e-ffbf-b86e-1d9408df3d"/>
+            </thumbnail>
+            <data>
+              <fileref idref="0150bb5770-9c4e-6987-3d5d-5e42213c25"/>
+            </data>
+            <icedata>
+              <fileref idref="9847d21dc9-7c45-90b3-6536-bdd749d21d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="0150bb5770-9c4e-6987-3d5d-5e42213c25" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="24d514b40a-4f4e-ffbf-b86e-1d9408df3d" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="9847d21dc9-7c45-90b3-6536-bdd749d21d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

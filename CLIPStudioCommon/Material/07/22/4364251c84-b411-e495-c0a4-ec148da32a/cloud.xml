@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SoftyBox</name>
+
+  <cloudcontentid>122218733</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4364251c84-b411-e495-c0a4-ec148da32a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>07/22</subpath>
+
+  <basePath></basePath>
+
+  <size>307119</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:34:07</createdat>
+
+  <updatedat>2020-12-24 15:34:20</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b4c7d9c8db-9a11-d5a8-448c-08c86cedc7">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Flat Bristle</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="16a4d6ffb1-8847-9288-f3ae-416532b8fb">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ece1af9db1-ec40-7499-56a3-6080d81c52">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Flat Bristle</name>
+            <created_date>2020/12/14 01:15:46</created_date>
+            <modified_date>2020/12/14 01:15:46</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="0b1a321b3c-9446-fb95-dc83-b49ec5b768"/>
+            </thumbnail>
+            <data>
+              <fileref idref="1e33ee9733-114f-2281-3fdd-d1cc6798b9"/>
+            </data>
+            <icedata>
+              <fileref idref="79419f1cca-2746-69bc-bfc8-b089edf3f5"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0b1a321b3c-9446-fb95-dc83-b49ec5b768" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="1e33ee9733-114f-2281-3fdd-d1cc6798b9" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="79419f1cca-2746-69bc-bfc8-b089edf3f5" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

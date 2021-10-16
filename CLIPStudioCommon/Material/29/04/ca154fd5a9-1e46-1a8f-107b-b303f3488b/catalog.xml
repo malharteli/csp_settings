@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ca154fd5a9-1e46-1a8f-107b-b303f3488b" ver="20190912093506">
+    <ccf_registed_at>2019/09/12 09:35:06</ccf_registed_at>
+    <content_id>1752413</content_id>
+    <origin_content_id>1752413</origin_content_id>
+    <url>https://assets.clip-studio.com</url>
+    <type>catalog</type>
+    <user_id>113870</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="ice" version="1.9.1"/>
+    <name>淡四角ペン</name>
+    <created_date>2020/01/23 04:36:38</created_date>
+    <modified_date>2020/01/23 04:36:38</modified_date>
+    <description>
+      <fileref idref="4275fcf097-114d-bfa6-ef72-7fd633f582"/>
+    </description>
+    <thumbnail>
+      <fileref idref="303c5801bc-aa4d-8eae-005a-34d3eea380"/>
+    </thumbnail>
+    <icedata>
+      <fileref idref="f67e9a0b37-0448-679e-4bde-0f1fc30492"/>
+    </icedata>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cad57abd65-c14e-9b95-303b-96e089523a" ver="20190912093506">
+        <ccf_registed_at>2019/09/12 09:35:06</ccf_registed_at>
+        <tool company="celsys" name="ice" version="1.9.1"/>
+        <user_id>113870</user_id>
+        <group_id>556006</group_id>
+        <type ver="1.0.0">group</type>
+        <name>ブラシ</name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4fbe6527d0-654c-0194-545f-a6822ef641" ver="20190912093506">
+          <ccf_registed_at>2019/09/12 09:35:06</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.9.1"/>
+          <user_id>113870</user_id>
+          <group_id>556007</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9f366d3ef1-3645-c397-1bc3-024c84872d" ver="20190912093506">
+              <ccf_registed_at>2019/09/12 09:35:06</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.9.3"/>
+              <user_id>113870</user_id>
+              <item_id>556010</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>淡四角加筆</name>
+              <created_date>2020/01/23 04:36:38</created_date>
+              <modified_date>2020/01/23 04:36:38</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="ac1bfe1118-1848-f780-c9f9-61aa128701"/>
+              </thumbnail>
+              <data>
+                <fileref idref="27ff4a8d6f-654e-4bb0-09ea-a6ffa8d5c6"/>
+              </data>
+              <icedata>
+                <fileref idref="1625e91a8e-de4e-8aa7-9dba-274e59aa0a"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c0b69e8802-3046-be8e-fee8-ceb0302164" ver="20190912093506">
+          <ccf_registed_at>2019/09/12 09:35:06</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.9.1"/>
+          <user_id>113870</user_id>
+          <group_id>556008</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e7c1e45154-8b48-a3a7-5c6e-5a879b4cb8" ver="20190912093506">
+              <ccf_registed_at>2019/09/12 09:35:06</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.9.3"/>
+              <user_id>113870</user_id>
+              <item_id>556011</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>淡四角ペン</name>
+              <created_date>2020/01/23 04:36:38</created_date>
+              <modified_date>2020/01/23 04:36:38</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="28df971ba8-8e4e-6c91-c6d8-5ca1cc7add"/>
+              </thumbnail>
+              <data>
+                <fileref idref="7a8502a39f-3248-5baa-2e91-a11be36db2"/>
+              </data>
+              <icedata>
+                <fileref idref="028ddd7bf9-4145-748f-6aed-47feaaca85"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c69335281d-294b-4590-59d1-41d51df366" ver="20190912093506">
+          <ccf_registed_at>2019/09/12 09:35:06</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.9.1"/>
+          <user_id>113870</user_id>
+          <group_id>556009</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8893b83be0-d744-b0ab-6631-4327c3acd6" ver="20190912093506">
+              <ccf_registed_at>2019/09/12 09:35:06</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.9.3"/>
+              <user_id>113870</user_id>
+              <item_id>556012</item_id>
+              <type ver="1.0.1">image</type>
+              <name>ひしがた</name>
+              <created_date>2020/01/23 04:36:38</created_date>
+              <modified_date>2020/01/23 04:36:38</modified_date>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="946a03a8a5-b048-8b9f-2a1a-b3b563d7a6"/>
+              </thumbnail>
+              <data>
+                <fileref idref="34dedd71ed-e943-d08c-0b1d-d0ecc2f618"/>
+              </data>
+              <icedata>
+                <fileref idref="1f19022019-cb49-b1be-ce4e-0fa30de5d5"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="028ddd7bf9-4145-748f-6aed-47feaaca85" mime="text/xml">
+      <path>e7c1e45154-8b48-a3a7-5c6e-5a879b4cb8/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="1625e91a8e-de4e-8aa7-9dba-274e59aa0a" mime="text/xml">
+      <path>9f366d3ef1-3645-c397-1bc3-024c84872d/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="1f19022019-cb49-b1be-ce4e-0fa30de5d5" mime="text/xml">
+      <path>8893b83be0-d744-b0ab-6631-4327c3acd6/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="27ff4a8d6f-654e-4bb0-09ea-a6ffa8d5c6" mime="application/octet-stream">
+      <path>9f366d3ef1-3645-c397-1bc3-024c84872d/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="28df971ba8-8e4e-6c91-c6d8-5ca1cc7add" mime="image/png">
+      <path>e7c1e45154-8b48-a3a7-5c6e-5a879b4cb8/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="303c5801bc-aa4d-8eae-005a-34d3eea380" mime="image/png">
+      <path>thumbnail/catalogThumb.png</path>
+    </file>
+    <file document="false" encrypt="true" id="34dedd71ed-e943-d08c-0b1d-d0ecc2f618" mime="application/octet-stream">
+      <path>8893b83be0-d744-b0ab-6631-4327c3acd6/data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="4275fcf097-114d-bfa6-ef72-7fd633f582" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+    <file document="false" encrypt="true" id="7a8502a39f-3248-5baa-2e91-a11be36db2" mime="application/octet-stream">
+      <path>e7c1e45154-8b48-a3a7-5c6e-5a879b4cb8/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="946a03a8a5-b048-8b9f-2a1a-b3b563d7a6" mime="image/png">
+      <path>8893b83be0-d744-b0ab-6631-4327c3acd6/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="ac1bfe1118-1848-f780-c9f9-61aa128701" mime="image/png">
+      <path>9f366d3ef1-3645-c397-1bc3-024c84872d/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="f67e9a0b37-0448-679e-4bde-0f1fc30492" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

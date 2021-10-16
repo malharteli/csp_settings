@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="c6bd93593a-e64d-2590-5655-d884790da4" ver="20210206213417">
+    <ccf_registed_at>2021/02/06 21:34:17</ccf_registed_at>
+    <content_id>1819421</content_id>
+    <origin_content_id>1819421</origin_content_id>
+    <url>https://assets.clip-studio.com</url>
+    <type>catalog</type>
+    <user_id>126805</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="ice" version="1.10.5"/>
+    <name>ストローク長め手描き斜線セット</name>
+    <created_date>2021/03/07 23:28:48</created_date>
+    <modified_date>2021/03/07 23:28:48</modified_date>
+    <description>
+      <fileref idref="140145d586-274b-e0b4-0d49-37d09c8974"/>
+    </description>
+    <thumbnail>
+      <fileref idref="aefe7cae5a-7d4b-48bd-097d-496d343fc8"/>
+    </thumbnail>
+    <icedata>
+      <fileref idref="f3a93ee183-f342-c296-432e-0ea578dd1b"/>
+    </icedata>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2e44d344a5-744b-1abc-61bd-a3dff41d6b" ver="20210206213417">
+        <ccf_registed_at>2021/02/06 21:34:17</ccf_registed_at>
+        <tool company="celsys" name="ice" version="1.10.5"/>
+        <user_id>126805</user_id>
+        <group_id>907243</group_id>
+        <type ver="1.0.0">group</type>
+        <name>カテゴリ1</name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8adbecf0d0-8c4c-d8b2-0dbf-778f7faaa7" ver="20210206213417">
+          <ccf_registed_at>2021/02/06 21:34:17</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.10.5"/>
+          <user_id>126805</user_id>
+          <group_id>907244</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="dfa46884ac-d24c-9eb5-6295-9ab49d7e5b" ver="20210206213417">
+              <ccf_registed_at>2021/02/06 21:34:17</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.10.5"/>
+              <user_id>126805</user_id>
+              <item_id>907246</item_id>
+              <type ver="1.0.1">image</type>
+              <name>てがき斜線</name>
+              <created_date>2021/03/07 23:28:48</created_date>
+              <modified_date>2021/03/07 23:28:48</modified_date>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="31e2a0ee43-af49-8e90-7966-4af5b8cd6b"/>
+              </thumbnail>
+              <data>
+                <fileref idref="b40bf1e752-d740-e091-079f-45662c04d0"/>
+              </data>
+              <icedata>
+                <fileref idref="a5699f56a4-6f4b-2c8b-33ef-91e3893c67"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0af126aaa1-c54b-738c-f8a1-99ab0e421b" ver="20210206213417">
+          <ccf_registed_at>2021/02/06 21:34:17</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.10.5"/>
+          <user_id>126805</user_id>
+          <group_id>907245</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6554d3eee1-1c46-f096-6f24-54835a44e3" ver="20210206213417">
+              <ccf_registed_at>2021/02/06 21:34:17</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.10.5"/>
+              <user_id>126805</user_id>
+              <item_id>907247</item_id>
+              <type ver="1.0.2">brush</type>
+              <name>手描き斜線ペン</name>
+              <created_date>2021/03/07 23:28:48</created_date>
+              <modified_date>2021/03/07 23:28:48</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="4ad7710ad7-4045-76be-e456-35704c1a86"/>
+              </thumbnail>
+              <data>
+                <fileref idref="0f6b39e97c-284e-d59b-670d-2c3b99fb0e"/>
+              </data>
+              <icedata>
+                <fileref idref="2633e049b4-aa46-7f9e-325d-8088925fa4"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="0f6b39e97c-284e-d59b-670d-2c3b99fb0e" mime="application/octet-stream">
+      <path>6554d3eee1-1c46-f096-6f24-54835a44e3/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="140145d586-274b-e0b4-0d49-37d09c8974" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+    <file document="false" encrypt="false" id="2633e049b4-aa46-7f9e-325d-8088925fa4" mime="text/xml">
+      <path>6554d3eee1-1c46-f096-6f24-54835a44e3/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="31e2a0ee43-af49-8e90-7966-4af5b8cd6b" mime="image/png">
+      <path>dfa46884ac-d24c-9eb5-6295-9ab49d7e5b/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="4ad7710ad7-4045-76be-e456-35704c1a86" mime="image/png">
+      <path>6554d3eee1-1c46-f096-6f24-54835a44e3/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="a5699f56a4-6f4b-2c8b-33ef-91e3893c67" mime="text/xml">
+      <path>dfa46884ac-d24c-9eb5-6295-9ab49d7e5b/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="aefe7cae5a-7d4b-48bd-097d-496d343fc8" mime="image/png">
+      <path>thumbnail/catalogThumb.png</path>
+    </file>
+    <file document="false" encrypt="true" id="b40bf1e752-d740-e091-079f-45662c04d0" mime="application/octet-stream">
+      <path>dfa46884ac-d24c-9eb5-6295-9ab49d7e5b/data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="f3a93ee183-f342-c296-432e-0ea578dd1b" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

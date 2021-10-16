@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="f418eb9a8a-1a11-dca8-70a8-dc23964797">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>Drop Shadow Square 40 pixels</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="404d3e5e54-a240-b09d-4489-48c9ac1b1d">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e71028dbaf-a64c-a4af-254d-29c36263fb">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>Drop Shadow Square 40 pixels</name>
+            <created_date>2021/05/09 02:54:18</created_date>
+            <modified_date>2021/05/09 02:54:18</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3440070354-b741-f4b8-d528-6f21159e55"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c178216993-f84a-b099-9d7a-218a1f5dbe"/>
+            </data>
+            <icedata>
+              <fileref idref="b3ea6ec6b4-da45-ccbd-03e0-d0f4765351"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3440070354-b741-f4b8-d528-6f21159e55" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="b3ea6ec6b4-da45-ccbd-03e0-d0f4765351" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="c178216993-f84a-b099-9d7a-218a1f5dbe" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

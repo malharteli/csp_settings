@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="03193e7e2a-dc4a-7ca9-7cf8-d7839cf74a">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>arabicwitch</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9f72dab283-f642-028c-3a59-daa39cc3f6">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a6a8474c95-8d46-ae81-5afe-6e84c9b7e8">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>arabicwitch</name>
+            <created_date>2021/09/26 00:53:54</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="bf0428b410-d943-d1b6-a554-918616ec6e"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f3e6cb8761-5444-3c98-3d9e-e0104908e5"/>
+            </data>
+            <icedata>
+              <fileref idref="d8d38ec950-9149-d7a1-5675-89b8a5c909"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="bf0428b410-d943-d1b6-a554-918616ec6e" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="d8d38ec950-9149-d7a1-5675-89b8a5c909" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="f3e6cb8761-5444-3c98-3d9e-e0104908e5" mime="application/octet-stream">
+      <path>arabicwitch.clip</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>にじみC</name>
+
+  <cloudcontentid>2940</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>224bf21bcb-9640-f08f-639b-df6079506f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint109</subpath>
+
+  <basePath>installation_material/40/29/2940</basePath>
+
+  <size>180155</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2019-02-28 11:08:13</createdat>
+
+  <updatedat>2019-02-28 11:08:18</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

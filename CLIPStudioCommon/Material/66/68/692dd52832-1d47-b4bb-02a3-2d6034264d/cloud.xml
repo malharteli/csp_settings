@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Pentagon_50%</name>
+
+  <cloudcontentid>102503979</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>692dd52832-1d47-b4bb-02a3-2d6034264d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>66/68</subpath>
+
+  <basePath></basePath>
+
+  <size>78547</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:02:12</createdat>
+
+  <updatedat>2020-07-20 23:02:24</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

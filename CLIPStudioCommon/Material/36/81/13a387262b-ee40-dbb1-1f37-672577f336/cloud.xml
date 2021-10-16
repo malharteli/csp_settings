@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>hard corner</name>
+
+  <cloudcontentid>102506998</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>13a387262b-ee40-dbb1-1f37-672577f336</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>36/81</subpath>
+
+  <basePath></basePath>
+
+  <size>102875</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:29:05</createdat>
+
+  <updatedat>2020-07-20 23:29:16</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

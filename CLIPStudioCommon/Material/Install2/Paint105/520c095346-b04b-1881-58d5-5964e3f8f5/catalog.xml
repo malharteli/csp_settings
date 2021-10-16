@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.1.1</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="520c095346-b04b-1881-58d5-5964e3f8f5">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="modeler" version="1.6.3"/>
+    <name>Canned coffee</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f4cf694a-d0f0-40bc-b2d2-3eea64484f36">
+        <tool company="celsys" name="modeler" version="1.6.3"/>
+        <type ver="1.0.0">smallobject_v4</type>
+        <name>Canned coffee</name>
+        <created_date>2017/04/27 09:51:49</created_date>
+        <modified_date>2017/04/27 09:51:49</modified_date>
+        <required>0</required>
+        <permittool>
+          <cspdebut>1</cspdebut>
+        </permittool>
+        <export>
+          <exportable>1</exportable>
+        </export>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <thumbnail>
+          <fileref idref="246c9af99d-4e47-feb4-f5c4-ced4f68f18"/>
+        </thumbnail>
+        <data>
+          <fileref idref="3f7272008e-9843-74a7-2383-6dd974328d"/>
+        </data>
+        <metadata>
+          <fileref idref="59df980b96-7245-5d9f-916b-e2ead1509f"/>
+        </metadata>
+        <icedata>
+          <fileref idref="92e4c5a063-9443-ee8c-7588-cfd83b1c33"/>
+        </icedata>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f21a68ca-21a0-4c8e-a9f7-08feaa0c93fe">
+          <tool company="celsys" name="modeler" version="1.6.3"/>
+          <type ver="1.0.0">materialpreset</type>
+          <name>Material</name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cef5a86a-f36e-44ab-a051-d76ff24852f8">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">materialpreset</type>
+              <name>Basic</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="0eaade9045-554c-3fac-7fa0-08d9bdfee5"/>
+              </thumbnail>
+              <data>
+                <fileref idref="dc12a5418c-be43-17b8-5574-96e3eab10e"/>
+              </data>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="103527ae-a0a7-4b55-a540-43e728bc9b8c">
+          <tool company="celsys" name="modeler" version="1.6.3"/>
+          <type ver="1.0.0">transformpreset</type>
+          <name>Allocate</name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c67425be-c80c-405a-a9f7-466f90a0dc3e">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">transformpreset</type>
+              <name>Basic</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="82f7295744-1d4f-10a9-d346-24f2304591"/>
+              </thumbnail>
+              <data>
+                <fileref idref="968c3b3127-e346-ca98-2dd4-430bdb87e4"/>
+              </data>
+            </item>
+          </items>
+        </group>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2275bdf2-3154-4676-a29d-828688cf956a">
+            <tool company="celsys" name="modeler" version="1.6.3"/>
+            <type ver="1.0.0">__dummy_89A7</type>
+            <name></name>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0eaade9045-554c-3fac-7fa0-08d9bdfee5" mime="image/png">
+      <path>thumbnail/cef5a86a-f36e-44ab-a051-d76ff24852f8.png</path>
+    </file>
+    <file document="false" encrypt="false" id="246c9af99d-4e47-feb4-f5c4-ced4f68f18" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="3f7272008e-9843-74a7-2383-6dd974328d" mime="application/octet-stream">
+      <path>data/f4cf694a-d0f0-40bc-b2d2-3eea64484f36</path>
+    </file>
+    <file document="false" encrypt="false" id="59df980b96-7245-5d9f-916b-e2ead1509f" mime="text/xml">
+      <path>data/string_table.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="82f7295744-1d4f-10a9-d346-24f2304591" mime="image/png">
+      <path>thumbnail/c67425be-c80c-405a-a9f7-466f90a0dc3e.png</path>
+    </file>
+    <file document="false" encrypt="false" id="92e4c5a063-9443-ee8c-7588-cfd83b1c33" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="968c3b3127-e346-ca98-2dd4-430bdb87e4" mime="application/octet-stream">
+      <path>data/c67425be-c80c-405a-a9f7-466f90a0dc3e</path>
+    </file>
+    <file document="false" encrypt="true" id="dc12a5418c-be43-17b8-5574-96e3eab10e" mime="application/octet-stream">
+      <path>data/cef5a86a-f36e-44ab-a051-d76ff24852f8</path>
+    </file>
+  </files>
+
+</archive>

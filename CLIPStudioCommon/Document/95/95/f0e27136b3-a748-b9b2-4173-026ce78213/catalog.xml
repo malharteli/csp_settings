@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="f0e27136b3-a748-b9b2-4173-026ce78213">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>BouncingBall</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="afa9be9764-db48-e78b-06fb-09f692f6b8">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="eecdd70082-9348-1ca3-5f1c-1b380fb926">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>BouncingBall</name>
+            <created_date>2021/07/27 22:35:46</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="782f214b20-0a49-63a3-6d5b-cd535a0c2a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="036d7b700f-914d-279d-924d-0f644cfc85"/>
+            </data>
+            <icedata>
+              <fileref idref="457ccae02f-0647-dfae-565e-6c9c9d1884"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="036d7b700f-914d-279d-924d-0f644cfc85" mime="application/octet-stream">
+      <path>BouncingBall.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="457ccae02f-0647-dfae-565e-6c9c9d1884" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="782f214b20-0a49-63a3-6d5b-cd535a0c2a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

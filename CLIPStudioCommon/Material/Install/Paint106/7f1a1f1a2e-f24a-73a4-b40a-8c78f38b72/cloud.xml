@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>画用紙</name>
+
+  <cloudcontentid>2916</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7f1a1f1a2e-f24a-73a4-b40a-8c78f38b72</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint106</subpath>
+
+  <basePath>installation_material/16/29/2916</basePath>
+
+  <size>1093477</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2017-11-13 12:06:29</createdat>
+
+  <updatedat>2017-11-13 12:06:33</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

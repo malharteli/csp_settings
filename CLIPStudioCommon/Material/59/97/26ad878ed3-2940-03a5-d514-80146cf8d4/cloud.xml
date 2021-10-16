@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>OakThick_01</name>
+
+  <cloudcontentid>102505718</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>26ad878ed3-2940-03a5-d514-80146cf8d4</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>59/97</subpath>
+
+  <basePath></basePath>
+
+  <size>72933</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:18:26</createdat>
+
+  <updatedat>2020-07-20 23:18:38</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

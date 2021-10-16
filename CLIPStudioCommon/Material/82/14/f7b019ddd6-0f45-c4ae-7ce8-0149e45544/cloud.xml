@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>廃墟影 1-6 smooth</name>
+
+  <cloudcontentid>102510918</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f7b019ddd6-0f45-c4ae-7ce8-0149e45544</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>82/14</subpath>
+
+  <basePath></basePath>
+
+  <size>386911</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:10:40</createdat>
+
+  <updatedat>2020-07-21 00:10:53</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

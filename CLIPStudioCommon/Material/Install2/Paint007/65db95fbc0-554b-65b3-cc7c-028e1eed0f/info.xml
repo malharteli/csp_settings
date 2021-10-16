@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="8a4995da85-a941-f1ae-3640-06f612534a">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>Monochrome</data>
+      <data>ComicStudio journal</data>
+      <data>Thunder</data>
+      <data>Monochromatic_pattern</data>
+      <data>Effect_and_feeling</data>
+      <data>Dark_Loud_Tense_Anger</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

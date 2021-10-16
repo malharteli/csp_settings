@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="c2d50b9047-dc4b-febb-58e2-b41fc142c3">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Pop glitter 02</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a9d6ee13d3-894a-aa91-82fd-b082c87132">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1f50058f19-6b4d-8a88-338f-c8249e89cf">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Pop glitter 02</name>
+            <created_date>2016/06/21 10:07:30</created_date>
+            <modified_date>2016/06/21 10:07:30</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="94a8e1eb9f-2043-9580-9bbf-38c83ac313"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a71f4ad512-2d40-f0bd-46e5-7b9c4cb3a3"/>
+            </data>
+            <icedata>
+              <fileref idref="8066a60e37-b44e-bbb2-c3df-81fb0d816d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="8066a60e37-b44e-bbb2-c3df-81fb0d816d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="94a8e1eb9f-2043-9580-9bbf-38c83ac313" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="a71f4ad512-2d40-f0bd-46e5-7b9c4cb3a3" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

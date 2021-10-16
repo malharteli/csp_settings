@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>그림판</name>
+
+  <cloudcontentid>105358132</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2a77a8a2a5-6b4a-f2aa-c042-ff1917b546</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>66/46</subpath>
+
+  <basePath></basePath>
+
+  <size>80430</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-08-15 12:33:25</createdat>
+
+  <updatedat>2020-08-15 12:33:37</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

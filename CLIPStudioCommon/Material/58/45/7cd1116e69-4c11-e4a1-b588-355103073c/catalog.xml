@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="7cd1116e69-4c11-e4a1-b588-355103073c">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Grut-sandpaper-medium-300px</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2d3902ade0-5044-fbb8-f5fd-39fe20f97f">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f7b764cc2b-2444-f18e-8f3a-3bb967081c">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Grut-sandpaper-medium-300px</name>
+            <created_date>2020/12/14 01:33:22</created_date>
+            <modified_date>2020/12/14 01:33:22</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b45fb12e15-3a4d-3e9d-d1d1-fe0aeb2395"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9761d92f0f-f34f-37b5-777b-3f2363e101"/>
+            </data>
+            <icedata>
+              <fileref idref="e29fc0a6f9-104e-2e80-54bc-e2113bc81f"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="9761d92f0f-f34f-37b5-777b-3f2363e101" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="b45fb12e15-3a4d-3e9d-d1d1-fe0aeb2395" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="e29fc0a6f9-104e-2e80-54bc-e2113bc81f" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

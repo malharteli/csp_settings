@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>daub04</name>
+
+  <cloudcontentid>105358655</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>068399a718-1847-c190-5d0f-653c2d2d7f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>29/94</subpath>
+
+  <basePath></basePath>
+
+  <size>482168</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-08-15 12:38:46</createdat>
+
+  <updatedat>2020-08-15 12:38:59</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

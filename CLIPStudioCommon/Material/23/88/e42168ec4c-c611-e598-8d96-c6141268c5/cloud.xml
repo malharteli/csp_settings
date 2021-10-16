@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - skinny ocean</name>
+
+  <cloudcontentid>122221711</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e42168ec4c-c611-e598-8d96-c6141268c5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>23/88</subpath>
+
+  <basePath></basePath>
+
+  <size>255039</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:05:33</createdat>
+
+  <updatedat>2020-12-24 16:05:45</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Glumber</name>
+
+  <cloudcontentid>122220699</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4105b7c6f3-9411-e5b7-048b-fc8b834102</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>30/61</subpath>
+
+  <basePath></basePath>
+
+  <size>205909</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:52:37</createdat>
+
+  <updatedat>2020-12-24 15:52:50</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

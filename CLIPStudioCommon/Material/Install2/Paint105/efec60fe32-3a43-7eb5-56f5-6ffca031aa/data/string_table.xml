@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="CLIP STUDIO SERIES 1.5.0"/>
+
+  <string_data version="1.0.0">
+    <string data="Bookshelf_002" id="03be491f-c8c0-4d7f-9865-602214e825f6"/>
+    <string data="Mouse" id="0490af22-5ee9-4cfa-8faa-0bef2c18c1d9"/>
+    <string data="Pipe chair_003" id="094b79b6-190c-494c-abcd-08f07c53c45b"/>
+    <string data="Door" id="0ebaef8d-b8ad-4235-9620-06ee6d4337b7"/>
+    <string data="Ceiling" id="0f6511ee-e21e-4a51-86e3-9c930a01e7b5"/>
+    <string data="roomWindowside" id="0fb95908-5dc6-44c4-8082-4a49e1e63f75"/>
+    <string data="Accessories" id="2df5c874-156a-456f-bbe1-6ff8020fa5bd"/>
+    <string data="Whiteboard" id="32f3a032-2dd6-46d4-9f8d-01aee667420c"/>
+    <string data="Wall(roomEntrance)" id="341a3a36-f4cd-40fc-8887-3844464f7016"/>
+    <string data="Keyboard" id="3a490c0d-66e6-401c-a6da-06979b3f70ba"/>
+    <string data="PC group" id="43c6ce10-4187-4f4b-9970-83625d3ec207"/>
+    <string data="Wall(roomLeft)" id="45ae0cad-85a4-4151-9553-c615a7671974"/>
+    <string data="Glass_front" id="4bbc3717-a8ca-4758-adf1-baec0bdb494d"/>
+    <string data="roomRight" id="51abecf0-e2d9-483c-a2c7-5fc39b689393"/>
+    <string data="Root node" id="51d8d7ab-2cbe-4731-95de-a09689261b14"/>
+    <string data="Pipe chair_002" id="6b02c256-7fd7-4ea5-b5fb-cb9355d7f039"/>
+    <string data="Pipe chair_001" id="6f5efa20-da94-48e2-9a3b-f962b8e82349"/>
+    <string data="Wall(roomWindowside)" id="731f9e97-43e7-4d8e-8b13-c290ccb734e3"/>
+    <string data="Foldabledesk_001" id="78549765-8e84-4450-85b5-3d5bbec2f1c0"/>
+    <string data="Cardboardbox_002" id="95d8600d-1c1d-46c4-8944-68dafe84d631"/>
+    <string data="Shoebox" id="9c4422d5-27b1-461f-9f02-8cafc3a2fb58"/>
+    <string data="Calendar" id="b8267fcd-64db-4cfd-a23d-f07d34b72adb"/>
+    <string data="roomLeft" id="c79a2340-a9d6-479d-b64c-d22ae4cfc604"/>
+    <string data="Floor" id="c9c4e4d2-f445-41d3-82f7-f289e8dd7424"/>
+    <string data="roomEntrance" id="cc6ba667-2a27-4928-960d-c35f83623ff5"/>
+    <string data="Office desk" id="cd322134-7425-4f33-8c12-df0a98cadb09"/>
+    <string data="PC" id="ce606ca0-978d-4bc8-9308-98a7724ab363"/>
+    <string data="Blackboard" id="cee9891a-a071-4c99-94f4-768ed11cf63f"/>
+    <string data="Monitor" id="cfc378a1-89c4-41b4-b39e-6e5d0beaebe2"/>
+    <string data="Drawer" id="d9f4e728-f587-4fc6-93e8-a399da94971e"/>
+    <string data="Office desk set" id="dbe3008b-44ee-46a3-813d-21351f309b02"/>
+    <string data="Wall(roomRight)" id="e4f99fda-b5e3-4167-bd51-4133a32eb0e1"/>
+    <string data="Garbage can" id="e500c9f5-37af-498d-a367-a80fa18440d9"/>
+    <string data="Bookshelf_001" id="eb9ee4ff-56d6-4d51-ae50-abac19dbb0bb"/>
+    <string data="Foldabledesk_002" id="ee6eab30-1f67-4d78-bfad-106347c35d54"/>
+    <string data="Lights" id="f2a7369e-691e-4954-912c-7e58e03f079b"/>
+    <string data="Office chair" id="f2c2ecb6-8b03-452f-b46f-d03429620cd9"/>
+    <string data="Door" id="f2fb10ea-e1d8-4642-beef-ee1a41d67738"/>
+    <string data="Cardboardbox_001" id="f32520b5-2bf4-45ac-976b-0eda76da558a"/>
+    <string data="cultralclubRoom" id="fb700c71-58f4-48ab-b920-ffd645bcf2a7"/>
+  </string_data>
+
+</celsysdocument>

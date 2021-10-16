@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>100% 直線 L</name>
+
+  <cloudcontentid>1234</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9e9fdb00bd-f24d-9784-65ba-92e91e8fdb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint015</subpath>
+
+  <basePath>installation_material/34/12/1234</basePath>
+
+  <size>101039</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:46:43</createdat>
+
+  <updatedat>2016-07-13 15:46:45</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

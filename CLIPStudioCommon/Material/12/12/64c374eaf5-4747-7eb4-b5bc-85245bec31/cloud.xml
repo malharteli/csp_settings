@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Fabric C</name>
+
+  <cloudcontentid>102507274</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>64c374eaf5-4747-7eb4-b5bc-85245bec31</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>12/12</subpath>
+
+  <basePath></basePath>
+
+  <size>145086</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:31:50</createdat>
+
+  <updatedat>2020-07-20 23:32:03</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

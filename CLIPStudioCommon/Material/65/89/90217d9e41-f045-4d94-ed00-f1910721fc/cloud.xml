@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Paper</name>
+
+  <cloudcontentid>102506378</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>90217d9e41-f045-4d94-ed00-f1910721fc</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>65/89</subpath>
+
+  <basePath></basePath>
+
+  <size>459784</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:23:18</createdat>
+
+  <updatedat>2020-07-20 23:23:31</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

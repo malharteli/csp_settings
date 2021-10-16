@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>もにょ</name>
+
+  <cloudcontentid>142066138</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>13e6409958-dd45-b5bd-8a4b-25d7b4371d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>39/71</subpath>
+
+  <basePath></basePath>
+
+  <size>137621</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:29:44</createdat>
+
+  <updatedat>2021-05-09 15:29:56</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

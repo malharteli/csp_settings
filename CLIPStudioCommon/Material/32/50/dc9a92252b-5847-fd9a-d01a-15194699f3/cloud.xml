@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>내가만들었다2</name>
+
+  <cloudcontentid>102510129</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>dc9a92252b-5847-fd9a-d01a-15194699f3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>32/50</subpath>
+
+  <basePath></basePath>
+
+  <size>78870</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:01:53</createdat>
+
+  <updatedat>2020-07-21 00:02:04</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="df7773b7d4-df40-91aa-d0fd-4202e3cb5e">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.9.5"/>
+    <name>Layer 4</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0401b5a04e-1247-f5b1-0877-4a4486e776">
+        <tool company="celsys" name="paint" version="1.9.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="1f65dcd4fc-f848-aebf-6c55-e4fcc7be41">
+            <tool company="celsys" name="paint" version="1.9.5"/>
+            <type ver="1.0.1">image</type>
+            <name>seam</name>
+            <created_date>2020/04/03 23:22:45</created_date>
+            <modified_date>2020/04/03 23:23:13</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="0e3f6a4b89-444b-f2ae-5eb7-da69978d30"/>
+            </thumbnail>
+            <data>
+              <fileref idref="7c5ddd27b1-b845-739d-2bf7-638ef663b1"/>
+            </data>
+            <icedata>
+              <fileref idref="ffb1214943-7243-d586-8df8-06a3041d82"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0e3f6a4b89-444b-f2ae-5eb7-da69978d30" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="7c5ddd27b1-b845-739d-2bf7-638ef663b1" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="ffb1214943-7243-d586-8df8-06a3041d82" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

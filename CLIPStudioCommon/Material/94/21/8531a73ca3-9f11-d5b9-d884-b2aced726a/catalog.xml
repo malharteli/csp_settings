@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8531a73ca3-9f11-d5b9-d884-b2aced726a">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Oil Pastel Large</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="25dcc7bd7d-224f-f6bd-f18c-9157fa9767">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c4ec5e78e9-a049-ad87-5cd7-06b903ccb9">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Oil Pastel Large</name>
+            <created_date>2020/12/14 01:15:26</created_date>
+            <modified_date>2020/12/14 01:15:26</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="ac99e54fb1-d743-01a0-8379-da25698243"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c2f3da5d98-c14d-df99-5da8-8c45cd0460"/>
+            </data>
+            <icedata>
+              <fileref idref="ac92be3b8a-5342-1e86-ffa6-af9a9ff01f"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="ac92be3b8a-5342-1e86-ffa6-af9a9ff01f" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="ac99e54fb1-d743-01a0-8379-da25698243" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="c2f3da5d98-c14d-df99-5da8-8c45cd0460" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

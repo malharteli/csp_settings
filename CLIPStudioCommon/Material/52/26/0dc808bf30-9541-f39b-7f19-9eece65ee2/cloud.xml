@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>わた雲</name>
+
+  <cloudcontentid>102510583</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0dc808bf30-9541-f39b-7f19-9eece65ee2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>52/26</subpath>
+
+  <basePath></basePath>
+
+  <size>214674</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:06:49</createdat>
+
+  <updatedat>2020-07-21 00:07:01</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

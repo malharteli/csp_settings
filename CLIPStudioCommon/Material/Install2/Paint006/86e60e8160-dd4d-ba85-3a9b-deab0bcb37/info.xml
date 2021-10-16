@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="e55acae111-9e4f-79a5-cf06-f4224a061b">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>Seamless</data>
+      <data>Color</data>
+      <data>Color_pattern</data>
+      <data>Effect_and_feeling</data>
+      <data>Dark_Loud_Tense_Anger</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

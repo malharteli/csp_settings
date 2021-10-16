@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="24938d9f11-0641-309d-b947-cd65f7136d">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Recline</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="580556dcf7-5b4a-2fa9-c9e5-59a846dece">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f129a4735d-b045-bc85-a1c3-d25c67d1d8">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">pose</type>
+            <name>Recline</name>
+            <created_date>2016/06/21 10:06:46</created_date>
+            <modified_date>2016/06/21 10:06:46</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b23b6fc3c6-9045-d0ab-0b98-2ecbd98b12"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c0b266df5b-904e-5dbc-71c6-80270afe5d"/>
+            </data>
+            <icedata>
+              <fileref idref="183441dd8e-bb41-24a5-c1f5-9a64e8574d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="183441dd8e-bb41-24a5-c1f5-9a64e8574d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="b23b6fc3c6-9045-d0ab-0b98-2ecbd98b12" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="c0b266df5b-904e-5dbc-71c6-80270afe5d" mime="application/octet-stream">
+      <path>data/material.pose</path>
+    </file>
+  </files>
+
+</archive>

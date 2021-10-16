@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Wet-Brush1</name>
+
+  <cloudcontentid>142065192</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7a3deb4b0c-664c-bc82-f3f8-4786b9b2a2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>08/94</subpath>
+
+  <basePath></basePath>
+
+  <size>73144</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:22:56</createdat>
+
+  <updatedat>2021-05-09 15:23:07</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

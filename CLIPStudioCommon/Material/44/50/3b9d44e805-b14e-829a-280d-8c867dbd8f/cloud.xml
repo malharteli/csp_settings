@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>紙質/穴抜け</name>
+
+  <cloudcontentid>124536493</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>3b9d44e805-b14e-829a-280d-8c867dbd8f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>44/50</subpath>
+
+  <basePath></basePath>
+
+  <size>371245</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-08 13:59:02</createdat>
+
+  <updatedat>2021-01-08 13:59:14</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

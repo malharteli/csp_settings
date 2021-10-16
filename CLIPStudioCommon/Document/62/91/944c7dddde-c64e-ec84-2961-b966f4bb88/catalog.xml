@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="944c7dddde-c64e-ec84-2961-b966f4bb88">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Arcanum_CharacterPages</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="40074b08b1-d247-bc99-b291-67f852438f">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="93695b90e5-7240-e982-ce14-353364465c">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>Arcanum_CharacterPages</name>
+            <created_date>2021/08/21 02:26:37</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="bfbcca29cd-ee4d-2385-cee5-f2d1d35e80"/>
+            </thumbnail>
+            <data>
+              <fileref idref="cb62a29521-f24f-bcaf-cd5a-d8a6feb51a"/>
+            </data>
+            <icedata>
+              <fileref idref="a3c62594df-2c4f-498e-de01-2d7a18a082"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="a3c62594df-2c4f-498e-de01-2d7a18a082" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="bfbcca29cd-ee4d-2385-cee5-f2d1d35e80" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="cb62a29521-f24f-bcaf-cd5a-d8a6feb51a" mime="application/octet-stream">
+      <path>Arcanum_CharacterPages.clip</path>
+    </file>
+  </files>
+
+</archive>

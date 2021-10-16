@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="CLIP STUDIO SERIES 1.5.0"/>
+
+  <string_data version="1.0.0">
+    <string data="Entrance" id="1bd1a392-d106-4bc1-b5f4-413b04323b76"/>
+    <string data="Root node" id="51d8d7ab-2cbe-4731-95de-a09689261b14"/>
+    <string data="Ground" id="5e17af0e-f05f-4af4-9703-fd48b69d76a4"/>
+    <string data="Parking Area" id="772b282c-3723-4956-84e3-68941e4cbdc8"/>
+    <string data="Condo 01" id="8e04d170-30c5-46c2-8b1a-8bb7539cb88b"/>
+    <string data="Outside Wall" id="a1a75800-de1d-4657-bd4b-fd18d27b9b5b"/>
+    <string data="Condo" id="c50cfb4f-dab0-42c9-beba-47076feff01c"/>
+  </string_data>
+
+</celsysdocument>

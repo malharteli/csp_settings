@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - ThickIce</name>
+
+  <cloudcontentid>122217102</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>60c02b86d8-4e11-e6bf-0ff2-31989a430a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>67/48</subpath>
+
+  <basePath></basePath>
+
+  <size>699323</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:17:54</createdat>
+
+  <updatedat>2020-12-24 15:18:13</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

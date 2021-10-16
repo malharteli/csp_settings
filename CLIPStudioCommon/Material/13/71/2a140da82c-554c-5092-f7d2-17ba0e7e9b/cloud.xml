@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>bump_006_hightlights</name>
+
+  <cloudcontentid>123406740</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2a140da82c-554c-5092-f7d2-17ba0e7e9b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>13/71</subpath>
+
+  <basePath></basePath>
+
+  <size>152822</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:42:00</createdat>
+
+  <updatedat>2021-01-01 08:42:12</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

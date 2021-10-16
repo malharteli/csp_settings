@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8b95badf41-2b4a-12b0-6289-93f652efce">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.2"/>
+    <name>Burlap_512</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fa02838c1a-f743-9cb7-40df-53864406f4">
+        <tool company="celsys" name="paint" version="1.6.2"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="663241be60-4c4c-7db9-a092-f1db9c8bb7">
+            <tool company="celsys" name="paint" version="1.6.2"/>
+            <type ver="1.0.1">image</type>
+            <name>Burlap_512</name>
+            <created_date>2017/11/14 21:05:12</created_date>
+            <modified_date>2017/11/14 21:05:12</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="34cdc1456d-a646-60a2-3c99-a9c6a92645"/>
+            </thumbnail>
+            <data>
+              <fileref idref="659fffcf86-7e45-8981-5f72-8181aa153a"/>
+            </data>
+            <icedata>
+              <fileref idref="931c785fb3-0b43-c89d-4710-486e0715f8"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="34cdc1456d-a646-60a2-3c99-a9c6a92645" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="659fffcf86-7e45-8981-5f72-8181aa153a" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="931c785fb3-0b43-c89d-4710-486e0715f8" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

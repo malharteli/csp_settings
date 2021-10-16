@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="ca154fd5a9-1e46-1a8f-107b-b303f3488b">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="9f366d3ef1-3645-c397-1bc3-024c84872d">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="e7c1e45154-8b48-a3a7-5c6e-5a879b4cb8">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="8893b83be0-d744-b0ab-6631-4327c3acd6">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+</infolist>

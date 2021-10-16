@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b5bf0077d9-9f45-3a92-aabd-9e13de5bd7">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.2.7"/>
+    <name>brush tip shape</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a303f8ca48-0842-cdb2-7d3e-8d86c9483a">
+        <tool company="celsys" name="paint" version="1.2.7"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="bb911219bb-924b-96a3-dd36-b0e9ca2f8b">
+            <tool company="celsys" name="paint" version="1.2.7"/>
+            <type ver="1.0.0">image</type>
+            <name>brush tip shape</name>
+            <created_date>2019/07/01 01:50:24</created_date>
+            <modified_date>2019/07/01 01:50:24</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="a11c015f99-2542-71aa-be68-51cdedd8ea"/>
+            </thumbnail>
+            <data>
+              <fileref idref="7caad1bb9b-1f48-5b9f-5029-d08a7a780d"/>
+            </data>
+            <icedata>
+              <fileref idref="e8796a1579-d846-c7be-74cc-e97e6165a3"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="7caad1bb9b-1f48-5b9f-5029-d08a7a780d" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="a11c015f99-2542-71aa-be68-51cdedd8ea" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="e8796a1579-d846-c7be-74cc-e97e6165a3" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

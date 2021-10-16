@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>dp-SAI平筆 1 duo+</name>
+
+  <cloudcontentid>102511770</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>fe4901f78f-6f47-bca1-34ae-c5b1b72d8b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>25/81</subpath>
+
+  <basePath></basePath>
+
+  <size>236639</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:20:11</createdat>
+
+  <updatedat>2020-07-21 00:20:24</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Watercolor 2</name>
+
+  <cloudcontentid>142068281</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7805cd1347-c011-d990-9fc2-f05524432f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>75/03</subpath>
+
+  <basePath></basePath>
+
+  <size>127655</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:42:39</createdat>
+
+  <updatedat>2021-05-09 15:42:50</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

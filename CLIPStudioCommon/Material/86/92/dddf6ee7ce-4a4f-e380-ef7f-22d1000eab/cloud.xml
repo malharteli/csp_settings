@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Tilt Pad Tad_50%</name>
+
+  <cloudcontentid>102509276</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>dddf6ee7ce-4a4f-e380-ef7f-22d1000eab</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>86/92</subpath>
+
+  <basePath></basePath>
+
+  <size>156417</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:51:44</createdat>
+
+  <updatedat>2020-07-20 23:51:56</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

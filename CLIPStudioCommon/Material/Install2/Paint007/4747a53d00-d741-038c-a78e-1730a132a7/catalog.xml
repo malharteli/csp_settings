@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="4747a53d00-d741-038c-a78e-1730a132a7">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>*flowing* wreath, stipple</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="07cb5a5434-0444-208a-b8a5-417d0b2a3e">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2ce5fdc152-b748-58b5-2745-db5e01e8b4">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>*flowing* wreath, stipple</name>
+            <created_date>2016/06/21 10:07:24</created_date>
+            <modified_date>2016/06/21 10:07:24</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="d1c7bee4c2-2c49-1b8f-0f92-07644c19c6"/>
+            </thumbnail>
+            <data>
+              <fileref idref="3bd2cef721-cc4d-cf98-5887-2394a52df5"/>
+            </data>
+            <icedata>
+              <fileref idref="2971dd8059-d245-94b1-0610-51a8413225"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2971dd8059-d245-94b1-0610-51a8413225" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="3bd2cef721-cc4d-cf98-5887-2394a52df5" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="d1c7bee4c2-2c49-1b8f-0f92-07644c19c6" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

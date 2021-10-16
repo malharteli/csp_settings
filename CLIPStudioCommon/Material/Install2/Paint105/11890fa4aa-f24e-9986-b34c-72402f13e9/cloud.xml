@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>マンション入口-Ver.2</name>
+
+  <cloudcontentid>2924</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>11890fa4aa-f24e-9986-b34c-72402f13e9</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>other_3dmodel</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/24/29/2924</basePath>
+
+  <size>5012350</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2018-08-30 12:29:11</createdat>
+
+  <updatedat>2018-08-30 12:29:22</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="CLIP STUDIO SERIES 1.5.0"/>
+
+  <string_data version="1.0.0">
+    <string data="Windmill" id="43736cf5-7eee-4dfc-8098-201c1b27e05a"/>
+    <string data="Blade_001" id="47bcf9a9-7907-465f-878f-ab3866adfa80"/>
+    <string data="Root node" id="51d8d7ab-2cbe-4731-95de-a09689261b14"/>
+    <string data="Foundation" id="54c50ade-1caa-4960-b496-76a86307a581"/>
+    <string data="Blade_003" id="bfac4b5d-67ae-40a0-848a-66a124808db6"/>
+    <string data="Roof" id="c077957b-727f-462c-b5e6-e07fe8546c23"/>
+    <string data="Blade_002" id="d72799ba-e6c7-4f8d-b5ab-0cfcce3451e0"/>
+    <string data="Tower" id="f519829e-43ef-4a5b-8d11-9efb509db4ee"/>
+  </string_data>
+
+</celsysdocument>

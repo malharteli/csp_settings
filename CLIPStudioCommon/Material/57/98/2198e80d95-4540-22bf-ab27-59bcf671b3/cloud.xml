@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>CeramicTile</name>
+
+  <cloudcontentid>102504505</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2198e80d95-4540-22bf-ab27-59bcf671b3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>57/98</subpath>
+
+  <basePath></basePath>
+
+  <size>443894</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:07:08</createdat>
+
+  <updatedat>2020-07-20 23:07:20</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

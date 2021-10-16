@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>紙質/水彩用紙</name>
+
+  <cloudcontentid>124536337</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>fdd0c43e8a-2949-21ad-e6c1-be63e9d482</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>45/48</subpath>
+
+  <basePath></basePath>
+
+  <size>413867</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-08 13:57:34</createdat>
+
+  <updatedat>2021-01-08 13:57:47</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

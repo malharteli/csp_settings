@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="7f7a26e8c6-7248-53b7-279b-4fff07c579">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>*pouring...* horizontal</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9ee6797f8d-564d-7187-ae13-69c3cf7ba4">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fe847d148c-2b4c-0894-d6ae-53909a5cda">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>*pouring...* horizontal</name>
+            <created_date>2016/06/21 10:06:34</created_date>
+            <modified_date>2016/06/21 10:06:34</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="0203a5885d-074d-f7a5-212f-19f4be8dcd"/>
+            </thumbnail>
+            <data>
+              <fileref idref="39c83a7380-de41-7b8d-da79-a3b8703ae7"/>
+            </data>
+            <icedata>
+              <fileref idref="9f549ce4a2-f14c-23ac-a586-3a83d67dd7"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0203a5885d-074d-f7a5-212f-19f4be8dcd" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="39c83a7380-de41-7b8d-da79-a3b8703ae7" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="9f549ce4a2-f14c-23ac-a586-3a83d67dd7" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="3d3aea24dc-424f-c9b0-bf36-04bf4a71b4">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Sunset glow 01</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="bed90347b1-6042-f987-b346-6afc454b3a">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5c4854d4cb-8942-39a8-11a4-ab830f7de1">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Sunset glow 01</name>
+            <created_date>2016/06/21 10:07:12</created_date>
+            <modified_date>2016/06/21 10:07:12</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="02ede4b331-9946-518a-d014-076ba9d3bd"/>
+            </thumbnail>
+            <data>
+              <fileref idref="49afe67e64-0d4b-e49d-48fa-402b6744c3"/>
+            </data>
+            <icedata>
+              <fileref idref="98fda8a01e-2d4a-4c94-8fb2-8e3ea3606b"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="02ede4b331-9946-518a-d014-076ba9d3bd" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="49afe67e64-0d4b-e49d-48fa-402b6744c3" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="98fda8a01e-2d4a-4c94-8fb2-8e3ea3606b" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

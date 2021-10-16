@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="3a39931c30-6a4a-39a3-430f-0db59e518e">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>nozzle 06</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="76c5f3bd7f-aa43-ca91-7656-540b2a114f">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f5e53efd13-ca40-c7b5-8f0f-e245f2e8ed">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>nozzle 06</name>
+            <created_date>2018/07/23 12:37:24</created_date>
+            <modified_date>2018/07/23 12:37:24</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="bcfde197f6-c14c-b28c-5cfb-518d0859b3"/>
+            </thumbnail>
+            <data>
+              <fileref idref="70f1a2a9f2-3241-e3ab-7b27-bab8d5b249"/>
+            </data>
+            <icedata>
+              <fileref idref="13da56a709-6745-deb4-e7d6-794c1bc66d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="13da56a709-6745-deb4-e7d6-794c1bc66d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="70f1a2a9f2-3241-e3ab-7b27-bab8d5b249" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="bcfde197f6-c14c-b28c-5cfb-518d0859b3" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

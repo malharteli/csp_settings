@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>레이어 2</name>
+
+  <cloudcontentid>151514511</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6096b31f66-6649-aaa5-0a84-f261abbf87</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>12/04</subpath>
+
+  <basePath></basePath>
+
+  <size>123419</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-07-04 15:57:33</createdat>
+
+  <updatedat>2021-07-04 15:57:44</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="7500908a7f-bf45-bfbb-a1b2-9eb5da20b2">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.5.3"/>
+    <name>kettle</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0bd4c192c6-cd46-8289-5224-4fa58c096d">
+        <tool company="celsys" name="paint" version="1.5.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6d45946c11-934a-8c8a-a9d9-6b19338ff9">
+            <tool company="celsys" name="paint" version="1.5.3"/>
+            <type ver="1.0.1">image</type>
+            <name>kettle</name>
+            <created_date>2016/02/07 15:04:56</created_date>
+            <modified_date>2016/02/07 15:04:56</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="a976aee4a5-4341-e0b6-5269-1f9efca917"/>
+            </thumbnail>
+            <data>
+              <fileref idref="17cefd1dd1-074b-428d-3fc6-29d4420b1f"/>
+            </data>
+            <icedata>
+              <fileref idref="7e46392d98-8c4d-289a-81e6-d574b6730f"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="17cefd1dd1-074b-428d-3fc6-29d4420b1f" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="7e46392d98-8c4d-289a-81e6-d574b6730f" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="a976aee4a5-4341-e0b6-5269-1f9efca917" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

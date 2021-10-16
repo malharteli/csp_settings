@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="3d30b5adc7-7d42-a583-d4b2-8581802104">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.2.7"/>
+    <name>shabow__s_chain_brushes_by_shabow-d5psi80_40 Copy</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6fde46bc3f-0243-c79a-2cd3-1132902708">
+        <tool company="celsys" name="paint" version="1.2.7"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7986717d6d-c44f-9f8c-283e-c7400601cc">
+            <tool company="celsys" name="paint" version="1.2.7"/>
+            <type ver="1.0.0">image</type>
+            <name>Try2</name>
+            <created_date>2018/01/02 20:49:29</created_date>
+            <modified_date>2018/01/02 20:49:29</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="0e3550cf2a-f647-dd96-be07-8cdaf45562"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9f5e0c31b0-6748-19a7-3711-8641b5756e"/>
+            </data>
+            <icedata>
+              <fileref idref="3c544c3d0a-014a-f2a7-51c5-172ee6c4bc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0e3550cf2a-f647-dd96-be07-8cdaf45562" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="3c544c3d0a-014a-f2a7-51c5-172ee6c4bc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="9f5e0c31b0-6748-19a7-3711-8641b5756e" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

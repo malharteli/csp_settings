@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>デッサン鉛筆02</name>
+
+  <cloudcontentid>2919</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>cde62d1cda-3744-2f98-63d5-72c6e3f371</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint106</subpath>
+
+  <basePath>installation_material/19/29/2919</basePath>
+
+  <size>74610</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2017-11-13 12:06:38</createdat>
+
+  <updatedat>2017-11-13 12:06:41</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

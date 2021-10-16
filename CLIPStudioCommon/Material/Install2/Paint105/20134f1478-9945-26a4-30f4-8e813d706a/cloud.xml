@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>マンション01-Ver.2</name>
+
+  <cloudcontentid>2925</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>20134f1478-9945-26a4-30f4-8e813d706a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>other_3dmodel</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/25/29/2925</basePath>
+
+  <size>6426480</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2018-08-30 12:29:24</createdat>
+
+  <updatedat>2018-08-30 12:29:39</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

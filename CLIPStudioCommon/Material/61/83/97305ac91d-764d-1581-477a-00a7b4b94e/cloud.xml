@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Felt_HC_512</name>
+
+  <cloudcontentid>102505132</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>97305ac91d-764d-1581-477a-00a7b4b94e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>61/83</subpath>
+
+  <basePath></basePath>
+
+  <size>428196</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:12:52</createdat>
+
+  <updatedat>2020-07-20 23:13:05</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

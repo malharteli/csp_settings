@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>leak 09</name>
+
+  <cloudcontentid>102503886</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c155aea5fc-d444-d6b5-5d13-d719bfa5b8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>88/34</subpath>
+
+  <basePath></basePath>
+
+  <size>63695</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:01:15</createdat>
+
+  <updatedat>2020-07-20 23:01:27</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

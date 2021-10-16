@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Crm_wcとげとげ</name>
+
+  <cloudcontentid>165042379</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a379f6083d-2c4a-5a8d-15ec-7eeade3d5b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>62/43</subpath>
+
+  <basePath></basePath>
+
+  <size>87257</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-09-25 15:01:09</createdat>
+
+  <updatedat>2021-09-25 15:01:20</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

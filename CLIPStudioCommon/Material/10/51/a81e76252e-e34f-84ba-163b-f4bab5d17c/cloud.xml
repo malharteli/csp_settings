@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>WoodCharred_HC</name>
+
+  <cloudcontentid>102504229</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a81e76252e-e34f-84ba-163b-f4bab5d17c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>10/51</subpath>
+
+  <basePath></basePath>
+
+  <size>447778</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:04:48</createdat>
+
+  <updatedat>2020-07-20 23:05:01</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

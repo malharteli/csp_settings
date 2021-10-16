@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a7339c6149-ea4d-3b88-6204-37242a43a3">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.2"/>
+    <name>burnedWood_DAUB</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0d97e0dc1c-5746-6097-bd84-230bbc905a">
+        <tool company="celsys" name="paint" version="1.6.2"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d7738116e5-3645-c9a2-ded0-42889c1789">
+            <tool company="celsys" name="paint" version="1.6.2"/>
+            <type ver="1.0.1">image</type>
+            <name>burnedWood_DAUB</name>
+            <created_date>2017/11/06 21:00:18</created_date>
+            <modified_date>2017/11/06 21:00:18</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="8731b47edb-614c-64a3-2ae4-18a4527269"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a6b655e44b-8249-ee9f-e22a-69f6bcbc36"/>
+            </data>
+            <icedata>
+              <fileref idref="abdaa2b3da-c945-d4af-452b-9821abc05e"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="8731b47edb-614c-64a3-2ae4-18a4527269" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="a6b655e44b-8249-ee9f-e22a-69f6bcbc36" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="abdaa2b3da-c945-d4af-452b-9821abc05e" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>dp-flametex 3</name>
+
+  <cloudcontentid>102511209</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5476fccf45-694e-cf85-6527-43cc0b9b4b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>37/72</subpath>
+
+  <basePath></basePath>
+
+  <size>349406</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:13:45</createdat>
+
+  <updatedat>2020-07-21 00:13:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

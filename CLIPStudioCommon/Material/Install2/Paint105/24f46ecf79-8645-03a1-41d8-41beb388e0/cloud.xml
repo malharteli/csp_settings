@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>電車内観</name>
+
+  <cloudcontentid>1506</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>24f46ecf79-8645-03a1-41d8-41beb388e0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>room</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/06/15/1506</basePath>
+
+  <size>2590604</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-10-19 15:16:51</createdat>
+
+  <updatedat>2016-10-19 15:17:06</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

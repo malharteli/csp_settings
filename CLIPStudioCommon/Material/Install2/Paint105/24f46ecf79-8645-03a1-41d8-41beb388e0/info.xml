@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="1530f8e888-074b-fe97-bd68-7c27d4b91a"/>
+
+  <info uuid="c8a1c2f6-1b3d-42a2-8cdc-9f85c4a49eae">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>3D</data>
+      <data>Background</data>
+      <data>Vehicle</data>
+      <data>Interior</data>
+      <data>Pose_part</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

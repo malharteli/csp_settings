@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - tinysmatter</name>
+
+  <cloudcontentid>122220609</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b272deaa51-6d11-e59b-7ab5-60046e545e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>82/10</subpath>
+
+  <basePath></basePath>
+
+  <size>139824</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:51:33</createdat>
+
+  <updatedat>2020-12-24 15:51:45</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

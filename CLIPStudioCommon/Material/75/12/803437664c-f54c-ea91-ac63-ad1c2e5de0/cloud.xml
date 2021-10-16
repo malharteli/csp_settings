@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ネオン１</name>
+
+  <cloudcontentid>133814106</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>803437664c-f54c-ea91-ac63-ad1c2e5de0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>75/12</subpath>
+
+  <basePath></basePath>
+
+  <size>145304</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-03-11 23:05:01</createdat>
+
+  <updatedat>2021-03-11 23:05:12</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

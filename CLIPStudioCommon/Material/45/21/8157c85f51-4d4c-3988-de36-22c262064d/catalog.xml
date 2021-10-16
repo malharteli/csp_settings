@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8157c85f51-4d4c-3988-de36-22c262064d">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.6"/>
+    <name>prizum_maru_03</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="974b930d39-764c-e29a-6da7-37302aeae2">
+        <tool company="celsys" name="paint" version="1.6.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="63738ebd42-854d-99bb-e26a-fec551ba44">
+            <tool company="celsys" name="paint" version="1.6.6"/>
+            <type ver="1.0.1">image</type>
+            <name>prizum_○_03</name>
+            <created_date>2017/08/28 05:48:00</created_date>
+            <modified_date>2017/08/28 05:48:00</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="cc02a68a7a-3743-e2a5-a60d-eee4da96d2"/>
+            </thumbnail>
+            <data>
+              <fileref idref="083529063b-c440-4dbf-f0a2-eac18b45a5"/>
+            </data>
+            <icedata>
+              <fileref idref="94884a8890-0f42-47bb-2819-45ddfc0e0b"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="083529063b-c440-4dbf-f0a2-eac18b45a5" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="94884a8890-0f42-47bb-2819-45ddfc0e0b" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="cc02a68a7a-3743-e2a5-a60d-eee4da96d2" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

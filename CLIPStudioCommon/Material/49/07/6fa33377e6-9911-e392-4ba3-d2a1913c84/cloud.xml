@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - LightmoldLP</name>
+
+  <cloudcontentid>122219732</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6fa33377e6-9911-e392-4ba3-d2a1913c84</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>49/07</subpath>
+
+  <basePath></basePath>
+
+  <size>362128</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:43:24</createdat>
+
+  <updatedat>2020-12-24 15:43:40</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

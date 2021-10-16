@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>コンビニエンスストア</name>
+
+  <cloudcontentid>1509</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5615998f71-834a-e2a0-c9ea-29ace31b9c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>room</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/09/15/1509</basePath>
+
+  <size>3534191</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-10-19 15:17:37</createdat>
+
+  <updatedat>2016-10-19 15:17:51</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

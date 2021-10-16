@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="13d6c311d4-664e-5d87-0874-19ed23f3c0">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.12"/>
+    <name>Illustration2_PencilTests</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5a212f2470-e846-849a-50e4-98ec010dbe">
+        <tool company="celsys" name="paint" version="1.10.12"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fd8fa18ac9-7a4e-6b8b-cefc-254da7e082">
+            <tool company="celsys" name="paint" version="1.10.12"/>
+            <type ver="">clipstudioformat</type>
+            <name>Illustration2_PencilTests</name>
+            <created_date>2021/06/10 15:40:36</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="87e0cf58d2-8c40-69b6-dd9a-04b5ca9905"/>
+            </thumbnail>
+            <data>
+              <fileref idref="3436f7d02e-674b-d0b2-5a8e-e0c001a711"/>
+            </data>
+            <icedata>
+              <fileref idref="fd9cc4cbb1-2a4d-eead-fa3c-26232499b0"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="3436f7d02e-674b-d0b2-5a8e-e0c001a711" mime="application/octet-stream">
+      <path>Illustration2_PencilTests.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="87e0cf58d2-8c40-69b6-dd9a-04b5ca9905" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="fd9cc4cbb1-2a4d-eead-fa3c-26232499b0" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

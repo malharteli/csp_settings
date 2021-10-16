@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>女子学生A-Ver.3</name>
+
+  <cloudcontentid>1366</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c6f1ffba27-284c-4da9-1742-b1bedc2ac0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>character</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/66/13/1366</basePath>
+
+  <size>23105174</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 16:07:46</createdat>
+
+  <updatedat>2016-07-13 16:11:27</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

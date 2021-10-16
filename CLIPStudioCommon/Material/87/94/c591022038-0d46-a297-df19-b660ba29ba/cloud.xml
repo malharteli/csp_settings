@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grain</name>
+
+  <cloudcontentid>102506679</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c591022038-0d46-a297-df19-b660ba29ba</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>87/94</subpath>
+
+  <basePath></basePath>
+
+  <size>453851</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:25:56</createdat>
+
+  <updatedat>2020-07-20 23:26:08</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

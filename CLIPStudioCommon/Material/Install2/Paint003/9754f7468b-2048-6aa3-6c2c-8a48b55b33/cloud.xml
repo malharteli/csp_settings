@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>胸ぐらを掴む01</name>
+
+  <cloudcontentid>304</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9754f7468b-2048-6aa3-6c2c-8a48b55b33</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>pose</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint003</subpath>
+
+  <basePath>installation_material/04/03/304</basePath>
+
+  <size>124199</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:45:56</createdat>
+
+  <updatedat>2016-07-13 14:45:59</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

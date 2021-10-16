@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>薔薇葉01</name>
+
+  <cloudcontentid>3040</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ee9ddac7fa-2148-0cae-1ea3-05b0e53dfb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint110</subpath>
+
+  <basePath>installation_material/40/30/3040</basePath>
+
+  <size>169651</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-26 13:45:40</createdat>
+
+  <updatedat>2021-05-26 13:45:42</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

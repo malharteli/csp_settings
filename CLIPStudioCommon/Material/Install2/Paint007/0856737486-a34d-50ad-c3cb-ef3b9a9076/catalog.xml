@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="0856737486-a34d-50ad-c3cb-ef3b9a9076">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Disorganized tile</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="32331f2375-ac4e-e0b2-1259-e16ca5fd7f">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="09f46dbd30-9d49-7d9b-fc0f-ebc4184300">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Disorganized tile</name>
+            <created_date>2016/06/21 10:07:19</created_date>
+            <modified_date>2016/06/21 10:07:19</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="01ac492360-9845-4f8e-d4df-e35670b739"/>
+            </thumbnail>
+            <data>
+              <fileref idref="23847f0bb7-d442-c6ab-0020-71b150c7a3"/>
+            </data>
+            <icedata>
+              <fileref idref="8b714f7232-2b46-3398-54a2-f9cfe4aa02"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="01ac492360-9845-4f8e-d4df-e35670b739" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="23847f0bb7-d442-c6ab-0020-71b150c7a3" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="8b714f7232-2b46-3398-54a2-f9cfe4aa02" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

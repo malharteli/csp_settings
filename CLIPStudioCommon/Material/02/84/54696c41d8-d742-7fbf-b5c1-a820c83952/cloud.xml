@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Salt</name>
+
+  <cloudcontentid>102509540</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>54696c41d8-d742-7fbf-b5c1-a820c83952</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>02/84</subpath>
+
+  <basePath></basePath>
+
+  <size>205412</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:55:23</createdat>
+
+  <updatedat>2020-07-20 23:55:36</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>リアル鉛筆</name>
+
+  <cloudcontentid>2920</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d47386d5fc-684c-ab8f-8aeb-ab7ef384ed</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint106</subpath>
+
+  <basePath>installation_material/20/29/2920</basePath>
+
+  <size>237211</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2017-11-13 12:06:42</createdat>
+
+  <updatedat>2017-11-13 12:06:45</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

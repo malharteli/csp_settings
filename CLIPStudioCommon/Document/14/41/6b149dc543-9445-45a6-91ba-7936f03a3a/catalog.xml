@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="6b149dc543-9445-45a6-91ba-7936f03a3a">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>Comic</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7f5d589dc3-6846-eb95-fe3c-6822677427">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="36b9cb27d2-4948-4689-46fb-883e02aba5">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="">paintwork2</type>
+            <name>Comic</name>
+            <created_date>2021/05/21 16:44:06</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="c9e2d2d7ef-524b-3184-698a-8a60624787"/>
+            </thumbnail>
+            <data>
+              <fileref idref="859cebc493-a747-0499-0a00-1be26b5a0d"/>
+              <fileref idref="8c4a7886e5-2343-72a1-9888-1fc824aaee"/>
+              <fileref idref="210175aa7d-3d42-84b5-fefb-06098656e5"/>
+            </data>
+            <icedata>
+              <fileref idref="54a10be458-1143-80b4-981e-0b4814a1e6"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="210175aa7d-3d42-84b5-fefb-06098656e5" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="54a10be458-1143-80b4-981e-0b4814a1e6" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="859cebc493-a747-0499-0a00-1be26b5a0d" mime="application/octet-stream">
+      <path>Comic.cmc</path>
+    </file>
+    <file document="false" encrypt="true" id="8c4a7886e5-2343-72a1-9888-1fc824aaee" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="c9e2d2d7ef-524b-3184-698a-8a60624787" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

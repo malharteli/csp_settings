@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>chalkBristles</name>
+
+  <cloudcontentid>105358228</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a05c86e74c-4b44-dba8-9c48-63fb1fea37</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>49/51</subpath>
+
+  <basePath></basePath>
+
+  <size>231439</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-08-15 12:34:35</createdat>
+
+  <updatedat>2020-08-15 12:34:47</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

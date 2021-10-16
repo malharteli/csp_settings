@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>教室廊下01</name>
+
+  <cloudcontentid>1516</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e45550d167-7240-199f-d00e-3041e26a74</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>room</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/16/15/1516</basePath>
+
+  <size>23208309</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-10-19 15:20:15</createdat>
+
+  <updatedat>2016-10-19 15:21:03</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

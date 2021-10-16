@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.1.1</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="85918cfb3d-514a-b68e-bd8b-478a6863a5">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="modeler" version="1.6.3"/>
+    <name>Clubroom (liberal arts)</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2610c387-63f5-4231-b94d-2a4a72173dcc">
+        <tool company="celsys" name="modeler" version="1.6.3"/>
+        <type ver="1.0.0">room_v4</type>
+        <name>Clubroom (liberal arts)</name>
+        <created_date>2016/10/19 03:41:14</created_date>
+        <modified_date>2016/10/19 03:41:14</modified_date>
+        <required>0</required>
+        <permittool>
+          <cspdebut>1</cspdebut>
+        </permittool>
+        <export>
+          <exportable>1</exportable>
+        </export>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <thumbnail>
+          <fileref idref="37f4ba6c0e-f84a-58b8-23f4-a0e74339de"/>
+        </thumbnail>
+        <data>
+          <fileref idref="8168d886c2-a44b-a190-1639-c6db7a19d9"/>
+        </data>
+        <icedata>
+          <fileref idref="5b3b806668-a84d-be96-2333-aeb42a8d2d"/>
+        </icedata>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="62704657-04a1-4cac-b848-dd36e22a0ada">
+          <tool company="celsys" name="modeler" version="1.6.3"/>
+          <type ver="1.0.0">anglepreset</type>
+          <name>Angle</name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fa45853f-8eea-4ba7-b044-319d39bc8833">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Basic</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="c6ddd212d7-b44c-b080-8fb0-6ee0aa22e4"/>
+              </thumbnail>
+              <data>
+                <fileref idref="69251dfd85-4640-128b-d4be-b021395053"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fa7abf48-01fa-46ef-8b2c-beb5afbba7dc">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Entire1</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="ddd139cfeb-334e-14a3-ad8e-ecd0f56bbe"/>
+              </thumbnail>
+              <data>
+                <fileref idref="0d3e3dadda-fe44-aab9-87d6-030441f3e8"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="349d79d1-8b23-44b8-986a-05e512b9abe6">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Entire2</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="6efa9a4be2-364a-a987-ea99-85f0784a0a"/>
+              </thumbnail>
+              <data>
+                <fileref idref="2b5bb10f3e-dd47-4da5-9a9c-193371db7b"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d0b6d563-3f0c-4841-bc73-03296e858c55">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Window side</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="6aebe77bf0-b34f-4a98-0d0b-c0e8ea2402"/>
+              </thumbnail>
+              <data>
+                <fileref idref="9bc234341b-e84b-b5b5-c591-5c623ce911"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e712e3ee-7c2a-4f02-a2dc-6a1d00cea013">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Entrance</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="2ee40e7844-dc4a-3887-c471-a670320fed"/>
+              </thumbnail>
+              <data>
+                <fileref idref="0ed45fc4a1-6f48-7ea0-132d-aaef6351da"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c9d0df02-1a33-4539-9aaa-9092bd038dc6">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Bird's-eye view</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="b67828f830-c447-8fa1-085a-5fb8ea647d"/>
+              </thumbnail>
+              <data>
+                <fileref idref="1042b9a428-4840-b7bc-e64a-81e91446f3"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0b23d724-a677-4e05-8c61-8eb1fb28bd80">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Scene 1A</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="98006da911-de43-8bbb-2405-bb34852e8b"/>
+              </thumbnail>
+              <data>
+                <fileref idref="9abf8e760e-7741-95b6-4df2-9bd373db89"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b7342f41-a6c0-4c45-8eaf-3b265145aabe">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Scene 1B</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="2b584ead7d-884f-f59b-97e8-c217e84f9f"/>
+              </thumbnail>
+              <data>
+                <fileref idref="eda8d9d1ff-b94b-4fa2-2163-cdabc1bc08"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="890520c5-542f-47f6-b5b3-8511e505b425">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Scene 1C</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="9c0888f466-ec43-df8d-a2a9-4846c75290"/>
+              </thumbnail>
+              <data>
+                <fileref idref="edd4c3a90f-4346-f889-77c5-1cf3fe553d"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f771b79a-80f5-4c34-a04a-fee9bcda34b3">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Scene 1D</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="e88265c9d0-c846-e99a-9bf8-13ccdb0a3b"/>
+              </thumbnail>
+              <data>
+                <fileref idref="546d77947a-b64b-fab5-4cd6-4f7d89cbf4"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="97774da4-5a68-4729-b165-8337210dce77">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Scene 2A</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="3e4c914033-a343-9195-6c15-e76f577423"/>
+              </thumbnail>
+              <data>
+                <fileref idref="cdac1a4b82-7741-5994-145f-e08a57dc6c"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="36ddc1ad-c024-4720-a338-0d2a2672233a">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Scene 2B</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="7ce5f45fc0-ce4a-b9a3-c65b-db03ab99b7"/>
+              </thumbnail>
+              <data>
+                <fileref idref="42caf0b9f5-6741-02a1-6bee-3b6e37528c"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4bcd7c71-e2c9-4055-a02f-6f2d8545b2cb">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">anglepreset</type>
+              <name>Scene 2C</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="7b97c9bfa5-8a4e-939d-e367-54f5f6cc53"/>
+              </thumbnail>
+              <data>
+                <fileref idref="ee27a4c8c9-6144-828c-37ac-438931c1e4"/>
+              </data>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="074107b7-9e93-4ef3-a55d-a5c26e591b15">
+          <tool company="celsys" name="modeler" version="1.6.3"/>
+          <type ver="1.0.0">roommaterialpreset</type>
+          <name>Material</name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="57b38019-1509-444b-a241-6f08e76f6dc2">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">roommaterialpreset</type>
+              <name>Basic</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="bf9a63bedb-d149-5ea5-87c5-f3acd98079"/>
+              </thumbnail>
+              <data>
+                <fileref idref="26cb8a8c9b-eb4f-5a81-5880-634458c4a9"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7c0386dd-26a0-4f14-a08c-ec058d77aa96">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">roommaterialpreset</type>
+              <name>Cold color group</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="82db92eace-0f45-eb84-fc1f-59c780f30a"/>
+              </thumbnail>
+              <data>
+                <fileref idref="1d5bf006ce-474d-bfb5-8b74-0f0b78f3b8"/>
+              </data>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="39a0aa59-3411-4688-abb9-3f1b1c862bd9">
+          <tool company="celsys" name="modeler" version="1.6.3"/>
+          <type ver="1.0.0">layoutpreset</type>
+          <name>Layout</name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0efe07e1-4703-450d-9c16-f688bc5c22ed">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">layoutpreset</type>
+              <name>Basic</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="6b08c7a1cf-084a-bebf-3eb5-0b305a3463"/>
+              </thumbnail>
+              <data>
+                <fileref idref="669d8d0e06-b344-22b1-0f67-ce5a17ef5d"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d5821fe8-dff4-407a-8d25-0d93fbe13ee7">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">layoutpreset</type>
+              <name>Without Entrance</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="ea58f3546b-8043-b5a1-24de-3ed3676fef"/>
+              </thumbnail>
+              <data>
+                <fileref idref="32441dc308-6a4d-4cb9-66bb-852dc05883"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="22149565-8082-4a78-ae4d-b24bb4ee1aa8">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">layoutpreset</type>
+              <name>Without window side</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="5e63e05c32-2644-6097-dbee-2947d528d1"/>
+              </thumbnail>
+              <data>
+                <fileref idref="9cb28c490e-d240-d980-89e1-2a0fce4d73"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cdb02fe6-1b79-43a0-87f6-4c562d542e6f">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">layoutpreset</type>
+              <name>Without bookshelf side</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="3acf0f34d4-bd4c-feb9-9557-9bab0e06fd"/>
+              </thumbnail>
+              <data>
+                <fileref idref="eb186bf77f-974b-d080-e683-72e4288558"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="470d40d1-4591-4c26-b419-9b56e5233aa2">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">layoutpreset</type>
+              <name>Without blackboard side</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="67a2103a1f-1f44-7dab-2b0e-1399a53289"/>
+              </thumbnail>
+              <data>
+                <fileref idref="5271695671-e641-f2bf-f201-a54cebd616"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1fe190a5-3f00-44f9-be56-b56c5c993ea8">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">layoutpreset</type>
+              <name>Without ceiling</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="35325ff175-c441-a090-99cb-d861303a52"/>
+              </thumbnail>
+              <data>
+                <fileref idref="bc283b9b3c-ec45-a486-c640-c5fdc4ee0c"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8be486f7-befe-4ebb-9a03-72866b9ae6a5">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">layoutpreset</type>
+              <name>Another arrangement</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="7fe8949122-2b40-47be-325c-5b7860b17f"/>
+              </thumbnail>
+              <data>
+                <fileref idref="aaafadcf44-3d45-fc9b-65db-ce6cb3ce47"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b8b2b396-63db-4651-9de4-8fb4ddf604c7">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">layoutpreset</type>
+              <name>Scene 2</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="7eb411e1dc-594d-8fbb-43ce-8629480028"/>
+              </thumbnail>
+              <data>
+                <fileref idref="d5ac6a4cb5-854a-4a95-ca1e-df15124cc7"/>
+              </data>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="66e1bf68-693a-4173-b321-a92b458e6a60">
+          <tool company="celsys" name="modeler" version="1.6.3"/>
+          <type ver="1.0.0">movablepreset</type>
+          <name>Pose parts</name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f0888f31-f5be-4e38-b91a-f2e03962b34c">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">movablepreset</type>
+              <name>Entrance door</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="40160c5ad6-0b49-e884-ab5d-a36709b8e2"/>
+              </thumbnail>
+              <data>
+                <fileref idref="19e06f192c-fc4d-67be-773c-7bd937c0ac"/>
+              </data>
+            </item>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4d08827c-cf24-4c41-b589-118a516a03de">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">movablepreset</type>
+              <name>Office chair</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="6c79f035f4-bb4d-ebb4-b9de-63b029713b"/>
+              </thumbnail>
+              <data>
+                <fileref idref="59b248d655-a74a-d5b4-0ab5-f1a8606935"/>
+              </data>
+            </item>
+          </items>
+        </group>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="92710d83-9840-4c4e-a191-bcb746c02831">
+            <tool company="celsys" name="modeler" version="1.6.3"/>
+            <type ver="1.0.0">__dummy_89A7</type>
+            <name></name>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="0d3e3dadda-fe44-aab9-87d6-030441f3e8" mime="application/octet-stream">
+      <path>data/fa7abf48-01fa-46ef-8b2c-beb5afbba7dc</path>
+    </file>
+    <file document="false" encrypt="true" id="0ed45fc4a1-6f48-7ea0-132d-aaef6351da" mime="application/octet-stream">
+      <path>data/e712e3ee-7c2a-4f02-a2dc-6a1d00cea013</path>
+    </file>
+    <file document="false" encrypt="true" id="1042b9a428-4840-b7bc-e64a-81e91446f3" mime="application/octet-stream">
+      <path>data/c9d0df02-1a33-4539-9aaa-9092bd038dc6</path>
+    </file>
+    <file document="false" encrypt="true" id="19e06f192c-fc4d-67be-773c-7bd937c0ac" mime="application/octet-stream">
+      <path>data/f0888f31-f5be-4e38-b91a-f2e03962b34c</path>
+    </file>
+    <file document="false" encrypt="true" id="1d5bf006ce-474d-bfb5-8b74-0f0b78f3b8" mime="application/octet-stream">
+      <path>data/7c0386dd-26a0-4f14-a08c-ec058d77aa96</path>
+    </file>
+    <file document="false" encrypt="true" id="26cb8a8c9b-eb4f-5a81-5880-634458c4a9" mime="application/octet-stream">
+      <path>data/57b38019-1509-444b-a241-6f08e76f6dc2</path>
+    </file>
+    <file document="false" encrypt="false" id="2b584ead7d-884f-f59b-97e8-c217e84f9f" mime="image/png">
+      <path>thumbnail/b7342f41-a6c0-4c45-8eaf-3b265145aabe.png</path>
+    </file>
+    <file document="false" encrypt="true" id="2b5bb10f3e-dd47-4da5-9a9c-193371db7b" mime="application/octet-stream">
+      <path>data/349d79d1-8b23-44b8-986a-05e512b9abe6</path>
+    </file>
+    <file document="false" encrypt="false" id="2ee40e7844-dc4a-3887-c471-a670320fed" mime="image/png">
+      <path>thumbnail/e712e3ee-7c2a-4f02-a2dc-6a1d00cea013.png</path>
+    </file>
+    <file document="false" encrypt="true" id="32441dc308-6a4d-4cb9-66bb-852dc05883" mime="application/octet-stream">
+      <path>data/d5821fe8-dff4-407a-8d25-0d93fbe13ee7</path>
+    </file>
+    <file document="false" encrypt="false" id="35325ff175-c441-a090-99cb-d861303a52" mime="image/png">
+      <path>thumbnail/1fe190a5-3f00-44f9-be56-b56c5c993ea8.png</path>
+    </file>
+    <file document="false" encrypt="false" id="37f4ba6c0e-f84a-58b8-23f4-a0e74339de" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="3acf0f34d4-bd4c-feb9-9557-9bab0e06fd" mime="image/png">
+      <path>thumbnail/cdb02fe6-1b79-43a0-87f6-4c562d542e6f.png</path>
+    </file>
+    <file document="false" encrypt="false" id="3e4c914033-a343-9195-6c15-e76f577423" mime="image/png">
+      <path>thumbnail/97774da4-5a68-4729-b165-8337210dce77.png</path>
+    </file>
+    <file document="false" encrypt="false" id="40160c5ad6-0b49-e884-ab5d-a36709b8e2" mime="image/png">
+      <path>thumbnail/f0888f31-f5be-4e38-b91a-f2e03962b34c.png</path>
+    </file>
+    <file document="false" encrypt="true" id="42caf0b9f5-6741-02a1-6bee-3b6e37528c" mime="application/octet-stream">
+      <path>data/36ddc1ad-c024-4720-a338-0d2a2672233a</path>
+    </file>
+    <file document="false" encrypt="true" id="5271695671-e641-f2bf-f201-a54cebd616" mime="application/octet-stream">
+      <path>data/470d40d1-4591-4c26-b419-9b56e5233aa2</path>
+    </file>
+    <file document="false" encrypt="true" id="546d77947a-b64b-fab5-4cd6-4f7d89cbf4" mime="application/octet-stream">
+      <path>data/f771b79a-80f5-4c34-a04a-fee9bcda34b3</path>
+    </file>
+    <file document="false" encrypt="true" id="59b248d655-a74a-d5b4-0ab5-f1a8606935" mime="application/octet-stream">
+      <path>data/4d08827c-cf24-4c41-b589-118a516a03de</path>
+    </file>
+    <file document="false" encrypt="false" id="5b3b806668-a84d-be96-2333-aeb42a8d2d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="5e63e05c32-2644-6097-dbee-2947d528d1" mime="image/png">
+      <path>thumbnail/22149565-8082-4a78-ae4d-b24bb4ee1aa8.png</path>
+    </file>
+    <file document="false" encrypt="true" id="669d8d0e06-b344-22b1-0f67-ce5a17ef5d" mime="application/octet-stream">
+      <path>data/0efe07e1-4703-450d-9c16-f688bc5c22ed</path>
+    </file>
+    <file document="false" encrypt="false" id="67a2103a1f-1f44-7dab-2b0e-1399a53289" mime="image/png">
+      <path>thumbnail/470d40d1-4591-4c26-b419-9b56e5233aa2.png</path>
+    </file>
+    <file document="false" encrypt="true" id="69251dfd85-4640-128b-d4be-b021395053" mime="application/octet-stream">
+      <path>data/fa45853f-8eea-4ba7-b044-319d39bc8833</path>
+    </file>
+    <file document="false" encrypt="false" id="6aebe77bf0-b34f-4a98-0d0b-c0e8ea2402" mime="image/png">
+      <path>thumbnail/d0b6d563-3f0c-4841-bc73-03296e858c55.png</path>
+    </file>
+    <file document="false" encrypt="false" id="6b08c7a1cf-084a-bebf-3eb5-0b305a3463" mime="image/png">
+      <path>thumbnail/0efe07e1-4703-450d-9c16-f688bc5c22ed.png</path>
+    </file>
+    <file document="false" encrypt="false" id="6c79f035f4-bb4d-ebb4-b9de-63b029713b" mime="image/png">
+      <path>thumbnail/4d08827c-cf24-4c41-b589-118a516a03de.png</path>
+    </file>
+    <file document="false" encrypt="false" id="6efa9a4be2-364a-a987-ea99-85f0784a0a" mime="image/png">
+      <path>thumbnail/349d79d1-8b23-44b8-986a-05e512b9abe6.png</path>
+    </file>
+    <file document="false" encrypt="false" id="7b97c9bfa5-8a4e-939d-e367-54f5f6cc53" mime="image/png">
+      <path>thumbnail/4bcd7c71-e2c9-4055-a02f-6f2d8545b2cb.png</path>
+    </file>
+    <file document="false" encrypt="false" id="7ce5f45fc0-ce4a-b9a3-c65b-db03ab99b7" mime="image/png">
+      <path>thumbnail/36ddc1ad-c024-4720-a338-0d2a2672233a.png</path>
+    </file>
+    <file document="false" encrypt="false" id="7eb411e1dc-594d-8fbb-43ce-8629480028" mime="image/png">
+      <path>thumbnail/b8b2b396-63db-4651-9de4-8fb4ddf604c7.png</path>
+    </file>
+    <file document="false" encrypt="false" id="7fe8949122-2b40-47be-325c-5b7860b17f" mime="image/png">
+      <path>thumbnail/8be486f7-befe-4ebb-9a03-72866b9ae6a5.png</path>
+    </file>
+    <file document="false" encrypt="true" id="8168d886c2-a44b-a190-1639-c6db7a19d9" mime="application/octet-stream">
+      <path>data/2610c387-63f5-4231-b94d-2a4a72173dcc</path>
+    </file>
+    <file document="false" encrypt="false" id="82db92eace-0f45-eb84-fc1f-59c780f30a" mime="image/png">
+      <path>thumbnail/7c0386dd-26a0-4f14-a08c-ec058d77aa96.png</path>
+    </file>
+    <file document="false" encrypt="false" id="98006da911-de43-8bbb-2405-bb34852e8b" mime="image/png">
+      <path>thumbnail/0b23d724-a677-4e05-8c61-8eb1fb28bd80.png</path>
+    </file>
+    <file document="false" encrypt="true" id="9abf8e760e-7741-95b6-4df2-9bd373db89" mime="application/octet-stream">
+      <path>data/0b23d724-a677-4e05-8c61-8eb1fb28bd80</path>
+    </file>
+    <file document="false" encrypt="true" id="9bc234341b-e84b-b5b5-c591-5c623ce911" mime="application/octet-stream">
+      <path>data/d0b6d563-3f0c-4841-bc73-03296e858c55</path>
+    </file>
+    <file document="false" encrypt="false" id="9c0888f466-ec43-df8d-a2a9-4846c75290" mime="image/png">
+      <path>thumbnail/890520c5-542f-47f6-b5b3-8511e505b425.png</path>
+    </file>
+    <file document="false" encrypt="true" id="9cb28c490e-d240-d980-89e1-2a0fce4d73" mime="application/octet-stream">
+      <path>data/22149565-8082-4a78-ae4d-b24bb4ee1aa8</path>
+    </file>
+    <file document="false" encrypt="true" id="aaafadcf44-3d45-fc9b-65db-ce6cb3ce47" mime="application/octet-stream">
+      <path>data/8be486f7-befe-4ebb-9a03-72866b9ae6a5</path>
+    </file>
+    <file document="false" encrypt="false" id="b67828f830-c447-8fa1-085a-5fb8ea647d" mime="image/png">
+      <path>thumbnail/c9d0df02-1a33-4539-9aaa-9092bd038dc6.png</path>
+    </file>
+    <file document="false" encrypt="true" id="bc283b9b3c-ec45-a486-c640-c5fdc4ee0c" mime="application/octet-stream">
+      <path>data/1fe190a5-3f00-44f9-be56-b56c5c993ea8</path>
+    </file>
+    <file document="false" encrypt="false" id="bf9a63bedb-d149-5ea5-87c5-f3acd98079" mime="image/png">
+      <path>thumbnail/57b38019-1509-444b-a241-6f08e76f6dc2.png</path>
+    </file>
+    <file document="false" encrypt="false" id="c6ddd212d7-b44c-b080-8fb0-6ee0aa22e4" mime="image/png">
+      <path>thumbnail/fa45853f-8eea-4ba7-b044-319d39bc8833.png</path>
+    </file>
+    <file document="false" encrypt="true" id="cdac1a4b82-7741-5994-145f-e08a57dc6c" mime="application/octet-stream">
+      <path>data/97774da4-5a68-4729-b165-8337210dce77</path>
+    </file>
+    <file document="false" encrypt="true" id="d5ac6a4cb5-854a-4a95-ca1e-df15124cc7" mime="application/octet-stream">
+      <path>data/b8b2b396-63db-4651-9de4-8fb4ddf604c7</path>
+    </file>
+    <file document="false" encrypt="false" id="ddd139cfeb-334e-14a3-ad8e-ecd0f56bbe" mime="image/png">
+      <path>thumbnail/fa7abf48-01fa-46ef-8b2c-beb5afbba7dc.png</path>
+    </file>
+    <file document="false" encrypt="false" id="e88265c9d0-c846-e99a-9bf8-13ccdb0a3b" mime="image/png">
+      <path>thumbnail/f771b79a-80f5-4c34-a04a-fee9bcda34b3.png</path>
+    </file>
+    <file document="false" encrypt="false" id="ea58f3546b-8043-b5a1-24de-3ed3676fef" mime="image/png">
+      <path>thumbnail/d5821fe8-dff4-407a-8d25-0d93fbe13ee7.png</path>
+    </file>
+    <file document="false" encrypt="true" id="eb186bf77f-974b-d080-e683-72e4288558" mime="application/octet-stream">
+      <path>data/cdb02fe6-1b79-43a0-87f6-4c562d542e6f</path>
+    </file>
+    <file document="false" encrypt="true" id="eda8d9d1ff-b94b-4fa2-2163-cdabc1bc08" mime="application/octet-stream">
+      <path>data/b7342f41-a6c0-4c45-8eaf-3b265145aabe</path>
+    </file>
+    <file document="false" encrypt="true" id="edd4c3a90f-4346-f889-77c5-1cf3fe553d" mime="application/octet-stream">
+      <path>data/890520c5-542f-47f6-b5b3-8511e505b425</path>
+    </file>
+    <file document="false" encrypt="true" id="ee27a4c8c9-6144-828c-37ac-438931c1e4" mime="application/octet-stream">
+      <path>data/4bcd7c71-e2c9-4055-a02f-6f2d8545b2cb</path>
+    </file>
+  </files>
+
+</archive>

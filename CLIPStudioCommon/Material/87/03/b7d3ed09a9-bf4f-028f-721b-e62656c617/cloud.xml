@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>kurop_水彩にじみ</name>
+
+  <cloudcontentid>142065435</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b7d3ed09a9-bf4f-028f-721b-e62656c617</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>87/03</subpath>
+
+  <basePath></basePath>
+
+  <size>318559</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:24:49</createdat>
+
+  <updatedat>2021-05-09 15:25:02</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

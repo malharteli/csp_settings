@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>リアルGペン</name>
+
+  <cloudcontentid>2921</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>eca61604e8-b349-45a9-5a90-c8eb959a02</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint106</subpath>
+
+  <basePath>installation_material/21/29/2921</basePath>
+
+  <size>106843</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2017-11-13 12:06:46</createdat>
+
+  <updatedat>2017-11-13 12:06:48</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

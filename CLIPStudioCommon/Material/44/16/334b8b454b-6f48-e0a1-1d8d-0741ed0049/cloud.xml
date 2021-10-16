@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>DAUB_paper_013</name>
+
+  <cloudcontentid>123406715</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>334b8b454b-6f48-e0a1-1d8d-0741ed0049</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>44/16</subpath>
+
+  <basePath></basePath>
+
+  <size>151131</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:40:41</createdat>
+
+  <updatedat>2021-01-01 08:40:53</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

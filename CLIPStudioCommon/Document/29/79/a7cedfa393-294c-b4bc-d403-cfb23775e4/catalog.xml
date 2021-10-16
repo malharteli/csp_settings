@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a7cedfa393-294c-b4bc-d403-cfb23775e4">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.12"/>
+    <name>Comic4</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8dab4f45a5-9043-a5a7-8c6f-7b92666550">
+        <tool company="celsys" name="paint" version="1.10.12"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e1d9dc1bb3-2f4a-25b6-ce16-faed2bb9c4">
+            <tool company="celsys" name="paint" version="1.10.12"/>
+            <type ver="">paintwork2</type>
+            <name>Comic4</name>
+            <created_date>2021/06/10 03:20:38</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f69249c2cb-d14d-9496-5ce8-42b2f90cc9"/>
+            </thumbnail>
+            <data>
+              <fileref idref="d382255981-b84e-99b1-1435-8dfe098c0d"/>
+              <fileref idref="09bed8d90f-8c4d-0f88-0887-1db518e6c2"/>
+              <fileref idref="6306c69a91-b849-b597-6e98-ff67765767"/>
+              <fileref idref="c0dc3e40ad-7745-06b2-d978-5f2fd9a81f"/>
+            </data>
+            <icedata>
+              <fileref idref="9f8d4bab54-0e49-25b2-7c44-0067049904"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="09bed8d90f-8c4d-0f88-0887-1db518e6c2" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="6306c69a91-b849-b597-6e98-ff67765767" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="9f8d4bab54-0e49-25b2-7c44-0067049904" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="c0dc3e40ad-7745-06b2-d978-5f2fd9a81f" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="d382255981-b84e-99b1-1435-8dfe098c0d" mime="application/octet-stream">
+      <path>Comic4.cmc</path>
+    </file>
+    <file document="false" encrypt="false" id="f69249c2cb-d14d-9496-5ce8-42b2f90cc9" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

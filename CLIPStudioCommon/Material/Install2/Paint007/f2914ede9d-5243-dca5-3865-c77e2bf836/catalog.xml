@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="f2914ede9d-5243-dca5-3865-c77e2bf836">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>White cross-hatching circle</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="dfd80c5858-2d45-6899-e0da-f16ac6e74d">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="90cbfe0e60-c346-7ead-e43d-7dc82867de">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>White cross-hatching circle</name>
+            <created_date>2016/06/21 10:07:33</created_date>
+            <modified_date>2016/06/21 10:07:33</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="887d63dd8a-ee45-c79c-2b05-c825794588"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c91e3e4048-d643-69b2-a295-5c8852167a"/>
+            </data>
+            <icedata>
+              <fileref idref="2fd34e2e60-5b40-2cba-101b-b8b65b2204"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2fd34e2e60-5b40-2cba-101b-b8b65b2204" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="887d63dd8a-ee45-c79c-2b05-c825794588" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="c91e3e4048-d643-69b2-a295-5c8852167a" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

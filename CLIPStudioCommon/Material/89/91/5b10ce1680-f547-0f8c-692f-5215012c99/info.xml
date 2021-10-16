@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="5b10ce1680-f547-0f8c-692f-5215012c99">
+    <datalist key="lead">
+      <data>細かいノイズのテクスチャがかかった、アナログっぽいかもしれない水彩ブラシとテクスチャのセットです。
+大変長らくお待たせしました！！(？)デュアルブラシ機能を使用したブラシと、半年間作ってはためていた(本来はボツにしようとした)平筆ブラシを追加しました！</data>
+    </datalist>
+    <datalist key="tag">
+      <data>水彩</data>
+      <data>水彩風</data>
+      <data>アナログ</data>
+      <data>アナログ風</data>
+      <data>リアル</data>
+      <data>ブラシ</data>
+      <data>テクスチャ</data>
+      <data>にじみ</data>
+      <data>滲み</data>
+      <data>色ムラ</data>
+      <data>デュアルブラシ</data>
+      <data>brush</data>
+      <data>watercolor</data>
+      <data>analog</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data>多分1年くらい前(日付忘れた):Ver.1をアップロード
+2020/07/05:Ver.2へアップデート(素材の追加、一部ブラシのパラメータの変更、解説・使用例の差し替え)
+2020/12/10:Ver.2.5へアップデート(色の変化パラメータを使用したブラシと使用例の追加)
+2020/12/11:解説を編集
+2021/06/01:Ver.3へアップデート(デュアルブラシを使用したブラシを追加、平筆バージョンを追加、一部ブラシのパラメータの変更、解説・使用例の差し替え)</data>
+    </datalist>
+  </info>
+
+  <info uuid="7be5effc88-6448-9e97-4e00-f5e2762018">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="0493e33097-e74d-99b4-50ae-3b2c9f8cff">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="a077e1af79-4443-ccab-2cf4-c24696c5c7">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="566e9b7197-0742-daa0-ec6d-cc20180a5c">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="827a410866-6e4a-8abc-0aed-f6ad9d2c32">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="22962d3f70-ef4b-c7b1-04df-996e5d9976">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="481cb70129-1848-9890-287a-d0c92833a3">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="e81970f8b9-844b-2aa2-393b-105eadfdf5">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="58354043f8-5a43-82bb-09e3-ed29f01044">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="2c7ff175d1-5a45-ec84-7777-c301f523a9">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="6d872d897a-0d4c-9893-8c47-af2513d506">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="51766a1ca0-3a46-a8a2-adab-f9550e145e">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="0387a25134-064c-0caa-bad8-09eadbe02d">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="c3a0e7f162-7043-61aa-7b36-626786cf84">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="d30c132bff-3d45-5abe-becb-0b281f2c75">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="a20ef8785a-054f-2984-d28f-e0095cc04d">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="b510aec984-f949-b1ab-975d-74d0b006c4">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="8fca183502-6040-5da7-6df8-ec1dec899c">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="25b298b012-6a4a-55b5-12c1-08442694cb">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="a9931858ab-ae4e-2d83-6ee6-32334aae17">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="753285f70f-424f-6085-56c4-3da2f9723b">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="f2fcd64289-f841-3e9f-ad5b-c501f0529f">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="f5d8f72a7b-b54a-a785-47b5-a31db47737">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="6b7f1b61bb-204a-1299-e806-a0f34f8986">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="e7e780dd96-7346-c882-0801-b82da340e8">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="e735280dce-ce44-b2b1-87ae-6e7bbeeb2b">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="09f97e05f1-fc47-9a99-04d5-635b3f51a7">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="ec3445f38c-b34f-74bf-4fb0-921366b9ae">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="d92eeaad18-2742-97b9-3981-4446fca62e">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="964f3a2aa3-9d49-da87-b324-2ee53b6bc1">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>水彩</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+  <info uuid="e25bf40d45-754d-bdaa-9cde-cb0bb53819">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>軽目水彩</data>
+      <data>Crm</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

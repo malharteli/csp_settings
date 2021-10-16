@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>3Dデッサン人形（女性）</name>
+
+  <cloudcontentid>380</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c578db10b5-4747-818b-f85c-8e76daf03d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>proportion</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint004</subpath>
+
+  <basePath>installation_material/80/03/380</basePath>
+
+  <size>65655</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:50:22</createdat>
+
+  <updatedat>2016-07-13 14:50:24</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

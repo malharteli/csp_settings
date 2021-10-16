@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>学校外観</name>
+
+  <cloudcontentid>1514</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>aefd8dc2fc-014d-c7aa-516f-feba2ea89f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>room</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/14/15/1514</basePath>
+
+  <size>19024682</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-10-19 15:18:59</createdat>
+
+  <updatedat>2016-10-19 15:19:42</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

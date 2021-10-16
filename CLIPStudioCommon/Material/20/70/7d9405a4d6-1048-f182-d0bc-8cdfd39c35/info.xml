@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="63828db9b0-2546-63ad-0af1-3f0cfd85df">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>diceproj</data>
+      <data>Ruins</data>
+      <data>Silhouette</data>
+      <data>廃墟</data>
+      <data>シルエット</data>
+      <data>アブストラクト</data>
+      <data>Abstract</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

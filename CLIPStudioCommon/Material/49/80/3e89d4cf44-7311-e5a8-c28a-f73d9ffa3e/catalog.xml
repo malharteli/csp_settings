@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="3e89d4cf44-7311-e5a8-c28a-f73d9ffa3e">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Grut - IntermittentFlats</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7b080b0c0b-4b40-96b3-7ebc-59a3c579f2">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="dd8fef3ba6-3948-4d88-d559-5606511b4f">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Grut - IntermittentFlats</name>
+            <created_date>2020/12/14 01:35:06</created_date>
+            <modified_date>2020/12/14 01:35:06</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="dd98ed0218-de4e-68a2-1e03-b7c377a3ce"/>
+            </thumbnail>
+            <data>
+              <fileref idref="fb11616c06-5d4e-eca2-e3e6-045001940e"/>
+            </data>
+            <icedata>
+              <fileref idref="766599fc00-174f-b390-e10a-20d8d9a0cb"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="766599fc00-174f-b390-e10a-20d8d9a0cb" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="dd98ed0218-de4e-68a2-1e03-b7c377a3ce" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="fb11616c06-5d4e-eca2-e3e6-045001940e" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

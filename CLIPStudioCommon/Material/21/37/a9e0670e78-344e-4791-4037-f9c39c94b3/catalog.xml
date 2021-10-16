@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a9e0670e78-344e-4791-4037-f9c39c94b3">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.0"/>
+    <name>水染み4</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7b6588c9a4-ea43-9bb4-5e7b-18f6b78564">
+        <tool company="celsys" name="paint" version="1.6.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="49fb6f934e-e144-30b2-bac2-e804c8f7b0">
+            <tool company="celsys" name="paint" version="1.6.0"/>
+            <type ver="1.0.1">image</type>
+            <name>水染み4</name>
+            <created_date>2016/08/19 13:44:35</created_date>
+            <modified_date>2016/08/19 13:44:35</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="de4dad4872-c547-da88-496a-e334004e58"/>
+            </thumbnail>
+            <data>
+              <fileref idref="cf7ca531bb-2b49-b3aa-5ec4-563124a4a1"/>
+            </data>
+            <icedata>
+              <fileref idref="b6df714ba4-7941-eea0-ae07-9e6480a4e1"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="b6df714ba4-7941-eea0-ae07-9e6480a4e1" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="cf7ca531bb-2b49-b3aa-5ec4-563124a4a1" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="de4dad4872-c547-da88-496a-e334004e58" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

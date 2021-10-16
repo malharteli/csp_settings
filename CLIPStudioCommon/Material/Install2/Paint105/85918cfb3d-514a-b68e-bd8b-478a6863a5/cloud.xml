@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>部室(文化部)</name>
+
+  <cloudcontentid>1510</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>85918cfb3d-514a-b68e-bd8b-478a6863a5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>room</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/10/15/1510</basePath>
+
+  <size>3008917</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-10-19 15:17:52</createdat>
+
+  <updatedat>2016-10-19 15:18:13</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

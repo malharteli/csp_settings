@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ad9427e6a0-6549-adb4-9801-2a63fb49c8">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>lolopechka</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="648be176ff-ec4c-4381-3c54-6c00653539">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8983eb03e1-b34b-cf93-8fd7-32a5225cfe">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>lolopechka</name>
+            <created_date>2021/07/02 18:23:10</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="9830d1c4c2-cd47-27a4-f085-b69aab3a0f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f8a859f339-734f-aaad-a225-37c538f74d"/>
+            </data>
+            <icedata>
+              <fileref idref="d498c87890-cb4c-dbbd-8b50-da2d791f39"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="9830d1c4c2-cd47-27a4-f085-b69aab3a0f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="d498c87890-cb4c-dbbd-8b50-da2d791f39" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="f8a859f339-734f-aaad-a225-37c538f74d" mime="application/octet-stream">
+      <path>lolopechka.clip</path>
+    </file>
+  </files>
+
+</archive>

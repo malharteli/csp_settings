@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>漆喰</name>
+
+  <cloudcontentid>110353469</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>61474da25c-fb42-90be-2bdf-8fb99e9a7c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>59/71</subpath>
+
+  <basePath></basePath>
+
+  <size>525404</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-09-23 10:25:15</createdat>
+
+  <updatedat>2020-09-23 10:25:30</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

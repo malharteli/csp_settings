@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="16cab44a34-3042-319e-6bb5-194a2ab6cb">
+    <datalist key="lead">
+      <data>연필 질감을 가진 브러쉬입니다. 
+(4) 가벼운 낙서 용으로 편하게 그리려고 만든 펜입니다.
+
+
+사용 예시</data>
+    </datalist>
+    <datalist key="tag">
+      <data>연필</data>
+      <data>늠냐</data>
+      <data>브러쉬</data>
+      <data>펜</data>
+      <data>연필펜</data>
+      <data>pencil</data>
+      <data>brush</data>
+      <data>sketch</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+  <info uuid="6031d85a1f-374d-c3ad-6426-98d5d6481e">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="53610c9be5-3d48-2bb7-0244-ff82bef920">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="fd3fba190a-c44b-23a7-824f-9646f04dd9">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="d79066056c-eb41-a2b1-4858-0e82d2c83e">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+</infolist>

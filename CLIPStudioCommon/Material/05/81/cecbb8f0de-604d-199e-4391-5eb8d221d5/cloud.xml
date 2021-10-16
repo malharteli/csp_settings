@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>spongey</name>
+
+  <cloudcontentid>123410205</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>cecbb8f0de-604d-199e-4391-5eb8d221d5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>05/81</subpath>
+
+  <basePath></basePath>
+
+  <size>398285</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 09:30:55</createdat>
+
+  <updatedat>2021-01-01 09:31:15</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

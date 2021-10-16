@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>PaperRough</name>
+
+  <cloudcontentid>102506333</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0199ee77c1-ff48-acb9-06e1-2e3155eb00</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>95/76</subpath>
+
+  <basePath></basePath>
+
+  <size>438921</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:23:01</createdat>
+
+  <updatedat>2020-07-20 23:23:14</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

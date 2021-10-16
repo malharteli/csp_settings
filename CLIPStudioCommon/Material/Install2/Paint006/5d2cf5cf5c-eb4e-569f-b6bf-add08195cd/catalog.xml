@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5d2cf5cf5c-eb4e-569f-b6bf-add08195cd">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Walling brick wall 02_IS</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="28eda51201-7a42-1386-6225-f7865fcf2d">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4009ffa0e3-3349-4c85-825c-ab7191cded">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Walling brick wall 02_IS</name>
+            <created_date>2016/06/21 10:07:13</created_date>
+            <modified_date>2016/06/21 10:07:13</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1c7ce86f7b-8c40-20a0-d226-cbfc3c43cc"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9ef5a1a47b-8540-4081-0185-7ac328e8fa"/>
+            </data>
+            <icedata>
+              <fileref idref="2fbe7ef625-1648-2a89-f16c-fbc96bff63"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1c7ce86f7b-8c40-20a0-d226-cbfc3c43cc" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="2fbe7ef625-1648-2a89-f16c-fbc96bff63" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="9ef5a1a47b-8540-4081-0185-7ac328e8fa" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

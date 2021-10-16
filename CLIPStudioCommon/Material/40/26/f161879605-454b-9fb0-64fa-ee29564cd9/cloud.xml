@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>[소재추가] check brush▣</name>
+
+  <cloudcontentid>133747558</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f161879605-454b-9fb0-64fa-ee29564cd9</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>catalog</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>40/26</subpath>
+
+  <basePath></basePath>
+
+  <size>36532354</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-03-11 14:35:18</createdat>
+
+  <updatedat>2021-03-11 14:39:37</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - cat-scratch</name>
+
+  <cloudcontentid>122219391</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>22c617eab5-5711-e39d-b387-c92488ddbe</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>19/43</subpath>
+
+  <basePath></basePath>
+
+  <size>158457</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:40:49</createdat>
+
+  <updatedat>2020-12-24 15:41:03</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

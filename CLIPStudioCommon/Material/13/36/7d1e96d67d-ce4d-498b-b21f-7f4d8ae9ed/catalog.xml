@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="7d1e96d67d-ce4d-498b-b21f-7f4d8ae9ed">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>漆喰</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="af4e19d8e8-5547-d690-4214-0802d18621">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="488092fcd3-2b40-fea8-c02b-19cd471b83">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>漆喰</name>
+            <created_date>2017/11/07 01:22:31</created_date>
+            <modified_date>2017/11/07 01:22:31</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="76a2eb2f7d-dc42-5a98-ffd2-579b47b199"/>
+            </thumbnail>
+            <data>
+              <fileref idref="fdd3ed93b6-8c4e-2388-a96f-5817e49ad0"/>
+            </data>
+            <icedata>
+              <fileref idref="071f873f7e-dd46-ec80-c066-7f6fe1c1fa"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="071f873f7e-dd46-ec80-c066-7f6fe1c1fa" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="76a2eb2f7d-dc42-5a98-ffd2-579b47b199" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="fdd3ed93b6-8c4e-2388-a96f-5817e49ad0" mime="">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

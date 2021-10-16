@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="4eebfc2ccd-6643-ac94-d73e-93df1d25cc">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>SpringJavaNotes</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c13ad987b2-6a42-a1ab-e213-5abb980827">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9363fbd498-c14c-21aa-ea97-66afe5b264">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>SpringJavaNotes</name>
+            <created_date>2021/08/09 03:22:03</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="95d4961a9f-d84c-2692-46ea-64a1668a90"/>
+            </thumbnail>
+            <data>
+              <fileref idref="5f16947713-2e4d-54af-f3d1-7efae386a1"/>
+            </data>
+            <icedata>
+              <fileref idref="078ce11c0c-f248-13aa-f002-ac45315a48"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="078ce11c0c-f248-13aa-f002-ac45315a48" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="5f16947713-2e4d-54af-f3d1-7efae386a1" mime="application/octet-stream">
+      <path>SpringJavaNotes.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="95d4961a9f-d84c-2692-46ea-64a1668a90" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

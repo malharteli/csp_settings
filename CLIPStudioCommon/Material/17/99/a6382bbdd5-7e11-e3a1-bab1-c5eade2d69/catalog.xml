@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a6382bbdd5-7e11-e3a1-bab1-c5eade2d69">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Grut - Papercanvas lowedge</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="bb72815e9f-5044-cabd-15ed-edbfdddf10">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f61d5f249c-9249-5884-b0f8-17fd8f5f61">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Grut - Papercanvas lowedge</name>
+            <created_date>2020/12/14 01:32:26</created_date>
+            <modified_date>2020/12/14 01:32:26</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f2b90b61d8-d54c-53b3-3735-a746cea2db"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6daa8c4613-1240-e091-865a-2b63e14a14"/>
+            </data>
+            <icedata>
+              <fileref idref="bf79de708d-de44-138e-c7f6-b1acfe27ff"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="6daa8c4613-1240-e091-865a-2b63e14a14" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="bf79de708d-de44-138e-c7f6-b1acfe27ff" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="f2b90b61d8-d54c-53b3-3735-a746cea2db" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

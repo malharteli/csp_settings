@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="e79092c65b-eb11-e484-63b3-0a54bb2373">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Grut - Scraggle-300px.psd</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="add97c70e6-c442-8f82-a7d1-e509297c5d">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="de0d64b1fb-bd4f-c899-0093-7c8cdf3e75">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Grut - Scraggle-300px.psd</name>
+            <created_date>2020/12/14 01:32:31</created_date>
+            <modified_date>2020/12/14 01:32:31</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="cf19c04669-3b48-99b1-56e5-d2b02ce3f8"/>
+            </thumbnail>
+            <data>
+              <fileref idref="44dbc02503-bd49-b3a6-78c9-6a91957e59"/>
+            </data>
+            <icedata>
+              <fileref idref="f55eb4827b-2e49-2692-93e2-b1d9ce2dd5"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="44dbc02503-bd49-b3a6-78c9-6a91957e59" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="cf19c04669-3b48-99b1-56e5-d2b02ce3f8" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="f55eb4827b-2e49-2692-93e2-b1d9ce2dd5" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

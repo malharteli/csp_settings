@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="29b7b9d985-ca4a-c89f-3474-faef1cd32d">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>MM01-cherry blossom pattern 01</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1aa5ccabba-cf40-a2af-af93-2f81d4af63">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c91982f0e1-b64d-0a97-4a74-c826f4aecc">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>MM01-cherry blossom pattern 01</name>
+            <created_date>2016/06/21 10:07:34</created_date>
+            <modified_date>2016/06/21 10:07:34</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="60ad5765d7-fc4f-b09b-88c1-2d059ca313"/>
+            </thumbnail>
+            <data>
+              <fileref idref="66cb62f824-e84b-969e-26c8-e9ec68f55c"/>
+            </data>
+            <icedata>
+              <fileref idref="3e86150619-5d4c-fab3-a9e4-e1268e6253"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3e86150619-5d4c-fab3-a9e4-e1268e6253" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="60ad5765d7-fc4f-b09b-88c1-2d059ca313" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="66cb62f824-e84b-969e-26c8-e9ec68f55c" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

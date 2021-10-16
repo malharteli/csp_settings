@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>청수채종이_2</name>
+
+  <cloudcontentid>105359094</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>012bc38cc3-b845-6083-6896-8143db9c1b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>90/80</subpath>
+
+  <basePath></basePath>
+
+  <size>6724702</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-08-15 12:42:40</createdat>
+
+  <updatedat>2020-08-15 12:42:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

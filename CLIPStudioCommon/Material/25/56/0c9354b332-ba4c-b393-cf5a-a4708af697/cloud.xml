@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>CanvasGesso_EMB</name>
+
+  <cloudcontentid>102509031</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0c9354b332-ba4c-b393-cf5a-a4708af697</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>25/56</subpath>
+
+  <basePath></basePath>
+
+  <size>462557</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:48:35</createdat>
+
+  <updatedat>2020-07-20 23:48:48</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>色鉛筆</name>
+
+  <cloudcontentid>142064539</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>fc9f67e6ff-a542-57be-1f37-249a71222c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>55/85</subpath>
+
+  <basePath></basePath>
+
+  <size>69587</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:18:02</createdat>
+
+  <updatedat>2021-05-09 15:18:13</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

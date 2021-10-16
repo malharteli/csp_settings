@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grunginator3000_HC</name>
+
+  <cloudcontentid>102504100</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5e92e1dccd-7144-f9ae-ae3c-6094ed579f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>62/11</subpath>
+
+  <basePath></basePath>
+
+  <size>1045235</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:03:27</createdat>
+
+  <updatedat>2020-07-20 23:03:41</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

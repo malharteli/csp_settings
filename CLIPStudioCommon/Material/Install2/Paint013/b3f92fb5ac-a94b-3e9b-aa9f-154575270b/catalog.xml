@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b3f92fb5ac-a94b-3e9b-aa9f-154575270b">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Surprised 4_yellow</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7b741cfde9-c246-4f84-2c4f-56ddc28ccd">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f782d0b73d-b241-7481-7380-0c9a5fa140">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Surprised 4_yellow</name>
+            <created_date>2016/06/21 10:08:11</created_date>
+            <modified_date>2016/06/21 10:08:11</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="cb6e45b4cd-4746-5aa2-0b33-a5e896df2a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="838183df68-0c4d-e2ae-d38a-a42f15a254"/>
+            </data>
+            <icedata>
+              <fileref idref="ff6e932fba-b74f-8387-1ca4-73f3e5a381"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="838183df68-0c4d-e2ae-d38a-a42f15a254" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="cb6e45b4cd-4746-5aa2-0b33-a5e896df2a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="ff6e932fba-b74f-8387-1ca4-73f3e5a381" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

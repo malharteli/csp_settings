@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Pencil</name>
+
+  <cloudcontentid>102509212</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2b7f19cdff-644e-e8b7-afdc-a34d9c5395</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>56/66</subpath>
+
+  <basePath></basePath>
+
+  <size>105546</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:50:57</createdat>
+
+  <updatedat>2020-07-20 23:51:09</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

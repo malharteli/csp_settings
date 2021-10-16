@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Galaxy Stars</name>
+
+  <cloudcontentid>102510301</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b199cea3a8-2940-3889-3767-34993e95d6</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>84/29</subpath>
+
+  <basePath></basePath>
+
+  <size>396868</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:03:51</createdat>
+
+  <updatedat>2020-07-21 00:04:05</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

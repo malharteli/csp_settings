@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - GessoBrdSharphisto</name>
+
+  <cloudcontentid>122219642</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>73961e2d2d-9311-e6bd-e18e-bd22fc2f0e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>92/79</subpath>
+
+  <basePath></basePath>
+
+  <size>336917</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:42:49</createdat>
+
+  <updatedat>2020-12-24 15:43:02</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

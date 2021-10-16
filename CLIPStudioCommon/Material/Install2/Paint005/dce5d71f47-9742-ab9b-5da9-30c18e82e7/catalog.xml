@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="dce5d71f47-9742-ab9b-5da9-30c18e82e7">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Hum note a_03</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ccdf79b855-ad4c-ca97-b034-ef078e86ed">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5c27f0a7ec-464d-7cac-2a00-b60992d97d">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Hum note a_03</name>
+            <created_date>2016/06/21 10:07:03</created_date>
+            <modified_date>2016/06/21 10:07:03</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="e2da5bc31b-6146-0c9c-1279-5461eed0ab"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f4d23bd6b3-9948-c59e-6a0c-ad123c340b"/>
+            </data>
+            <icedata>
+              <fileref idref="d216f8b1c0-314d-0c95-383f-a035f930ae"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="d216f8b1c0-314d-0c95-383f-a035f930ae" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="e2da5bc31b-6146-0c9c-1279-5461eed0ab" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="f4d23bd6b3-9948-c59e-6a0c-ad123c340b" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

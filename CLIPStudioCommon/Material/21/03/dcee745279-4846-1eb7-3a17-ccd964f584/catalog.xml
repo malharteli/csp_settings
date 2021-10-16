@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="dcee745279-4846-1eb7-3a17-ccd964f584">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>CanvasImpasto_HC_512</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d2bbd125fa-be4d-e9a9-492f-b47adaa4e0">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1ca648aa9a-f341-5fab-5ab2-702c071c32">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>CanvasImpasto_HC_512</name>
+            <created_date>2018/02/11 20:32:32</created_date>
+            <modified_date>2018/02/11 20:32:32</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="132b9f0283-2946-2e99-df5e-1301f3d8bb"/>
+            </thumbnail>
+            <data>
+              <fileref idref="2576d0c5e1-e049-6485-4abc-4e7ee71383"/>
+            </data>
+            <icedata>
+              <fileref idref="e995a9a356-3c4d-6289-99f6-94f9efb593"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="132b9f0283-2946-2e99-df5e-1301f3d8bb" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="2576d0c5e1-e049-6485-4abc-4e7ee71383" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="e995a9a356-3c4d-6289-99f6-94f9efb593" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

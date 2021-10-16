@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>カケアミ（太）透過</name>
+
+  <cloudcontentid>133813742</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a84ca5e6bb-3b4c-9290-6fe1-11ac171d28</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>95/88</subpath>
+
+  <basePath></basePath>
+
+  <size>116570</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-03-11 23:02:23</createdat>
+
+  <updatedat>2021-03-11 23:02:34</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

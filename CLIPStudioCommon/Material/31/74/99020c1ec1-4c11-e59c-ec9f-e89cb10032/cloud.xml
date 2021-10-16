@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - horseshoewave</name>
+
+  <cloudcontentid>122220473</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>99020c1ec1-4c11-e59c-ec9f-e89cb10032</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>31/74</subpath>
+
+  <basePath></basePath>
+
+  <size>665340</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:50:10</createdat>
+
+  <updatedat>2020-12-24 15:50:24</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

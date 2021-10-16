@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a1ec1c8699-b640-a0ad-959e-ccf1e631d5">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.11"/>
+    <name>Comic3</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d8909538ef-4a4a-a693-462d-c52b83650b">
+        <tool company="celsys" name="paint" version="1.10.11"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3826e17e18-c040-a9b2-9ead-8e0ecb5fc7">
+            <tool company="celsys" name="paint" version="1.10.11"/>
+            <type ver="">paintwork2</type>
+            <name>Comic3</name>
+            <created_date>2021/06/08 16:48:53</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="73da76f0ae-e843-b296-e231-dca514fd3f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="66f55f58bd-d444-3f97-f89f-2418175047"/>
+              <fileref idref="88d3898538-834e-35a8-3577-d1afe432e2"/>
+              <fileref idref="d4924460a1-504b-c89b-dba8-3df5f7f812"/>
+              <fileref idref="f380dbd5db-ed4c-a2b3-9f14-a7367833f5"/>
+            </data>
+            <icedata>
+              <fileref idref="a411d99e4a-5b4e-cd9a-6f08-dfc528a3d9"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="66f55f58bd-d444-3f97-f89f-2418175047" mime="application/octet-stream">
+      <path>Comic3.cmc</path>
+    </file>
+    <file document="false" encrypt="false" id="73da76f0ae-e843-b296-e231-dca514fd3f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="88d3898538-834e-35a8-3577-d1afe432e2" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="a411d99e4a-5b4e-cd9a-6f08-dfc528a3d9" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="d4924460a1-504b-c89b-dba8-3df5f7f812" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="f380dbd5db-ed4c-a2b3-9f14-a7367833f5" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+  </files>
+
+</archive>

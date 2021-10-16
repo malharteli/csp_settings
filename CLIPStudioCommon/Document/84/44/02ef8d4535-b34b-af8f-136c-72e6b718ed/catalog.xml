@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="02ef8d4535-b34b-af8f-136c-72e6b718ed">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Roulette_Ninja_SlaveQueenAurea</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e8b4a3d93b-1c46-ad95-bcb0-53119db7ec">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b44caf6529-ee45-8cb8-d391-f6cc3d674b">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_Ninja_SlaveQueenAurea</name>
+            <created_date>2021/09/06 04:30:08</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3a63946142-da4f-da8c-2538-d1876e2a0b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="dabb4567ca-cc47-8cac-891d-74d1b97b4a"/>
+            </data>
+            <icedata>
+              <fileref idref="62e692984f-9a4b-9296-5dd7-0430d3fb67"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3a63946142-da4f-da8c-2538-d1876e2a0b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="62e692984f-9a4b-9296-5dd7-0430d3fb67" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="dabb4567ca-cc47-8cac-891d-74d1b97b4a" mime="application/octet-stream">
+      <path>Roulette_Ninja_SlaveQueenAurea.clip</path>
+    </file>
+  </files>
+
+</archive>

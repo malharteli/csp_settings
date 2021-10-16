@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="73abd088ec-0611-e6bd-81e4-925acf7e64">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Grut - Graffnek.psd</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="daf5df6a5f-8548-7683-c1b1-85b2ee5bef">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1bea02ee88-9c40-ba85-ae65-cc03991dbe">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Grut - Graffnek.psd</name>
+            <created_date>2020/12/14 01:33:45</created_date>
+            <modified_date>2020/12/14 01:33:45</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f807dc5ed8-7c41-83ae-e0b0-df1c439e87"/>
+            </thumbnail>
+            <data>
+              <fileref idref="7b9aa53b90-f44a-4db5-c21d-245fd38900"/>
+            </data>
+            <icedata>
+              <fileref idref="a741f84816-3e4d-2ebd-9a71-a0ea48a576"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="7b9aa53b90-f44a-4db5-c21d-245fd38900" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="a741f84816-3e4d-2ebd-9a71-a0ea48a576" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="f807dc5ed8-7c41-83ae-e0b0-df1c439e87" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

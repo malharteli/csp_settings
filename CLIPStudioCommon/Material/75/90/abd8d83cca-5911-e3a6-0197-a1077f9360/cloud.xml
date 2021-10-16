@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - WetandSoggy001</name>
+
+  <cloudcontentid>122222366</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>abd8d83cca-5911-e3a6-0197-a1077f9360</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>75/90</subpath>
+
+  <basePath></basePath>
+
+  <size>273605</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:11:32</createdat>
+
+  <updatedat>2020-12-24 16:11:45</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

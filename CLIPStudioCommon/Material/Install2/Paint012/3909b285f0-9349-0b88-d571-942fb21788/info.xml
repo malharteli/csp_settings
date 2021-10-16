@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="dd6ba41353-8647-129b-a905-2c8aeb3a48">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>Horizontal_writing</data>
+      <data>Color</data>
+      <data>Comic_material</data>
+      <data>Sound_effect</data>
+      <data>Feeling</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

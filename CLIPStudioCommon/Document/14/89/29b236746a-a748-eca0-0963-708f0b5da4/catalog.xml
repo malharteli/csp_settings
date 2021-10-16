@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="29b236746a-a748-eca0-0963-708f0b5da4">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.11"/>
+    <name>GarlathanBusinessMan</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="647474e433-ba48-f5aa-6887-77143933ad">
+        <tool company="celsys" name="paint" version="1.10.11"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b35051051a-834c-1291-a9ca-38da181fc5">
+            <tool company="celsys" name="paint" version="1.10.11"/>
+            <type ver="">clipstudioformat</type>
+            <name>GarlathanBusinessMan</name>
+            <created_date>2021/06/07 23:31:18</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="9c07eb4ea8-1848-1d85-876a-61ebaa3853"/>
+            </thumbnail>
+            <data>
+              <fileref idref="49247df4bd-0941-b5a1-22ef-c6ebeb1fee"/>
+            </data>
+            <icedata>
+              <fileref idref="443cca2e87-0a4d-d9a7-0255-b3099f7de6"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="443cca2e87-0a4d-d9a7-0255-b3099f7de6" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="49247df4bd-0941-b5a1-22ef-c6ebeb1fee" mime="application/octet-stream">
+      <path>GarlathanBusinessMan.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="9c07eb4ea8-1848-1d85-876a-61ebaa3853" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

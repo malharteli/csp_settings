@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Galaxy</name>
+
+  <cloudcontentid>102510321</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>951d340a4e-8842-0a9a-e72d-66d9c64fc7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>20/77</subpath>
+
+  <basePath></basePath>
+
+  <size>772587</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:04:08</createdat>
+
+  <updatedat>2020-07-21 00:04:21</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

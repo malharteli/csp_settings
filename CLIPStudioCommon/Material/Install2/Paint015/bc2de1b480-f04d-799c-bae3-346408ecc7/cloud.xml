@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>50% 円 M</name>
+
+  <cloudcontentid>1242</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>bc2de1b480-f04d-799c-bae3-346408ecc7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint015</subpath>
+
+  <basePath>installation_material/42/12/1242</basePath>
+
+  <size>121269</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:47:09</createdat>
+
+  <updatedat>2016-07-13 15:47:12</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="27438f268f-c547-01a5-57f8-1f4a6f8147">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>]</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e4d23bb6ae-9d4f-6f80-822d-a911c80440">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="96a3a7f323-c042-469d-b18e-78ac15ab64">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>]</name>
+            <created_date>2021/05/02 15:29:25</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="166419e020-864e-2493-a5a1-44722b743d"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6708a2594b-f343-f48c-cab7-f651459d6f"/>
+            </data>
+            <icedata>
+              <fileref idref="bc24201b02-a14c-aaa2-6b64-828147989e"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="166419e020-864e-2493-a5a1-44722b743d" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="6708a2594b-f343-f48c-cab7-f651459d6f" mime="application/octet-stream">
+      <path>].clip</path>
+    </file>
+    <file document="false" encrypt="false" id="bc24201b02-a14c-aaa2-6b64-828147989e" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

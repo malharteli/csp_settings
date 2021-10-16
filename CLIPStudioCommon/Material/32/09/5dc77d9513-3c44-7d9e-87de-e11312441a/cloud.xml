@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>stroke39</name>
+
+  <cloudcontentid>123406008</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5dc77d9513-3c44-7d9e-87de-e11312441a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>32/09</subpath>
+
+  <basePath></basePath>
+
+  <size>125953</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:17:08</createdat>
+
+  <updatedat>2021-01-01 08:17:24</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

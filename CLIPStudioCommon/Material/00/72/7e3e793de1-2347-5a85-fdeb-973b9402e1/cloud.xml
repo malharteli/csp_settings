@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>馬車道風改</name>
+
+  <cloudcontentid>133813979</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7e3e793de1-2347-5a85-fdeb-973b9402e1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>00/72</subpath>
+
+  <basePath></basePath>
+
+  <size>268458</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-03-11 23:04:01</createdat>
+
+  <updatedat>2021-03-11 23:04:13</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

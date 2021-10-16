@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>stroke_001</name>
+
+  <cloudcontentid>123407113</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>82c92f458e-ee4d-a5b1-2bc7-44dbdfaf09</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>20/58</subpath>
+
+  <basePath></basePath>
+
+  <size>1095560</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:50:25</createdat>
+
+  <updatedat>2021-01-01 08:50:38</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

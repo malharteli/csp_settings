@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Rough Round</name>
+
+  <cloudcontentid>102507052</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d23beb84a1-7b44-d298-1211-1566fc269a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>67/01</subpath>
+
+  <basePath></basePath>
+
+  <size>216578</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:29:34</createdat>
+
+  <updatedat>2020-07-20 23:29:47</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

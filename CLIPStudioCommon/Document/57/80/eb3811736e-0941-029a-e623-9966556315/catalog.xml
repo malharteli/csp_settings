@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="eb3811736e-0941-029a-e623-9966556315">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Arcanum_Sketching_08092021</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6b4db23eb2-c14d-bdb8-b218-a1cc243428">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="87377005da-384c-1292-8519-1cd49ae768">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>Arcanum_Sketching_08092021</name>
+            <created_date>2021/09/10 11:51:37</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="949a01a446-5543-b6b2-0d47-296799bc8c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="af069af19d-ca46-7fae-44d5-71ec7eb4ed"/>
+            </data>
+            <icedata>
+              <fileref idref="811dc19add-b049-3b82-cd38-6651c24f94"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="811dc19add-b049-3b82-cd38-6651c24f94" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="949a01a446-5543-b6b2-0d47-296799bc8c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="af069af19d-ca46-7fae-44d5-71ec7eb4ed" mime="application/octet-stream">
+      <path>Arcanum_Sketching_08092021.clip</path>
+    </file>
+  </files>
+
+</archive>

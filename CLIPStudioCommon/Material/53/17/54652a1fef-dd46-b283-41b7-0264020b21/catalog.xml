@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="54652a1fef-dd46-b283-41b7-0264020b21">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>CanvasOil_512</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7aafb537f7-634b-028a-72f3-d1b5e1a137">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="34b466cdda-b348-cc8a-eaa8-9322809997">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>CanvasOil_512</name>
+            <created_date>2018/02/02 05:04:53</created_date>
+            <modified_date>2018/02/02 05:04:53</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="78ab29e5eb-5d47-6ea2-b2ca-92156fa6c1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9f8798b192-ee4b-e888-b0be-f1bbb41a86"/>
+            </data>
+            <icedata>
+              <fileref idref="ce2d6fcdcb-4d4b-8d9e-e3d4-ef3cf4b1f6"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="78ab29e5eb-5d47-6ea2-b2ca-92156fa6c1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="9f8798b192-ee4b-e888-b0be-f1bbb41a86" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="ce2d6fcdcb-4d4b-8d9e-e3d4-ef3cf4b1f6" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

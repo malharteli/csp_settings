@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - blockbo</name>
+
+  <cloudcontentid>122219459</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>aeb129085a-5b11-e581-adda-91927c95b1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>40/69</subpath>
+
+  <basePath></basePath>
+
+  <size>227234</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:41:23</createdat>
+
+  <updatedat>2020-12-24 15:41:36</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

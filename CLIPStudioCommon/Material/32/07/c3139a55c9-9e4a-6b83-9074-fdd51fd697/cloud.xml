@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>水彩ブラシ形状</name>
+
+  <cloudcontentid>140276479</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c3139a55c9-9e4a-6b83-9074-fdd51fd697</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>32/07</subpath>
+
+  <basePath></basePath>
+
+  <size>76596</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-04-26 03:20:41</createdat>
+
+  <updatedat>2021-04-26 03:20:55</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

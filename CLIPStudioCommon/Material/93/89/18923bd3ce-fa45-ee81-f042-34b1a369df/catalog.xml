@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="18923bd3ce-fa45-ee81-f042-34b1a369df">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.3.1"/>
+    <name>Layer 2 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="71e1340343-bf4b-098b-d99e-25357696f7">
+        <tool company="celsys" name="paint" version="1.3.1"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="abbeb91099-d641-4db0-48b9-dc45252458">
+            <tool company="celsys" name="paint" version="1.3.1"/>
+            <type ver="1.0.0">image</type>
+            <name>composedNib18</name>
+            <created_date>2020/12/26 22:45:37</created_date>
+            <modified_date>2020/12/26 22:45:37</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b1aa9cfb75-b746-119c-f698-ef0076cc3c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="0fc629cab1-ec4f-7795-93c7-ea26b99ef4"/>
+            </data>
+            <icedata>
+              <fileref idref="4b8cba81aa-dc4e-71aa-1d2f-aaeff8f9ec"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="0fc629cab1-ec4f-7795-93c7-ea26b99ef4" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="4b8cba81aa-dc4e-71aa-1d2f-aaeff8f9ec" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="b1aa9cfb75-b746-119c-f698-ef0076cc3c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

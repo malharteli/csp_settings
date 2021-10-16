@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>nib_025</name>
+
+  <cloudcontentid>123406030</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d4b8b475bb-5744-c795-01b3-86e9cf2a2c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>47/00</subpath>
+
+  <basePath></basePath>
+
+  <size>161661</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:18:07</createdat>
+
+  <updatedat>2021-01-01 08:18:28</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

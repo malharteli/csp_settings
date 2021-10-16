@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="61c18caa23-e942-ebb5-7937-b3bcffd0f2">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Forest 01-sunshine filtering through foliage</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="de92d26cd1-9949-dd8c-15fc-27429d983f">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8243a2862d-344c-5790-8dd3-155bcd4e48">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Forest 01-sunshine filtering through foliage</name>
+            <created_date>2016/06/21 10:07:25</created_date>
+            <modified_date>2016/06/21 10:07:25</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="20906a0792-124f-9dae-d178-0186a03a73"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c68af59b21-df40-e1aa-bb5e-878616fdd0"/>
+            </data>
+            <icedata>
+              <fileref idref="bb8f27117b-d84c-c0b0-e034-abfbbb5eea"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="20906a0792-124f-9dae-d178-0186a03a73" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="bb8f27117b-d84c-c0b0-e034-abfbbb5eea" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="c68af59b21-df40-e1aa-bb5e-878616fdd0" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

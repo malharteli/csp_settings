@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>RockAlt</name>
+
+  <cloudcontentid>102504965</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>1f30d81624-e142-0d81-23c3-0da8dced1d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>50/39</subpath>
+
+  <basePath></basePath>
+
+  <size>412696</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:11:18</createdat>
+
+  <updatedat>2020-07-20 23:11:31</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

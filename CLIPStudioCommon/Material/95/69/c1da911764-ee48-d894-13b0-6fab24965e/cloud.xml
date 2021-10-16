@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Fine textured02</name>
+
+  <cloudcontentid>102506972</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c1da911764-ee48-d894-13b0-6fab24965e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>95/69</subpath>
+
+  <basePath></basePath>
+
+  <size>541862</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:28:48</createdat>
+
+  <updatedat>2020-07-20 23:29:02</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

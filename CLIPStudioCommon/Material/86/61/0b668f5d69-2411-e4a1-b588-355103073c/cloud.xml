@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - sideburnt</name>
+
+  <cloudcontentid>122215560</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0b668f5d69-2411-e4a1-b588-355103073c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>86/61</subpath>
+
+  <basePath></basePath>
+
+  <size>242708</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:05:06</createdat>
+
+  <updatedat>2020-12-24 15:05:23</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

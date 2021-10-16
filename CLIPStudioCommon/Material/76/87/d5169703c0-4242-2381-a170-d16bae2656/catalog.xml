@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="d5169703c0-4242-2381-a170-d16bae2656">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.3.6"/>
+    <name>トーン(とても細かい)</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9977470440-bb4c-7cab-cc3c-c502662b3f">
+        <tool company="celsys" name="paint" version="1.3.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="58daf7b848-2546-a5ad-9bfe-841057924c">
+            <tool company="celsys" name="paint" version="1.3.6"/>
+            <type ver="1.0.0">image</type>
+            <name>トーン(とても細かい)</name>
+            <created_date>2019/09/13 18:13:17</created_date>
+            <modified_date>2019/09/13 18:13:17</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3102fb1324-2c46-1f96-b5ad-db9ba12dda"/>
+            </thumbnail>
+            <data>
+              <fileref idref="34be90d00a-c748-31ad-2fc3-737888bb1a"/>
+            </data>
+            <icedata>
+              <fileref idref="3227be4eac-4d40-319c-b354-69be61ae0c"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3102fb1324-2c46-1f96-b5ad-db9ba12dda" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="3227be4eac-4d40-319c-b354-69be61ae0c" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="34be90d00a-c748-31ad-2fc3-737888bb1a" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

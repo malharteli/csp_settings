@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ドット網もや</name>
+
+  <cloudcontentid>142065583</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2a276869d1-c040-7289-9d0d-97fa0c9bb5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>92/95</subpath>
+
+  <basePath></basePath>
+
+  <size>1648550</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:25:51</createdat>
+
+  <updatedat>2021-05-09 15:26:06</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

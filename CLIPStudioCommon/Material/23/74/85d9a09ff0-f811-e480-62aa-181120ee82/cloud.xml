@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - cloudsNeg</name>
+
+  <cloudcontentid>122221178</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>85d9a09ff0-f811-e480-62aa-181120ee82</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>23/74</subpath>
+
+  <basePath></basePath>
+
+  <size>348632</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:59:01</createdat>
+
+  <updatedat>2020-12-24 15:59:15</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Metal2s</name>
+
+  <cloudcontentid>110353501</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ee5969b3d8-a945-19b1-61eb-2d64a4e2b4</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>77/73</subpath>
+
+  <basePath></basePath>
+
+  <size>3261049</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-09-23 10:25:54</createdat>
+
+  <updatedat>2020-09-23 10:26:13</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

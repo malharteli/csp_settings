@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="0df8e3bfe6-e94d-80b6-286c-364668020d">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>PixivRequest_GracefulKimono_Clannad</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="01c4256cd9-8d41-8d93-9862-0a56988abb">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5dae6ff2e7-064a-f58b-7405-22b04f8a0f">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>PixivRequest_GracefulKimono_Clannad</name>
+            <created_date>2021/07/29 15:26:44</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="51dfbf1630-9e46-129f-1f40-9dcf5d71c9"/>
+            </thumbnail>
+            <data>
+              <fileref idref="b9408a0ca3-be40-cf88-7640-6eccdbe34d"/>
+            </data>
+            <icedata>
+              <fileref idref="a339105365-b040-7988-2d58-6857ced278"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="51dfbf1630-9e46-129f-1f40-9dcf5d71c9" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="a339105365-b040-7988-2d58-6857ced278" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="b9408a0ca3-be40-cf88-7640-6eccdbe34d" mime="application/octet-stream">
+      <path>PixivRequest_GracefulKimono_Clannad.clip</path>
+    </file>
+  </files>
+
+</archive>

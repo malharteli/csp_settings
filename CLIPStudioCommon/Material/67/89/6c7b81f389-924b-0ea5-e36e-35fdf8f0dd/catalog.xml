@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="6c7b81f389-924b-0ea5-e36e-35fdf8f0dd">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.3"/>
+    <name>廃墟影 1-2 smooth</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="de78389bdf-d546-f194-79e5-53b11ba6e2">
+        <tool company="celsys" name="paint" version="1.6.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0a07d6d537-9b48-b681-171c-b41b78357e">
+            <tool company="celsys" name="paint" version="1.6.3"/>
+            <type ver="1.0.1">image</type>
+            <name>廃墟影 1-2 smooth</name>
+            <created_date>2016/12/05 14:33:08</created_date>
+            <modified_date>2016/12/05 14:33:08</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="ae83c05e39-a541-3fb7-65e6-be37e95e98"/>
+            </thumbnail>
+            <data>
+              <fileref idref="3a73d16da1-384b-5798-359b-abb379d3cf"/>
+            </data>
+            <icedata>
+              <fileref idref="f827878224-b747-fea5-1228-da0e8533e2"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="3a73d16da1-384b-5798-359b-abb379d3cf" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="ae83c05e39-a541-3fb7-65e6-be37e95e98" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="f827878224-b747-fea5-1228-da0e8533e2" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

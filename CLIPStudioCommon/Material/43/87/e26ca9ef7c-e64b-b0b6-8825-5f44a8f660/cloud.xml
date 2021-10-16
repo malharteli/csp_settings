@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>거친달</name>
+
+  <cloudcontentid>102509947</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e26ca9ef7c-e64b-b0b6-8825-5f44a8f660</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>43/87</subpath>
+
+  <basePath></basePath>
+
+  <size>194663</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:59:46</createdat>
+
+  <updatedat>2020-07-20 23:59:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5db72375bd-f311-dda7-3cf4-fb700d07bd">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>DSC_0034.JPG</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="764b32cb86-1340-3585-f6da-0bca4cd728">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f20eb59233-0744-7182-83f3-f1eb1c1d3a">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>DSC_0034.JPG</name>
+            <created_date>2020/12/14 01:28:45</created_date>
+            <modified_date>2020/12/14 01:28:45</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="96c3dda9e3-fc42-38af-711e-1c355e1991"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f8c82d536c-5d4a-ad9c-04ed-f6b5afef82"/>
+            </data>
+            <icedata>
+              <fileref idref="dba4b9162b-514f-25a0-8b69-3dea9eeb56"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="96c3dda9e3-fc42-38af-711e-1c355e1991" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="dba4b9162b-514f-25a0-8b69-3dea9eeb56" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="f8c82d536c-5d4a-ad9c-04ed-f6b5afef82" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

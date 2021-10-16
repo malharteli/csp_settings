@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>リビング・玄関(戸建)-Ver.2</name>
+
+  <cloudcontentid>2926</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>338678b431-df49-4080-e8eb-57c554ded0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>other_3dmodel</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/26/29/2926</basePath>
+
+  <size>22314164</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2018-08-30 12:29:41</createdat>
+
+  <updatedat>2018-08-30 12:30:09</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Riptide</name>
+
+  <cloudcontentid>122217812</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e2d7f5371e-1011-e5bb-0ac3-8f88a7a595</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>35/67</subpath>
+
+  <basePath></basePath>
+
+  <size>646988</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:23:24</createdat>
+
+  <updatedat>2020-12-24 15:23:38</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

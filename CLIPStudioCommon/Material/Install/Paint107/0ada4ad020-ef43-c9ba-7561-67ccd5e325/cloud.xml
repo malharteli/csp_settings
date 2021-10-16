@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>3Dデッサン人形-Ver.2（男性）</name>
+
+  <cloudcontentid>2922</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0ada4ad020-ef43-c9ba-7561-67ccd5e325</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>proportion</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint107</subpath>
+
+  <basePath>installation_material/22/29/2922</basePath>
+
+  <size>84078</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2018-04-26 13:25:05</createdat>
+
+  <updatedat>2018-04-26 13:25:07</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

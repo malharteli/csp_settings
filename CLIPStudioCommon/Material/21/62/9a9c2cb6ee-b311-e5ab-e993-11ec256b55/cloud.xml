@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Cumogenero</name>
+
+  <cloudcontentid>122220678</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9a9c2cb6ee-b311-e5ab-e993-11ec256b55</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>21/62</subpath>
+
+  <basePath></basePath>
+
+  <size>361595</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:52:21</createdat>
+
+  <updatedat>2020-12-24 15:52:34</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

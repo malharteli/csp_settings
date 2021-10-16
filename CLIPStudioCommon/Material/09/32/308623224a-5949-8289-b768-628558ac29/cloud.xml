@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grunge_HC_512</name>
+
+  <cloudcontentid>102504154</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>308623224a-5949-8289-b768-628558ac29</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>09/32</subpath>
+
+  <basePath></basePath>
+
+  <size>436171</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:03:59</createdat>
+
+  <updatedat>2020-07-20 23:04:13</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

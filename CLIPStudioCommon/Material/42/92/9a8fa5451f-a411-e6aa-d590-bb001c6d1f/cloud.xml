@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - soft gradot 3</name>
+
+  <cloudcontentid>122220582</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9a8fa5451f-a411-e6aa-d590-bb001c6d1f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>42/92</subpath>
+
+  <basePath></basePath>
+
+  <size>533698</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:51:15</createdat>
+
+  <updatedat>2020-12-24 15:51:30</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

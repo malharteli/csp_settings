@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>レイヤー 6</name>
+
+  <cloudcontentid>142065723</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>492a105ec5-4149-f3ba-b05f-95e6220277</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>32/44</subpath>
+
+  <basePath></basePath>
+
+  <size>75396</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:26:51</createdat>
+
+  <updatedat>2021-05-09 15:27:02</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

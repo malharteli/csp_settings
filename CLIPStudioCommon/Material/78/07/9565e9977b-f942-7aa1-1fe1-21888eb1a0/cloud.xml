@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Pencil (Flat) 01</name>
+
+  <cloudcontentid>102504909</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9565e9977b-f942-7aa1-1fe1-21888eb1a0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>78/07</subpath>
+
+  <basePath></basePath>
+
+  <size>81105</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:10:49</createdat>
+
+  <updatedat>2020-07-20 23:11:01</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

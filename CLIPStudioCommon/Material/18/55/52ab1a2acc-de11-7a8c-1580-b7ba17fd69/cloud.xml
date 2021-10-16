@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>kyle charcoal stamp</name>
+
+  <cloudcontentid>122213218</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>52ab1a2acc-de11-7a8c-1580-b7ba17fd69</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>18/55</subpath>
+
+  <basePath></basePath>
+
+  <size>127404</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:46:08</createdat>
+
+  <updatedat>2020-12-24 14:46:22</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

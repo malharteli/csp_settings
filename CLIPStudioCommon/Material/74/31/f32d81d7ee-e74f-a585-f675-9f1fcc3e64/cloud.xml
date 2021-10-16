@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>waterNib04</name>
+
+  <cloudcontentid>123407621</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f32d81d7ee-e74f-a585-f675-9f1fcc3e64</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>74/31</subpath>
+
+  <basePath></basePath>
+
+  <size>492428</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:59:19</createdat>
+
+  <updatedat>2021-01-01 08:59:35</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="569bba7166-9e43-3bb9-93eb-df4d098bf5">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Shriek</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="89604a4de6-bb44-6e82-bc23-040843e717">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fa4b6b6750-5941-6d8b-ddea-523d7ce58e">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">pose</type>
+            <name>Shriek</name>
+            <created_date>2016/06/21 10:06:48</created_date>
+            <modified_date>2016/06/21 10:06:48</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1b151d4591-254f-a7aa-ba0c-ac76224858"/>
+            </thumbnail>
+            <data>
+              <fileref idref="65289f4e87-2b4d-d4ad-298d-b713915afb"/>
+            </data>
+            <icedata>
+              <fileref idref="4af2f207a3-7949-48ba-be90-c1695a2a95"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1b151d4591-254f-a7aa-ba0c-ac76224858" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="4af2f207a3-7949-48ba-be90-c1695a2a95" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="65289f4e87-2b4d-d4ad-298d-b713915afb" mime="application/octet-stream">
+      <path>data/material.pose</path>
+    </file>
+  </files>
+
+</archive>

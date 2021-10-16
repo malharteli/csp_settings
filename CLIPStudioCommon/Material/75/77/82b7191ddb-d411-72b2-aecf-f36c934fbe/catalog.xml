@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="82b7191ddb-d411-72b2-aecf-f36c934fbe">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>$$$/Presets/Patterns/PebbleBoard=Pebble Board</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c8db6214d5-724d-958d-7d87-5c60167b4d">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a7002b17cc-af4e-bda6-3a7b-d5a2ec4561">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>$$$/Presets/Patterns/PebbleBoard=Pebble Board</name>
+            <created_date>2021/05/09 02:46:57</created_date>
+            <modified_date>2021/05/09 02:46:57</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b08384ac40-7c49-deb9-761b-8a8686d78d"/>
+            </thumbnail>
+            <data>
+              <fileref idref="51e19937b8-f742-948a-62fe-2de99595c5"/>
+            </data>
+            <icedata>
+              <fileref idref="2d355cdd0a-574c-e4a5-cef9-1f5270e21f"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2d355cdd0a-574c-e4a5-cef9-1f5270e21f" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="51e19937b8-f742-948a-62fe-2de99595c5" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="b08384ac40-7c49-deb9-761b-8a8686d78d" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

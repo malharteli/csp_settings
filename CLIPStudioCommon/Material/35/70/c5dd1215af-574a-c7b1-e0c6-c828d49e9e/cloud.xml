@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Layer 2 Copy</name>
+
+  <cloudcontentid>151514548</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c5dd1215af-574a-c7b1-e0c6-c828d49e9e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>35/70</subpath>
+
+  <basePath></basePath>
+
+  <size>124112</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-07-04 15:57:47</createdat>
+
+  <updatedat>2021-07-04 15:57:58</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

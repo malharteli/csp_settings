@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>spatter ktw 3</name>
+
+  <cloudcontentid>122212725</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f64499c77c-0f11-7884-28d1-0c4878d385</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>73/23</subpath>
+
+  <basePath></basePath>
+
+  <size>147996</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:42:01</createdat>
+
+  <updatedat>2020-12-24 14:42:15</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

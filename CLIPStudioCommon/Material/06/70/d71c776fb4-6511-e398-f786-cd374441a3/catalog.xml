@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="d71c776fb4-6511-e398-f786-cd374441a3">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>hatch waffle 01</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="01b3eeed5c-0d41-9a81-1a89-2dfcce6f8f">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="11f69cd276-9e46-92a9-5b2c-9be28a3800">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>hatch waffle 01</name>
+            <created_date>2020/12/14 01:32:21</created_date>
+            <modified_date>2020/12/14 01:32:21</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="fddb07ea59-8142-4d9e-f599-15c8cf5d4f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c0c6c02649-7143-1080-4f59-e69fcb5839"/>
+            </data>
+            <icedata>
+              <fileref idref="f4c2fa206f-fd49-68ba-b300-2244dae743"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="c0c6c02649-7143-1080-4f59-e69fcb5839" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="f4c2fa206f-fd49-68ba-b300-2244dae743" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="fddb07ea59-8142-4d9e-f599-15c8cf5d4f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

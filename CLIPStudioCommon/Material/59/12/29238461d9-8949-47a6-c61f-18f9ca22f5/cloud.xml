@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>CanvasImpasto</name>
+
+  <cloudcontentid>102509154</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>29238461d9-8949-47a6-c61f-18f9ca22f5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>59/12</subpath>
+
+  <basePath></basePath>
+
+  <size>419398</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:50:11</createdat>
+
+  <updatedat>2020-07-20 23:50:25</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

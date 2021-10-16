@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>PaperRidged_512</name>
+
+  <cloudcontentid>102507908</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0cc880a37b-be4a-1e9a-d1dd-34e1dca0f6</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>22/70</subpath>
+
+  <basePath></basePath>
+
+  <size>422379</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:36:58</createdat>
+
+  <updatedat>2020-07-20 23:37:12</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

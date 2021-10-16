@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>TippyNib Rade</name>
+
+  <cloudcontentid>123405980</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>feb4a6ca78-0c43-1ba5-a1d2-445fb510d8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>12/61</subpath>
+
+  <basePath></basePath>
+
+  <size>186882</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:15:15</createdat>
+
+  <updatedat>2021-01-01 08:15:32</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

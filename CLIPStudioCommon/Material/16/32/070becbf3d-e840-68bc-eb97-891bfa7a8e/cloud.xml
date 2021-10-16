@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>WashGravity_50%</name>
+
+  <cloudcontentid>102508437</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>070becbf3d-e840-68bc-eb97-891bfa7a8e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>16/32</subpath>
+
+  <basePath></basePath>
+
+  <size>114906</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:41:23</createdat>
+
+  <updatedat>2020-07-20 23:41:35</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

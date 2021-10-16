@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>CanvasEMB</name>
+
+  <cloudcontentid>102508994</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>95f0162169-0b4f-8785-a34d-6ce7852bfb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>46/75</subpath>
+
+  <basePath></basePath>
+
+  <size>461735</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:48:02</createdat>
+
+  <updatedat>2020-07-20 23:48:16</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>kyle basic rubber eraser </name>
+
+  <cloudcontentid>122212525</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>91978313d6-f711-7a9e-52e1-e4d2b18d4b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>82/93</subpath>
+
+  <basePath></basePath>
+
+  <size>136368</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:40:15</createdat>
+
+  <updatedat>2020-12-24 14:40:29</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

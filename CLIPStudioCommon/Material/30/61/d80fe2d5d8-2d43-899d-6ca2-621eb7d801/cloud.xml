@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Pharan PencilPaperDarker</name>
+
+  <cloudcontentid>102509824</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d80fe2d5d8-2d43-899d-6ca2-621eb7d801</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>30/61</subpath>
+
+  <basePath></basePath>
+
+  <size>1211781</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:58:29</createdat>
+
+  <updatedat>2020-07-20 23:58:43</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

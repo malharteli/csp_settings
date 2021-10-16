@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Waterlights 400</name>
+
+  <cloudcontentid>122220401</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d788bf12da-5f11-e48f-4d83-fe8bf09c85</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>01/44</subpath>
+
+  <basePath></basePath>
+
+  <size>334156</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:49:19</createdat>
+
+  <updatedat>2020-12-24 15:49:32</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

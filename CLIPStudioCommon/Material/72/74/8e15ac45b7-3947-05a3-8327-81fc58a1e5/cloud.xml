@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ランダム縦線1</name>
+
+  <cloudcontentid>122222940</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8e15ac45b7-3947-05a3-8327-81fc58a1e5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>72/74</subpath>
+
+  <basePath></basePath>
+
+  <size>111873</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:18:13</createdat>
+
+  <updatedat>2020-12-24 16:18:27</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

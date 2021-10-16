@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>自作ブラシ</name>
+
+  <cloudcontentid>102224448</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d99f933e49-4b4f-46b1-face-1c6312bae1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>64/73</subpath>
+
+  <basePath></basePath>
+
+  <size>151908</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-18 12:54:17</createdat>
+
+  <updatedat>2020-07-18 12:54:31</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

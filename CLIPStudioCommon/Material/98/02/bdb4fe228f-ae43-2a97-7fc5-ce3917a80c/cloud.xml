@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Rock_512</name>
+
+  <cloudcontentid>102504287</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>bdb4fe228f-ae43-2a97-7fc5-ce3917a80c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>98/02</subpath>
+
+  <basePath></basePath>
+
+  <size>438965</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:05:20</createdat>
+
+  <updatedat>2020-07-20 23:05:33</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

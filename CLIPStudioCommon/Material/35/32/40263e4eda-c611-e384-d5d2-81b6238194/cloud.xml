@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - WetPaper208LP</name>
+
+  <cloudcontentid>122222634</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>40263e4eda-c611-e384-d5d2-81b6238194</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>35/32</subpath>
+
+  <basePath></basePath>
+
+  <size>194659</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:14:24</createdat>
+
+  <updatedat>2020-12-24 16:14:38</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

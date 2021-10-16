@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="d2702a6089-124c-4399-d073-cf04e7d758">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>PowerTone</data>
+      <data>ComicStudio journal</data>
+      <data>Monochrome</data>
+      <data>Monochromatic_pattern</data>
+      <data>Background</data>
+      <data>Artificial</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Felt</name>
+
+  <cloudcontentid>102505582</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>068cd30849-484e-929c-3d30-99abfbfa8d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>60/09</subpath>
+
+  <basePath></basePath>
+
+  <size>442194</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:17:10</createdat>
+
+  <updatedat>2020-07-20 23:17:24</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

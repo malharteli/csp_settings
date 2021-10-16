@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>点描</name>
+
+  <cloudcontentid>2938</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e81be703a6-7d4f-5481-f671-7867241e5f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint108</subpath>
+
+  <basePath>installation_material/38/29/2938</basePath>
+
+  <size>94610</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2019-02-28 11:08:04</createdat>
+
+  <updatedat>2019-02-28 11:08:07</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

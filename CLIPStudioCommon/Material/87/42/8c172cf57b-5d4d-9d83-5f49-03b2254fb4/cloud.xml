@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Sparkle</name>
+
+  <cloudcontentid>142065062</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8c172cf57b-5d4d-9d83-5f49-03b2254fb4</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>87/42</subpath>
+
+  <basePath></basePath>
+
+  <size>169452</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:22:03</createdat>
+
+  <updatedat>2021-05-09 15:22:14</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

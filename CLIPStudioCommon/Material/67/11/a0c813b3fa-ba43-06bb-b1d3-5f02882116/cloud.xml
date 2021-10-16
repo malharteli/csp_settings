@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Plaster</name>
+
+  <cloudcontentid>142064867</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a0c813b3fa-ba43-06bb-b1d3-5f02882116</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>67/11</subpath>
+
+  <basePath></basePath>
+
+  <size>1236179</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:20:34</createdat>
+
+  <updatedat>2021-05-09 15:20:48</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

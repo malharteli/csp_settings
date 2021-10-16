@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>CWBS1003</name>
+
+  <cloudcontentid>142064219</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ba9c7ed4f6-904b-05ab-335c-3b67667466</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>50/16</subpath>
+
+  <basePath></basePath>
+
+  <size>121090</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:15:45</createdat>
+
+  <updatedat>2021-05-09 15:15:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

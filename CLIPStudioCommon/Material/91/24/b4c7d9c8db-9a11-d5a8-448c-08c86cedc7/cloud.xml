@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Flat Bristle</name>
+
+  <cloudcontentid>122212356</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b4c7d9c8db-9a11-d5a8-448c-08c86cedc7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>91/24</subpath>
+
+  <basePath></basePath>
+
+  <size>153946</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:39:02</createdat>
+
+  <updatedat>2020-12-24 14:39:16</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

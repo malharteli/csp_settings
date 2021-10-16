@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - NYCaro-437</name>
+
+  <cloudcontentid>122222188</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9ac78278b6-2b11-e585-69a4-2777742fc7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>51/45</subpath>
+
+  <basePath></basePath>
+
+  <size>293610</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:09:52</createdat>
+
+  <updatedat>2020-12-24 16:10:06</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

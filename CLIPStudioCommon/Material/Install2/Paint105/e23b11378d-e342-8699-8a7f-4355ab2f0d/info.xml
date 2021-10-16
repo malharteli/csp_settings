@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="5c61656122-304d-5f8d-2b20-066a720fcf"/>
+
+  <info uuid="8d67214e-b5ed-4284-b2c1-f1d6e7729edb">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>3D</data>
+      <data>Tool_in_hands</data>
+      <data>Small_object</data>
+      <data>Weapon</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="CLIP STUDIO SERIES 1.5.0"/>
+
+  <string_data version="1.0.0">
+    <string data="Register_001" id="06ab247d-b4df-4317-83d7-a127971d758d"/>
+    <string data="Rear" id="07b0260d-7375-4496-b0ee-a7be2dcbb374"/>
+    <string data="Right Side" id="09e89c3e-a232-43d8-83c2-cead7ba717bd"/>
+    <string data="Microwave_001" id="0c17c753-017a-4a62-84a9-f27cceb284d8"/>
+    <string data="Front" id="1aed6045-66a4-4431-a563-54e5fd60969d"/>
+    <string data="Register_002" id="1b71ea5c-a7eb-4a73-ba5e-22f2c562aa74"/>
+    <string data="Partition" id="29892a8f-00f2-4a59-81ac-57c10ced19e7"/>
+    <string data="Document tray_002" id="2ccbd86d-e32b-4b4c-97cf-8a618f856f1a"/>
+    <string data="Document tray_004" id="3e569513-5346-4df2-9e64-16c9352fe6d3"/>
+    <string data="Shelf_004" id="442807d0-513e-477f-ad92-871e1b2c279c"/>
+    <string data="Document tray_001" id="4648eb59-aae9-418f-bc7e-3b5007e4607c"/>
+    <string data="Root node" id="51d8d7ab-2cbe-4731-95de-a09689261b14"/>
+    <string data="Counter_001" id="54a6acfd-06ab-4f81-bf08-e5952fe3e33f"/>
+    <string data="Garbage can_001" id="60e56368-fc9f-462f-ba84-4e63ef66318b"/>
+    <string data="Garbage can_002" id="62664a44-1ed7-40dc-af9f-621fddc53c03"/>
+    <string data="Convenience store" id="6733a92b-7c9a-4bde-b636-5ad36f40fbed"/>
+    <string data="Inside Store" id="7c0e78f7-3d93-47fa-bf8f-cf2df670a23a"/>
+    <string data="Bookshelf" id="80d4c59d-5693-4b07-b757-f654c48f89fc"/>
+    <string data="Left Side" id="9c8d0588-6d9c-4c4d-aee2-b01bb0489605"/>
+    <string data="Garbage can_003" id="9deb94fe-84a8-4f63-bc3c-8f46a85a4145"/>
+    <string data="Counter_002" id="a81b505d-af1c-42e7-8227-672f751cf2c7"/>
+    <string data="Automatic door_001" id="b1312357-eb12-4d72-9cc7-7eb019bb0254"/>
+    <string data="Roof" id="b8502b76-a1eb-4e86-a8c5-21d074cb4fcb"/>
+    <string data="Document tray_003" id="c76783a1-e104-495d-ac1b-76e289106100"/>
+    <string data="Microwave_002" id="d09542be-6565-4f01-ab51-702e3a4e5e68"/>
+    <string data="Automatic door" id="d0e9484e-003a-47a6-93e4-64eaa562ccfd"/>
+    <string data="ATM" id="d2f033b6-72c3-48fe-b170-721cd76c7e5a"/>
+    <string data="Floor" id="d4e705e8-efee-442f-bef6-576ca9394b69"/>
+    <string data="Shelf_001" id="d5bc5c95-f950-45c5-82d6-82101a2ed9ae"/>
+    <string data="Dumpling case" id="e26ef407-fa00-465e-b7d0-95b9b3e240cc"/>
+    <string data="Clock" id="e302c5b3-acaa-4568-854f-e50d84c394f4"/>
+    <string data="Shelf_003" id="e5bb5a64-4ccd-4e11-9bcd-e914579ba66a"/>
+    <string data="Rear wall" id="e880fa00-cee9-4207-846d-607276994c0f"/>
+    <string data="Shelf_002" id="ed4a1fec-4061-4a62-872d-a4c570d84f80"/>
+    <string data="Automatic door_002" id="f66cbdc0-a1e4-4442-88c0-b830623e7ad1"/>
+  </string_data>
+
+</celsysdocument>

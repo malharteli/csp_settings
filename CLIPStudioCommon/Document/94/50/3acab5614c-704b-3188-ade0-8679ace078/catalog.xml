@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="3acab5614c-704b-3188-ade0-8679ace078">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.1"/>
+    <name>SpookyBanner</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a5c2907cbc-a54e-e189-7901-ae7ccd3377">
+        <tool company="celsys" name="paint" version="1.11.1"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3592acff04-1044-8a96-84a8-2d84c93bd4">
+            <tool company="celsys" name="paint" version="1.11.1"/>
+            <type ver="">clipstudioformat</type>
+            <name>SpookyBanner</name>
+            <created_date>2021/10/02 05:41:27</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="d5c628d40d-bb45-ada3-bc92-907bba1e22"/>
+            </thumbnail>
+            <data>
+              <fileref idref="06eeb3ecc5-f741-e3b4-fcda-e050a14d47"/>
+            </data>
+            <icedata>
+              <fileref idref="a3a8094dc3-b241-efab-6ed0-d8f0e1ee26"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="06eeb3ecc5-f741-e3b4-fcda-e050a14d47" mime="application/octet-stream">
+      <path>SpookyBanner.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="a3a8094dc3-b241-efab-6ed0-d8f0e1ee26" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="d5c628d40d-bb45-ada3-bc92-907bba1e22" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

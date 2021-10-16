@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Watercolor_512</name>
+
+  <cloudcontentid>102503476</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2b21bea22a-8040-8281-87d0-2871aa1e2d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>78/86</subpath>
+
+  <basePath></basePath>
+
+  <size>351304</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 22:56:43</createdat>
+
+  <updatedat>2020-07-20 22:56:56</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

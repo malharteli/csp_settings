@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="33cb91cf1a-2340-ddb1-a149-498099384a">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.3.1"/>
+    <name>_DSF2875</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fab4560046-1044-33ae-d360-1edbdaa268">
+        <tool company="celsys" name="paint" version="1.3.1"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="20f4131f1f-104a-9a88-630e-36d9b89cc3">
+            <tool company="celsys" name="paint" version="1.3.1"/>
+            <type ver="1.0.0">image</type>
+            <name>tombowTiltedTip</name>
+            <created_date>2020/12/26 22:48:33</created_date>
+            <modified_date>2020/12/26 22:48:33</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="07b92138af-744c-50a8-c411-50ca6cce09"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c35a9021cc-6344-ad8d-d23c-1fde692b71"/>
+            </data>
+            <icedata>
+              <fileref idref="656ba07b20-f440-3698-ade8-7b9898ea8c"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="07b92138af-744c-50a8-c411-50ca6cce09" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="656ba07b20-f440-3698-ade8-7b9898ea8c" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="c35a9021cc-6344-ad8d-d23c-1fde692b71" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

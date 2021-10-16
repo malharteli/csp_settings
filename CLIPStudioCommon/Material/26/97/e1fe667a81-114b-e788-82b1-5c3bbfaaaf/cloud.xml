@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Crm_img_wc_平筆？</name>
+
+  <cloudcontentid>146869162</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e1fe667a81-114b-e788-82b1-5c3bbfaaaf</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>26/97</subpath>
+
+  <basePath></basePath>
+
+  <size>208980</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-06-06 00:59:52</createdat>
+
+  <updatedat>2021-06-06 01:00:03</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

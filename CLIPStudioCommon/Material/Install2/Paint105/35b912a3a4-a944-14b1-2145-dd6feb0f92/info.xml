@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="7caf30ff3a-3040-38b4-b5a2-874279df60"/>
+
+  <info uuid="04387f8f-6369-417f-a873-3a6812e87ecd">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>3D</data>
+      <data>Small_object</data>
+      <data>Prop</data>
+      <data>Tool</data>
+      <data>Music_Instrument</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

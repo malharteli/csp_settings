@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>4X</name>
+
+  <cloudcontentid>102510014</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>faacf12cc8-2344-938b-772b-c33ef5dd1a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>21/45</subpath>
+
+  <basePath></basePath>
+
+  <size>3082090</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:00:34</createdat>
+
+  <updatedat>2020-07-21 00:00:53</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

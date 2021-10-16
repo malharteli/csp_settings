@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>dryStamp</name>
+
+  <cloudcontentid>123408363</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>821a1cee19-9748-2eb5-e351-b9cf51d3ff</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>53/54</subpath>
+
+  <basePath></basePath>
+
+  <size>185634</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 09:08:53</createdat>
+
+  <updatedat>2021-01-01 09:09:12</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

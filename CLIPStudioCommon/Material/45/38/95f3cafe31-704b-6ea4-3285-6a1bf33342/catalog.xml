@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="95f3cafe31-704b-6ea4-3285-6a1bf33342">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>Layer 1 Copy</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cd4ba616c7-2a48-9d99-fe3e-fc536bdcca">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="f414393f55-3241-71ac-0805-02a78c282f">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>Square Copy00</name>
+            <created_date>2018/02/18 20:14:26</created_date>
+            <modified_date>2018/02/18 20:14:26</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b39836e9af-eb41-169e-fc45-8a52c9a9c9"/>
+            </thumbnail>
+            <data>
+              <fileref idref="663d9bf62f-7641-b3b6-2182-4f130575d8"/>
+            </data>
+            <icedata>
+              <fileref idref="f18c1e9ad1-0a40-f588-414c-aaf62c2869"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="663d9bf62f-7641-b3b6-2182-4f130575d8" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="b39836e9af-eb41-169e-fc45-8a52c9a9c9" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="f18c1e9ad1-0a40-f588-414c-aaf62c2869" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8bf5246a54-c249-aba2-9161-5dc3e377e9" ver="20210917175924">
+    <ccf_registed_at>2021/09/17 17:59:24</ccf_registed_at>
+    <content_id>1867138</content_id>
+    <origin_content_id>1867138</origin_content_id>
+    <url>https://assets.clip-studio.com</url>
+    <type>catalog</type>
+    <user_id>9114</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="ice" version="1.10.13"/>
+    <name>Wet wash &amp; Thick oil paint</name>
+    <created_date>2021/09/28 18:48:43</created_date>
+    <modified_date>2021/09/28 18:48:43</modified_date>
+    <description>
+      <fileref idref="9e69473230-5840-76b6-bbf1-ba1032fb8d"/>
+    </description>
+    <thumbnail>
+      <fileref idref="1c3993b606-624a-67a5-1fdc-bd5a1a611d"/>
+    </thumbnail>
+    <icedata>
+      <fileref idref="116ff47005-c649-57b1-4be0-97f9bccd63"/>
+    </icedata>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e883e5e63b-7e46-6cac-2907-edfd534307" ver="20210917175924">
+        <ccf_registed_at>2021/09/17 17:59:24</ccf_registed_at>
+        <tool company="celsys" name="ice" version="1.10.13"/>
+        <user_id>9114</user_id>
+        <group_id>1166414</group_id>
+        <type ver="1.0.0">group</type>
+        <name>Watercolor / Thick paint</name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3b39272764-254c-609a-398a-27023df02c" ver="20210917175924">
+          <ccf_registed_at>2021/09/17 17:59:24</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.10.13"/>
+          <user_id>9114</user_id>
+          <group_id>1166415</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="705859e7d4-9f4d-c4b8-e0cc-5921a18f7a" ver="20210917175924">
+              <ccf_registed_at>2021/09/17 17:59:24</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.11.0"/>
+              <user_id>9114</user_id>
+              <item_id>1166417</item_id>
+              <type ver="1.0.4">brush</type>
+              <name>Wet wash</name>
+              <created_date>2021/09/28 18:48:43</created_date>
+              <modified_date>2021/09/28 18:48:43</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="024ed73730-c345-f48d-2116-a9b3b45075"/>
+              </thumbnail>
+              <data>
+                <fileref idref="72f711aa56-494a-4dab-75fd-a0d5d58a50"/>
+              </data>
+              <icedata>
+                <fileref idref="fff7b03715-a340-c2a5-b1c5-bcf85e8df9"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3e203c4557-4148-5f91-3620-aac712666e" ver="20210917175924">
+          <ccf_registed_at>2021/09/17 17:59:24</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.10.13"/>
+          <user_id>9114</user_id>
+          <group_id>1166416</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="bb5f9b7a8b-2648-daa6-3c72-46885acf2e" ver="20210917175924">
+              <ccf_registed_at>2021/09/17 17:59:24</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.11.0"/>
+              <user_id>9114</user_id>
+              <item_id>1166418</item_id>
+              <type ver="1.0.4">brush</type>
+              <name>Thick oil paint</name>
+              <created_date>2021/09/28 18:48:44</created_date>
+              <modified_date>2021/09/28 18:48:44</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="e2aa799447-7246-3c9f-6d07-16a572f3f2"/>
+              </thumbnail>
+              <data>
+                <fileref idref="74bc466f00-884b-1395-5cf7-f4e91f009c"/>
+              </data>
+              <icedata>
+                <fileref idref="b7d556c52b-394f-c5ae-fc7f-b6b3b5c4d8"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="024ed73730-c345-f48d-2116-a9b3b45075" mime="image/png">
+      <path>705859e7d4-9f4d-c4b8-e0cc-5921a18f7a/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="116ff47005-c649-57b1-4be0-97f9bccd63" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="1c3993b606-624a-67a5-1fdc-bd5a1a611d" mime="image/png">
+      <path>thumbnail/catalogThumb.png</path>
+    </file>
+    <file document="false" encrypt="true" id="72f711aa56-494a-4dab-75fd-a0d5d58a50" mime="application/octet-stream">
+      <path>705859e7d4-9f4d-c4b8-e0cc-5921a18f7a/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="true" id="74bc466f00-884b-1395-5cf7-f4e91f009c" mime="application/octet-stream">
+      <path>bb5f9b7a8b-2648-daa6-3c72-46885acf2e/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="9e69473230-5840-76b6-bbf1-ba1032fb8d" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+    <file document="false" encrypt="false" id="b7d556c52b-394f-c5ae-fc7f-b6b3b5c4d8" mime="text/xml">
+      <path>bb5f9b7a8b-2648-daa6-3c72-46885acf2e/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="e2aa799447-7246-3c9f-6d07-16a572f3f2" mime="image/png">
+      <path>bb5f9b7a8b-2648-daa6-3c72-46885acf2e/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="fff7b03715-a340-c2a5-b1c5-bcf85e8df9" mime="text/xml">
+      <path>705859e7d4-9f4d-c4b8-e0cc-5921a18f7a/icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

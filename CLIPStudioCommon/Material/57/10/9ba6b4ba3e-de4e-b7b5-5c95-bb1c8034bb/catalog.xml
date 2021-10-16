@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="9ba6b4ba3e-de4e-b7b5-5c95-bb1c8034bb">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.9.7"/>
+    <name>Crm_wcスパッタリング</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0b0386e15a-b64b-b8b0-73d6-4b506cabe1">
+        <tool company="celsys" name="paint" version="1.9.7"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="0cf535a39f-7846-8495-9366-17db9835ec">
+            <tool company="celsys" name="paint" version="1.9.7"/>
+            <type ver="1.0.1">image</type>
+            <name>Crm_wcスパッタリングぼかし</name>
+            <created_date>2020/03/14 04:47:14</created_date>
+            <modified_date>2020/03/14 04:47:24</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="854a671120-4f4b-139a-5c05-3da9537448"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4fca9b0679-8842-30a2-1768-8e2852b7ac"/>
+            </data>
+            <icedata>
+              <fileref idref="2b9ee0c001-2e4c-b7b5-f93c-a9dd34a05c"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2b9ee0c001-2e4c-b7b5-f93c-a9dd34a05c" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="4fca9b0679-8842-30a2-1768-8e2852b7ac" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="854a671120-4f4b-139a-5c05-3da9537448" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

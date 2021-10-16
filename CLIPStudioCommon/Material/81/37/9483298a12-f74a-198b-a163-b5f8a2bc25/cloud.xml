@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Papertex</name>
+
+  <cloudcontentid>102509637</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9483298a12-f74a-198b-a163-b5f8a2bc25</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>81/37</subpath>
+
+  <basePath></basePath>
+
+  <size>371664</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:56:26</createdat>
+
+  <updatedat>2020-07-20 23:56:39</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

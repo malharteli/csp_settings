@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>レンガ1</name>
+
+  <cloudcontentid>133813952</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9e3e6c0c3d-e540-9e8c-edba-7ec01235f2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>47/51</subpath>
+
+  <basePath></basePath>
+
+  <size>203278</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-03-11 23:03:47</createdat>
+
+  <updatedat>2021-03-11 23:03:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - tx Cloudy01</name>
+
+  <cloudcontentid>122220305</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>eeeea3ad4f-3911-e8a6-c688-9781043035</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>08/76</subpath>
+
+  <basePath></basePath>
+
+  <size>446780</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:48:13</createdat>
+
+  <updatedat>2020-12-24 15:48:26</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>stroke33</name>
+
+  <cloudcontentid>123405964</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a18bc423a7-ef45-d4b5-d69f-05b6dccc81</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>70/85</subpath>
+
+  <basePath></basePath>
+
+  <size>179502</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:14:32</createdat>
+
+  <updatedat>2021-01-01 08:14:53</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

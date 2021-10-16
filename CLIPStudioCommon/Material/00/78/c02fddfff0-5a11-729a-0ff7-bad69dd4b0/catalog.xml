@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="c02fddfff0-5a11-729a-0ff7-bad69dd4b0">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>$$$/Presets/Patterns/FineGrain=Fine Grain</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="733c2980e7-084d-3ab7-f9f5-8b61e6a77a">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="51a7bb95a1-694e-a98c-de7a-02c0a0ff17">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>$$$/Presets/Patterns/FineGrain=Fine Grain</name>
+            <created_date>2020/12/14 01:15:54</created_date>
+            <modified_date>2020/12/14 01:15:54</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3b4e07b971-f84f-b088-df3e-a42ecf3311"/>
+            </thumbnail>
+            <data>
+              <fileref idref="5cae191284-0848-9ba2-8207-8f1ff4a38d"/>
+            </data>
+            <icedata>
+              <fileref idref="178d3acf1a-9845-3093-65c9-f6cf5f3a46"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="178d3acf1a-9845-3093-65c9-f6cf5f3a46" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="3b4e07b971-f84f-b088-df3e-a42ecf3311" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="5cae191284-0848-9ba2-8207-8f1ff4a38d" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

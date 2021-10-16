@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - FuzzBasic</name>
+
+  <cloudcontentid>122221079</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>732f5e817e-1d11-e78a-6bcb-7d1634cc97</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>78/70</subpath>
+
+  <basePath></basePath>
+
+  <size>462237</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:57:14</createdat>
+
+  <updatedat>2020-12-24 15:57:27</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

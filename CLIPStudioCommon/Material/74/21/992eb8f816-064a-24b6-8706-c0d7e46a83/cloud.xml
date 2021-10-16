@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Crm_wc塗り</name>
+
+  <cloudcontentid>165042994</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>992eb8f816-064a-24b6-8706-c0d7e46a83</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>74/21</subpath>
+
+  <basePath></basePath>
+
+  <size>262294</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-09-25 15:06:29</createdat>
+
+  <updatedat>2021-09-25 15:06:42</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="8bf5246a54-c249-aba2-9161-5dc3e377e9">
+    <datalist key="lead">
+      <data>This is a material catalog containing the [Wet wash] and [Thick oil paint] updated in Clip Studio Paint Ver. 1.11.0.
+
+These materials are compatible with Clip Studio Paint Ver 1.11.0 or later. Please update Clip Studio Paint to the latest version before use.</data>
+    </datalist>
+    <datalist key="tag">
+      <data>1.11.0</data>
+      <data>Monochrome</data>
+      <data>Watercolor</data>
+      <data>Thick_paint</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+  <info uuid="705859e7d4-9f4d-c4b8-e0cc-5921a18f7a">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>1.11.0</data>
+      <data>Monochrome</data>
+      <data>Watercolor</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+  <info uuid="bb5f9b7a8b-2648-daa6-3c72-46885acf2e">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>1.11.0</data>
+      <data>Monochrome</data>
+      <data>Thick_paint</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

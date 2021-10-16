@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Hankler</name>
+
+  <cloudcontentid>122220744</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d288321746-4511-e792-1ada-390c8e80b3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>37/12</subpath>
+
+  <basePath></basePath>
+
+  <size>304007</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:53:11</createdat>
+
+  <updatedat>2020-12-24 15:53:25</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

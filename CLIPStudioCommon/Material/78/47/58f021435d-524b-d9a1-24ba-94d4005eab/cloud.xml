@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>leak 13</name>
+
+  <cloudcontentid>102503957</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>58f021435d-524b-d9a1-24ba-94d4005eab</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>78/47</subpath>
+
+  <basePath></basePath>
+
+  <size>62638</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:01:58</createdat>
+
+  <updatedat>2020-07-20 23:02:10</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

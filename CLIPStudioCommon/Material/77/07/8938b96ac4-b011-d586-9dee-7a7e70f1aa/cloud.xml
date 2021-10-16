@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Oil Heavy Flow Small Tip</name>
+
+  <cloudcontentid>122215269</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8938b96ac4-b011-d586-9dee-7a7e70f1aa</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>77/07</subpath>
+
+  <basePath></basePath>
+
+  <size>126976</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:02:30</createdat>
+
+  <updatedat>2020-12-24 15:02:49</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

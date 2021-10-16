@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="CLIP STUDIO SERIES 1.5.0"/>
+
+  <string_data version="1.0.0">
+    <string data="TrainA_car1" id="091ffe9b-1258-47d8-ae13-458281203bd7"/>
+    <string data="railwaycrossingArea" id="1a2831cb-a442-4fa7-b8e9-bb7689a51a01"/>
+    <string data="TrainB_car1" id="1a3c7794-af06-404b-8c73-40a3d402e1b6"/>
+    <string data="Building" id="3c04ddd8-149f-42ec-9add-ba6bb250add8"/>
+    <string data="TrainB_car4" id="501c9195-3da7-4dab-b0c2-2b3edf4df83a"/>
+    <string data="Root node" id="51d8d7ab-2cbe-4731-95de-a09689261b14"/>
+    <string data="Zone_004" id="524d3a76-55e7-4c48-8473-fae844f3157a"/>
+    <string data="Zone_001" id="52c90726-e843-44e4-9fdf-fb51fd8ec90f"/>
+    <string data="Zone_003" id="5b34f780-1a1f-4b01-8f1f-46e8fb77abb2"/>
+    <string data="Ground" id="6364c26f-71ac-4afd-8274-34a646168efc"/>
+    <string data="TrainA_car4" id="66274e6a-6f21-40cd-bd57-1632ba82b766"/>
+    <string data="railwayCrossing" id="6e40940c-35cd-4d5d-89a1-2a7af2264c35"/>
+    <string data="TrainB" id="6f657244-dbe6-4496-a525-4c50f0e63248"/>
+    <string data="railwayCrossing_003" id="7391f7ee-0e9d-47ef-a68c-3e0905b5dac1"/>
+    <string data="TrainA_car2" id="78354031-361e-4815-94e7-fc6f5ec46029"/>
+    <string data="TrainA_car5" id="7ca03d87-2c2c-450c-a2c6-4ae4fb9fa387"/>
+    <string data="railwayCrossing_001" id="7d6647c9-bc26-45d7-9990-a6bdb11e7912"/>
+    <string data="railwayCrossing_002" id="ae377589-8402-4a56-8b40-854b0abeff51"/>
+    <string data="railwayCrossing_004" id="b2542642-f10a-4c23-93e8-f75f8785bfc4"/>
+    <string data="TrainB_car3" id="b31ccd30-43c9-4b07-9436-7ae4e1a1398d"/>
+    <string data="TrainB_car5" id="b8ed2334-591a-4d4d-b77e-507fe11b13e4"/>
+    <string data="TrainB_car2" id="c52323c2-a77d-4617-b71a-6193af237c7f"/>
+    <string data="TrainA" id="c8ce05b6-14df-4bd5-a1f0-f8f9ced81ca2"/>
+    <string data="Zone_002" id="e9710e9e-5717-43c2-ae20-b0aa34b9ebb3"/>
+    <string data="TrainA_car3" id="ecba44a5-2e8a-42f0-b0ea-4e779c4388e7"/>
+  </string_data>
+
+</celsysdocument>

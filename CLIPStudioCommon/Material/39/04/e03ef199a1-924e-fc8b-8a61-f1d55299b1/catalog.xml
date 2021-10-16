@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="e03ef199a1-924e-fc8b-8a61-f1d55299b1">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>Simple Sable</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0c61b71950-f345-babf-ec95-70ba83ea10">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cd2cfe77f3-e341-7dbc-b9e9-56fab7c9fd">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>Simple Sable</name>
+            <created_date>2018/04/11 06:14:01</created_date>
+            <modified_date>2018/04/11 06:14:01</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="35edc5b9ac-7045-0fb1-5037-710629e564"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f0d0fb1e7d-fe47-ef83-6e46-44a6c62822"/>
+            </data>
+            <icedata>
+              <fileref idref="ad3e3db430-d140-d1be-c7ef-f9f7389bff"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="35edc5b9ac-7045-0fb1-5037-710629e564" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="ad3e3db430-d140-d1be-c7ef-f9f7389bff" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="f0d0fb1e7d-fe47-ef83-6e46-44a6c62822" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

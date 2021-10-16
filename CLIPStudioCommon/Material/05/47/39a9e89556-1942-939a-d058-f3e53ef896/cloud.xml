@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>stroke23</name>
+
+  <cloudcontentid>123405924</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>39a9e89556-1942-939a-d058-f3e53ef896</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>05/47</subpath>
+
+  <basePath></basePath>
+
+  <size>240890</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:12:38</createdat>
+
+  <updatedat>2021-01-01 08:12:58</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

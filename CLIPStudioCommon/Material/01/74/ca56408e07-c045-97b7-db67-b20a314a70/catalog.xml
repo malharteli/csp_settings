@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ca56408e07-c045-97b7-db67-b20a314a70">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>Round Rough</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f91c9664ee-e74d-1894-d1ec-4339d23cf4">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4d61b752bd-564f-ea97-f355-4a9865a85b">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>Round Rough</name>
+            <created_date>2018/04/11 06:14:33</created_date>
+            <modified_date>2018/04/11 06:14:33</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="4e006319c0-2746-7d9f-69eb-7c0a05ad4e"/>
+            </thumbnail>
+            <data>
+              <fileref idref="014eb9a3fd-fc40-cfab-12f3-248c7c1644"/>
+            </data>
+            <icedata>
+              <fileref idref="7be5d031bf-6e46-569c-26dc-30fd7fbdf4"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="014eb9a3fd-fc40-cfab-12f3-248c7c1644" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="4e006319c0-2746-7d9f-69eb-7c0a05ad4e" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="7be5d031bf-6e46-569c-26dc-30fd7fbdf4" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

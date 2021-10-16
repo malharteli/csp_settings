@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="cf0a4fc49f-d349-8a9d-ef50-6d81e71975">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>GreatAceAttorneySketches</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2443025c1d-c643-8288-ddd6-e241dc0bd4">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="98571857e1-b44b-fabe-a871-31897ab093">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>GreatAceAttorneySketches</name>
+            <created_date>2021/08/30 05:17:01</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="87a8d67832-e541-38b9-bf0e-3d52612371"/>
+            </thumbnail>
+            <data>
+              <fileref idref="573d5d88d8-4846-2caf-c39f-211fb73ee8"/>
+            </data>
+            <icedata>
+              <fileref idref="0253f32dc6-b54c-819c-b360-dc1cd556eb"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0253f32dc6-b54c-819c-b360-dc1cd556eb" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="573d5d88d8-4846-2caf-c39f-211fb73ee8" mime="application/octet-stream">
+      <path>GreatAceAttorneySketches.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="87a8d67832-e541-38b9-bf0e-3d52612371" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>駅ホーム(地上)-Ver.2</name>
+
+  <cloudcontentid>2927</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>61991c8c29-334e-3db0-e588-8998f1f515</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>other_3dmodel</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/27/29/2927</basePath>
+
+  <size>13464211</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2018-08-30 12:30:13</createdat>
+
+  <updatedat>2018-08-30 12:30:43</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

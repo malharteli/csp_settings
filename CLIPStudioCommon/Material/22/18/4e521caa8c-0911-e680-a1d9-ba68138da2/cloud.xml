@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Ov Squirls</name>
+
+  <cloudcontentid>122217328</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4e521caa8c-0911-e680-a1d9-ba68138da2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>22/18</subpath>
+
+  <basePath></basePath>
+
+  <size>130252</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:19:42</createdat>
+
+  <updatedat>2020-12-24 15:19:56</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

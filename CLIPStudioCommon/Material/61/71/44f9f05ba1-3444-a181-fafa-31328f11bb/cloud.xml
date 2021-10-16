@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>飛沫３</name>
+
+  <cloudcontentid>142064132</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>44f9f05ba1-3444-a181-fafa-31328f11bb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>61/71</subpath>
+
+  <basePath></basePath>
+
+  <size>96527</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:15:02</createdat>
+
+  <updatedat>2021-05-09 15:15:13</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

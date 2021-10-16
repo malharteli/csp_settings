@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a13676ae68-b742-4a88-9f65-c0549001b9">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Walk with an umbrella 01</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="eac76a98f8-9e40-5bb1-fcbe-466bc38640">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c1990e7e8e-b141-6f8c-d876-7e2e1d1e26">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">pose</type>
+            <name>Walk with an umbrella 01</name>
+            <created_date>2016/06/21 10:06:53</created_date>
+            <modified_date>2016/06/21 10:06:53</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="ee0925a605-9448-95ad-2ae5-156d0c8832"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4a8a93f29b-1141-dc9c-c223-f087291342"/>
+            </data>
+            <icedata>
+              <fileref idref="8de24aed4e-804f-04a3-cf39-38630f9e45"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="4a8a93f29b-1141-dc9c-c223-f087291342" mime="application/octet-stream">
+      <path>data/material.pose</path>
+    </file>
+    <file document="false" encrypt="false" id="8de24aed4e-804f-04a3-cf39-38630f9e45" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="ee0925a605-9448-95ad-2ae5-156d0c8832" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

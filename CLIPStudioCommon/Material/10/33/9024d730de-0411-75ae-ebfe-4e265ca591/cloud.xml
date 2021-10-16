@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Kyle WC 01</name>
+
+  <cloudcontentid>122213271</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9024d730de-0411-75ae-ebfe-4e265ca591</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>10/33</subpath>
+
+  <basePath></basePath>
+
+  <size>193822</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:46:42</createdat>
+
+  <updatedat>2020-12-24 14:46:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

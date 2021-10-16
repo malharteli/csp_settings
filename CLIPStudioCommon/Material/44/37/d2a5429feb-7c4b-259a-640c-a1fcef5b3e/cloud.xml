@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ps brush boop</name>
+
+  <cloudcontentid>102507305</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d2a5429feb-7c4b-259a-640c-a1fcef5b3e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>44/37</subpath>
+
+  <basePath></basePath>
+
+  <size>59500</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:32:05</createdat>
+
+  <updatedat>2020-07-20 23:32:16</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

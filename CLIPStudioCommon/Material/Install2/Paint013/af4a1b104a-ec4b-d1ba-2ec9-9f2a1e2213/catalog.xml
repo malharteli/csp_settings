@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="af4a1b104a-ec4b-d1ba-2ec9-9f2a1e2213">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Sharp pain! horizontal</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b48b515677-dc4a-5884-05ae-bad3bb87b9">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="06a547b60d-3745-1389-6f84-1e5c002455">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Sharp pain! horizontal</name>
+            <created_date>2016/06/21 10:08:09</created_date>
+            <modified_date>2016/06/21 10:08:09</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="7828512c1b-cf4d-9eb3-362a-657d85e475"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c2536f4298-8749-16b5-e52a-29cf9f2fd8"/>
+            </data>
+            <icedata>
+              <fileref idref="583d39b2c6-9c4f-5e81-fbdc-af5e225528"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="583d39b2c6-9c4f-5e81-fbdc-af5e225528" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="7828512c1b-cf4d-9eb3-362a-657d85e475" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="c2536f4298-8749-16b5-e52a-29cf9f2fd8" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

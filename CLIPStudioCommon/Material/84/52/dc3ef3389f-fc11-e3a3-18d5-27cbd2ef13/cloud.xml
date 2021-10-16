@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut Leaf Crumby</name>
+
+  <cloudcontentid>122222123</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>dc3ef3389f-fc11-e3a3-18d5-27cbd2ef13</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>84/52</subpath>
+
+  <basePath></basePath>
+
+  <size>280168</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:09:19</createdat>
+
+  <updatedat>2020-12-24 16:09:32</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

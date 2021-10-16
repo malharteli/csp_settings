@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>waterNibsGrouped</name>
+
+  <cloudcontentid>123406102</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e92b99465e-fb4b-1e97-77e8-4c4a5d0252</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>03/67</subpath>
+
+  <basePath></basePath>
+
+  <size>278340</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:21:12</createdat>
+
+  <updatedat>2021-01-01 08:21:28</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

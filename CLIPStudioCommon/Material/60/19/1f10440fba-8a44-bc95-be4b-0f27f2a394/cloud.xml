@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Dappled cloud 1</name>
+
+  <cloudcontentid>102506922</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>1f10440fba-8a44-bc95-be4b-0f27f2a394</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>60/19</subpath>
+
+  <basePath></basePath>
+
+  <size>228763</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:28:18</createdat>
+
+  <updatedat>2020-07-20 23:28:30</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>$$$/Presets/Patterns/Stone=Stone</name>
+
+  <cloudcontentid>122213240</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2ab8ff797c-3911-d497-f0ce-0e81abb313</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>04/54</subpath>
+
+  <basePath></basePath>
+
+  <size>137854</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:46:24</createdat>
+
+  <updatedat>2020-12-24 14:46:38</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="45a1277d1a-e744-ca85-8dae-8a5a19875b"/>
+
+  <info uuid="759ad507-6a6c-4e85-9832-dc5067bee7e1">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>3D</data>
+      <data>School</data>
+      <data>Small_object</data>
+      <data>Stationary_and_book</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

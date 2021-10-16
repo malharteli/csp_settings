@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>廃墟影 1-5</name>
+
+  <cloudcontentid>102511061</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7d9405a4d6-1048-f182-d0bc-8cdfd39c35</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>20/70</subpath>
+
+  <basePath></basePath>
+
+  <size>276576</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:12:10</createdat>
+
+  <updatedat>2020-07-21 00:12:22</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="6fef64e2eb-0544-acb7-838f-18604b6df3">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>Romance</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e31bbc0e07-3c48-96a2-88b6-62359d7a8d">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="32bc84d7ef-7e4a-59a2-ba02-00eaa0030b">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="">paintwork2</type>
+            <name>Romance</name>
+            <created_date>2021/05/21 16:36:55</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="c52983e0c4-c24e-49aa-7d97-e09fd191f7"/>
+            </thumbnail>
+            <data>
+              <fileref idref="94bf221f79-274f-378e-ff62-367f54426d"/>
+              <fileref idref="0484e7299e-da45-8ba5-d851-962627ddb6"/>
+              <fileref idref="73e713e2ea-1e45-229e-d52b-6e6f311eec"/>
+            </data>
+            <icedata>
+              <fileref idref="9f36b30a79-3a46-a7a5-8a4f-2f3e70e14a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="0484e7299e-da45-8ba5-d851-962627ddb6" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="73e713e2ea-1e45-229e-d52b-6e6f311eec" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="94bf221f79-274f-378e-ff62-367f54426d" mime="application/octet-stream">
+      <path>Romance.cmc</path>
+    </file>
+    <file document="false" encrypt="false" id="9f36b30a79-3a46-a7a5-8a4f-2f3e70e14a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="c52983e0c4-c24e-49aa-7d97-e09fd191f7" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

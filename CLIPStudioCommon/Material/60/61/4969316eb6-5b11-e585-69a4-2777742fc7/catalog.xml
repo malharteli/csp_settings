@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="4969316eb6-5b11-e585-69a4-2777742fc7">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>NY_Mews-512</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d5c6ac3a74-4f44-4a83-5872-9bcff79c69">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e6e2ff5cc9-2c40-4f85-5b0e-175e5b8cf0">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>NY_Mews-512</name>
+            <created_date>2020/12/14 01:32:47</created_date>
+            <modified_date>2020/12/14 01:32:47</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="a1b26f49a0-b644-ada3-97c9-9da6014758"/>
+            </thumbnail>
+            <data>
+              <fileref idref="acce7db6bd-7c4e-848c-bde5-8953f4e1dd"/>
+            </data>
+            <icedata>
+              <fileref idref="b0d0ae3aef-c944-aa95-767b-0eb33d4495"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="a1b26f49a0-b644-ada3-97c9-9da6014758" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="acce7db6bd-7c4e-848c-bde5-8953f4e1dd" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="b0d0ae3aef-c944-aa95-767b-0eb33d4495" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

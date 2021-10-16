@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b018ccb470-c744-e788-1b7e-3df8b9aecb">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>Pentagon Round Fade</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9ee796d96d-f447-9d87-c882-7a4344168a">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="847864192d-9d41-d9a5-79b7-2c2158dcd6">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>Pentagon Round Fade</name>
+            <created_date>2018/04/11 06:16:29</created_date>
+            <modified_date>2018/04/11 06:16:29</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="9bfea026c3-f442-d394-2476-d40b01de07"/>
+            </thumbnail>
+            <data>
+              <fileref idref="65402d76fd-8f4a-2789-71b5-fac20c7de3"/>
+            </data>
+            <icedata>
+              <fileref idref="cb89cdeddc-644e-b397-f619-d22d8c5e2a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="65402d76fd-8f4a-2789-71b5-fac20c7de3" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="9bfea026c3-f442-d394-2476-d40b01de07" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="cb89cdeddc-644e-b397-f619-d22d8c5e2a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

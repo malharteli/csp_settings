@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="64774a8954-d447-ec9a-b511-41b792722f">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>sketchfile</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0f80fad1e2-4f45-6f82-575b-1c567454c7">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7cd05267e0-5a4b-c5ba-c903-5bbedba970">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>sketchfile</name>
+            <created_date>2021/08/15 01:53:25</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="bff271e673-2d40-3dbf-fc25-13c90d76cd"/>
+            </thumbnail>
+            <data>
+              <fileref idref="88009acdf6-0f44-1eb1-98fe-1842966ebb"/>
+            </data>
+            <icedata>
+              <fileref idref="15d618e99a-2148-cdb6-bb45-c000c41abc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="15d618e99a-2148-cdb6-bb45-c000c41abc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="88009acdf6-0f44-1eb1-98fe-1842966ebb" mime="application/octet-stream">
+      <path>sketchfile.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="bff271e673-2d40-3dbf-fc25-13c90d76cd" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

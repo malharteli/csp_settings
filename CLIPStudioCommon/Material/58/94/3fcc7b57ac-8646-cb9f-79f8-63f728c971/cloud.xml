@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>singleDaub15_dry</name>
+
+  <cloudcontentid>123407493</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>3fcc7b57ac-8646-cb9f-79f8-63f728c971</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>58/94</subpath>
+
+  <basePath></basePath>
+
+  <size>103939</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:56:38</createdat>
+
+  <updatedat>2021-01-01 08:56:52</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

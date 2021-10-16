@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="943b4d5047-2745-eab4-c183-16d38cd585">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.2"/>
+    <name>Layer 2 Merged</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9cf7fb1505-2840-7c9a-3e43-71368dafab">
+        <tool company="celsys" name="paint" version="1.6.2"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="2318acb75f-664b-65b1-d4eb-64801ff55c">
+            <tool company="celsys" name="paint" version="1.6.2"/>
+            <type ver="1.0.1">image</type>
+            <name>Bristle Fade 002</name>
+            <created_date>2017/05/17 20:58:53</created_date>
+            <modified_date>2017/05/17 20:58:53</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="46ed73a9b8-b84c-10ac-c7a6-c2d772161c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="69ee731309-174e-409b-5996-983d11f543"/>
+            </data>
+            <icedata>
+              <fileref idref="2648ae55f1-7c47-8ead-0091-8a744fe991"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2648ae55f1-7c47-8ead-0091-8a744fe991" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="46ed73a9b8-b84c-10ac-c7a6-c2d772161c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="69ee731309-174e-409b-5996-983d11f543" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

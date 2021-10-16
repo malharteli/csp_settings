@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>CanvasOil_512</name>
+
+  <cloudcontentid>102508251</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>54652a1fef-dd46-b283-41b7-0264020b21</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>53/17</subpath>
+
+  <basePath></basePath>
+
+  <size>384545</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:39:34</createdat>
+
+  <updatedat>2020-07-20 23:39:47</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="e3c531a4ba-0f4a-4fbf-8ff2-2cb4e0221e">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Piyo,gray</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6a2c83f045-5b4a-7a8b-a5bd-cd05780adc">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="111e792a7c-e14c-a098-c3e4-52989cd619">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Piyo,gray</name>
+            <created_date>2016/06/21 10:07:32</created_date>
+            <modified_date>2016/06/21 10:07:32</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="60b8412644-e64b-3aad-0bd2-b6f63bc60a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="99f9bb0a3e-ff4e-008f-f662-bab5f15d0d"/>
+            </data>
+            <icedata>
+              <fileref idref="8599e30860-9349-9791-216e-7ff257a9af"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="60b8412644-e64b-3aad-0bd2-b6f63bc60a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="8599e30860-9349-9791-216e-7ff257a9af" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="99f9bb0a3e-ff4e-008f-f662-bab5f15d0d" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+  </files>
+
+</archive>

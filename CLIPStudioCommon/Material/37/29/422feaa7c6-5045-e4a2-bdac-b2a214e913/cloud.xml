@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>pencilShape</name>
+
+  <cloudcontentid>123406385</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>422feaa7c6-5045-e4a2-bdac-b2a214e913</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>37/29</subpath>
+
+  <basePath></basePath>
+
+  <size>137853</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:30:22</createdat>
+
+  <updatedat>2021-01-01 08:30:44</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

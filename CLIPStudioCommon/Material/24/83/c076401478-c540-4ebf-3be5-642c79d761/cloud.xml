@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>slightBumpMap</name>
+
+  <cloudcontentid>123407523</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c076401478-c540-4ebf-3be5-642c79d761</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>24/83</subpath>
+
+  <basePath></basePath>
+
+  <size>96708</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:57:14</createdat>
+
+  <updatedat>2021-01-01 08:57:30</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

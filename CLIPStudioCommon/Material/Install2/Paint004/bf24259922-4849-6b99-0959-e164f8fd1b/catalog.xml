@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="bf24259922-4849-6b99-0959-e164f8fd1b">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Hold an egg</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ea7b996b11-2d4a-37a0-2659-28bacae31a">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a12286909b-e947-65b8-1a5e-df342a04d1">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">pose</type>
+            <name>Hold an egg</name>
+            <created_date>2016/06/21 10:06:58</created_date>
+            <modified_date>2016/06/21 10:06:58</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="76dc81cd5f-1c47-fc94-6fa5-9db76444d8"/>
+            </thumbnail>
+            <data>
+              <fileref idref="8c52cb4530-e547-73b3-875e-9ae99b7d36"/>
+            </data>
+            <icedata>
+              <fileref idref="f86b130843-f64d-f0aa-c089-a64ec18c07"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="76dc81cd5f-1c47-fc94-6fa5-9db76444d8" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="8c52cb4530-e547-73b3-875e-9ae99b7d36" mime="application/octet-stream">
+      <path>data/material.pose</path>
+    </file>
+    <file document="false" encrypt="false" id="f86b130843-f64d-f0aa-c089-a64ec18c07" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

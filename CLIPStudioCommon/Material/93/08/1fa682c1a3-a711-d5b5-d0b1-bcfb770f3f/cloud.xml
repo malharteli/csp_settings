@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Pastel Medium Tip</name>
+
+  <cloudcontentid>122212318</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>1fa682c1a3-a711-d5b5-d0b1-bcfb770f3f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>93/08</subpath>
+
+  <basePath></basePath>
+
+  <size>136014</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:38:44</createdat>
+
+  <updatedat>2020-12-24 14:38:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

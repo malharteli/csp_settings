@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="d671fa1b71-5311-79a4-59a7-745716d22c">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>$$$/Presets/BrushTips/Sampled/kyledragmixedgreys=kyle drag mixed greys</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="804b639669-484d-55ad-85af-c3ae474c74">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b0a49eae64-f644-23a6-ccfb-d160afcb03">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>$$$/Presets/BrushTips/Sampled/kyledragmixedgreys=kyle drag mixed greys</name>
+            <created_date>2021/05/09 02:47:04</created_date>
+            <modified_date>2021/05/09 02:47:04</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="9e438ff67b-4b43-bd94-7ff0-d4ee4aaa99"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f6083b7eaf-d544-3aa4-5a49-7bb7bb8df7"/>
+            </data>
+            <icedata>
+              <fileref idref="0238162edb-1e47-4da6-3004-bc95bed45e"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0238162edb-1e47-4da6-3004-bc95bed45e" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="9e438ff67b-4b43-bd94-7ff0-d4ee4aaa99" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="f6083b7eaf-d544-3aa4-5a49-7bb7bb8df7" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

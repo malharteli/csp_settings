@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Tri_3</name>
+
+  <cloudcontentid>142066010</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>29ed8d7927-4e45-fcaf-0904-fd6c251b6f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>12/12</subpath>
+
+  <basePath></basePath>
+
+  <size>153602</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:28:50</createdat>
+
+  <updatedat>2021-05-09 15:29:02</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

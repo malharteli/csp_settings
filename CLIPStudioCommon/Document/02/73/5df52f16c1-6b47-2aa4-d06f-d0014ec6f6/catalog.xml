@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5df52f16c1-6b47-2aa4-d06f-d0014ec6f6">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Arcanum_Academy_Duel</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="42d38376ae-3a46-c48c-94ab-3633f3a7fb">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3afb181195-0243-e2b4-cf42-a3abf3c2f9">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>Arcanum_Academy_Duel</name>
+            <created_date>2021/08/02 02:24:27</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="c80345fb30-0c4e-2198-ea2c-74d7ee2aca"/>
+            </thumbnail>
+            <data>
+              <fileref idref="b9febd6933-eb47-48bb-8a0c-9cbc4adaee"/>
+            </data>
+            <icedata>
+              <fileref idref="c64c06e21c-9042-269a-0ee0-9b6d03124d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="b9febd6933-eb47-48bb-8a0c-9cbc4adaee" mime="application/octet-stream">
+      <path>Arcanum_Academy_Duel.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="c64c06e21c-9042-269a-0ee0-9b6d03124d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="c80345fb30-0c4e-2198-ea2c-74d7ee2aca" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

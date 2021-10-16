@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>男子学生A-Ver.3</name>
+
+  <cloudcontentid>1339</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>3703b94d6e-1b4b-bdaa-df73-3daa25afeb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>character</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/39/13/1339</basePath>
+
+  <size>15495125</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 15:54:31</createdat>
+
+  <updatedat>2016-07-13 15:57:03</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

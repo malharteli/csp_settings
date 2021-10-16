@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>kyle scribble 1</name>
+
+  <cloudcontentid>122212863</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b0c66badcd-6011-799a-d4cc-391fdd9572</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>53/67</subpath>
+
+  <basePath></basePath>
+
+  <size>280240</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:43:08</createdat>
+
+  <updatedat>2020-12-24 14:43:25</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

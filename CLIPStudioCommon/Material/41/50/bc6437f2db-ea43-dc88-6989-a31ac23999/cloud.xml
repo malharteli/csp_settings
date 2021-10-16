@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ちり１の１</name>
+
+  <cloudcontentid>102510415</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>bc6437f2db-ea43-dc88-6989-a31ac23999</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>41/50</subpath>
+
+  <basePath></basePath>
+
+  <size>1194037</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:05:13</createdat>
+
+  <updatedat>2020-07-21 00:05:30</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

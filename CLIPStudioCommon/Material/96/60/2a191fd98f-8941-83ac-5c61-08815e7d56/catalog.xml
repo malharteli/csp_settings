@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="2a191fd98f-8941-83ac-5c61-08815e7d56">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.5.4"/>
+    <name>DAUB_paper_026</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="61f412db58-064c-e78e-dfb0-816265c3d0">
+        <tool company="celsys" name="paint" version="1.5.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="06953ddff5-764e-6488-68d7-3a278444b8">
+            <tool company="celsys" name="paint" version="1.5.4"/>
+            <type ver="1.0.1">image</type>
+            <name>DAUB_paper_026</name>
+            <created_date>2016/09/29 10:24:43</created_date>
+            <modified_date>2016/09/29 10:24:43</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="df737f27a5-cc41-2a83-079a-c52d17451a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="cf1fce2a5d-cd41-eb97-2dab-199ea348da"/>
+            </data>
+            <icedata>
+              <fileref idref="a358bab41d-8b41-4a8d-0895-ed9f386fc0"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="a358bab41d-8b41-4a8d-0895-ed9f386fc0" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="cf1fce2a5d-cd41-eb97-2dab-199ea348da" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="df737f27a5-cc41-2a83-079a-c52d17451a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

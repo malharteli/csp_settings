@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - TallRect</name>
+
+  <cloudcontentid>122217153</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>280f683fc1-4b11-e59c-ec9f-e89cb10032</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>28/31</subpath>
+
+  <basePath></basePath>
+
+  <size>556209</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:18:17</createdat>
+
+  <updatedat>2020-12-24 15:18:32</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

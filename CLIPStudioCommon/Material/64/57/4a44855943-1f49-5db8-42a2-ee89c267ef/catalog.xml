@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="4a44855943-1f49-5db8-42a2-ee89c267ef">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.9.7"/>
+    <name>Crm_wcスパッタリング</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8e03edd44b-294e-fcad-97ec-898cf58bb8">
+        <tool company="celsys" name="paint" version="1.9.7"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="0a7ed09e5f-d249-0c8d-6d2e-97d09cbe1a">
+            <tool company="celsys" name="paint" version="1.9.7"/>
+            <type ver="1.0.1">image</type>
+            <name>Crm_wcスパッタリングぼかし</name>
+            <created_date>2020/03/14 04:46:41</created_date>
+            <modified_date>2020/03/14 04:46:49</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b7937217b7-5e42-89b1-2237-0fee29bffe"/>
+            </thumbnail>
+            <data>
+              <fileref idref="b233e04885-0649-769f-981a-96d2cd872d"/>
+            </data>
+            <icedata>
+              <fileref idref="fb593a2baf-2b41-1496-8a7f-aa9282cfa2"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="b233e04885-0649-769f-981a-96d2cd872d" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="b7937217b7-5e42-89b1-2237-0fee29bffe" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="fb593a2baf-2b41-1496-8a7f-aa9282cfa2" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

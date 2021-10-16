@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Chrysanthemum</name>
+
+  <cloudcontentid>122220841</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>fd10893439-d511-e49a-66c6-275ddb398b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>72/35</subpath>
+
+  <basePath></basePath>
+
+  <size>588390</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:54:21</createdat>
+
+  <updatedat>2020-12-24 15:54:39</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

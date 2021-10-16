@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>三角4</name>
+
+  <cloudcontentid>124536440</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>660a37d13b-254b-aa9a-6cc6-2100f39925</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>93/68</subpath>
+
+  <basePath></basePath>
+
+  <size>79000</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-08 13:58:32</createdat>
+
+  <updatedat>2021-01-08 13:58:43</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

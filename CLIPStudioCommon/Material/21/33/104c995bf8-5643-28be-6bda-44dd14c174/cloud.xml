@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>DAUB microTexture_006</name>
+
+  <cloudcontentid>123406768</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>104c995bf8-5643-28be-6bda-44dd14c174</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>21/33</subpath>
+
+  <basePath></basePath>
+
+  <size>184060</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:43:04</createdat>
+
+  <updatedat>2021-01-01 08:43:17</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

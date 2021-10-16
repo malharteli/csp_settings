@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>PaperConstruction_512</name>
+
+  <cloudcontentid>102506838</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0eb8dc35cb-954a-44b0-6707-b0521428cd</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>67/05</subpath>
+
+  <basePath></basePath>
+
+  <size>435515</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:27:31</createdat>
+
+  <updatedat>2020-07-20 23:27:44</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

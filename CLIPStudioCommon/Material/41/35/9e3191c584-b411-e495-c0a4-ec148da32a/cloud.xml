@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - BoxySoft</name>
+
+  <cloudcontentid>122220629</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9e3191c584-b411-e495-c0a4-ec148da32a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>41/35</subpath>
+
+  <basePath></basePath>
+
+  <size>309089</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:51:47</createdat>
+
+  <updatedat>2020-12-24 15:52:01</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

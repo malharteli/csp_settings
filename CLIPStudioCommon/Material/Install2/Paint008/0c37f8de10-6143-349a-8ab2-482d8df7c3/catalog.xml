@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="0c37f8de10-6143-349a-8ab2-482d8df7c3">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>MM03-school building K06-daytime</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6056fafb26-2d4f-3f92-a981-c2b35e2a5d">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="02c046f5de-6f46-2e81-ebc3-36d9391b9c">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>MM03-school building K06-daytime</name>
+            <created_date>2016/06/21 10:07:33</created_date>
+            <modified_date>2016/06/21 10:07:33</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="a4613d0882-0d45-aca4-ec30-47ca7f81d2"/>
+            </thumbnail>
+            <data>
+              <fileref idref="153d5c426b-cb4d-1798-e65d-483a839fc2"/>
+            </data>
+            <icedata>
+              <fileref idref="f0c29f35f2-8940-fab4-6526-2a7e2877ce"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="153d5c426b-cb4d-1798-e65d-483a839fc2" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="a4613d0882-0d45-aca4-ec30-47ca7f81d2" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="f0c29f35f2-8940-fab4-6526-2a7e2877ce" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

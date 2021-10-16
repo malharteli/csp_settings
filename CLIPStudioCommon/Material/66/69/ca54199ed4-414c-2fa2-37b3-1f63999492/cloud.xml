@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>もに</name>
+
+  <cloudcontentid>142066173</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ca54199ed4-414c-2fa2-37b3-1f63999492</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>66/69</subpath>
+
+  <basePath></basePath>
+
+  <size>89176</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:29:58</createdat>
+
+  <updatedat>2021-05-09 15:30:10</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

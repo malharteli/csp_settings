@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Chalk - Dark</name>
+
+  <cloudcontentid>142067667</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>611251bd47-bf11-d980-9bc5-6d3c548309</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>55/32</subpath>
+
+  <basePath></basePath>
+
+  <size>127980</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:39:16</createdat>
+
+  <updatedat>2021-05-09 15:39:27</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

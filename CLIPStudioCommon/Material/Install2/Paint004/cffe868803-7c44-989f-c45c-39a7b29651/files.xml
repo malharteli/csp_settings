@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<files>
+
+  <version>1.0.0</version>
+
+  <file hash="" localdate="" serverdate="" versionId="">catalog.zip</file>
+
+  <file hash="490471cc392ebd9068bec64fae0bd74c3a4b5f75" localdate="20210726091457" serverdate="2016/07/13 14:51:26" versionId="">data/material.layer</file>
+
+  <file hash="" localdate="" serverdate="" versionId="">externalLink</file>
+
+  <file hash="cedbff145992476c76a645147b7f18b850897a81" localdate="20210726091457" serverdate="2016/07/13 14:51:26" versionId="">icedata/layerData.xml</file>
+
+  <file hash="" localdate="" serverdate="" versionId="">info.zip</file>
+
+  <file hash="" localdate="" serverdate="" versionId="">modifiedData</file>
+
+  <file hash="c80acd79bbd7ee5444d7e3dfe4b5b1c834739792" localdate="20210726091457" serverdate="2016/07/13 14:51:26" versionId="">thumbnail/thumbnail.png</file>
+
+</files>

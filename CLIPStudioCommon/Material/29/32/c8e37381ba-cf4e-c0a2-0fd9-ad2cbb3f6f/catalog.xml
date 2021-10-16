@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="c8e37381ba-cf4e-c0a2-0fd9-ad2cbb3f6f">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>SparseBristle_50%</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fc1060ad47-5d44-4a8e-572a-31315ae96f">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="02f87d8bb1-1c41-4c81-ef56-524e7f4e6b">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>SparseBristle_50%</name>
+            <created_date>2018/02/02 02:19:40</created_date>
+            <modified_date>2018/02/02 02:19:40</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="48ed0ae5c8-4b48-5797-4844-5da2d7408d"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4525dd7b0e-f748-8088-6bea-07e0846842"/>
+            </data>
+            <icedata>
+              <fileref idref="2b8d4c26e0-3b46-cb98-d365-b1afd7580f"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2b8d4c26e0-3b46-cb98-d365-b1afd7580f" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="4525dd7b0e-f748-8088-6bea-07e0846842" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="48ed0ae5c8-4b48-5797-4844-5da2d7408d" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

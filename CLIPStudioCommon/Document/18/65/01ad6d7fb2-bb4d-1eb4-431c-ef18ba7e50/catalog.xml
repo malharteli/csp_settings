@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="01ad6d7fb2-bb4d-1eb4-431c-ef18ba7e50">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>trigger_contest</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1709e5ea4e-124f-dda0-e389-b3472e8d50">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="db1f67bd8c-d44d-2896-8052-30fd47de4e">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>trigger_contest</name>
+            <created_date>2021/07/02 18:23:57</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="41ff301d78-cd4c-e1a6-1b2d-a5533c9a53"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6e1a6ba303-2a40-c8b8-952d-131bf337c8"/>
+            </data>
+            <icedata>
+              <fileref idref="0f98c5c9a6-3d4b-c48b-fe29-f8109f4c3b"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0f98c5c9a6-3d4b-c48b-fe29-f8109f4c3b" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="41ff301d78-cd4c-e1a6-1b2d-a5533c9a53" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="6e1a6ba303-2a40-c8b8-952d-131bf337c8" mime="application/octet-stream">
+      <path>trigger_contest.clip</path>
+    </file>
+  </files>
+
+</archive>

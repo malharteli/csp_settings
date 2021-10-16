@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="7660ac380a-4b49-95a0-1a62-35868d0e35">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.2"/>
+    <name>Chunky Sparse_50%</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4101f1a6f6-cc4c-4db5-012a-7650c575cc">
+        <tool company="celsys" name="paint" version="1.6.2"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ca445407d0-6747-77a5-ea00-a7bd66276c">
+            <tool company="celsys" name="paint" version="1.6.2"/>
+            <type ver="1.0.1">image</type>
+            <name>Chunky Sparse_50%</name>
+            <created_date>2017/11/15 01:18:08</created_date>
+            <modified_date>2017/11/15 01:18:08</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="e3b0f9f87b-2e4a-f8a2-16a8-a197896ead"/>
+            </thumbnail>
+            <data>
+              <fileref idref="b8168ff340-5a49-32bc-af46-c23611d0ed"/>
+            </data>
+            <icedata>
+              <fileref idref="380e56f01c-e94c-c08c-52ae-493e4b4b73"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="380e56f01c-e94c-c08c-52ae-493e4b4b73" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="b8168ff340-5a49-32bc-af46-c23611d0ed" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="e3b0f9f87b-2e4a-f8a2-16a8-a197896ead" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

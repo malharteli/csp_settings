@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>トランプ柄01c_透過_IS</name>
+
+  <cloudcontentid>507</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>22b2d2ed70-1742-169b-5f8a-ab58fcb5f7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint006</subpath>
+
+  <basePath>installation_material/07/05/507</basePath>
+
+  <size>238573</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-07-13 14:57:58</createdat>
+
+  <updatedat>2016-07-13 14:58:01</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

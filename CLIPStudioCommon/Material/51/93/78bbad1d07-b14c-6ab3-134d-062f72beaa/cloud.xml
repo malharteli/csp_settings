@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>leak 03</name>
+
+  <cloudcontentid>102503721</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>78bbad1d07-b14c-6ab3-134d-062f72beaa</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>51/93</subpath>
+
+  <basePath></basePath>
+
+  <size>64085</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 22:59:32</createdat>
+
+  <updatedat>2020-07-20 22:59:44</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

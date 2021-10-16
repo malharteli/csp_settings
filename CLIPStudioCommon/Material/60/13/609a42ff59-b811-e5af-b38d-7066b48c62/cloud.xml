@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - PencilRubbing</name>
+
+  <cloudcontentid>122217406</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>609a42ff59-b811-e5af-b38d-7066b48c62</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>60/13</subpath>
+
+  <basePath></basePath>
+
+  <size>1484239</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:20:19</createdat>
+
+  <updatedat>2020-12-24 15:20:37</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

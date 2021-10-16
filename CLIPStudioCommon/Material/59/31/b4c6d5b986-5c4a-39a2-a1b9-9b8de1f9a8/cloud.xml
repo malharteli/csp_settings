@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>筆グランジ</name>
+
+  <cloudcontentid>115404555</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b4c6d5b986-5c4a-39a2-a1b9-9b8de1f9a8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>59/31</subpath>
+
+  <basePath></basePath>
+
+  <size>795290</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-11-07 13:06:11</createdat>
+
+  <updatedat>2020-11-07 13:06:24</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

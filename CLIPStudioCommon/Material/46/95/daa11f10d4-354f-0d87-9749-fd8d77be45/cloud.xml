@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>bristleCrossSparseDense_50%</name>
+
+  <cloudcontentid>102508230</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>daa11f10d4-354f-0d87-9749-fd8d77be45</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>46/95</subpath>
+
+  <basePath></basePath>
+
+  <size>156669</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:39:18</createdat>
+
+  <updatedat>2020-07-20 23:39:31</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

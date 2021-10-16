@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ph Ballpoint24</name>
+
+  <cloudcontentid>102509849</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>431ca6ba49-6b45-5e95-d0f9-700d2cbd8a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>48/22</subpath>
+
+  <basePath></basePath>
+
+  <size>99413</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:58:45</createdat>
+
+  <updatedat>2020-07-20 23:58:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

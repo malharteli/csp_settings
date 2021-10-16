@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Sponge</name>
+
+  <cloudcontentid>102509301</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b44c2a1957-d74a-898e-b540-8fefb05ccc</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>64/46</subpath>
+
+  <basePath></basePath>
+
+  <size>179734</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:51:59</createdat>
+
+  <updatedat>2020-07-20 23:52:12</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

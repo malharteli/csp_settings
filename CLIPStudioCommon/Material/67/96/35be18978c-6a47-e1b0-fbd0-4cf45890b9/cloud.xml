@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Wash</name>
+
+  <cloudcontentid>102507503</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>35be18978c-6a47-e1b0-fbd0-4cf45890b9</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>67/96</subpath>
+
+  <basePath></basePath>
+
+  <size>117539</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:33:52</createdat>
+
+  <updatedat>2020-07-20 23:34:04</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

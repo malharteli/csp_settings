@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>三角3</name>
+
+  <cloudcontentid>124536411</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>25f10ee026-a94b-09a4-969d-47ced71e50</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>32/43</subpath>
+
+  <basePath></basePath>
+
+  <size>81229</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-08 13:58:19</createdat>
+
+  <updatedat>2021-01-08 13:58:30</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>kyle leaves group</name>
+
+  <cloudcontentid>122212478</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d4baca7cee-cb11-7983-98e5-05873016ee</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>22/27</subpath>
+
+  <basePath></basePath>
+
+  <size>195632</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 14:39:56</createdat>
+
+  <updatedat>2020-12-24 14:40:12</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

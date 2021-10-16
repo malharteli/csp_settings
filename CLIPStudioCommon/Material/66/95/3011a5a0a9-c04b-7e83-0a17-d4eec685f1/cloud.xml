@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>triangle_02</name>
+
+  <cloudcontentid>102509655</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>3011a5a0a9-c04b-7e83-0a17-d4eec685f1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>66/95</subpath>
+
+  <basePath></basePath>
+
+  <size>555339</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:56:41</createdat>
+
+  <updatedat>2020-07-20 23:56:54</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

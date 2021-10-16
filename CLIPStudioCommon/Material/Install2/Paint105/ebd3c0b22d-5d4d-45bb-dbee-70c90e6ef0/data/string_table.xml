@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="CLIP STUDIO SERIES 1.5.0"/>
+
+  <string_data version="1.0.0">
+    <string data="Area1" id="0a16033d-9465-440b-865f-24064eab021f"/>
+    <string data="House_006" id="27cda6e2-4f18-4d88-b587-d37c365f46df"/>
+    <string data="House_003" id="488101ff-c573-498b-9ca9-c0c4a658a154"/>
+    <string data="Sidewalk_003" id="50cc068c-4665-4e2f-8e2d-fe5b31842d6a"/>
+    <string data="Root node" id="51d8d7ab-2cbe-4731-95de-a09689261b14"/>
+    <string data="Residential area01" id="53ab548d-a288-45fc-9834-19859633fb38"/>
+    <string data="House_005" id="5e1ddff7-d256-49cd-a36b-d644d9911770"/>
+    <string data="Sidewalk_002" id="6e188fe7-62e6-4937-92ba-17c9ef22b263"/>
+    <string data="Bus Stop" id="715510f7-df72-42a1-baf4-b8fbead10e69"/>
+    <string data="Area3" id="7b197554-97b5-4788-a7c8-dc094f7fc23b"/>
+    <string data="Road" id="89214d74-daa5-46b5-a5a9-a9aa199e7279"/>
+    <string data="House_001" id="8aeb6286-1323-459f-9064-1094db6118c7"/>
+    <string data="House_007" id="927e5fff-2261-4c55-a819-41fffbd82b7b"/>
+    <string data="House_004" id="9fc9f6fa-ef07-44c0-a52a-e3c0927f23a4"/>
+    <string data="Area2" id="a57385fc-9804-4601-a0fb-28aade02158a"/>
+    <string data="Area4" id="addd55e4-b32a-4226-a4eb-53491deb83db"/>
+    <string data="House_002" id="cfce123a-d72d-4fa5-a058-800a4e537b88"/>
+    <string data="Sidewalk_001" id="d01cf566-6ef0-46c6-86ac-c253cfc26883"/>
+    <string data="Sidewalk_004" id="f9b6818a-9170-4f9b-959c-b758d306af29"/>
+  </string_data>
+
+</celsysdocument>

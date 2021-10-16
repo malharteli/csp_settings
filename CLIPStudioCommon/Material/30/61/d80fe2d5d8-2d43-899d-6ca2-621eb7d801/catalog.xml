@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="d80fe2d5d8-2d43-899d-6ca2-621eb7d801">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.9.2"/>
+    <name>Pharan PencilPaperDarker</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f6f7288a63-7f40-ef8d-2846-d76347870b">
+        <tool company="celsys" name="paint" version="1.9.2"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e6e03ef5ff-6843-73b6-fca7-74be8704ce">
+            <tool company="celsys" name="paint" version="1.9.2"/>
+            <type ver="1.0.1">image</type>
+            <name>Pharan PencilPaperDarker</name>
+            <created_date>2019/07/20 23:06:34</created_date>
+            <modified_date>2019/07/20 23:06:34</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1e9eeb39bc-b140-00bb-319d-634908bfff"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a770c77cc0-a442-7eb2-13e6-dd90a3d795"/>
+            </data>
+            <icedata>
+              <fileref idref="5a8df94423-8a48-a289-9f68-d972369764"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1e9eeb39bc-b140-00bb-319d-634908bfff" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="5a8df94423-8a48-a289-9f68-d972369764" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="a770c77cc0-a442-7eb2-13e6-dd90a3d795" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

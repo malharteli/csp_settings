@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Toasted Ted</name>
+
+  <cloudcontentid>102506737</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f77b4a24dc-724d-a09e-9c02-d29109733d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>02/53</subpath>
+
+  <basePath></basePath>
+
+  <size>92683</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:26:27</createdat>
+
+  <updatedat>2020-07-20 23:26:39</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

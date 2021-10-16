@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>平ざりざり1</name>
+
+  <cloudcontentid>142064440</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9de02c0a10-b04f-e5a2-884b-55c977b437</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>39/05</subpath>
+
+  <basePath></basePath>
+
+  <size>72719</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:17:20</createdat>
+
+  <updatedat>2021-05-09 15:17:31</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

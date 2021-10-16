@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>PainterlySparse</name>
+
+  <cloudcontentid>102506577</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ce3f6413d8-0044-3786-717b-c508da9e4a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>42/97</subpath>
+
+  <basePath></basePath>
+
+  <size>153733</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:24:53</createdat>
+
+  <updatedat>2020-07-20 23:25:06</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

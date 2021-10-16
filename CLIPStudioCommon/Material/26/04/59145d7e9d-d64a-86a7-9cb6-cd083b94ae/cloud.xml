@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Ori1</name>
+
+  <cloudcontentid>142759697</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>59145d7e9d-d64a-86a7-9cb6-cd083b94ae</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>26/04</subpath>
+
+  <basePath></basePath>
+
+  <size>163249</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-14 15:44:41</createdat>
+
+  <updatedat>2021-05-14 15:44:52</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

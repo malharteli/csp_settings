@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="CLIP STUDIO SERIES 1.5.0"/>
+
+  <string_data version="1.0.0">
+    <string data="Backstop(frame)" id="08faec58-98e8-489e-af16-9d050b8b7bc6"/>
+    <string data="Backstop back" id="14481eed-63a4-455c-a8c5-02ba970f040a"/>
+    <string data="Lights_003" id="172edb15-fc84-4f61-b5c3-d727f6985b4b"/>
+    <string data="Fence_003(out)" id="1c237781-ebff-4f74-ae4e-4c8d491c0feb"/>
+    <string data="Backstop front" id="200440ca-9f68-4aac-914c-53b097ec3836"/>
+    <string data="Track" id="318bd7f2-0cfb-4a33-bae8-9b81d6408df5"/>
+    <string data="Backstop(net)" id="34e42688-ed5f-4d1f-9f4a-20d093f75f24"/>
+    <string data="Shrubs" id="3ccd0c90-7e0d-4ed1-beaf-3ebd3d069803"/>
+    <string data="Flowerbed_004" id="3ef832d1-5299-4acc-8a96-3ccb9342c2bb"/>
+    <string data="Track lights_003" id="3f89cc26-0baf-4723-a495-f971ba36cde9"/>
+    <string data="Wall(School)" id="410f54c4-d9f2-4795-ae3d-c188a7683642"/>
+    <string data="Flowerbed_003" id="4a1eb094-7649-42df-87d2-11dc58bdd5a1"/>
+    <string data="Fence_001" id="4a37cb93-67a8-4ade-a501-d1d8d51872be"/>
+    <string data="Shrub_001" id="4e8b80d3-e8ff-4ccd-8cfe-7b9f21782c12"/>
+    <string data="Root node" id="51d8d7ab-2cbe-4731-95de-a09689261b14"/>
+    <string data="Fence_003" id="53bb4604-b2b6-4c62-b7b7-ca1c006cf482"/>
+    <string data="Shrub_002" id="60e8564b-acf4-4926-a9ef-853302379301"/>
+    <string data="Fence_002(in)" id="614135f7-a83f-4259-b445-e82623bf564c"/>
+    <string data="Shrub_004" id="656fdd60-f830-4a2d-821b-77682693cb0b"/>
+    <string data="Fence_004(in)" id="65700721-c3a9-427a-9ad8-f0ecfb536e7b"/>
+    <string data="Track lights" id="69d2b11b-66ba-4053-88fe-85939985706e"/>
+    <string data="Flowerbed_002" id="709868f5-d96f-4798-bc20-fe78e37f5336"/>
+    <string data="School_001" id="747f8791-8262-4812-a014-83b075bff36c"/>
+    <string data="Track lights_001" id="75b1b549-0c4b-4f3c-887f-a91ecc92e52b"/>
+    <string data="Tennis court" id="767a3856-ead7-4838-99a2-3eac99e7b6a5"/>
+    <string data="Gate_002" id="78884fe9-7f13-4ba8-884b-2c548397093b"/>
+    <string data="Hallway" id="7989cc41-1b8f-4249-9a1f-553a762c2ad7"/>
+    <string data="Shrub_003" id="80a7d5ea-9775-48a1-9b7b-45a01555b63d"/>
+    <string data="Flowerbed_001" id="89d7af24-5057-443a-a0fe-f2ccd69e9633"/>
+    <string data="Lights_001" id="992009cc-c041-4f23-bb8c-6bf1f099d97b"/>
+    <string data="Ground" id="99f63674-999d-4e0e-ab4b-a34b979b436c"/>
+    <string data="Fence_004" id="9b713aa9-23fd-4c8e-ac76-0edb0df3d080"/>
+    <string data="Fence_003(in)" id="a0dc52e7-859a-4cdf-a3bb-e5b7e8107746"/>
+    <string data="Schoolyard" id="a10f89d4-8b7f-4eae-aa4a-e15a39076273"/>
+    <string data="Lights_004" id="a7ce9272-a967-403a-b3c8-1355239d8890"/>
+    <string data="Flowerbed" id="b1ed24e4-b4f4-4c1d-9b1d-ab84fdc7d12a"/>
+    <string data="Tennis court(frame)" id="b6e6c3eb-33e2-41a9-9fec-60dc57e4fc3c"/>
+    <string data="Track lights_002" id="b7c08622-4fd0-48e7-81e7-0f80a264324f"/>
+    <string data="Bicycle parking(School)" id="bb18cdc1-11f9-4799-8df1-11fd4b9d052e"/>
+    <string data="Backstop" id="bff2885c-14f4-4913-a25f-f080cb84294a"/>
+    <string data="Fence_001(in)" id="c9a18446-1702-4ddf-88d5-64e2d818e43e"/>
+    <string data="Bicycle parking(Yard)" id="cd669ecb-f0b3-48dc-a9e3-4355dc1a9e91"/>
+    <string data="Fence_004(out)" id="cf120c0a-4776-4281-bca0-c4ed6df34d2b"/>
+    <string data="Wall(Gate)" id="d28fa4a7-eb34-4782-a315-fbd72c61a1da"/>
+    <string data="Fence_002" id="e1a34516-07b0-44ab-8aab-4e8ceea121ee"/>
+    <string data="School" id="e218d53f-6f8c-4b94-97ab-95cca66d954d"/>
+    <string data="School_002" id="e3828e56-119f-40b6-ba5c-54b134002b03"/>
+    <string data="School gate" id="e672047e-7db4-4dd7-bc7e-2fcb75b8d453"/>
+    <string data="Fence_002(out)" id="e6dc647e-988c-4b75-800b-7c2d02ec1513"/>
+    <string data="Track lights_004" id="eecc49d7-f897-4d92-a822-a3bc83d0e56a"/>
+    <string data="Gate_001" id="f03591e3-eaec-4282-b87f-84744a4174fc"/>
+    <string data="School building" id="f106aa1b-865d-4468-a087-2890f1ea6497"/>
+    <string data="Base" id="f201362b-9dce-4190-abf5-bf37d88191b4"/>
+    <string data="Wall(Track)" id="f4bf1b30-f70b-4523-bf27-7a30b988a646"/>
+    <string data="Clubroom" id="f89259dc-1b6e-4bf1-8651-31a1e9e0e6a6"/>
+    <string data="Lights_002" id="f8dcbb98-e509-4716-bcf9-77e22f6ae25b"/>
+    <string data="Fence_001(out)" id="fa2e66ab-6786-4e40-87d4-15238410dfa0"/>
+    <string data="Lighting equipment" id="fa49ad42-d3ef-4814-8003-eea0c48ee51b"/>
+  </string_data>
+
+</celsysdocument>

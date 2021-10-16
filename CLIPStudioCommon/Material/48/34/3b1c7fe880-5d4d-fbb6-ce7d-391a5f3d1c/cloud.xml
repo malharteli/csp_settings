@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>canvas_tiled_highpass_emboss</name>
+
+  <cloudcontentid>102508828</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>3b1c7fe880-5d4d-fbb6-ce7d-391a5f3d1c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>48/34</subpath>
+
+  <basePath></basePath>
+
+  <size>412255</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:45:28</createdat>
+
+  <updatedat>2020-07-20 23:45:41</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

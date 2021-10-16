@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="2b419f95a9-d911-e5b3-a5be-b24ef8e05d">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Grut - brainfuzz LowconBlur</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="561abc6ced-cf48-af9c-02bf-1b740976ab">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1b761cc21e-3c43-3281-f67a-47bf01c3ab">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Grut - brainfuzz LowconBlur</name>
+            <created_date>2020/12/14 01:32:46</created_date>
+            <modified_date>2020/12/14 01:32:46</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1d6c9619a4-bb44-37a1-ed2a-1c6cb8fd41"/>
+            </thumbnail>
+            <data>
+              <fileref idref="d508e8c083-9540-25a2-7e7a-d7f04e26bb"/>
+            </data>
+            <icedata>
+              <fileref idref="0cd2ed2fb5-4748-d5a9-6f62-26e96d68b4"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0cd2ed2fb5-4748-d5a9-6f62-26e96d68b4" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="1d6c9619a4-bb44-37a1-ed2a-1c6cb8fd41" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="d508e8c083-9540-25a2-7e7a-d7f04e26bb" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

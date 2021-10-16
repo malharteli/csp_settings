@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>FlatEdge</name>
+
+  <cloudcontentid>142065405</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>319bc61a52-334e-4b9e-b792-f2dd68c36e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>86/04</subpath>
+
+  <basePath></basePath>
+
+  <size>54812</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:24:36</createdat>
+
+  <updatedat>2021-05-09 15:24:47</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

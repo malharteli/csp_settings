@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Toast</name>
+
+  <cloudcontentid>102508628</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>dc6d57d3fb-0848-ec98-32c7-e81290110d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>67/94</subpath>
+
+  <basePath></basePath>
+
+  <size>419933</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:43:08</createdat>
+
+  <updatedat>2020-07-20 23:43:21</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

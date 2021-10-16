@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut-noise-hicon</name>
+
+  <cloudcontentid>122221785</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d22e0c427f-5e11-e7a0-b295-606947a34a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>17/12</subpath>
+
+  <basePath></basePath>
+
+  <size>268977</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:06:22</createdat>
+
+  <updatedat>2020-12-24 16:06:36</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>sourceBase_005</name>
+
+  <cloudcontentid>123407558</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a0dc3e4eff-a94e-47be-2283-49e0db4678</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>90/18</subpath>
+
+  <basePath></basePath>
+
+  <size>123053</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:58:15</createdat>
+
+  <updatedat>2021-01-01 08:58:30</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

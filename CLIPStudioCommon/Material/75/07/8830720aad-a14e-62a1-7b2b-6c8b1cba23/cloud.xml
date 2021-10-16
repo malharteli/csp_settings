@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Paper Powell</name>
+
+  <cloudcontentid>102509070</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8830720aad-a14e-62a1-7b2b-6c8b1cba23</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>75/07</subpath>
+
+  <basePath></basePath>
+
+  <size>111711</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:49:08</createdat>
+
+  <updatedat>2020-07-20 23:49:20</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

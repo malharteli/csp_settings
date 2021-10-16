@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Dot spot 02</name>
+
+  <cloudcontentid>122222311</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5004d76261-c111-e7a5-d5fd-d676362b0e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>92/16</subpath>
+
+  <basePath></basePath>
+
+  <size>184417</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:10:58</createdat>
+
+  <updatedat>2020-12-24 16:11:12</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

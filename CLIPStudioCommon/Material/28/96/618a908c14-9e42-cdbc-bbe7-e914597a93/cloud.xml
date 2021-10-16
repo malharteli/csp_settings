@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>paper25_seamless</name>
+
+  <cloudcontentid>123406017</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>618a908c14-9e42-cdbc-bbe7-e914597a93</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>28/96</subpath>
+
+  <basePath></basePath>
+
+  <size>3816685</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:17:30</createdat>
+
+  <updatedat>2021-01-01 08:18:03</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

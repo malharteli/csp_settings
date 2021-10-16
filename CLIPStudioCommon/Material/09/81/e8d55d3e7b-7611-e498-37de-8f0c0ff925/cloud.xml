@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - hardrocks</name>
+
+  <cloudcontentid>122222220</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e8d55d3e7b-7611-e498-37de-8f0c0ff925</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>09/81</subpath>
+
+  <basePath></basePath>
+
+  <size>156585</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:10:09</createdat>
+
+  <updatedat>2020-12-24 16:10:21</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

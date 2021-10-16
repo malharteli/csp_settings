@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>BobBelly</name>
+
+  <cloudcontentid>102504023</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>198d05a9e7-7645-cf94-8430-d9d6910ca7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>94/36</subpath>
+
+  <basePath></basePath>
+
+  <size>74955</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:02:40</createdat>
+
+  <updatedat>2020-07-20 23:02:53</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

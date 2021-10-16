@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>square004</name>
+
+  <cloudcontentid>102224380</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6a526ea448-c14e-b485-10d9-206a3fd7ce</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>56/28</subpath>
+
+  <basePath></basePath>
+
+  <size>132360</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-18 12:53:26</createdat>
+
+  <updatedat>2020-07-18 12:53:39</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

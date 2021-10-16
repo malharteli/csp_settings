@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>駅ホーム(地上)</name>
+
+  <cloudcontentid>1515</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d199f665ef-eb4b-9bb7-9e10-71746158d9</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>room</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/15/15/1515</basePath>
+
+  <size>10537446</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2016-10-19 15:19:44</createdat>
+
+  <updatedat>2016-10-19 15:20:14</updatedat>
+
+  <dataVersion>2.1.1</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

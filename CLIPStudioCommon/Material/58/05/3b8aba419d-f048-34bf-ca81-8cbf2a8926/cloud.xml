@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>CanvasGesso_HC</name>
+
+  <cloudcontentid>102508969</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>3b8aba419d-f048-34bf-ca81-8cbf2a8926</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>58/05</subpath>
+
+  <basePath></basePath>
+
+  <size>440200</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:47:30</createdat>
+
+  <updatedat>2020-07-20 23:47:43</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

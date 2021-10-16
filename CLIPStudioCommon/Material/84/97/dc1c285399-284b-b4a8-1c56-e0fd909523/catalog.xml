@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="dc1c285399-284b-b4a8-1c56-e0fd909523">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.4.1"/>
+    <name>Layer 1 Copy 3</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="262d04efa7-8f45-3d88-c0ed-bfaeff130e">
+        <tool company="celsys" name="paint" version="1.4.1"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="69347f4865-ef4f-42ba-559e-4b69faae44">
+            <tool company="celsys" name="paint" version="1.4.1"/>
+            <type ver="1.0.0">image</type>
+            <name>Square Rough</name>
+            <created_date>2019/07/01 03:08:13</created_date>
+            <modified_date>2019/07/01 03:08:13</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b9c1d58a35-7949-3aa5-9fc3-52d6854d4d"/>
+            </thumbnail>
+            <data>
+              <fileref idref="bb917136bd-2f49-cb80-b81a-89a1351be0"/>
+            </data>
+            <icedata>
+              <fileref idref="1b846b5755-b346-4782-71cd-f4c3a47309"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1b846b5755-b346-4782-71cd-f4c3a47309" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="b9c1d58a35-7949-3aa5-9fc3-52d6854d4d" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="bb917136bd-2f49-cb80-b81a-89a1351be0" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

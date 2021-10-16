@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Impasto</name>
+
+  <cloudcontentid>102510051</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9c0e7c488e-6a49-37ae-9b77-02f3b93453</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>22/48</subpath>
+
+  <basePath></basePath>
+
+  <size>548326</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:00:56</createdat>
+
+  <updatedat>2020-07-21 00:01:09</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

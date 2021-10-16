@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>prizum_07</name>
+
+  <cloudcontentid>133813560</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9b481738e7-354a-0499-3992-20e4e20f50</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>39/70</subpath>
+
+  <basePath></basePath>
+
+  <size>677264</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-03-11 23:01:02</createdat>
+
+  <updatedat>2021-03-11 23:01:14</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

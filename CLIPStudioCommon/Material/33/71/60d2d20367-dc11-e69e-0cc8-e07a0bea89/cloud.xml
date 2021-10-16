@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Driprow</name>
+
+  <cloudcontentid>122219284</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>60d2d20367-dc11-e69e-0cc8-e07a0bea89</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>33/71</subpath>
+
+  <basePath></basePath>
+
+  <size>202985</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:39:46</createdat>
+
+  <updatedat>2020-12-24 15:39:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

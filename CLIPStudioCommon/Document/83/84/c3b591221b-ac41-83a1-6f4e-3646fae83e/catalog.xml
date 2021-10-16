@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="c3b591221b-ac41-83a1-6f4e-3646fae83e">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Roulette_Twinwolf_FlorencetheWitch</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="dab6562f92-f441-188c-db2e-0352421678">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="38ebe9990c-5f4c-5b88-099e-2fd618b0ed">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_Twinwolf_FlorencetheWitch</name>
+            <created_date>2021/09/19 17:18:19</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="e737f54a7c-1a42-dfa7-50c3-05bffd9ca9"/>
+            </thumbnail>
+            <data>
+              <fileref idref="81f01b8172-6644-26a8-f565-bedc47fcee"/>
+            </data>
+            <icedata>
+              <fileref idref="51abb09bc0-2140-8d86-6200-a1d07064eb"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="51abb09bc0-2140-8d86-6200-a1d07064eb" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="81f01b8172-6644-26a8-f565-bedc47fcee" mime="application/octet-stream">
+      <path>Roulette_Twinwolf_FlorencetheWitch.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="e737f54a7c-1a42-dfa7-50c3-05bffd9ca9" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

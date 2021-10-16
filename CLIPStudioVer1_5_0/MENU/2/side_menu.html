@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <title>CLIP STUDIO</title>
+    <link rel="stylesheet" href="assets/side_menu.css"/>
+    <script>window.onerror=function(){return true;}</script>
+    <script src="assets/side_menu.js"></script>
+    <script>
+        function _afterSetServer(){
+            if(sideMenu.settedUp) return;
+            sideMenu.createSideMenu();
+            $(window).scroll(function(){sideMenu.shadowControl();});
+            $(window).resize(function(){sideMenu.shadowControl();});
+        }
+        function setActiveSideMenu(_target){sideMenu.menuActive(_target);}
+        function setSideMenuColor(_color){sideMenu.setSideMenuColor(_color);}
+        function notChangeMenu(){sideMenu.notChangeMenu();}
+        function setMenuAlert(_target, _string){sideMenu.setMenuAlert(_target, _string);}
+        $(document).ready(function(){
+            if(main.versionCompare(main.getIceVer(), '>=', '1.9.5') || OS == 'iOS'){
+                main.callIce('getSideMenuColor',{},1);
+            }
+        });
+    </script>
+</head>
+<body id="side_menu">
+<div id="top_shadow" class="shadow"></div>
+<div class="menus"></div>
+<div id="bottom_shadow" class="shadow"></div>
+<section id="parts">
+    <ul class="clear" parts-box>
+        <li class="tab"></li>
+    </ul>
+    <li class="menu" parts-menu><div class="adjust"><p class="icon"></p><span></span></div></li>
+    <li class="search" parts-serchForm>
+        <form method="get" action="" name="go_search" onsubmit="return false;">
+            <input type="search" name="q" tabindex="-1" placeholder=""/>
+            <button class="icon search go_search" tabindex="-1"></button>
+        </form>
+    </li>
+</section>
+</body>
+</html>

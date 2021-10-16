@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Mottled</name>
+
+  <cloudcontentid>102504882</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e39a907a91-0c4f-e9a5-2206-c935415e95</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>45/22</subpath>
+
+  <basePath></basePath>
+
+  <size>365488</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:10:33</createdat>
+
+  <updatedat>2020-07-20 23:10:46</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

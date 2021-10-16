@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="9ba0a0b1ed-9a49-8683-acd2-ce6ef1ca9d">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>TwinWolf_LibrarianGoodgirl</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="53b775402c-984f-e195-aee2-d3479c18b4">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d67d053f81-6f44-3b8a-33d2-4c1a3be548">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>TwinWolf_LibrarianGoodgirl</name>
+            <created_date>2021/08/07 19:38:47</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="782ab25d0a-1749-59ac-f40e-c46db8a003"/>
+            </thumbnail>
+            <data>
+              <fileref idref="17e5eedbaa-1042-738e-6e6c-e4b2449db3"/>
+            </data>
+            <icedata>
+              <fileref idref="8562524f43-0b43-dc94-7ec6-29b0dde871"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="17e5eedbaa-1042-738e-6e6c-e4b2449db3" mime="application/octet-stream">
+      <path>TwinWolf_LibrarianGoodgirl.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="782ab25d0a-1749-59ac-f40e-c46db8a003" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="8562524f43-0b43-dc94-7ec6-29b0dde871" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

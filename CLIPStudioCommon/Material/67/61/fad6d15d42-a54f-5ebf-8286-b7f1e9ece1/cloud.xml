@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ちりボカシ２ 2</name>
+
+  <cloudcontentid>102510388</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>fad6d15d42-a54f-5ebf-8286-b7f1e9ece1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>67/61</subpath>
+
+  <basePath></basePath>
+
+  <size>755840</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:04:57</createdat>
+
+  <updatedat>2020-07-21 00:05:10</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

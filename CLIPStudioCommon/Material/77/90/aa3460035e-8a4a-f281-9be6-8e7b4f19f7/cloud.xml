@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ChalkChuck</name>
+
+  <cloudcontentid>102506182</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>aa3460035e-8a4a-f281-9be6-8e7b4f19f7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>77/90</subpath>
+
+  <basePath></basePath>
+
+  <size>170346</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:21:57</createdat>
+
+  <updatedat>2020-07-20 23:22:10</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

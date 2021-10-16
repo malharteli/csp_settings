@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>아청브러쉬끝3-2</name>
+
+  <cloudcontentid>105359140</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>24deb39f1e-e049-9eaa-f7f0-151cfc4175</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>26/96</subpath>
+
+  <basePath></basePath>
+
+  <size>316720</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-08-15 12:43:17</createdat>
+
+  <updatedat>2020-08-15 12:43:31</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

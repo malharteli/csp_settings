@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - IntermittentFlats</name>
+
+  <cloudcontentid>122221601</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>3e89d4cf44-7311-e5a8-c28a-f73d9ffa3e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>49/80</subpath>
+
+  <basePath></basePath>
+
+  <size>226615</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:04:27</createdat>
+
+  <updatedat>2020-12-24 16:04:39</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

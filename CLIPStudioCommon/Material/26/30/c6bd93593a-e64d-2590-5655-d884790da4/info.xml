@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="c6bd93593a-e64d-2590-5655-d884790da4">
+    <datalist key="lead">
+      <data>手描き斜線トーンと、同柄がブラシで塗れる素材のセットです。</data>
+    </datalist>
+    <datalist key="tag">
+      <data>斜線</data>
+      <data>手描き</data>
+      <data>ハッチング</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data>素材内容がわかりにくいためアイコンを変更しました。内容に変化はありません。
+2/7
+DEBUTで使えなかったため使用可能ソフトを変更しました。申し訳ございません。</data>
+    </datalist>
+  </info>
+
+  <info uuid="dfa46884ac-d24c-9eb5-6295-9ab49d7e5b">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>斜線</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+  <info uuid="6554d3eee1-1c46-f096-6f24-54835a44e3">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>斜線</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

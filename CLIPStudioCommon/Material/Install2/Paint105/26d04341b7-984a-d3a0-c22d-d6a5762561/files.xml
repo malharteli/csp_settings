@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<files>
+
+  <version>1.0.0</version>
+
+  <file hash="" localdate="" serverdate="" versionId="">catalog.zip</file>
+
+  <file hash="027ed571258104b9211071316cdff883aa1d788e" localdate="20210726090730" serverdate="2017/06/19 14:44:24" versionId="">data/1db9e93e-068c-4444-92f2-cbf881d29729</file>
+
+  <file hash="5068d6b224a65a1f42f78e42f9bb249beefe8092" localdate="20210726090730" serverdate="2017/06/19 14:44:24" versionId="">data/937733df-cdb8-4985-8a37-fbc0ccb4e22d</file>
+
+  <file hash="2f4536470f56a5e6b34026d49df6569051462377" localdate="20210726090730" serverdate="2017/06/19 14:44:24" versionId="">data/e87ef67e-552c-4152-9903-d4401e13aeb1</file>
+
+  <file hash="" localdate="" serverdate="" versionId="">data/string_table.xml</file>
+
+  <file hash="" localdate="" serverdate="" versionId="">externalLink</file>
+
+  <file hash="4f94d5f4d8e6f5010f4d5c420f30108e1eddf0c7" localdate="20210726090731" serverdate="2017/06/19 14:44:24" versionId="">icedata/layerData.xml</file>
+
+  <file hash="" localdate="" serverdate="" versionId="">info.zip</file>
+
+  <file hash="" localdate="" serverdate="" versionId="">modifiedData</file>
+
+  <file hash="20e339f7503a7ccc57607b5cd4ce4065f25690f8" localdate="20210726090731" serverdate="2017/06/19 14:44:24" versionId="">thumbnail/1db9e93e-068c-4444-92f2-cbf881d29729.png</file>
+
+  <file hash="20e339f7503a7ccc57607b5cd4ce4065f25690f8" localdate="20210726090731" serverdate="2017/06/19 14:44:24" versionId="">thumbnail/937733df-cdb8-4985-8a37-fbc0ccb4e22d.png</file>
+
+  <file hash="021ce590d585554f442752358acbe5c34b93f286" localdate="20210726090731" serverdate="2017/06/19 14:44:24" versionId="">thumbnail/thumbnail.png</file>
+
+</files>

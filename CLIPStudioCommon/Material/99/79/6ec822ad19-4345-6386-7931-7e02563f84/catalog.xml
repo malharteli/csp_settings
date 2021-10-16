@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="6ec822ad19-4345-6386-7931-7e02563f84">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>SparseBristleAlt_50%</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2e7c1c078b-ea4a-aaa3-0ade-b6ca377131">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e48a96a2d1-ba47-49bd-84d1-4eab13d5c5">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>SparseBristleAlt_50%</name>
+            <created_date>2018/02/02 02:24:59</created_date>
+            <modified_date>2018/02/02 02:24:59</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="dd68a47a22-f641-e19b-2f04-6e04430d51"/>
+            </thumbnail>
+            <data>
+              <fileref idref="28b683f87e-2945-0c8f-998a-28c4fd316a"/>
+            </data>
+            <icedata>
+              <fileref idref="a29ffe39a0-604a-b6b0-e331-cd2e6f8f71"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="28b683f87e-2945-0c8f-998a-28c4fd316a" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="a29ffe39a0-604a-b6b0-e331-cd2e6f8f71" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="dd68a47a22-f641-e19b-2f04-6e04430d51" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

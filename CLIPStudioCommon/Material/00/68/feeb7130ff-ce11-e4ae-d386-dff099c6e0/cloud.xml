@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - CardOchre 1400</name>
+
+  <cloudcontentid>122219974</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>feeb7130ff-ce11-e4ae-d386-dff099c6e0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>00/68</subpath>
+
+  <basePath></basePath>
+
+  <size>1630768</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:45:06</createdat>
+
+  <updatedat>2020-12-24 15:45:21</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

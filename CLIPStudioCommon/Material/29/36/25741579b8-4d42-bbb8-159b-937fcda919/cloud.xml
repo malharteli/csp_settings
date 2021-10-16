@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Brush1</name>
+
+  <cloudcontentid>142065351</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>25741579b8-4d42-bbb8-159b-937fcda919</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>29/36</subpath>
+
+  <basePath></basePath>
+
+  <size>60748</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:24:09</createdat>
+
+  <updatedat>2021-05-09 15:24:20</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

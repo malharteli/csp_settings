@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - ThinSpeckle</name>
+
+  <cloudcontentid>122216538</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8fa34f29f2-7a11-e3ae-e7e3-767d78d37f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>95/44</subpath>
+
+  <basePath></basePath>
+
+  <size>158853</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:13:29</createdat>
+
+  <updatedat>2020-12-24 15:13:41</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

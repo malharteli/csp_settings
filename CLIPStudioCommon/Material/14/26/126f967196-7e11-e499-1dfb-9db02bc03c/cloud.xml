@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - jabber Holy</name>
+
+  <cloudcontentid>122220222</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>126f967196-7e11-e499-1dfb-9db02bc03c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>14/26</subpath>
+
+  <basePath></basePath>
+
+  <size>158523</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:47:22</createdat>
+
+  <updatedat>2020-12-24 15:47:36</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

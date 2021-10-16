@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>DAUB Large Canvas</name>
+
+  <cloudcontentid>123406851</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4131d4c41f-ef4e-cea0-6721-531cb79a45</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>80/21</subpath>
+
+  <basePath></basePath>
+
+  <size>3825045</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:45:43</createdat>
+
+  <updatedat>2021-01-01 08:46:00</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

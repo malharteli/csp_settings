@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>デッサン鉛筆03</name>
+
+  <cloudcontentid>2914</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0ad3c5b5b6-ea4e-a3a4-6fb5-a0bbd7d127</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint106</subpath>
+
+  <basePath>installation_material/14/29/2914</basePath>
+
+  <size>72344</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2017-11-13 12:06:22</createdat>
+
+  <updatedat>2017-11-13 12:06:24</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>しげテクスチャ</name>
+
+  <cloudcontentid>142064572</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>af699371c8-1041-c4b8-8a50-9c35f08c0e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>75/60</subpath>
+
+  <basePath></basePath>
+
+  <size>1690276</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:18:16</createdat>
+
+  <updatedat>2021-05-09 15:18:32</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

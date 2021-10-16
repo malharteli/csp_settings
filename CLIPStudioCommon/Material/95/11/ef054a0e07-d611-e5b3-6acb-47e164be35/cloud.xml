@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - P Slowsofty 800</name>
+
+  <cloudcontentid>122222687</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ef054a0e07-d611-e5b3-6acb-47e164be35</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>95/11</subpath>
+
+  <basePath></basePath>
+
+  <size>636532</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:14:59</createdat>
+
+  <updatedat>2020-12-24 16:15:14</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

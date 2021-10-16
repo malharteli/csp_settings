@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="CLIP STUDIO SERIES 1.5.0"/>
+
+  <string_data version="1.0.0">
+    <string data="TV rack" id="01cdbce9-e3e2-47c8-a64a-e8fe09c85dce"/>
+    <string data="Lights(Living room)B" id="02a9478b-c201-4463-ac47-ff87a2bb0244"/>
+    <string data="DVD_008" id="068bee61-f942-42da-ac07-781dcf383447"/>
+    <string data="Wall(inPorch)_001" id="07a3ac86-0c16-40c4-85b1-0089040790e8"/>
+    <string data="Floor_living room" id="08a62915-5648-4793-8b93-8dcda3cd1d97"/>
+    <string data="Ceiling entrance" id="094eeec9-2180-4e80-9f3c-b5fa3bc22975"/>
+    <string data="Front of entrance" id="0f52797a-ae31-4e22-885a-72436f0e71be"/>
+    <string data="TV" id="0f9afc78-a890-4be6-8aa2-54a4113ac5bc"/>
+    <string data="Sofa_001_B" id="0fe5fe98-e44e-4080-a724-924d60fbfa1d"/>
+    <string data="Slippers(Red)_001_B" id="12e543c8-e850-467a-a322-c8e3d4e89067"/>
+    <string data="Handrail(rightPorch)" id="14539d7c-f174-4439-b6d9-063334f89267"/>
+    <string data="Left_living room" id="151e5e5c-f419-4ad5-9eca-8fe4d11d1a63"/>
+    <string data="Slippers(Blue)_002" id="188de225-5599-4850-afe5-6b7999f0640e"/>
+    <string data="Wall" id="18a52ce3-ea6c-49b4-8ce2-c8761ab86ec0"/>
+    <string data="DVD_001" id="19491eb8-9aa2-4c0f-9d6e-557710cbb774"/>
+    <string data="Lighting equipment out" id="19c55ed4-3b76-4b16-988f-4b8aa724bb75"/>
+    <string data="Window(outPorch)_A" id="1d51863d-8197-4ce3-98f0-023340a7f6c8"/>
+    <string data="Sofa_002_C" id="2444d65a-7d34-44d9-93ee-96a3f813c8a9"/>
+    <string data="Lights(porchCeiling)_001" id="296cdcc1-0522-46f6-a66d-7924230e2c5f"/>
+    <string data="Telephone" id="2d90d450-66c0-4675-a6ba-d3ad7c3346c5"/>
+    <string data="DVD_009" id="2db3d738-bd1c-421a-aeb5-356734deb037"/>
+    <string data="Living door" id="2eb8387b-3dfb-401a-95c8-19f56e68a406"/>
+    <string data="Ceiling(Porch)" id="2fc0512f-771e-4bec-a32f-3f39d28e9413"/>
+    <string data="Lamp" id="2fe89643-fb70-4de6-b241-ddeb78d26106"/>
+    <string data="Slippers(Red)_001" id="33a0599a-652a-4ba3-97c6-ae6da8de1966"/>
+    <string data="Houseplant(leftPorch)" id="34968e8a-e2d7-4863-961b-50b0d2c8724b"/>
+    <string data="Sofa_002_B" id="350cbeab-c72f-4958-b394-3d2a3c423e63"/>
+    <string data="DVD" id="39db0e48-b6d1-490b-a181-6aa7fdba69db"/>
+    <string data="Houseplant(outPorch)" id="3accc619-b817-4fa3-a1b0-c5e132f513a4"/>
+    <string data="DVD_007" id="3af43a02-7fc9-4fd4-beff-ec79e51f3a9c"/>
+    <string data="Porch door(out)_A" id="3c92d62c-bb42-4f3f-904c-14f16d586b36"/>
+    <string data="Wall(rightPorch)" id="3f0546c3-1f86-4ba1-bc04-15ce5afcfcbe"/>
+    <string data="Porch door(out)_B" id="40b61cc9-f55a-4863-a927-315955fcf897"/>
+    <string data="Lights(porchCeiling)_003" id="42a4595c-7ca8-47a4-8ff1-00c48b1dc932"/>
+    <string data="Sofa_001_H" id="45c98978-d38b-4bb4-8376-c0bf3121e1af"/>
+    <string data="Ceiling_living room" id="468106ae-8088-4355-a0ef-402f9858eee8"/>
+    <string data="Slippers(Red)_002_A" id="469a2a99-c7ba-4dd5-8852-40b6aedde7dc"/>
+    <string data="Window(rightLiving)_001" id="469decc5-6ff8-4e58-b889-3d9728381f19"/>
+    <string data="TV" id="47fad6cf-47ed-439f-a20f-25e60882f889"/>
+    <string data="DVD_002" id="48a229e0-e4c8-4470-b82c-7e9bbf7dcb92"/>
+    <string data="Floor of entrance" id="4ace75a9-5c03-4e02-8d92-2f0447b7129d"/>
+    <string data="Door(inLiving)_A" id="4b3e1848-d239-4bcb-937b-861e6dc31bca"/>
+    <string data="Storage door(inPorch)" id="4c500abb-c098-445c-bc91-245898fc67bd"/>
+    <string data="Inside_living room" id="4c8aadd0-4cb4-44a8-8ccb-ecdcdbae3c47"/>
+    <string data="Root node" id="51d8d7ab-2cbe-4731-95de-a09689261b14"/>
+    <string data="Slippers(Blue)_002_A" id="590a7d2c-e783-42d4-af6d-5596af3b74d8"/>
+    <string data="Slipper shelf" id="5bd13a6e-d096-4b5b-b423-be3f266ada53"/>
+    <string data="Living room" id="5cb39e40-6231-4336-a8d2-53f742893217"/>
+    <string data="Sofa_001_A" id="60d6e814-1b70-4fbf-a562-e0b86cbc40db"/>
+    <string data="Window(outPorch)_B" id="62824b4b-c688-48d7-bf56-fbf246ccf387"/>
+    <string data="Wall" id="628ac3af-59ba-473d-bad7-6410d2d35668"/>
+    <string data="Window(rightLiving)_004" id="6ea1d6e5-e63f-4b83-a59a-54545ecf2197"/>
+    <string data="Outside Wall" id="6f653afe-e037-4a92-998b-4c1564029f73"/>
+    <string data="Window(outLiving)_D" id="7145cdea-f6cd-42f3-9e92-1faa99b93017"/>
+    <string data="Handrail(inPorch)" id="749778cf-c0b0-4a5c-aa33-1fadbf4cd431"/>
+    <string data="DVD_005" id="74c0150c-d346-4c92-9dc6-26ff6b4841e1"/>
+    <string data="DVD_012" id="7523e03e-ddad-453b-a7c9-04a39e7b1b65"/>
+    <string data="Slippers(Blue)_001_B" id="783ee557-1716-4e24-bff9-6b2685e1bc7e"/>
+    <string data="Lights(outPorch)" id="786aa518-22c2-419d-ad2e-5c3df2df054c"/>
+    <string data="Wall" id="7e4a7fa4-d12f-4cac-bdea-756b85575235"/>
+    <string data="Lights(inPorch)" id="7faa5112-6166-47fa-9465-a846c36eb229"/>
+    <string data="Furniture" id="7fab58c0-ed79-4fa5-a23e-9ef3018e217f"/>
+    <string data="Sofa_001_G" id="81b38419-eeb0-4a74-9eec-4fd7daba62d2"/>
+    <string data="HDDR" id="82d0e777-0267-4390-aa8d-9668f5581c3a"/>
+    <string data="Storage door(inLiving)_B" id="834e5322-bf67-4c14-92f6-108d5f011514"/>
+    <string data="Sofa_001_C" id="843a58de-36b2-4129-b25d-98a70162a66a"/>
+    <string data="Porch" id="86578dc0-3e11-4c9d-9ee5-22c52ae343f9"/>
+    <string data="Door(inLiving)_B" id="87efbf87-c51f-4a93-b136-e574a622e005"/>
+    <string data="Lights(porchCeiling)_002" id="88c9ec7e-107c-4212-b114-a9178d2106bc"/>
+    <string data="DVD_003" id="8ec7c9ec-21d1-4ffc-b334-d91cabe4c6e8"/>
+    <string data="Storage door(inPorch)_B" id="8f6dd274-4dad-4a45-ad87-a28e6b3df194"/>
+    <string data="DVD_004" id="90da33ba-3834-4301-9ef7-01e64a6da9a3"/>
+    <string data="Slippers(Blue)_002_B" id="9417bb2d-40d0-42b8-9ce1-2ab191722587"/>
+    <string data="Door(inLiving)" id="95f4efb2-7e8a-4290-af3b-9247ba36a0f5"/>
+    <string data="Sofa_001" id="9709cd0e-ca76-4271-9596-7876ea5b2f10"/>
+    <string data="Wall(outLiving)" id="97e1d14b-570c-444a-b13d-3def534d6852"/>
+    <string data="Sofa_001_F" id="9b448289-ed77-404f-9723-06757bbdb8e1"/>
+    <string data="Table" id="a050408a-723c-4e8e-a4b9-3e7e8ab43d13"/>
+    <string data="Slippers(Red)_001_A" id="a0752989-9666-44cb-894a-bd1b21ade9b9"/>
+    <string data="Floor of entrance" id="a5fb6931-88bf-46f2-b257-4f60d3729fc7"/>
+    <string data="Inside of entrance" id="a6affff0-7e64-48f8-b18b-ba57995fbd76"/>
+    <string data="Handrail(leftPorch)" id="ab14f18c-0603-4bb0-825c-dae38d9fb137"/>
+    <string data="Door(inLiving)_D" id="addc69b0-2de5-4316-9bed-0a4e15d858ae"/>
+    <string data="Left side of entrance" id="b29c655d-c4f7-48b4-ad50-061ccf5d71fd"/>
+    <string data="Stair" id="b407df07-6a90-47c9-ae21-1e719dbf2912"/>
+    <string data="Slippers(Red)_002" id="b51ebba3-7253-4b3c-b1d6-468bf36c4545"/>
+    <string data="Front of entrance" id="b6789e61-1a56-4375-a57b-f2b8452ff20b"/>
+    <string data="Lights(Living room)A" id="b7996e9d-57b2-44b8-8ee9-b9de38ccaef4"/>
+    <string data="Sofa_002" id="b92be9f6-a578-4946-8c70-2add12a60737"/>
+    <string data="Right_living room" id="bb6a0be7-a6f9-4bab-9e7b-6c562e816aa2"/>
+    <string data="Door(inLiving)_C" id="bdbb2b58-51c1-448d-bdbf-6b049501387c"/>
+    <string data="Window(rightLiving)_002" id="be5af63e-d44a-476d-945f-a95b332d5dc1"/>
+    <string data="Storage door(inLiving)_A" id="bff7f6c3-9ebb-42b8-88ed-09ee7ecb19f3"/>
+    <string data="Slippers(Red)_002_B" id="c0769d6b-4e28-4c78-92fc-f13a1d45c7a7"/>
+    <string data="Front_living room" id="c155eb7a-2f4a-4efe-a9df-2ff7e109aec1"/>
+    <string data="Slippers(Blue)_001_A" id="c510e4e3-c843-4c2a-9ece-b61b10fd6d06"/>
+    <string data="Right side of entrance" id="c5dc05f6-3368-43a0-be3f-9280a0a4d659"/>
+    <string data="Sofa_001_E" id="c6acef7f-6b17-4d17-97a2-fd85d96d2806"/>
+    <string data="Slippers(Blue)_001" id="c7c36f03-54bd-4f6b-93be-2a36549b1470"/>
+    <string data="Wall(outPorch)" id="ca57ba61-6428-49da-b551-232903d16a15"/>
+    <string data="DVD_011" id="cba7cefd-71a3-42f4-8985-5eb6cbe01ce2"/>
+    <string data="Wall(inPorch)_002" id="cd4b4ecf-2530-4da5-8580-bbfdb1964a65"/>
+    <string data="Window(outLiving)_B" id="ce80ec1f-2fec-4aa2-ace3-59bda3576881"/>
+    <string data="Umbrella stand" id="d41f43ee-b4ec-44a5-9601-610eb13d7737"/>
+    <string data="Ceiling(Living room)" id="d6cb62b9-8efc-422e-8ed9-c5739a18d69c"/>
+    <string data="DVD_006" id="d956dc23-1dd3-4015-84b5-6da316676046"/>
+    <string data="DVD_010" id="d9801341-76be-439d-aac4-28d956f9f3aa"/>
+    <string data="Window(rightLiving)" id="da3ca1dc-465e-438d-95d6-de3357b2a683"/>
+    <string data="Shoebox" id="dd10ac47-5a3f-49de-b5f3-032b700339aa"/>
+    <string data="Porch door(out)" id="df74dd07-f141-4331-b2e5-1a362381e348"/>
+    <string data="Storage door(inPorch)_A" id="df7994b5-70d1-4b8c-b95f-e85c079c2a21"/>
+    <string data="Window(outLiving)" id="e302569e-3de5-4f96-9a2b-2f747dd62375"/>
+    <string data="Window(outLiving)_A" id="e4992505-b7cc-4047-9ee4-c003477c334a"/>
+    <string data="Cabinet" id="e7b04a24-3437-4ba0-8b6c-53e76bb8f8b2"/>
+    <string data="Door(leftPorch)" id="ebd82b5b-d7e0-437b-875d-e34c6e9ad8bd"/>
+    <string data="Wall(leftPorch)" id="ed7b1f94-a434-439e-892f-a3e45964caf3"/>
+    <string data="Sofa_001_D" id="ef68c793-f4c2-4098-87a2-aafcfd6fdbb0"/>
+    <string data="Houseplant(Living)" id="f259738f-fab2-4849-9a84-f15829eed5b8"/>
+    <string data="Sofa_002_A" id="f63562af-bd20-418c-ba9a-3f5f5d7c4b57"/>
+    <string data="Storage door(inLiving)" id="f7cea751-aa01-4976-ba98-fbcfbed76ee7"/>
+    <string data="Window(rightLiving)_003" id="f7da1b4e-0603-4b0d-afbf-bf6470d6b2f9"/>
+    <string data="Picture" id="f866505a-4a2c-46e6-afc8-1223b069e090"/>
+    <string data="Window(outLiving)_C" id="fb97a0fd-2d42-4d40-9542-78c34aabbd90"/>
+  </string_data>
+
+</celsysdocument>

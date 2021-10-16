@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ぼて筆3</name>
+
+  <cloudcontentid>124536513</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7e998020b8-bc4f-4f9c-aabb-946c84dd76</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>94/84</subpath>
+
+  <basePath></basePath>
+
+  <size>108885</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-08 13:59:16</createdat>
+
+  <updatedat>2021-01-08 13:59:29</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

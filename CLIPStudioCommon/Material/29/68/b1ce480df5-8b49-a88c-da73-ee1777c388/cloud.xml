@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ダイヤ2</name>
+
+  <cloudcontentid>133814039</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b1ce480df5-8b49-a88c-da73-ee1777c388</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>29/68</subpath>
+
+  <basePath></basePath>
+
+  <size>307577</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-03-11 23:04:32</createdat>
+
+  <updatedat>2021-03-11 23:04:44</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="CLIP STUDIO SERIES 1.5.0"/>
+
+  <string_data version="1.0.0">
+    <string data="Sign" id="03b76f3e-d42b-465b-9bdd-3feea6ff7a20"/>
+    <string data="Garbage can" id="0e29dbc5-8722-44ae-82e2-b7f946b9bd02"/>
+    <string data="Bench_007" id="15b24bd4-c439-4ea3-9cb4-ff7cec3bae17"/>
+    <string data="Chair_002" id="1b5f3a1c-0012-4a67-9bb0-a5774d6cf68f"/>
+    <string data="Fence_001" id="2ac4b898-7f87-47e2-b4fd-4cbf07cf93ef"/>
+    <string data="Play equipment" id="2b85752a-2e64-487a-bf12-961b3f1c5142"/>
+    <string data="Streetlight" id="2c852369-700d-49af-8d48-47b2f851cbd7"/>
+    <string data="Benchset1" id="2e71a670-6bd2-46bf-a5f5-9a1a301cbd21"/>
+    <string data="Bench_005" id="30be466b-ee03-435a-9b69-bda7ef391cf4"/>
+    <string data="Garbage can_001" id="3e185dff-0e5b-4164-8df9-4b9e6ccbe636"/>
+    <string data="Bench_002" id="3f16a52f-3398-4e0a-920e-9e053fdfbf79"/>
+    <string data="Bench" id="46eb8707-d821-4d40-bcf2-df7638252f13"/>
+    <string data="Streetlight_004" id="4d5b01e3-8b21-42a0-89e4-0d37f100aa10"/>
+    <string data="Sign02" id="50637a1f-6417-43d5-ad70-f05fcd3ef724"/>
+    <string data="Root node" id="51d8d7ab-2cbe-4731-95de-a09689261b14"/>
+    <string data="Slide" id="58390c97-9a50-483f-a909-c0e8d42e6779"/>
+    <string data="Streetlight_001" id="5b011b67-e883-495d-a45a-13ec480673d2"/>
+    <string data="Bench_003" id="6ac5944d-79ca-41a9-84f6-927e42f6b24f"/>
+    <string data="Chair" id="787b5448-1f7c-4101-a48b-600ae53c211c"/>
+    <string data="Bench_006" id="86099856-2ed0-43a0-a205-1b0278202a74"/>
+    <string data="Benchset2" id="9dc0f6ed-5f01-4511-bc71-8c1b9f34c807"/>
+    <string data="Streetlight_002" id="a11c261c-0f3a-4190-8dac-b76aac2410c6"/>
+    <string data="Jungle gym" id="a23aca6d-c904-4f47-baaa-76ba8ad03359"/>
+    <string data="Bench_001" id="a776ac9d-e34f-48bc-bf40-60d94d587a29"/>
+    <string data="Park" id="ad148c3e-5e68-44f6-a033-da4cadc24054"/>
+    <string data="Swing" id="b484a77d-c3eb-4489-80c0-dc35249f823f"/>
+    <string data="Streetlight_003" id="cb1f99fc-9346-4eb5-b263-5debae71b9e2"/>
+    <string data="Sign01" id="cb5932d4-fdf6-49a1-a641-7fac98be4947"/>
+    <string data="Garbage can_002" id="cfe32a53-3ce3-4d9f-8424-cfd22ddc95c1"/>
+    <string data="Chair_001" id="d311c6e1-9673-4363-9eb4-c7c304c0f303"/>
+    <string data="Fence_002" id="d9f2b0eb-8eda-4da0-82e3-104dce38e135"/>
+    <string data="Ground" id="f569f1fb-dbcd-4ac8-8cba-546ec9e137d4"/>
+    <string data="Benchset3" id="f5b5a42d-fc24-4a8c-8998-f7a03c3689be"/>
+    <string data="Bench_004" id="feda275d-9751-4175-ae1d-af0ff6e480d0"/>
+  </string_data>
+
+</celsysdocument>

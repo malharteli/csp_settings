@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="0edebc05ac-4442-0c9b-0311-6f2de3954f">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.5.1"/>
+    <name>Ruins 1-07R</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3ed49932ee-a241-f59b-0767-d11c964f55">
+        <tool company="celsys" name="paint" version="1.5.1"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="efe65e9b98-c840-2f97-65b2-fe7f938355">
+            <tool company="celsys" name="paint" version="1.5.1"/>
+            <type ver="1.0.1">image</type>
+            <name>瓦礫影 1-07R</name>
+            <created_date>2015/12/13 10:46:20</created_date>
+            <modified_date>2015/12/13 10:46:20</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="65201e0955-2240-dda2-0d3d-207d69fc14"/>
+            </thumbnail>
+            <data>
+              <fileref idref="60475af8a5-b243-6d83-8bee-63c43aa8eb"/>
+            </data>
+            <icedata>
+              <fileref idref="804ad15aed-0e45-579f-ab0a-90fa8310a2"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="60475af8a5-b243-6d83-8bee-63c43aa8eb" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="65201e0955-2240-dda2-0d3d-207d69fc14" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="804ad15aed-0e45-579f-ab0a-90fa8310a2" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

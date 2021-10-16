@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="d68ff7565f-c341-c486-572b-668a48830d">
+    <datalist key="lead">
+      <data>웹툰 선화용 기본 펜</data>
+    </datalist>
+    <datalist key="tag">
+      <data>연필</data>
+      <data>펜</data>
+      <data>ink</data>
+      <data>pen</data>
+      <data>brush</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

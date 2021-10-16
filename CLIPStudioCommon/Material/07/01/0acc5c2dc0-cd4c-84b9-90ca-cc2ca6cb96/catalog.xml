@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="0acc5c2dc0-cd4c-84b9-90ca-cc2ca6cb96">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Grass1_gs2_flip</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3e0b374fe7-254f-0aa7-935f-d421069912">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="def3403a0e-6040-d68c-736f-6a005eddeb">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Grass1_gs2_flip</name>
+            <created_date>2017/11/07 01:22:12</created_date>
+            <modified_date>2017/11/07 01:22:12</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="32dee924a8-df41-449e-5993-6f83bbf860"/>
+            </thumbnail>
+            <data>
+              <fileref idref="83985ea94d-2b41-f99f-5a3d-299cb17b5b"/>
+            </data>
+            <icedata>
+              <fileref idref="912071b00a-444f-7893-c33a-cea41e270d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="32dee924a8-df41-449e-5993-6f83bbf860" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="83985ea94d-2b41-f99f-5a3d-299cb17b5b" mime="">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="912071b00a-444f-7893-c33a-cea41e270d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

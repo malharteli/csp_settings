@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grunge</name>
+
+  <cloudcontentid>102508806</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>344e995e12-2b4e-8db3-36dd-d53dd33134</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>39/80</subpath>
+
+  <basePath></basePath>
+
+  <size>129477</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:45:13</createdat>
+
+  <updatedat>2020-07-20 23:45:25</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>DAUB_PaperTexture_043</name>
+
+  <cloudcontentid>123406399</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>02c4520f1f-1346-148a-02c9-f2976decb5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>66/46</subpath>
+
+  <basePath></basePath>
+
+  <size>3873204</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:30:49</createdat>
+
+  <updatedat>2021-01-01 08:31:44</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

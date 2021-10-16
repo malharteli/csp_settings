@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="53dfbd9b5d-2d40-77a1-1efe-00be1e719a">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>BoobaDay</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="57f17f9f96-b045-dc9d-3b68-de78c4e63b">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="810a0804e9-7749-c0b1-f141-5aa4283050">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>BoobaDay</name>
+            <created_date>2021/08/03 14:49:24</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="c757684dcd-0042-be94-7b13-39c4f8f81c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a55cae18d7-e24d-0295-dcce-bfa613e9dc"/>
+            </data>
+            <icedata>
+              <fileref idref="baaa57be1b-c34c-e0bf-ac36-746c670541"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="a55cae18d7-e24d-0295-dcce-bfa613e9dc" mime="application/octet-stream">
+      <path>BoobaDay.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="baaa57be1b-c34c-e0bf-ac36-746c670541" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="c757684dcd-0042-be94-7b13-39c4f8f81c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

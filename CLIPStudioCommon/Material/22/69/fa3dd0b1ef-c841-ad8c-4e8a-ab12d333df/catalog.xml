@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="fa3dd0b1ef-c841-ad8c-4e8a-ab12d333df">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>Basic Bristles_50%</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e545985ce4-0846-6c8c-345e-a9286187cd">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e3da4e6f59-314b-6f84-dffe-b446ca117b">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>Basic Bristles_50%</name>
+            <created_date>2018/02/02 02:35:36</created_date>
+            <modified_date>2018/02/02 02:35:36</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="49d3be2696-5446-5e81-1c9b-d0faa4a2f1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="67d41d8cb9-504a-eda3-3235-483278d687"/>
+            </data>
+            <icedata>
+              <fileref idref="983f2dea88-614d-ef86-2c2f-51d1875e00"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="49d3be2696-5446-5e81-1c9b-d0faa4a2f1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="67d41d8cb9-504a-eda3-3235-483278d687" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="983f2dea88-614d-ef86-2c2f-51d1875e00" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

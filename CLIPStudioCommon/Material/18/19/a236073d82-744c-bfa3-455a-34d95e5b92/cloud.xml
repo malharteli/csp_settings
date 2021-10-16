@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>round 1</name>
+
+  <cloudcontentid>102510777</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a236073d82-744c-bfa3-455a-34d95e5b92</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>18/19</subpath>
+
+  <basePath></basePath>
+
+  <size>173214</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:09:08</createdat>
+
+  <updatedat>2020-07-21 00:09:21</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

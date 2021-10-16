@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>bristleDust01</name>
+
+  <cloudcontentid>102224677</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c0be34b3b7-c64e-7c9b-d23e-033c0f64cb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>68/45</subpath>
+
+  <basePath></basePath>
+
+  <size>380852</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-18 12:57:25</createdat>
+
+  <updatedat>2020-07-18 12:57:39</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

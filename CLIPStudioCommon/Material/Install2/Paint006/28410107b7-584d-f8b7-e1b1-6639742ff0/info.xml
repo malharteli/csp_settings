@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="119e32929e-5645-64b4-17cf-58113c6c58">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>Seamless</data>
+      <data>IllustStudio journal</data>
+      <data>Color</data>
+      <data>Flower</data>
+      <data>Color_pattern</data>
+      <data>Pattern</data>
+      <data>Flower_and_plant_pattern</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

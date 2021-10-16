@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>conteNib01_dry</name>
+
+  <cloudcontentid>123409643</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9063f5318d-b64d-96aa-50c5-0a663d3b8a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>81/94</subpath>
+
+  <basePath></basePath>
+
+  <size>126169</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 09:23:06</createdat>
+
+  <updatedat>2021-01-01 09:23:21</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8cb7470d5f-eb4b-cb97-b0f6-8c52f3889f">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.1"/>
+    <name>Bloodstain</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="591698b5a7-8141-0ab3-2fb1-9c40dca9b1">
+        <tool company="celsys" name="paint" version="1.1.1"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4c10bf91c6-bc4e-729e-c38a-8285658cef">
+            <tool company="celsys" name="paint" version="1.1.1"/>
+            <type ver="1.0.0">image</type>
+            <name>Bloodstain</name>
+            <created_date>2019/06/20 20:00:31</created_date>
+            <modified_date>2019/06/20 20:00:31</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="c7650fdb46-bd46-ec80-eeff-6b83668844"/>
+            </thumbnail>
+            <data>
+              <fileref idref="aa2f42a0fa-0745-598d-4993-a674f1a511"/>
+            </data>
+            <icedata>
+              <fileref idref="5f8d612eb7-5b43-e7ae-8d82-6f5432c199"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="5f8d612eb7-5b43-e7ae-8d82-6f5432c199" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="aa2f42a0fa-0745-598d-4993-a674f1a511" mime="application/octet-stream">
+      <path>data/material.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="c7650fdb46-bd46-ec80-eeff-6b83668844" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

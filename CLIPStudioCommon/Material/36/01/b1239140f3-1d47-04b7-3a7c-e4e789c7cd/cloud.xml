@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>*Soft*</name>
+
+  <cloudcontentid>102224270</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b1239140f3-1d47-04b7-3a7c-e4e789c7cd</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>36/01</subpath>
+
+  <basePath></basePath>
+
+  <size>137316</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-18 12:51:52</createdat>
+
+  <updatedat>2020-07-18 12:52:06</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

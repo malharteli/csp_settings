@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - craftyPaper</name>
+
+  <cloudcontentid>122222467</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8e0e0dd78c-5311-e487-21f3-13338009c9</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>25/28</subpath>
+
+  <basePath></basePath>
+
+  <size>460305</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:12:37</createdat>
+
+  <updatedat>2020-12-24 16:12:50</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5deeee77da-d911-7591-3fa4-bfcac45329">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>$$$/Presets/BrushTips/Sampled/CharcoalShape=Charcoal Shape</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d8dba0ffad-1849-c491-f16a-0ea360ba1a">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="21dd18e275-1a4e-2381-9855-d015571e93">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>$$$/Presets/BrushTips/Sampled/CharcoalShape=Charcoal Shape</name>
+            <created_date>2021/05/09 02:46:52</created_date>
+            <modified_date>2021/05/09 02:46:52</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="740d09d3a5-374f-8284-8c3b-b551a64e32"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a07d1a584a-5b4e-fd90-3628-bc4e7f4003"/>
+            </data>
+            <icedata>
+              <fileref idref="4c8c9c12df-3147-5ab4-1aee-bd85069de4"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="4c8c9c12df-3147-5ab4-1aee-bd85069de4" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="740d09d3a5-374f-8284-8c3b-b551a64e32" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="a07d1a584a-5b4e-fd90-3628-bc4e7f4003" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Chunky Sparse_50%</name>
+
+  <cloudcontentid>102509193</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7660ac380a-4b49-95a0-1a62-35868d0e35</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>75/88</subpath>
+
+  <basePath></basePath>
+
+  <size>130415</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:50:42</createdat>
+
+  <updatedat>2020-07-20 23:50:54</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

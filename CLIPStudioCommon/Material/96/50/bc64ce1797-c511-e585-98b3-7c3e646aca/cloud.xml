@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - wetpaper-208-rebuilt-off70</name>
+
+  <cloudcontentid>122217500</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>bc64ce1797-c511-e585-98b3-7c3e646aca</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>96/50</subpath>
+
+  <basePath></basePath>
+
+  <size>173453</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:21:00</createdat>
+
+  <updatedat>2020-12-24 15:21:16</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

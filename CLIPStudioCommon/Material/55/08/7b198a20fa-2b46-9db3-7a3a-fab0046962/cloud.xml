@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>丸1</name>
+
+  <cloudcontentid>124536603</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7b198a20fa-2b46-9db3-7a3a-fab0046962</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>55/08</subpath>
+
+  <basePath></basePath>
+
+  <size>79562</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-08 14:00:28</createdat>
+
+  <updatedat>2021-01-08 14:00:46</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

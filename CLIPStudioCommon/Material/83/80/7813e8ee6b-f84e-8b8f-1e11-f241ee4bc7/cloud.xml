@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Very-Soft 2</name>
+
+  <cloudcontentid>102510203</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7813e8ee6b-f84e-8b8f-1e11-f241ee4bc7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>83/80</subpath>
+
+  <basePath></basePath>
+
+  <size>152757</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:02:39</createdat>
+
+  <updatedat>2020-07-21 00:02:52</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

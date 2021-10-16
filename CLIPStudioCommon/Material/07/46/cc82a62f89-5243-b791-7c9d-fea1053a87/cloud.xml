@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ラフペン</name>
+
+  <cloudcontentid>142064089</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>cc82a62f89-5243-b791-7c9d-fea1053a87</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>07/46</subpath>
+
+  <basePath></basePath>
+
+  <size>147382</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-05-09 15:14:47</createdat>
+
+  <updatedat>2021-05-09 15:14:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

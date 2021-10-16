@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Aspen Mogul</name>
+
+  <cloudcontentid>122215352</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>24ce8b1fef-a611-e493-2b86-f34b067c70</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>05/92</subpath>
+
+  <basePath></basePath>
+
+  <size>126433</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:03:13</createdat>
+
+  <updatedat>2020-12-24 15:03:27</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

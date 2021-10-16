@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Daub 2nd try</name>
+
+  <cloudcontentid>102509782</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6bb80d619e-dc41-db99-5566-d3d64b9c65</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>55/16</subpath>
+
+  <basePath></basePath>
+
+  <size>96223</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:58:00</createdat>
+
+  <updatedat>2020-07-20 23:58:11</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

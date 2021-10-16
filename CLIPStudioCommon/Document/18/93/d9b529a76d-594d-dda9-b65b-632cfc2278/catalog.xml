@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="d9b529a76d-594d-dda9-b65b-632cfc2278">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>SketchBook01082021</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fd0340293a-9e4d-38b6-0e39-77fe5544f8">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="42ea22d673-c949-99bb-1d2b-de8ad80764">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="">clipstudioformat</type>
+            <name>SketchBook01082021</name>
+            <created_date>2021/08/02 02:19:29</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3078bd32f9-6a4f-a2b5-2979-ef1d97a764"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e743987e38-ef4a-2297-9b09-26e82ee33c"/>
+            </data>
+            <icedata>
+              <fileref idref="b1f4051f76-6443-b5a3-ec95-6e2846dcbf"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3078bd32f9-6a4f-a2b5-2979-ef1d97a764" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="b1f4051f76-6443-b5a3-ec95-6e2846dcbf" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="e743987e38-ef4a-2297-9b09-26e82ee33c" mime="application/octet-stream">
+      <path>SketchBook01082021.clip</path>
+    </file>
+  </files>
+
+</archive>

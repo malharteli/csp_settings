@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="f77b4a24dc-724d-a09e-9c02-d29109733d">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.7.3"/>
+    <name>Toasted Ted</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9f01ad7e52-da40-e3a5-fad7-1d20e70dd8">
+        <tool company="celsys" name="paint" version="1.7.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ad03f5e741-2446-0995-3295-6a140399c7">
+            <tool company="celsys" name="paint" version="1.7.3"/>
+            <type ver="1.0.1">image</type>
+            <name>Toasted Ted</name>
+            <created_date>2018/04/11 06:09:08</created_date>
+            <modified_date>2018/04/11 06:09:08</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3d017a0aa2-1d47-1d96-b9f4-e9a94b6403"/>
+            </thumbnail>
+            <data>
+              <fileref idref="053c22a680-cc49-28aa-93ce-0bbc307a87"/>
+            </data>
+            <icedata>
+              <fileref idref="a8c06fe05f-ab48-f991-69de-5eb7a9c587"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="053c22a680-cc49-28aa-93ce-0bbc307a87" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="3d017a0aa2-1d47-1d96-b9f4-e9a94b6403" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="a8c06fe05f-ab48-f991-69de-5eb7a9c587" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

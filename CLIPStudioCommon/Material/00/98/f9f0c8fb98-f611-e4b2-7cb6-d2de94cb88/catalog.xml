@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="f9f0c8fb98-f611-e4b2-7cb6-d2de94cb88">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Grut - Chriff</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="398ec790e8-f548-cbb2-41f0-ffdcc82d8b">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2fbce40d97-1a47-d3b3-a9a5-303b7cdaa3">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>Grut - Chriff</name>
+            <created_date>2020/12/14 01:34:57</created_date>
+            <modified_date>2020/12/14 01:34:57</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="511ebcf1ba-7448-1f90-0a48-ea15c3927b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="ec6f24f97f-4340-41a2-3391-44e0c1bad1"/>
+            </data>
+            <icedata>
+              <fileref idref="056dcaa2d9-5642-62b7-aae1-74d338fa21"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="056dcaa2d9-5642-62b7-aae1-74d338fa21" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="511ebcf1ba-7448-1f90-0a48-ea15c3927b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="ec6f24f97f-4340-41a2-3391-44e0c1bad1" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

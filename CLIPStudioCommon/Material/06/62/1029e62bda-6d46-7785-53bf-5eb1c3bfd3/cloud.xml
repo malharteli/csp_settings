@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Acorn_50%</name>
+
+  <cloudcontentid>102507626</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>1029e62bda-6d46-7785-53bf-5eb1c3bfd3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>06/62</subpath>
+
+  <basePath></basePath>
+
+  <size>77393</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:34:58</createdat>
+
+  <updatedat>2020-07-20 23:35:10</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

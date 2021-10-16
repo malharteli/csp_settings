@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>DAUB_Tip_02</name>
+
+  <cloudcontentid>123406845</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ada54b13ff-884f-aea8-59c7-055e1df188</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>95/90</subpath>
+
+  <basePath></basePath>
+
+  <size>197354</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-01-01 08:45:27</createdat>
+
+  <updatedat>2021-01-01 08:45:40</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

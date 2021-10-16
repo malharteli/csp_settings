@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b199cea3a8-2940-3889-3767-34993e95d6">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.9.4"/>
+    <name>Layer 1</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4aec74d45c-604a-e3aa-15a2-23437033b4">
+        <tool company="celsys" name="paint" version="1.9.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="1" parentuuid="" uuid="30d10eeb94-4b41-c0a0-631d-0143df1e2b">
+            <tool company="celsys" name="paint" version="1.9.4"/>
+            <type ver="1.0.1">image</type>
+            <name>Galaxy Stars</name>
+            <created_date>2019/12/04 17:48:53</created_date>
+            <modified_date>2019/12/04 19:42:20</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="de82e2ffae-1c48-0f86-486e-accf2af755"/>
+            </thumbnail>
+            <data>
+              <fileref idref="7302bee100-454f-6491-1884-43f2515ff8"/>
+            </data>
+            <icedata>
+              <fileref idref="8785e9bc27-9c47-a699-5e1c-77c9be39ed"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="7302bee100-454f-6491-1884-43f2515ff8" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="8785e9bc27-9c47-a699-5e1c-77c9be39ed" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="de82e2ffae-1c48-0f86-486e-accf2af755" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<celsysdocument version="1.0.0">
+
+  <info author="" comment="" tool="CLIP STUDIO SERIES 1.5.0"/>
+
+  <string_data version="1.0.0">
+    <string data="Ground" id="02a91a89-cc4a-449b-8516-63e8ae27ddac"/>
+    <string data="Pole(R)_004" id="08af8515-7e73-4070-8e12-797d12692c66"/>
+    <string data="Pole(R)_005" id="08d3ecc8-d317-4253-811d-47c673f04e50"/>
+    <string data="Pole(L)_006" id="101886d1-42a7-4703-9727-92d46e335034"/>
+    <string data="Pole(L)_007" id="10816e6d-8f2c-4551-a664-d21aa2b79c99"/>
+    <string data="Pole(R)_006" id="1979eb0d-7272-415d-ab7d-01947bd3160b"/>
+    <string data="Shrubs(L)_002" id="33ff033a-73db-498d-a57b-1df4a406c147"/>
+    <string data="Pole(L)" id="3496bfef-4949-4e27-8eac-dc3b62860c83"/>
+    <string data="Shrubs(L)_001" id="40bee282-57b0-4c93-8366-269fe59bb8b2"/>
+    <string data="Shrubs(R)" id="5116fe3c-540f-4550-b4b2-364ad0e7afce"/>
+    <string data="Root node" id="51d8d7ab-2cbe-4731-95de-a09689261b14"/>
+    <string data="Entrance of condo" id="5c47a17f-7849-42bc-a935-2bf50e96df3d"/>
+    <string data="Shrubs(L)_003" id="66753a65-97b2-4c1e-8c2e-a3f85715b1be"/>
+    <string data="Pole(R)" id="6fa70433-36a9-44cf-a2d8-6fbc8d15ac4c"/>
+    <string data="Pole(L)_005" id="77266167-0073-4c91-adf0-823b568eeb54"/>
+    <string data="Pole(L)_003" id="7c303c4d-df0b-4bec-b13f-adc7de2fc8d3"/>
+    <string data="Pole(L)_001" id="9aa85d8e-4e42-42e0-a533-f6caae968609"/>
+    <string data="Shrubs(L)" id="a2ad82d5-9dc4-4ce1-9b32-500b34aafc97"/>
+    <string data="Building" id="a4591335-2b23-4239-b68b-8fbd205df6ca"/>
+    <string data="Shrubs(R)_001" id="a51d74a3-b908-4d62-90df-5fa8cc6c5e4e"/>
+    <string data="Pole(L)_004" id="a8017af0-9bf3-4bcb-8a68-04f91d7b1c92"/>
+    <string data="Pole(L)_002" id="b9609b78-5668-44bd-ac74-bc3736b383c1"/>
+    <string data="Shrubs(R)_003" id="c15273db-e29f-4384-82f4-a29189d9eb56"/>
+    <string data="Pole(L)_008" id="cab2a33a-a125-42fb-abb3-9560747e0475"/>
+    <string data="Pole(R)_001" id="d338cc5b-aadc-417f-b7a2-a6d29880ff97"/>
+    <string data="Shrubs(R)_002" id="d4f1d17d-075d-47d6-b9aa-2f5fc0832d1a"/>
+    <string data="Pole(R)_007" id="e00daccd-66b8-4e81-9348-a91bbe60f8c5"/>
+    <string data="Pole(R)_008" id="e30941d2-a210-400f-a50f-54915e01215c"/>
+    <string data="Pole(R)_002" id="e3430fc8-1691-437c-b13c-8be13bbf7919"/>
+    <string data="Pole(R)_003" id="e967952b-cf00-4ba9-9d16-44db07316c28"/>
+  </string_data>
+
+</celsysdocument>

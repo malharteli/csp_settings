@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="818de5c0f2-ad11-7989-c497-ef574e4b51">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>$$$/Presets/BrushTips/Sampled/kylerainscatter=kyle rain scatter</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ee8e37eabb-a04b-7e86-9b80-21fc44bdcc">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="94fc6a5b11-f64a-bda2-fd11-5e3763f6fb">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>$$$/Presets/BrushTips/Sampled/kylerainscatter=kyle rain scatter</name>
+            <created_date>2021/05/09 02:47:05</created_date>
+            <modified_date>2021/05/09 02:47:05</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f620b8009a-1844-52a0-f394-992c33f7fa"/>
+            </thumbnail>
+            <data>
+              <fileref idref="8e5a561f54-6d48-a695-f09c-ada0af8058"/>
+            </data>
+            <icedata>
+              <fileref idref="924b52f5be-5e4f-8d84-6f67-cf018f0768"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="8e5a561f54-6d48-a695-f09c-ada0af8058" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="924b52f5be-5e4f-8d84-6f67-cf018f0768" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="f620b8009a-1844-52a0-f394-992c33f7fa" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="6d1e377f3a-f848-c599-6a2f-8bf1b24a0d">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.5.6"/>
+    <name>Nico painting _ Maggie</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a86c93bb49-214b-cebf-eb03-b949185ef3">
+        <tool company="celsys" name="paint" version="1.5.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fc0da90e9f-e749-d3a4-9376-b94bec0d3a">
+            <tool company="celsys" name="paint" version="1.5.6"/>
+            <type ver="1.0.1">image</type>
+            <name>Really Mad</name>
+            <created_date>2016/06/20 05:26:07</created_date>
+            <modified_date>2016/06/20 05:26:07</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="8ffc9e0515-9a48-51b3-de5f-c9059bdfa8"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c40f9cecb8-304c-a2b3-5460-c0ddb639ac"/>
+            </data>
+            <icedata>
+              <fileref idref="ea351cedf7-e141-9a8b-913e-3a9b9e1a14"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="8ffc9e0515-9a48-51b3-de5f-c9059bdfa8" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="c40f9cecb8-304c-a2b3-5460-c0ddb639ac" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="ea351cedf7-e141-9a8b-913e-3a9b9e1a14" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

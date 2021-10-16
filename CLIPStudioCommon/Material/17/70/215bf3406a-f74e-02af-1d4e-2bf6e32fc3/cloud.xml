@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Acrealic Bristle</name>
+
+  <cloudcontentid>102509255</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>215bf3406a-f74e-02af-1d4e-2bf6e32fc3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>17/70</subpath>
+
+  <basePath></basePath>
+
+  <size>161016</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:51:28</createdat>
+
+  <updatedat>2020-07-20 23:51:41</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

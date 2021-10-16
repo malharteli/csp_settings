@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>BBP Br #1-2</name>
+
+  <cloudcontentid>102511746</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>808e6ede90-ca44-1e8b-8f20-f6a468bf07</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>44/02</subpath>
+
+  <basePath></basePath>
+
+  <size>177018</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-21 00:19:56</createdat>
+
+  <updatedat>2020-07-21 00:20:09</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

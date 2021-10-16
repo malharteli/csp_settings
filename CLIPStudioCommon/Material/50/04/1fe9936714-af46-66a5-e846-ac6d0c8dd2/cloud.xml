@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Toasted Tad_50%</name>
+
+  <cloudcontentid>102509367</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>1fe9936714-af46-66a5-e846-ac6d0c8dd2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>50/04</subpath>
+
+  <basePath></basePath>
+
+  <size>127961</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:53:02</createdat>
+
+  <updatedat>2020-07-20 23:53:15</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

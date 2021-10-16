@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Grut - Hair - Wavycelli</name>
+
+  <cloudcontentid>122218092</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>12e3f481b1-f611-e380-febf-2cf7e4b1b0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>62/04</subpath>
+
+  <basePath></basePath>
+
+  <size>166196</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 15:26:37</createdat>
+
+  <updatedat>2020-12-24 15:26:50</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

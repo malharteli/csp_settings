@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Wood Charred_50%</name>
+
+  <cloudcontentid>102507986</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0aaf85960a-624f-a48e-0fbb-5e45a0ed2e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>51/90</subpath>
+
+  <basePath></basePath>
+
+  <size>171496</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:37:31</createdat>
+
+  <updatedat>2020-07-20 23:37:43</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

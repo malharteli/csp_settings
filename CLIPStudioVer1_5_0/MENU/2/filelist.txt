@@ -1,0 +1,6 @@
+.\assets\icon@1x.png
+.\assets\icon@2x.png
+.\assets\icon@4x.png
+.\assets\side_menu.css
+.\assets\side_menu.js
+.\side_menu.html

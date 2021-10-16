@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Watercolor_01_50%</name>
+
+  <cloudcontentid>102504673</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>1f3928e581-6349-3fb1-4b85-3be6988fbd</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>33/30</subpath>
+
+  <basePath></basePath>
+
+  <size>130013</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-07-20 23:08:36</createdat>
+
+  <updatedat>2020-07-20 23:08:48</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ee5969b3d8-a945-19b1-61eb-2d64a4e2b4">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>Metal2s</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1e076b8714-a841-02a7-56ea-ee2312ac77">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2e0bce0215-454f-92bb-0686-13f05fad33">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">image</type>
+            <name>Metal2s</name>
+            <created_date>2017/11/07 01:22:29</created_date>
+            <modified_date>2017/11/07 01:22:29</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="115a63784e-1245-3188-d7f3-71248ae3d8"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4496d24c4c-4542-ab88-ccb4-3409c90a4b"/>
+            </data>
+            <icedata>
+              <fileref idref="fbbc2f4fb0-2441-4495-9623-a23448a232"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="115a63784e-1245-3188-d7f3-71248ae3d8" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="4496d24c4c-4542-ab88-ccb4-3409c90a4b" mime="">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="fbbc2f4fb0-2441-4495-9623-a23448a232" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

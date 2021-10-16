@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8af43a25ca-204f-fcb7-1e80-032e3af804">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.6.2"/>
+    <name>paper_rough_seamless_highpass</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c1863b63d0-cc45-6f8c-e24b-53d0a0195d">
+        <tool company="celsys" name="paint" version="1.6.2"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="eeeecde863-d643-d5ae-1c7c-660ee22ee6">
+            <tool company="celsys" name="paint" version="1.6.2"/>
+            <type ver="1.0.1">image</type>
+            <name>SimplePaper</name>
+            <created_date>2017/08/23 17:01:47</created_date>
+            <modified_date>2017/08/23 17:01:47</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="458d570c2b-1242-07aa-2265-c1db6ba297"/>
+            </thumbnail>
+            <data>
+              <fileref idref="ec7d02be49-c440-92a0-4099-e5b63bf0f7"/>
+            </data>
+            <icedata>
+              <fileref idref="dd05567163-5a40-6b89-9515-983694ed13"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="458d570c2b-1242-07aa-2265-c1db6ba297" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="dd05567163-5a40-6b89-9515-983694ed13" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="ec7d02be49-c440-92a0-4099-e5b63bf0f7" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

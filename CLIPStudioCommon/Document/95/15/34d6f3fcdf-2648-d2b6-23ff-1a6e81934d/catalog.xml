@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="34d6f3fcdf-2648-d2b6-23ff-1a6e81934d">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.10"/>
+    <name>MagicalThieves</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5d5b6bc2c2-2541-0393-7c3e-e4c43069ef">
+        <tool company="celsys" name="paint" version="1.11.10"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f5e6520d95-e944-15be-abd0-97bc4f46a3">
+            <tool company="celsys" name="paint" version="1.11.10"/>
+            <type ver="">paintwork2</type>
+            <name>MagicalThieves</name>
+            <created_date>2022/03/27 01:30:00</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="4bf343b07e-754b-fbb8-ebf6-d28c576ed8"/>
+            </thumbnail>
+            <data>
+              <fileref idref="dfe1bc2069-7147-16bb-e250-b22d884308"/>
+              <fileref idref="d271596493-f64c-4a8f-002c-bb505c07b5"/>
+              <fileref idref="7cdd01186d-0245-6da0-12d4-61e20b99ab"/>
+              <fileref idref="8e4f091b30-5f4a-c592-949a-4dd750d64e"/>
+              <fileref idref="9b5cc7dc7d-2047-038d-494a-173e981357"/>
+              <fileref idref="4f9c9655cc-444f-a78d-c57c-4e04cb7950"/>
+              <fileref idref="942a756258-7d47-f896-5106-c75fcb00a0"/>
+              <fileref idref="6da7b93636-7743-2eba-3f8b-255089a6d0"/>
+              <fileref idref="74c63c7505-f044-16be-4670-36ef0a8ee0"/>
+              <fileref idref="ba3573530e-854b-0794-1289-91680bf2d3"/>
+              <fileref idref="2ac3b97e21-d142-58a4-c494-6029bbb79a"/>
+            </data>
+            <icedata>
+              <fileref idref="217202c2f6-bd44-dba0-1bcd-daac804b88"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="217202c2f6-bd44-dba0-1bcd-daac804b88" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="2ac3b97e21-d142-58a4-c494-6029bbb79a" mime="application/octet-stream">
+      <path>page0010.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="4bf343b07e-754b-fbb8-ebf6-d28c576ed8" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="4f9c9655cc-444f-a78d-c57c-4e04cb7950" mime="application/octet-stream">
+      <path>page0005.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="6da7b93636-7743-2eba-3f8b-255089a6d0" mime="application/octet-stream">
+      <path>page0007.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="74c63c7505-f044-16be-4670-36ef0a8ee0" mime="application/octet-stream">
+      <path>page0008.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="7cdd01186d-0245-6da0-12d4-61e20b99ab" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="8e4f091b30-5f4a-c592-949a-4dd750d64e" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="942a756258-7d47-f896-5106-c75fcb00a0" mime="application/octet-stream">
+      <path>page0006.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="9b5cc7dc7d-2047-038d-494a-173e981357" mime="application/octet-stream">
+      <path>page0004.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="ba3573530e-854b-0794-1289-91680bf2d3" mime="application/octet-stream">
+      <path>page0009.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="d271596493-f64c-4a8f-002c-bb505c07b5" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="dfe1bc2069-7147-16bb-e250-b22d884308" mime="application/octet-stream">
+      <path>MagicalThieves.cmc</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="7770f29553-e24c-0baa-afe4-45657470f1">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.4"/>
+    <name>bunnybannerdecember</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9441297c2c-8943-9ab2-0e56-9de2467904">
+        <tool company="celsys" name="paint" version="1.11.4"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7180442c75-0f49-1199-c918-b72e615765">
+            <tool company="celsys" name="paint" version="1.11.4"/>
+            <type ver="">clipstudioformat</type>
+            <name>bunnybannerdecember</name>
+            <created_date>2021/12/05 00:09:49</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="93c2ac917b-e547-0eb5-9aee-588b71b6ee"/>
+            </thumbnail>
+            <data>
+              <fileref idref="5f6c5ebaa4-8f43-fcbc-1f95-e9fa7ca5d8"/>
+            </data>
+            <icedata>
+              <fileref idref="fafda38d78-204f-4fb7-46e3-59b5208da7"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="5f6c5ebaa4-8f43-fcbc-1f95-e9fa7ca5d8" mime="application/octet-stream">
+      <path>bunnybannerdecember.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="93c2ac917b-e547-0eb5-9aee-588b71b6ee" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="fafda38d78-204f-4fb7-46e3-59b5208da7" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

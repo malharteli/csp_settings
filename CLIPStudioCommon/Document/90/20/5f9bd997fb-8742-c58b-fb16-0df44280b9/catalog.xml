@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5f9bd997fb-8742-c58b-fb16-0df44280b9">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.0"/>
+    <name>PhantomThief</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2413312004-074a-2f8a-75c5-df10342e93">
+        <tool company="celsys" name="paint" version="1.12.0"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="064a98e888-404b-3dba-20b0-c256b12a9a">
+            <tool company="celsys" name="paint" version="1.12.0"/>
+            <type ver="">clipstudioformat</type>
+            <name>PhantomThief</name>
+            <created_date>2022/05/30 01:40:16</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="dc459ac525-d44d-4794-dae6-1fad87c489"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e74676babf-ea41-69b5-9011-4188db822a"/>
+            </data>
+            <icedata>
+              <fileref idref="f2a3851a1f-354a-ebbc-3523-54f3ec82e6"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="dc459ac525-d44d-4794-dae6-1fad87c489" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="e74676babf-ea41-69b5-9011-4188db822a" mime="application/octet-stream">
+      <path>PhantomThief.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="f2a3851a1f-354a-ebbc-3523-54f3ec82e6" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

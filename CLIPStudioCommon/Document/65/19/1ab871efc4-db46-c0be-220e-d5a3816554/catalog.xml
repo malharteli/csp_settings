@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="1ab871efc4-db46-c0be-220e-d5a3816554">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.8"/>
+    <name>Rouleete_Ninja_CorruptedIrisVenusBloodHollow</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ce17121afc-5849-1d94-75b3-49de03d6d2">
+        <tool company="celsys" name="paint" version="1.11.8"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d2d98ce7b2-1d45-1aa3-797d-fb013e5582">
+            <tool company="celsys" name="paint" version="1.11.8"/>
+            <type ver="">clipstudioformat</type>
+            <name>Rouleete_Ninja_CorruptedIrisVenusBloodHollow</name>
+            <created_date>2022/01/30 03:51:07</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="25beef2a07-6747-16bc-2b6f-9e554558ca"/>
+            </thumbnail>
+            <data>
+              <fileref idref="74095054da-d644-3fac-70c2-c6b831dce6"/>
+            </data>
+            <icedata>
+              <fileref idref="85a98ddaa0-cd48-af9f-228b-d47c38cd23"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="25beef2a07-6747-16bc-2b6f-9e554558ca" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="74095054da-d644-3fac-70c2-c6b831dce6" mime="application/octet-stream">
+      <path>Rouleete_Ninja_CorruptedIrisVenusBloodHollow.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="85a98ddaa0-cd48-af9f-228b-d47c38cd23" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

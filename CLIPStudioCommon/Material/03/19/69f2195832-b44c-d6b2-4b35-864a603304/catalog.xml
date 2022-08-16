@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.1.1</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="69f2195832-b44c-d6b2-4b35-864a603304" ver="20220722115238">
+    <ccf_registed_at>2022/07/22 11:52:38</ccf_registed_at>
+    <content_id>1936529</content_id>
+    <origin_content_id>1936529</origin_content_id>
+    <url>https://assets.clip-studio.com</url>
+    <type>material</type>
+    <user_id>1979977</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="modeler" version="1.10.13"/>
+    <name>橋</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="60cf4e39-9878-42a5-820e-242c3abdb16d" ver="20220722115238">
+        <ccf_registed_at>2022/07/22 11:52:38</ccf_registed_at>
+        <tool company="celsys" name="modeler" version="1.10.13"/>
+        <user_id>1979977</user_id>
+        <group_id>1568678</group_id>
+        <type ver="1.0.2">smallobject_v4</type>
+        <name>豪邸</name>
+        <created_date>2022/07/26 05:40:59</created_date>
+        <modified_date>2022/07/26 05:40:59</modified_date>
+        <required>0</required>
+        <permittool>
+          <cspdebut>1</cspdebut>
+        </permittool>
+        <export>
+          <exportable>1</exportable>
+        </export>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <description>
+          <fileref idref="c2cd8c08fa-b040-77a2-a3c0-dc8c7f6a42"/>
+        </description>
+        <thumbnail>
+          <fileref idref="ec82ffd6b4-5041-59a4-ff92-e6057b28ef"/>
+        </thumbnail>
+        <data>
+          <fileref idref="e02cf4dc26-5a4a-a18f-2c9e-5b0a8c029f"/>
+        </data>
+        <metadata>
+          <fileref idref="6652e9e5df-1445-de93-da3f-5c15a63aab"/>
+        </metadata>
+        <icedata>
+          <fileref idref="baa48505ca-0a41-c8b0-7752-18a0a232fb"/>
+        </icedata>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1d89fd82-c266-4d04-86fa-478627983f8e" ver="20220722115238">
+          <ccf_registed_at>2022/07/22 11:52:38</ccf_registed_at>
+          <tool company="celsys" name="modeler" version="1.10.13"/>
+          <user_id>1979977</user_id>
+          <group_id>1568679</group_id>
+          <type ver="1.0.0">materialpreset</type>
+          <name>マテリアル</name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f28bbe59-e662-45ca-831f-6ec062a03588" ver="20220722115238">
+              <ccf_registed_at>2022/07/22 11:52:38</ccf_registed_at>
+              <tool company="celsys" name="modeler" version="1.10.13"/>
+              <user_id>1979977</user_id>
+              <item_id>1568681</item_id>
+              <type ver="1.0.0">materialpreset</type>
+              <name>初期マテリアル</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="517f73c382-f24c-a1a6-07a4-eaf66b2ff1"/>
+              </thumbnail>
+              <data>
+                <fileref idref="c4c41fe990-0e4d-c5b1-cb15-1e6ae939ee"/>
+              </data>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="afab51c9-1893-4149-aef7-a0ee7f72ac15" ver="20220722115238">
+          <ccf_registed_at>2022/07/22 11:52:38</ccf_registed_at>
+          <tool company="celsys" name="modeler" version="1.10.13"/>
+          <user_id>1979977</user_id>
+          <group_id>1568680</group_id>
+          <type ver="1.0.0">transformpreset</type>
+          <name>配置</name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8ed1ef38-20ac-48d2-9cce-6d6d97d5370b" ver="20220722115238">
+              <ccf_registed_at>2022/07/22 11:52:38</ccf_registed_at>
+              <tool company="celsys" name="modeler" version="1.10.13"/>
+              <user_id>1979977</user_id>
+              <item_id>1568682</item_id>
+              <type ver="1.0.0">transformpreset</type>
+              <name>初期レイアウト</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="ca335f8a82-a044-ae9b-3524-79ca7023b3"/>
+              </thumbnail>
+              <data>
+                <fileref idref="bf03695f14-aa43-66ae-62d0-5ad59f0e8a"/>
+              </data>
+            </item>
+          </items>
+        </group>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2f70aca3-3dfa-4a68-9b01-74dc5db5953a" ver="20220722115238">
+            <ccf_registed_at>2022/07/22 11:52:38</ccf_registed_at>
+            <tool company="celsys" name="modeler" version="1.10.13"/>
+            <user_id>1979977</user_id>
+            <item_id>1568683</item_id>
+            <type ver="1.0.0">__dummy_89A7</type>
+            <name></name>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="517f73c382-f24c-a1a6-07a4-eaf66b2ff1" mime="image/png">
+      <path>thumbnail/f28bbe59-e662-45ca-831f-6ec062a03588.png</path>
+    </file>
+    <file document="false" encrypt="false" id="6652e9e5df-1445-de93-da3f-5c15a63aab" mime="text/xml">
+      <path>data/string_table.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="baa48505ca-0a41-c8b0-7752-18a0a232fb" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="bf03695f14-aa43-66ae-62d0-5ad59f0e8a" mime="application/octet-stream">
+      <path>data/8ed1ef38-20ac-48d2-9cce-6d6d97d5370b</path>
+    </file>
+    <file document="false" encrypt="false" id="c2cd8c08fa-b040-77a2-a3c0-dc8c7f6a42" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+    <file document="false" encrypt="true" id="c4c41fe990-0e4d-c5b1-cb15-1e6ae939ee" mime="application/octet-stream">
+      <path>data/f28bbe59-e662-45ca-831f-6ec062a03588</path>
+    </file>
+    <file document="false" encrypt="false" id="ca335f8a82-a044-ae9b-3524-79ca7023b3" mime="image/png">
+      <path>thumbnail/8ed1ef38-20ac-48d2-9cce-6d6d97d5370b.png</path>
+    </file>
+    <file document="false" encrypt="true" id="e02cf4dc26-5a4a-a18f-2c9e-5b0a8c029f" mime="application/octet-stream">
+      <path>data/60cf4e39-9878-42a5-820e-242c3abdb16d</path>
+    </file>
+    <file document="false" encrypt="false" id="ec82ffd6b4-5041-59a4-ff92-e6057b28ef" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

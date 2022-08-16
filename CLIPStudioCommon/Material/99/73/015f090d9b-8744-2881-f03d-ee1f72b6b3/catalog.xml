@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="015f090d9b-8744-2881-f03d-ee1f72b6b3" ver="20190224183128">
+    <ccf_registed_at>2019/02/24 18:31:28</ccf_registed_at>
+    <content_id>1737070</content_id>
+    <origin_content_id>1737070</origin_content_id>
+    <url>https://assets.clip-studio.com</url>
+    <type>catalog</type>
+    <user_id>175203</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="ice" version="1.8.4"/>
+    <name>ホロフレークブラシ</name>
+    <created_date>2022/05/08 04:34:32</created_date>
+    <modified_date>2022/05/08 04:34:32</modified_date>
+    <description>
+      <fileref idref="ffc2e45281-e040-1eb5-8c0c-f8348ca72c"/>
+    </description>
+    <thumbnail>
+      <fileref idref="a7d05a9c61-464a-fd98-a4f2-d74b09b81d"/>
+    </thumbnail>
+    <icedata>
+      <fileref idref="a01a86e367-0f4a-76bd-56d1-5750bbd65b"/>
+    </icedata>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="93c57a7b14-d74e-d089-8c52-ffd92e432a" ver="20190224183128">
+        <ccf_registed_at>2019/02/24 18:31:28</ccf_registed_at>
+        <tool company="celsys" name="ice" version="1.8.4"/>
+        <user_id>175203</user_id>
+        <group_id>469210</group_id>
+        <type ver="1.0.0">group</type>
+        <name>ホロフレークブラシ</name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b515942ee4-454e-bd84-6915-59e6b90a38" ver="20190224183128">
+          <ccf_registed_at>2019/02/24 18:31:28</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.8.4"/>
+          <user_id>175203</user_id>
+          <group_id>469211</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4e9de6cc07-b144-9c80-1255-ebed7a9d38" ver="20190224183128">
+              <ccf_registed_at>2019/02/24 18:31:28</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.8.4"/>
+              <user_id>175203</user_id>
+              <item_id>469214</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>HOLO-Aurora</name>
+              <created_date>2022/05/08 04:34:32</created_date>
+              <modified_date>2022/05/08 04:34:32</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="fa2ad7a9f4-5c4f-0ca2-ac66-1f93e931fa"/>
+              </thumbnail>
+              <data>
+                <fileref idref="7c6ffbcaff-1349-8eb7-2eb7-f134f23dee"/>
+              </data>
+              <icedata>
+                <fileref idref="21ee76393f-824c-c490-3a43-b14ac964b4"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="db23a12151-ec48-6b96-3cb2-4d11028e33" ver="20190224183128">
+          <ccf_registed_at>2019/02/24 18:31:28</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.8.4"/>
+          <user_id>175203</user_id>
+          <group_id>469212</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="631f5e7e03-5f42-22b4-ef68-c85955838f" ver="20190224183128">
+              <ccf_registed_at>2019/02/24 18:31:28</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.8.4"/>
+              <user_id>175203</user_id>
+              <item_id>469215</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>HOLO-Mermaid</name>
+              <created_date>2022/05/08 04:34:32</created_date>
+              <modified_date>2022/05/08 04:34:32</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="e354b57b27-364d-8383-adc0-272782c540"/>
+              </thumbnail>
+              <data>
+                <fileref idref="dbf9369fd2-b24d-dbbc-1d6d-65400df18e"/>
+              </data>
+              <icedata>
+                <fileref idref="c584de99d6-1641-f8b3-4df4-e798c7f435"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9e77e52d02-3c44-7fb4-f1bd-1e00668a0b" ver="20190224183128">
+          <ccf_registed_at>2019/02/24 18:31:28</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.8.4"/>
+          <user_id>175203</user_id>
+          <group_id>469213</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8d305dd46d-a34e-9c83-9346-712dcd7bf1" ver="20190224183128">
+              <ccf_registed_at>2019/02/24 18:31:28</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.8.4"/>
+              <user_id>175203</user_id>
+              <item_id>469216</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>HOLO-2tone</name>
+              <created_date>2022/05/08 04:34:32</created_date>
+              <modified_date>2022/05/08 04:34:32</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="f9eee0528a-584a-2b92-e04e-8a99be6311"/>
+              </thumbnail>
+              <data>
+                <fileref idref="8745060db9-cc44-c694-6dda-38d322ad56"/>
+              </data>
+              <icedata>
+                <fileref idref="8c60c42fac-d947-b786-a0c6-6b9170ba4c"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="21ee76393f-824c-c490-3a43-b14ac964b4" mime="text/xml">
+      <path>4e9de6cc07-b144-9c80-1255-ebed7a9d38/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="7c6ffbcaff-1349-8eb7-2eb7-f134f23dee" mime="application/octet-stream">
+      <path>4e9de6cc07-b144-9c80-1255-ebed7a9d38/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="true" id="8745060db9-cc44-c694-6dda-38d322ad56" mime="application/octet-stream">
+      <path>8d305dd46d-a34e-9c83-9346-712dcd7bf1/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="8c60c42fac-d947-b786-a0c6-6b9170ba4c" mime="text/xml">
+      <path>8d305dd46d-a34e-9c83-9346-712dcd7bf1/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="a01a86e367-0f4a-76bd-56d1-5750bbd65b" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="a7d05a9c61-464a-fd98-a4f2-d74b09b81d" mime="image/png">
+      <path>thumbnail/catalogThumb.png</path>
+    </file>
+    <file document="false" encrypt="false" id="c584de99d6-1641-f8b3-4df4-e798c7f435" mime="text/xml">
+      <path>631f5e7e03-5f42-22b4-ef68-c85955838f/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="dbf9369fd2-b24d-dbbc-1d6d-65400df18e" mime="application/octet-stream">
+      <path>631f5e7e03-5f42-22b4-ef68-c85955838f/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="e354b57b27-364d-8383-adc0-272782c540" mime="image/png">
+      <path>631f5e7e03-5f42-22b4-ef68-c85955838f/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="f9eee0528a-584a-2b92-e04e-8a99be6311" mime="image/png">
+      <path>8d305dd46d-a34e-9c83-9346-712dcd7bf1/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="fa2ad7a9f4-5c4f-0ca2-ac66-1f93e931fa" mime="image/png">
+      <path>4e9de6cc07-b144-9c80-1255-ebed7a9d38/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="" id="ffc2e45281-e040-1eb5-8c0c-f8348ca72c" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+  </files>
+
+</archive>

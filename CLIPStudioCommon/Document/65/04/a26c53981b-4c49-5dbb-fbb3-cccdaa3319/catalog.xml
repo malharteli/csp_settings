@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a26c53981b-4c49-5dbb-fbb3-cccdaa3319">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.10"/>
+    <name>Roulette_BeigePaladin_Bunny_Pawoo</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="12fa820382-bf49-179f-1cf2-6e78527a76">
+        <tool company="celsys" name="paint" version="1.11.10"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6eba7c0094-a24d-649e-cb05-4bd21aa2db">
+            <tool company="celsys" name="paint" version="1.11.10"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_BeigePaladin_Bunny_Pawoo</name>
+            <created_date>2022/03/06 05:13:16</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="009bc9c63c-a543-59a5-d39e-affa4cc22f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="ddfbc03bbc-6a49-72aa-bce2-5660019e30"/>
+            </data>
+            <icedata>
+              <fileref idref="e8b5a14435-1044-b29e-a9c4-4b8805400d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="009bc9c63c-a543-59a5-d39e-affa4cc22f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="ddfbc03bbc-6a49-72aa-bce2-5660019e30" mime="application/octet-stream">
+      <path>Roulette_BeigePaladin_Bunny_Pawoo.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="e8b5a14435-1044-b29e-a9c4-4b8805400d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

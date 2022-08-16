@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>角錐</name>
+
+  <cloudcontentid>3059</cloudcontentid>
+
+  <revision>2</revision>
+
+  <key>e124cc6028-bf4a-8ea9-9235-8b41ec2c36</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>3dprimitive</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint111</subpath>
+
+  <basePath>installation_material/59/30/3059</basePath>
+
+  <size>88003</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2021-12-14 14:40:05</createdat>
+
+  <updatedat>2021-12-15 01:52:13</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

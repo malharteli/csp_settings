@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="25fb0b8e9f-2a4f-0982-fa15-72482373d8">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.8"/>
+    <name>03012022_ClassNotes_Omar</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9cc14da949-d04f-8eab-bdb2-9d23cc3df8">
+        <tool company="celsys" name="paint" version="1.11.8"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="493edb3bd2-5b46-22b6-cb78-8d0b2a662d">
+            <tool company="celsys" name="paint" version="1.11.8"/>
+            <type ver="">clipstudioformat</type>
+            <name>03012022_ClassNotes_Omar</name>
+            <created_date>2022/01/03 20:10:17</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="d616e5dd24-224d-2bbf-19f1-1eadaae09f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e1d861646c-1848-bb82-4c88-6b5952cae5"/>
+            </data>
+            <icedata>
+              <fileref idref="a928f0a4f1-964e-a199-b3ce-28697968c4"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="a928f0a4f1-964e-a199-b3ce-28697968c4" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="d616e5dd24-224d-2bbf-19f1-1eadaae09f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="e1d861646c-1848-bb82-4c88-6b5952cae5" mime="application/octet-stream">
+      <path>03012022_ClassNotes_Omar.clip</path>
+    </file>
+  </files>
+
+</archive>

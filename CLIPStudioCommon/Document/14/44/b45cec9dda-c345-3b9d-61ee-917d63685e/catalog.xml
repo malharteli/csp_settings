@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b45cec9dda-c345-3b9d-61ee-917d63685e">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>08052022_Abhi_Class</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6471c39642-2043-908e-9c5e-e5c82a56b9">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4e2ab029d5-6f43-39b4-dfca-00d2ed9fc7">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>08052022_Abhi_Class</name>
+            <created_date>2022/05/08 23:37:27</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="6a19e6a053-de4a-e48b-0498-c5e5386175"/>
+            </thumbnail>
+            <data>
+              <fileref idref="0e629d0aa2-ab44-69ac-020a-4522f82830"/>
+            </data>
+            <icedata>
+              <fileref idref="08e201a69f-f547-45a1-bee0-1abf536595"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="08e201a69f-f547-45a1-bee0-1abf536595" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="0e629d0aa2-ab44-69ac-020a-4522f82830" mime="application/octet-stream">
+      <path>08052022_Abhi_Class.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="6a19e6a053-de4a-e48b-0498-c5e5386175" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

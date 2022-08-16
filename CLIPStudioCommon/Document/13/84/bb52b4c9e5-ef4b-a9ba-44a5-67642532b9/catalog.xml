@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="bb52b4c9e5-ef4b-a9ba-44a5-67642532b9">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>Roulette_Riley_OneBustyBun</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f09f241080-a943-3498-9dc4-1e8d5cf2fb">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2f91d88ee3-5343-7296-bcec-30b46ae04f">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_Riley_OneBustyBun</name>
+            <created_date>2021/12/25 07:14:34</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="93c3026f6b-d547-7d93-5c93-870d222a18"/>
+            </thumbnail>
+            <data>
+              <fileref idref="8845939656-704c-8fa6-7c32-ae7df09b58"/>
+            </data>
+            <icedata>
+              <fileref idref="ebdf6df323-004d-8083-1ffd-4884c37674"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="8845939656-704c-8fa6-7c32-ae7df09b58" mime="application/octet-stream">
+      <path>Roulette_Riley_OneBustyBun.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="93c3026f6b-d547-7d93-5c93-870d222a18" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="ebdf6df323-004d-8083-1ffd-4884c37674" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

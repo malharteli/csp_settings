@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>プリズムブラシ</name>
+
+  <cloudcontentid>215473968</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>122ce5eb9a-8a48-938b-0a52-f5eda7af9d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>36/25</subpath>
+
+  <basePath></basePath>
+
+  <size>840614</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-06-22 13:16:42</createdat>
+
+  <updatedat>2022-06-22 13:17:06</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

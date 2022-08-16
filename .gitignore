@@ -4,8 +4,4 @@
 *.exe
 *.app
 *.xcodeproj
-/CLIPStudioPlugIn
-/CLIPStudioPaintData
-/CLIPStudioCommonInterProcessTemp
-/CLIPStudioCommon
-/CLIPStudioModule
+

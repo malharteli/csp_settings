@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5933646e59-b246-b5b4-a347-01dd832d46">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>25032022_AbhiFaceMosaic</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7af01d1a54-ba4c-62a0-f549-b9dd2e19cc">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="aa6ef77e59-314e-12b6-7c1b-543a35cd54">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>25032022_AbhiFaceMosaic</name>
+            <created_date>2022/04/11 01:13:16</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="343ded2955-9d46-6383-944d-952741a995"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6557b19ad7-3f47-34bc-aedb-21103b9c2c"/>
+            </data>
+            <icedata>
+              <fileref idref="aad48d8591-8344-c685-a22d-7fa12ce723"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="343ded2955-9d46-6383-944d-952741a995" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="6557b19ad7-3f47-34bc-aedb-21103b9c2c" mime="application/octet-stream">
+      <path>25032022_AbhiFaceMosaic.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="aad48d8591-8344-c685-a22d-7fa12ce723" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

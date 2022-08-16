@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="30b5ee9370-224e-32a1-de36-1eb79edec0">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>Idrewillya</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d371c6be8d-1743-499b-e6dc-9a325b9202">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0ab055a869-6d47-648f-3a68-652627f7d5">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>Idrewillya</name>
+            <created_date>2022/05/19 05:08:59</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f1cac0a318-8747-5f9c-e3fc-e510558a55"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a39023610e-e44a-13a1-afa3-ab8a99af3f"/>
+            </data>
+            <icedata>
+              <fileref idref="1d8c224f3b-b84e-99aa-8dfa-884123e1bc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1d8c224f3b-b84e-99aa-8dfa-884123e1bc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="a39023610e-e44a-13a1-afa3-ab8a99af3f" mime="application/octet-stream">
+      <path>Idrewillya.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="f1cac0a318-8747-5f9c-e3fc-e510558a55" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

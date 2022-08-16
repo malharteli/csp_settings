@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>平面</name>
+
+  <cloudcontentid>3061</cloudcontentid>
+
+  <revision>2</revision>
+
+  <key>f9eaa59d49-2943-80be-20f3-d9e513a940</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>3dprimitive</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint111</subpath>
+
+  <basePath>installation_material/61/30/3061</basePath>
+
+  <size>89876</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2021-12-14 14:40:13</createdat>
+
+  <updatedat>2021-12-15 01:52:13</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

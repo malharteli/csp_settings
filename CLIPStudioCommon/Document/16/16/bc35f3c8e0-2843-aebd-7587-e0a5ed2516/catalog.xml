@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="bc35f3c8e0-2843-aebd-7587-e0a5ed2516">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>10042022_AbhiClass_PuppeteeredPianist</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5889214a29-fd48-169e-ea06-83d7c3c4be">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9d304335c8-4446-b89e-3cdd-0c9870991b">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>10042022_AbhiClass_PuppeteeredPianist</name>
+            <created_date>2022/04/10 21:09:40</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="0198846a19-744a-fea8-db3c-49dd274b38"/>
+            </thumbnail>
+            <data>
+              <fileref idref="ba30fc2219-4248-fdb1-b88f-c50a76251e"/>
+            </data>
+            <icedata>
+              <fileref idref="8c1ce187aa-024b-62a8-fc8d-023d7d298b"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0198846a19-744a-fea8-db3c-49dd274b38" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="8c1ce187aa-024b-62a8-fc8d-023d7d298b" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="ba30fc2219-4248-fdb1-b88f-c50a76251e" mime="application/octet-stream">
+      <path>10042022_AbhiClass_PuppeteeredPianist.clip</path>
+    </file>
+  </files>
+
+</archive>

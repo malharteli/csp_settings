@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Canvas</name>
+
+  <cloudcontentid>215475652</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>bdc82908af-3b11-d591-8890-25d38e8e3b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>20/05</subpath>
+
+  <basePath></basePath>
+
+  <size>159784</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-06-22 13:27:11</createdat>
+
+  <updatedat>2022-06-22 13:27:21</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

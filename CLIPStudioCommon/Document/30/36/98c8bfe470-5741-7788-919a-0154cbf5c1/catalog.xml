@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="98c8bfe470-5741-7788-919a-0154cbf5c1">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>BigBadWitch</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6e5d83c035-df47-d3a4-273a-5197e733e9">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ebec342ffd-1048-2790-2a1e-e1e770ebff">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>BigBadWitch</name>
+            <created_date>2022/05/06 05:51:11</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="fafcf53ba4-f349-eb90-caac-b2b09016f1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="7aa7f0672b-4142-56b5-75a8-c527afe196"/>
+            </data>
+            <icedata>
+              <fileref idref="9a1a8361a9-6d40-b8bb-c4c5-198bcf6ea1"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="7aa7f0672b-4142-56b5-75a8-c527afe196" mime="application/octet-stream">
+      <path>BigBadWitch.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="9a1a8361a9-6d40-b8bb-c4c5-198bcf6ea1" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="fafcf53ba4-f349-eb90-caac-b2b09016f1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

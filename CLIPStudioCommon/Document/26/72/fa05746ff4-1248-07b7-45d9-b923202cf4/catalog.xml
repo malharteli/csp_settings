@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="fa05746ff4-1248-07b7-45d9-b923202cf4">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>PatronRoulette_SisterCarmilla_GyaruMaria_notes</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7d46bf9525-de49-8a80-08cf-b831216c53">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7ece936157-d745-67ab-3965-2ef9b7c19b">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>PatronRoulette_SisterCarmilla_GyaruMaria_notes</name>
+            <created_date>2022/04/03 03:57:53</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f922c5cf56-b542-36b5-41c0-7da79e8745"/>
+            </thumbnail>
+            <data>
+              <fileref idref="1698db2eb6-9445-5a8f-cf0e-398fb09f32"/>
+            </data>
+            <icedata>
+              <fileref idref="a01a61e4f7-8e40-f891-ee78-a22d153708"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="1698db2eb6-9445-5a8f-cf0e-398fb09f32" mime="application/octet-stream">
+      <path>PatronRoulette_SisterCarmilla_GyaruMaria_notes.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="a01a61e4f7-8e40-f891-ee78-a22d153708" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="f922c5cf56-b542-36b5-41c0-7da79e8745" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

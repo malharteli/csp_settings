@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ガサカサ線画用</name>
+
+  <cloudcontentid>215473681</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b72e4a854a-3043-a88b-f630-8ad11b799f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>39/68</subpath>
+
+  <basePath></basePath>
+
+  <size>70362</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-06-22 13:14:23</createdat>
+
+  <updatedat>2022-06-22 13:14:36</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>公園</name>
+
+  <cloudcontentid>3055</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8412c1735b-9048-03bf-0138-b40c206935</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>skysphere</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/55/30/3055</basePath>
+
+  <size>29036711</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2021-12-06 13:39:58</createdat>
+
+  <updatedat>2021-12-06 13:40:03</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

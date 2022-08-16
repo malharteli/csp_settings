@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>样本画笔 1</name>
+
+  <cloudcontentid>215474758</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4a7395c715-9a11-dd8f-6480-4b6a01782d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>80/03</subpath>
+
+  <basePath></basePath>
+
+  <size>181960</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-06-22 13:21:32</createdat>
+
+  <updatedat>2022-06-22 13:21:43</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

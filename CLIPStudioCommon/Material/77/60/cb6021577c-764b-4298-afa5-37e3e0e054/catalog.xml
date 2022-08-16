@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="cb6021577c-764b-4298-afa5-37e3e0e054" ver="20220329014708">
+    <ccf_registed_at>2021/01/29 15:49:10</ccf_registed_at>
+    <content_id>1817317</content_id>
+    <origin_content_id>1817317</origin_content_id>
+    <url>https://assets.clip-studio.com</url>
+    <type>catalog</type>
+    <user_id>1095837</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="ice" version="1.10.5"/>
+    <name>プリズムペン</name>
+    <created_date>2022/05/08 04:34:05</created_date>
+    <modified_date>2022/05/08 04:34:05</modified_date>
+    <description>
+      <fileref idref="2dce4ed619-5044-dd95-9293-8a5d5a4537"/>
+    </description>
+    <thumbnail>
+      <fileref idref="77564973fb-0042-5d97-1e43-f219495860"/>
+    </thumbnail>
+    <icedata>
+      <fileref idref="cfd0fe29dd-ab48-93b4-b77b-bf8c9cdf38"/>
+    </icedata>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cac768087a-e142-289e-56d9-4bd7d06be6" ver="20220329014708">
+        <ccf_registed_at>2021/01/29 15:49:10</ccf_registed_at>
+        <tool company="celsys" name="ice" version="1.10.5"/>
+        <user_id>1095837</user_id>
+        <group_id>896127</group_id>
+        <type ver="1.0.0">group</type>
+        <name>プリズムペン</name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="11cc261128-ee44-ddb1-3a0a-0667843774" ver="20210129154910">
+          <ccf_registed_at>2021/01/29 15:49:10</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.10.5"/>
+          <user_id>1095837</user_id>
+          <group_id>896128</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5b2375808a-7744-f79b-22ba-f37595b36d" ver="20210129154910">
+              <ccf_registed_at>2021/01/29 15:49:10</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.10.5"/>
+              <user_id>1095837</user_id>
+              <item_id>896132</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>プリズムペン 1</name>
+              <created_date>2022/05/08 04:34:05</created_date>
+              <modified_date>2022/05/08 04:34:05</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="5d61006152-644c-b8ae-f5c9-029324ed9c"/>
+              </thumbnail>
+              <data>
+                <fileref idref="0a64303353-1947-50bc-37e9-46ef627a3c"/>
+              </data>
+              <icedata>
+                <fileref idref="72172ebca9-8242-b1b0-70d9-c59ff8dab9"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="516eb21517-b545-3488-8104-94d8c97c35" ver="20210129154910">
+          <ccf_registed_at>2021/01/29 15:49:10</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.10.5"/>
+          <user_id>1095837</user_id>
+          <group_id>896129</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3e014c6ef4-024e-3db9-a3ff-a4ae52bc76" ver="20210129154910">
+              <ccf_registed_at>2021/01/29 15:49:10</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.10.5"/>
+              <user_id>1095837</user_id>
+              <item_id>896133</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>プリズムペン 2</name>
+              <created_date>2022/05/08 04:34:05</created_date>
+              <modified_date>2022/05/08 04:34:05</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="6f0fa4af12-1640-7ab2-2729-ff517992e3"/>
+              </thumbnail>
+              <data>
+                <fileref idref="f47f079c81-f44e-65b9-f20a-728b81b298"/>
+              </data>
+              <icedata>
+                <fileref idref="cbf8692f1d-3146-22a9-a63e-ad1acace56"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d7bacbc0b0-f240-31b7-3e9f-78b6e90486" ver="20210129154910">
+          <ccf_registed_at>2021/01/29 15:49:10</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.10.5"/>
+          <user_id>1095837</user_id>
+          <group_id>896130</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="df6e74b3d1-aa40-0b81-4422-173dd7d9a3" ver="20210129154910">
+              <ccf_registed_at>2021/01/29 15:49:10</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.10.5"/>
+              <user_id>1095837</user_id>
+              <item_id>896134</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>プリズムペン 3</name>
+              <created_date>2022/05/08 04:34:05</created_date>
+              <modified_date>2022/05/08 04:34:05</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="1d425beb75-354b-23b4-37ce-9223638cf1"/>
+              </thumbnail>
+              <data>
+                <fileref idref="4486e0a846-3b4a-7291-7411-1f4cc4c3e8"/>
+              </data>
+              <icedata>
+                <fileref idref="1ea05ed6a2-8743-34a2-16f7-03242558ed"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="80d58069c0-2e49-fba8-3dfa-85dfbaab03" ver="20210129154910">
+          <ccf_registed_at>2021/01/29 15:49:10</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.10.5"/>
+          <user_id>1095837</user_id>
+          <group_id>896131</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="889327e32d-f44e-278c-0557-2732743f4b" ver="20210129154910">
+              <ccf_registed_at>2021/01/29 15:49:10</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.10.5"/>
+              <user_id>1095837</user_id>
+              <item_id>896135</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>プリズムペン 4</name>
+              <created_date>2022/05/08 04:34:05</created_date>
+              <modified_date>2022/05/08 04:34:05</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="53c5082718-ff4d-b4ad-afe1-aaac4fe0af"/>
+              </thumbnail>
+              <data>
+                <fileref idref="5ea7423126-0b4c-9ab7-c4ec-fe771bda06"/>
+              </data>
+              <icedata>
+                <fileref idref="b5657b0e99-df46-18aa-7900-ac356b8f72"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5efef4eec2-1a4e-f5bc-1cc4-48b4966f1d" ver="20220329014708">
+          <ccf_registed_at>2022/03/29 01:47:08</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.11.7"/>
+          <user_id>1095837</user_id>
+          <group_id>1404537</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="87f2003364-0b42-b182-827a-122404c915" ver="20220329014708">
+              <ccf_registed_at>2022/03/29 01:47:08</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.11.7"/>
+              <user_id>1095837</user_id>
+              <item_id>1404538</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>プリズムペン 5</name>
+              <created_date>2022/05/08 04:34:06</created_date>
+              <modified_date>2022/05/08 04:34:06</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="c57505aee2-7d4e-8c91-256d-e6ebb6fb22"/>
+              </thumbnail>
+              <data>
+                <fileref idref="920433926d-cc47-cbb4-3924-9af2157f08"/>
+              </data>
+              <icedata>
+                <fileref idref="a0d6943a08-9648-578c-1c31-be7803d9ff"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6e2a7c361f-8f42-c09d-c1e9-c6b2004f5c" ver="20220329014708">
+          <ccf_registed_at>2022/03/29 01:47:08</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.11.7"/>
+          <user_id>1095837</user_id>
+          <group_id>1404539</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9f6db13619-9946-a4af-cf66-38d8aaade1" ver="20220329014708">
+              <ccf_registed_at>2022/03/29 01:47:08</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.11.7"/>
+              <user_id>1095837</user_id>
+              <item_id>1404540</item_id>
+              <type ver="1.0.2">brush</type>
+              <name>プリズムペン 6</name>
+              <created_date>2022/05/08 04:34:06</created_date>
+              <modified_date>2022/05/08 04:34:06</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="d6b03b2dab-5143-97bd-496b-f2eb686714"/>
+              </thumbnail>
+              <data>
+                <fileref idref="ae9cb0a552-de4b-6ba1-39cd-6a418093ec"/>
+              </data>
+              <icedata>
+                <fileref idref="fc599cb829-4b48-9e8d-2588-6f5044a0dd"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="0a64303353-1947-50bc-37e9-46ef627a3c" mime="application/octet-stream">
+      <path>5b2375808a-7744-f79b-22ba-f37595b36d/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="1d425beb75-354b-23b4-37ce-9223638cf1" mime="image/png">
+      <path>df6e74b3d1-aa40-0b81-4422-173dd7d9a3/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="1ea05ed6a2-8743-34a2-16f7-03242558ed" mime="text/xml">
+      <path>df6e74b3d1-aa40-0b81-4422-173dd7d9a3/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="2dce4ed619-5044-dd95-9293-8a5d5a4537" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+    <file document="false" encrypt="true" id="4486e0a846-3b4a-7291-7411-1f4cc4c3e8" mime="application/octet-stream">
+      <path>df6e74b3d1-aa40-0b81-4422-173dd7d9a3/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="53c5082718-ff4d-b4ad-afe1-aaac4fe0af" mime="image/png">
+      <path>889327e32d-f44e-278c-0557-2732743f4b/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="5d61006152-644c-b8ae-f5c9-029324ed9c" mime="image/png">
+      <path>5b2375808a-7744-f79b-22ba-f37595b36d/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="5ea7423126-0b4c-9ab7-c4ec-fe771bda06" mime="application/octet-stream">
+      <path>889327e32d-f44e-278c-0557-2732743f4b/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="6f0fa4af12-1640-7ab2-2729-ff517992e3" mime="image/png">
+      <path>3e014c6ef4-024e-3db9-a3ff-a4ae52bc76/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="72172ebca9-8242-b1b0-70d9-c59ff8dab9" mime="text/xml">
+      <path>5b2375808a-7744-f79b-22ba-f37595b36d/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="77564973fb-0042-5d97-1e43-f219495860" mime="image/png">
+      <path>thumbnail/catalogThumb.png</path>
+    </file>
+    <file document="false" encrypt="false" id="920433926d-cc47-cbb4-3924-9af2157f08" mime="application/octet-stream">
+      <path>87f2003364-0b42-b182-827a-122404c915/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="a0d6943a08-9648-578c-1c31-be7803d9ff" mime="text/xml">
+      <path>87f2003364-0b42-b182-827a-122404c915/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="ae9cb0a552-de4b-6ba1-39cd-6a418093ec" mime="application/octet-stream">
+      <path>9f6db13619-9946-a4af-cf66-38d8aaade1/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="b5657b0e99-df46-18aa-7900-ac356b8f72" mime="text/xml">
+      <path>889327e32d-f44e-278c-0557-2732743f4b/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="c57505aee2-7d4e-8c91-256d-e6ebb6fb22" mime="image/png">
+      <path>87f2003364-0b42-b182-827a-122404c915/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="cbf8692f1d-3146-22a9-a63e-ad1acace56" mime="text/xml">
+      <path>3e014c6ef4-024e-3db9-a3ff-a4ae52bc76/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="cfd0fe29dd-ab48-93b4-b77b-bf8c9cdf38" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="d6b03b2dab-5143-97bd-496b-f2eb686714" mime="image/png">
+      <path>9f6db13619-9946-a4af-cf66-38d8aaade1/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="f47f079c81-f44e-65b9-f20a-728b81b298" mime="application/octet-stream">
+      <path>3e014c6ef4-024e-3db9-a3ff-a4ae52bc76/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="fc599cb829-4b48-9e8d-2588-6f5044a0dd" mime="text/xml">
+      <path>9f6db13619-9946-a4af-cf66-38d8aaade1/icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ee881cab87-d341-0187-6a04-36c37bac8f">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>mountainstriketest</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="45aea8f1ce-734f-9ab8-3829-f4627a2317">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="76577f531d-064b-c89b-565d-6a228f32d7">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>mountainstriketest</name>
+            <created_date>2022/04/03 03:58:19</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="d004516320-a048-db9b-49c0-978b9d84a3"/>
+            </thumbnail>
+            <data>
+              <fileref idref="062a57102f-6f43-869f-42f8-101867ee8f"/>
+            </data>
+            <icedata>
+              <fileref idref="955e86a5a5-f144-2199-e6c6-00d055170a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="062a57102f-6f43-869f-42f8-101867ee8f" mime="application/octet-stream">
+      <path>mountainstriketest.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="955e86a5a5-f144-2199-e6c6-00d055170a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="d004516320-a048-db9b-49c0-978b9d84a3" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

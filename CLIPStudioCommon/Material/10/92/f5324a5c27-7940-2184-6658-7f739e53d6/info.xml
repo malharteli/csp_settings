@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="f5324a5c27-7940-2184-6658-7f739e53d6">
+    <datalist key="lead">
+      <data>ネオン管のような線が描けるブラシです。</data>
+    </datalist>
+    <datalist key="tag">
+      <data>ペン</data>
+      <data>ネオン</data>
+      <data>お題素材</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+  <info uuid="9b1d5af65a-f440-468f-2ccb-946200da9b">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="594690839b-074a-ba9f-781f-a9c447781b">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+</infolist>

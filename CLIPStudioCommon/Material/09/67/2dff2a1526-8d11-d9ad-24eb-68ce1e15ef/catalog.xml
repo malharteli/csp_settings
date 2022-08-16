@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="2dff2a1526-8d11-d9ad-24eb-68ce1e15ef">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.1"/>
+    <name>Plastic Wrap - Light 90 pixels</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a45f0b3dc6-3b41-23a1-2bbf-f945ca45e2">
+        <tool company="celsys" name="paint" version="1.12.1"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7efa0a3bb7-124f-6bbf-44f0-da49abbe98">
+            <tool company="celsys" name="paint" version="1.12.1"/>
+            <type ver="1.0.1">image</type>
+            <name>Plastic Wrap - Light 90 pixels</name>
+            <created_date>2022/06/20 21:02:57</created_date>
+            <modified_date>2022/06/20 21:02:57</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="e5c61d9953-c242-1799-b1a5-199e37517c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="1b6c84110a-a447-2096-30eb-ce2c25851d"/>
+            </data>
+            <icedata>
+              <fileref idref="9aae37ae27-c04b-00ba-147d-3a7708b7f3"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="1b6c84110a-a447-2096-30eb-ce2c25851d" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="9aae37ae27-c04b-00ba-147d-3a7708b7f3" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="e5c61d9953-c242-1799-b1a5-199e37517c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

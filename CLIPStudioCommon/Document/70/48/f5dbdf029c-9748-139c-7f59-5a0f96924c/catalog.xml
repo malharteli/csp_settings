@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="f5dbdf029c-9748-139c-7f59-5a0f96924c">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.8"/>
+    <name>050`10111_AbhiClass_FrogMan</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="679bfe0839-2c45-5b8f-1223-dfb6ad3932">
+        <tool company="celsys" name="paint" version="1.11.8"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3684289030-ca41-6abd-c357-3a273c36ae">
+            <tool company="celsys" name="paint" version="1.11.8"/>
+            <type ver="">clipstudioformat</type>
+            <name>050`10111_AbhiClass_FrogMan</name>
+            <created_date>2022/01/05 22:08:17</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="9f4acaa0fe-bd48-059e-0f8f-b0733b481a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="5414f9ef4b-b14a-14b0-f84b-bf26bebf74"/>
+            </data>
+            <icedata>
+              <fileref idref="0a642d7513-8447-a392-129f-e2b129a8bc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0a642d7513-8447-a392-129f-e2b129a8bc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="5414f9ef4b-b14a-14b0-f84b-bf26bebf74" mime="application/octet-stream">
+      <path>050`10111_AbhiClass_FrogMan.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="9f4acaa0fe-bd48-059e-0f8f-b0733b481a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

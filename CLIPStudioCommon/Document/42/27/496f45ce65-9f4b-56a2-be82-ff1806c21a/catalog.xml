@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="496f45ce65-9f4b-56a2-be82-ff1806c21a">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>Comm_Carmilla_SummerWinterCowgirls</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5ae9337cad-7e46-e88c-93a4-437c10a903">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6904331a03-fe43-4d88-93cf-81f3e3a3ff">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>Comm_Carmilla_SummerWinterCowgirls</name>
+            <created_date>2022/05/19 00:05:01</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="630d2e57f5-e145-e38c-ee80-8a484ba957"/>
+            </thumbnail>
+            <data>
+              <fileref idref="691bf4f8b3-aa43-a8aa-eebe-878dedb4e9"/>
+            </data>
+            <icedata>
+              <fileref idref="fd01bf5c16-f14d-d6a8-293e-4ad2a27a95"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="630d2e57f5-e145-e38c-ee80-8a484ba957" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="691bf4f8b3-aa43-a8aa-eebe-878dedb4e9" mime="application/octet-stream">
+      <path>Comm_Carmilla_SummerWinterCowgirls.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="fd01bf5c16-f14d-d6a8-293e-4ad2a27a95" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

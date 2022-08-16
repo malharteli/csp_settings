@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="766f57273f-584d-4da7-5ca4-92e66a6143">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>231220221_AbhiclassObersevation</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3f86fc8d4b-ac4e-f2a9-da5d-0829acc81f">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5416a3ca94-6148-7889-3306-bbf7391541">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>231220221_AbhiclassObersevation</name>
+            <created_date>2021/12/23 05:57:56</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="757cc7a06e-234b-c883-1240-6c82cbec4a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f2ccc97b86-3d40-16b7-c820-988fb513de"/>
+            </data>
+            <icedata>
+              <fileref idref="eb66774062-7442-0599-722d-a308601c93"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="757cc7a06e-234b-c883-1240-6c82cbec4a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="eb66774062-7442-0599-722d-a308601c93" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="f2ccc97b86-3d40-16b7-c820-988fb513de" mime="application/octet-stream">
+      <path>231220221_AbhiclassObersevation.clip</path>
+    </file>
+  </files>
+
+</archive>

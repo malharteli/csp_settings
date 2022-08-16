@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="825931ab9a-0e4b-ebbc-e807-b00a97045a">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>HutchMap</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="417e7fc6f6-474f-d886-dd2f-607a7aff26">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="453e89bf2c-634e-9e91-82ab-df516d6a1f">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>HutchMap</name>
+            <created_date>2022/04/25 21:02:55</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="46291e0d31-f843-03bc-3eae-2a83dbdb56"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e28f8b2583-0b43-1b96-1a98-34ee825c90"/>
+            </data>
+            <icedata>
+              <fileref idref="2b27404def-084b-7db1-5d56-c7db2ee1fc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2b27404def-084b-7db1-5d56-c7db2ee1fc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="46291e0d31-f843-03bc-3eae-2a83dbdb56" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="e28f8b2583-0b43-1b96-1a98-34ee825c90" mime="application/octet-stream">
+      <path>HutchMap.clip</path>
+    </file>
+  </files>
+
+</archive>

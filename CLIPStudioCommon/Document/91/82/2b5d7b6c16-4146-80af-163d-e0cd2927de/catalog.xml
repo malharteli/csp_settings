@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="2b5d7b6c16-4146-80af-163d-e0cd2927de">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.8"/>
+    <name>06022022_AbhiClass</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e802c5904e-5a49-5caa-15ae-6724ec4364">
+        <tool company="celsys" name="paint" version="1.11.8"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="421e612acb-4941-40b0-5d57-fdf3cbe46e">
+            <tool company="celsys" name="paint" version="1.11.8"/>
+            <type ver="">clipstudioformat</type>
+            <name>06022022_AbhiClass</name>
+            <created_date>2022/02/07 02:09:34</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="cb97440049-824d-c8b0-4e4b-85b8e1991b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="307631199a-e44b-f784-468f-573581db2b"/>
+            </data>
+            <icedata>
+              <fileref idref="60b9fe87ea-6647-c0be-5549-e51c36aac2"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="307631199a-e44b-f784-468f-573581db2b" mime="application/octet-stream">
+      <path>06022022_AbhiClass.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="60b9fe87ea-6647-c0be-5549-e51c36aac2" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="cb97440049-824d-c8b0-4e4b-85b8e1991b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

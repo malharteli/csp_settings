@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="d8b2a1168d-4f49-86ab-9bd4-2bc570d299">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>Comm_DrgnMastrAlex_CyberBunMeredith_000</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f64ab430f7-f64a-ea8a-b1d9-f5fdedc537">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a9997aa088-c547-17a7-a2ab-46822f2188">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>Comm_DrgnMastrAlex_CyberBunMeredith_000</name>
+            <created_date>2022/04/21 05:03:13</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="eb1b0d5014-2a4a-5f8f-0e58-b3702cc5f9"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e4fc4c4253-574e-478c-31e8-93c283d6a7"/>
+            </data>
+            <icedata>
+              <fileref idref="1b5d4630ad-4649-939a-7898-afada68ade"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1b5d4630ad-4649-939a-7898-afada68ade" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="e4fc4c4253-574e-478c-31e8-93c283d6a7" mime="application/octet-stream">
+      <path>Comm_DrgnMastrAlex_CyberBunMeredith_000.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="eb1b0d5014-2a4a-5f8f-0e58-b3702cc5f9" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

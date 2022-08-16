@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.2</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="3fa8b68ed2-6241-0dba-cbce-4a08315772" ver="20140921113647">
+    <ccf_registed_at>2014/09/21 11:36:47</ccf_registed_at>
+    <content_id>1566600</content_id>
+    <origin_content_id>1566600</origin_content_id>
+    <url>https://assets.clip-studio.com</url>
+    <type>catalog</type>
+    <user_id>33867</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="ice" version="1.1.6"/>
+    <name>キラキラブラシセット</name>
+    <created_date>2022/05/08 04:35:07</created_date>
+    <modified_date>2022/05/08 04:35:07</modified_date>
+    <description>
+      <fileref idref="8b542c9329-e047-2698-fcb6-0d9b202964"/>
+    </description>
+    <thumbnail>
+      <fileref idref="babeb9f118-d64e-6cab-d267-95befd7c0b"/>
+    </thumbnail>
+    <icedata>
+      <fileref idref="97e658b7ee-2646-6a95-fb8b-8b597bb651"/>
+    </icedata>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ead2d3233a-c94d-4cba-f6d7-c187969d14" ver="20140921113647">
+        <ccf_registed_at>2014/09/21 11:36:47</ccf_registed_at>
+        <tool company="celsys" name="ice" version="1.1.6"/>
+        <user_id>33867</user_id>
+        <group_id>65995</group_id>
+        <type ver="1.0.0">group</type>
+        <name>カテゴリ1</name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d3198773a5-b145-429c-e859-d2192451b2" ver="20140921113647">
+          <ccf_registed_at>2014/09/21 11:36:47</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.1.6"/>
+          <user_id>33867</user_id>
+          <group_id>65996</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="bb719f8958-364c-aea0-8c83-44d1a85b43" ver="20140921113647">
+              <ccf_registed_at>2014/09/21 11:36:47</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.3.9"/>
+              <user_id>33867</user_id>
+              <item_id>65999</item_id>
+              <type ver="1.0.0">brush</type>
+              <name>キラ03</name>
+              <created_date>2022/05/08 04:35:07</created_date>
+              <modified_date>2022/05/08 04:35:07</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="7c8a5b6180-3245-d8bc-15f6-e73bdd0fba"/>
+              </thumbnail>
+              <data>
+                <fileref idref="cfbb780e8a-8347-1dbe-756e-bd159fe287"/>
+              </data>
+              <icedata>
+                <fileref idref="8f1b2bc90f-d347-389d-b38a-bb0b291c66"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ffa3141082-1248-87a3-6174-b3a433cbcd" ver="20140921113647">
+          <ccf_registed_at>2014/09/21 11:36:47</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.1.6"/>
+          <user_id>33867</user_id>
+          <group_id>65997</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ce26e2f903-dd42-e082-ac8a-ec486dcd9d" ver="20140921113647">
+              <ccf_registed_at>2014/09/21 11:36:47</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.3.9"/>
+              <user_id>33867</user_id>
+              <item_id>66000</item_id>
+              <type ver="1.0.0">brush</type>
+              <name>キラ02</name>
+              <created_date>2022/05/08 04:35:07</created_date>
+              <modified_date>2022/05/08 04:35:07</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="72153b972d-c148-ff8c-ae63-5f8f280cb3"/>
+              </thumbnail>
+              <data>
+                <fileref idref="f8d3c19b77-2547-c0a0-c6a9-ed6a1b7f1a"/>
+              </data>
+              <icedata>
+                <fileref idref="5ff69e3ed4-174e-e885-1be7-4e121ae5b1"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e44a8c26ea-bd44-1a9b-85d9-da60e84d9f" ver="20140921113647">
+          <ccf_registed_at>2014/09/21 11:36:47</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.1.6"/>
+          <user_id>33867</user_id>
+          <group_id>65998</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5e8abbcd57-fd44-e78a-70a3-3212a322c3" ver="20140921113647">
+              <ccf_registed_at>2014/09/21 11:36:47</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.3.9"/>
+              <user_id>33867</user_id>
+              <item_id>66001</item_id>
+              <type ver="1.0.0">brush</type>
+              <name>キラ01</name>
+              <created_date>2022/05/08 04:35:07</created_date>
+              <modified_date>2022/05/08 04:35:07</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="80447f6dc2-de47-4484-0a88-cb0d059225"/>
+              </thumbnail>
+              <data>
+                <fileref idref="18b0c1b672-e74f-b8b2-7c7f-66e7845934"/>
+              </data>
+              <icedata>
+                <fileref idref="43aaeb9983-0546-86ad-bfb6-19fa7566a0"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="18b0c1b672-e74f-b8b2-7c7f-66e7845934" mime="application/octet-stream">
+      <path>5e8abbcd57-fd44-e78a-70a3-3212a322c3/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="43aaeb9983-0546-86ad-bfb6-19fa7566a0" mime="text/xml">
+      <path>5e8abbcd57-fd44-e78a-70a3-3212a322c3/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="5ff69e3ed4-174e-e885-1be7-4e121ae5b1" mime="text/xml">
+      <path>ce26e2f903-dd42-e082-ac8a-ec486dcd9d/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="72153b972d-c148-ff8c-ae63-5f8f280cb3" mime="image/png">
+      <path>ce26e2f903-dd42-e082-ac8a-ec486dcd9d/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="7c8a5b6180-3245-d8bc-15f6-e73bdd0fba" mime="image/png">
+      <path>bb719f8958-364c-aea0-8c83-44d1a85b43/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="80447f6dc2-de47-4484-0a88-cb0d059225" mime="image/png">
+      <path>5e8abbcd57-fd44-e78a-70a3-3212a322c3/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="8b542c9329-e047-2698-fcb6-0d9b202964" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+    <file document="false" encrypt="false" id="8f1b2bc90f-d347-389d-b38a-bb0b291c66" mime="text/xml">
+      <path>bb719f8958-364c-aea0-8c83-44d1a85b43/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="97e658b7ee-2646-6a95-fb8b-8b597bb651" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="babeb9f118-d64e-6cab-d267-95befd7c0b" mime="image/jpeg">
+      <path>thumbnail/catalogThumb.jpg</path>
+    </file>
+    <file document="false" encrypt="true" id="cfbb780e8a-8347-1dbe-756e-bd159fe287" mime="application/octet-stream">
+      <path>bb719f8958-364c-aea0-8c83-44d1a85b43/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="true" id="f8d3c19b77-2547-c0a0-c6a9-ed6a1b7f1a" mime="application/octet-stream">
+      <path>ce26e2f903-dd42-e082-ac8a-ec486dcd9d/data/material_0.tool</path>
+    </file>
+  </files>
+
+</archive>

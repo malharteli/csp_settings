@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="fef06e92a0-9240-6aac-25c2-a057e21e25">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.10"/>
+    <name>12032022_sketch</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8d58be75f7-434b-a8bc-b108-60eea695a9">
+        <tool company="celsys" name="paint" version="1.11.10"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0a9a8a00f5-4147-1480-c678-35d955cf43">
+            <tool company="celsys" name="paint" version="1.11.10"/>
+            <type ver="">clipstudioformat</type>
+            <name>12032022_sketch</name>
+            <created_date>2022/03/13 03:51:26</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="0ed5ac4236-5143-1d9f-ddaf-8476c0c672"/>
+            </thumbnail>
+            <data>
+              <fileref idref="497da0a19f-a648-12bd-d5a8-4c6e1e4da5"/>
+            </data>
+            <icedata>
+              <fileref idref="7459531b0a-0647-1cbc-593e-d56e305c8a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0ed5ac4236-5143-1d9f-ddaf-8476c0c672" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="497da0a19f-a648-12bd-d5a8-4c6e1e4da5" mime="application/octet-stream">
+      <path>12032022_sketch.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="7459531b0a-0647-1cbc-593e-d56e305c8a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="7e4a8dac32-8148-f380-ea4a-4651817ce7">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.3"/>
+    <name>July Sketchbook</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a2efb8517c-4140-a186-feac-3860438982">
+        <tool company="celsys" name="paint" version="1.12.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="901c0c39f6-9546-6b94-4421-65ca651013">
+            <tool company="celsys" name="paint" version="1.12.3"/>
+            <type ver="">paintwork2</type>
+            <name>July Sketchbook</name>
+            <created_date>2022/07/23 06:53:34</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="ddeef76191-9240-8686-ee59-53d1f47165"/>
+            </thumbnail>
+            <data>
+              <fileref idref="55bb0f6457-4541-f8b6-bcb9-2707ff2c5b"/>
+              <fileref idref="74cee27ce6-d94c-73b9-59c3-fd16f42586"/>
+              <fileref idref="9b85cef7fd-1642-f6ba-e35c-be91ee02e8"/>
+              <fileref idref="ccbed7d909-ba41-e5bc-9f88-51273de2c5"/>
+              <fileref idref="14e50f2b36-1c46-adbf-79c7-e489dfc105"/>
+              <fileref idref="5a83a7fbb0-0f49-f3a5-2d83-cb8cfb6b53"/>
+              <fileref idref="f1c2f142e5-fe4a-1989-efd9-26e41ce95f"/>
+              <fileref idref="a0a017aed8-1d43-49af-bf7b-745396cc29"/>
+              <fileref idref="36f3922440-9c4c-a7bd-0573-7b61ccddda"/>
+              <fileref idref="9bad8f756c-8340-c386-bc85-38bfe9246d"/>
+              <fileref idref="e886ad8596-e642-e7b8-15f1-10e5b108d6"/>
+              <fileref idref="cb9e2c3d01-464e-cf91-3471-030bbe09db"/>
+              <fileref idref="6be4dcdb97-2c46-7ebd-46bc-00279cd8a1"/>
+              <fileref idref="78a5d3fee7-2440-9eb4-4fcb-0970c449db"/>
+              <fileref idref="591bd54b54-d347-5ba6-ae4a-b59f066756"/>
+              <fileref idref="6b2989a705-b74d-d882-bbfe-9882cfa4da"/>
+              <fileref idref="39b9ce0529-004e-329b-1000-c94c0ad972"/>
+            </data>
+            <icedata>
+              <fileref idref="6021db8273-5b46-0499-cf78-50abb7c475"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="14e50f2b36-1c46-adbf-79c7-e489dfc105" mime="application/octet-stream">
+      <path>page0004.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="36f3922440-9c4c-a7bd-0573-7b61ccddda" mime="application/octet-stream">
+      <path>page0008.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="39b9ce0529-004e-329b-1000-c94c0ad972" mime="application/octet-stream">
+      <path>page0016.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="55bb0f6457-4541-f8b6-bcb9-2707ff2c5b" mime="application/octet-stream">
+      <path>TheyAimedForTheMagicalGirlsButWeGotIsekaidinstead.cmc</path>
+    </file>
+    <file document="false" encrypt="true" id="591bd54b54-d347-5ba6-ae4a-b59f066756" mime="application/octet-stream">
+      <path>page0014.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="5a83a7fbb0-0f49-f3a5-2d83-cb8cfb6b53" mime="application/octet-stream">
+      <path>page0005.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="6021db8273-5b46-0499-cf78-50abb7c475" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="6b2989a705-b74d-d882-bbfe-9882cfa4da" mime="application/octet-stream">
+      <path>page0015.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="6be4dcdb97-2c46-7ebd-46bc-00279cd8a1" mime="application/octet-stream">
+      <path>page0012.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="74cee27ce6-d94c-73b9-59c3-fd16f42586" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="78a5d3fee7-2440-9eb4-4fcb-0970c449db" mime="application/octet-stream">
+      <path>page0013.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="9b85cef7fd-1642-f6ba-e35c-be91ee02e8" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="9bad8f756c-8340-c386-bc85-38bfe9246d" mime="application/octet-stream">
+      <path>page0009.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="a0a017aed8-1d43-49af-bf7b-745396cc29" mime="application/octet-stream">
+      <path>page0007.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="cb9e2c3d01-464e-cf91-3471-030bbe09db" mime="application/octet-stream">
+      <path>page0011.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="ccbed7d909-ba41-e5bc-9f88-51273de2c5" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="ddeef76191-9240-8686-ee59-53d1f47165" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="e886ad8596-e642-e7b8-15f1-10e5b108d6" mime="application/octet-stream">
+      <path>page0010.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="f1c2f142e5-fe4a-1989-efd9-26e41ce95f" mime="application/octet-stream">
+      <path>page0006.clip</path>
+    </file>
+  </files>
+
+</archive>

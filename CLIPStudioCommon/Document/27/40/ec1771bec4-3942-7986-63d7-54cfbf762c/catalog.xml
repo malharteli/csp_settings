@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ec1771bec4-3942-7986-63d7-54cfbf762c">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.3"/>
+    <name>MagicalGirlvCourer</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="dbaaa47885-e048-1196-6e78-26d33c4159">
+        <tool company="celsys" name="paint" version="1.12.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="acb5f7f5ef-c342-bea4-b456-458bf04486">
+            <tool company="celsys" name="paint" version="1.12.3"/>
+            <type ver="">clipstudioformat</type>
+            <name>MagicalGirlvCourer</name>
+            <created_date>2022/07/14 06:30:22</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b059f8609e-3f43-ffa2-5444-c086c9c32f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="aadbdf19c5-2d4b-b4bd-fd11-2bb3638ba1"/>
+            </data>
+            <icedata>
+              <fileref idref="4f0612874b-4546-3da0-02f8-83a8f67b09"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="4f0612874b-4546-3da0-02f8-83a8f67b09" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="aadbdf19c5-2d4b-b4bd-fd11-2bb3638ba1" mime="application/octet-stream">
+      <path>MagicalGirlvCourer.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="b059f8609e-3f43-ffa2-5444-c086c9c32f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

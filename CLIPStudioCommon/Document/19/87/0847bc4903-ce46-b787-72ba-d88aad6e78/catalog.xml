@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="0847bc4903-ce46-b787-72ba-d88aad6e78">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.10"/>
+    <name>Roulette_Minato_Gebura_LobotomyCorps</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="534b5aa5c8-6f48-ce94-95bd-8718d80640">
+        <tool company="celsys" name="paint" version="1.11.10"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1a10d439b3-a74f-5b88-b1c0-636e42031d">
+            <tool company="celsys" name="paint" version="1.11.10"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_Minato_Gebura_LobotomyCorps</name>
+            <created_date>2022/03/20 03:29:38</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="08900a9040-794b-5a88-6d05-59e23275e4"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f1e0c4ec54-1a49-14b9-15ba-7cc4d9a8d9"/>
+            </data>
+            <icedata>
+              <fileref idref="f5f86e3201-b241-74a7-60ad-104b133484"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="08900a9040-794b-5a88-6d05-59e23275e4" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="f1e0c4ec54-1a49-14b9-15ba-7cc4d9a8d9" mime="application/octet-stream">
+      <path>Roulette_Minato_Gebura_LobotomyCorps.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="f5f86e3201-b241-74a7-60ad-104b133484" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

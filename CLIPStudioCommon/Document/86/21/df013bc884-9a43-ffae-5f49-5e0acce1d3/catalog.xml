@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="df013bc884-9a43-ffae-5f49-5e0acce1d3">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>Artefact</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="dc8c98474b-da40-36b6-3628-404dead389">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9ad6d89e8c-e643-f884-62bc-5ff40efb8f">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>Artefact</name>
+            <created_date>2022/05/20 05:42:21</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3a480c4833-7b46-99bd-cd6c-1f36ec08b5"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6a1de88901-2c42-76a0-323b-3d5b735fa5"/>
+            </data>
+            <icedata>
+              <fileref idref="6952305c03-3540-159e-2ccb-97dbef2e47"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3a480c4833-7b46-99bd-cd6c-1f36ec08b5" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="6952305c03-3540-159e-2ccb-97dbef2e47" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="6a1de88901-2c42-76a0-323b-3d5b735fa5" mime="application/octet-stream">
+      <path>Artefact.clip</path>
+    </file>
+  </files>
+
+</archive>

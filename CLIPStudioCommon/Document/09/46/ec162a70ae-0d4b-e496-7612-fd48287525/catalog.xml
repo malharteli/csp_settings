@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ec162a70ae-0d4b-e496-7612-fd48287525">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>PatronRoulette_SisterCarmilla_GyaruMaria</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2206853cd5-c64d-7fba-6bc0-66a6db294b">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b3133ad25e-4047-41bb-4598-27e31bb6e6">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>PatronRoulette_SisterCarmilla_GyaruMaria</name>
+            <created_date>2022/04/03 03:58:11</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b6269b77e3-164c-c8bb-ab6b-5484c86d06"/>
+            </thumbnail>
+            <data>
+              <fileref idref="17280f7b0c-f548-f1a7-9384-9ded9e9879"/>
+            </data>
+            <icedata>
+              <fileref idref="ae1b2bc910-714b-9d87-91ee-2c36abc46a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="17280f7b0c-f548-f1a7-9384-9ded9e9879" mime="application/octet-stream">
+      <path>PatronRoulette_SisterCarmilla_GyaruMaria.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="ae1b2bc910-714b-9d87-91ee-2c36abc46a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="b6269b77e3-164c-c8bb-ab6b-5484c86d06" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

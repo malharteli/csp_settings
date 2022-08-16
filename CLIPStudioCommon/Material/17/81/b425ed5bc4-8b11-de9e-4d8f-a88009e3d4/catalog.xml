@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b425ed5bc4-8b11-de9e-4d8f-a88009e3d4">
+    <type>material</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.1"/>
+    <name>Sampled Brush 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b877d4e6eb-8f45-89aa-8b87-74c3323b0d">
+        <tool company="celsys" name="paint" version="1.12.1"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1208ac301b-ea4c-ce99-cea0-d30d308cca">
+            <tool company="celsys" name="paint" version="1.12.1"/>
+            <type ver="1.0.1">image</type>
+            <name>Sampled Brush 2</name>
+            <created_date>2022/06/20 21:03:04</created_date>
+            <modified_date>2022/06/20 21:03:04</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="68004cbbd1-bf4a-b78b-5794-85ba567cad"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6a0b7fb4fb-7540-6cbe-214a-8ac46d3a89"/>
+            </data>
+            <icedata>
+              <fileref idref="6943b382ec-e94e-7097-01cc-2d3159604d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="68004cbbd1-bf4a-b78b-5794-85ba567cad" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="6943b382ec-e94e-7097-01cc-2d3159604d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="6a0b7fb4fb-7540-6cbe-214a-8ac46d3a89" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

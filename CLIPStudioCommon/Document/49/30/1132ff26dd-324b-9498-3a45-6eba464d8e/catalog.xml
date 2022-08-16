@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="1132ff26dd-324b-9498-3a45-6eba464d8e">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.8"/>
+    <name>Roulette_Dakra_Morag_mask</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="30582c08d4-7d41-75ba-b787-d3acbb4cb8">
+        <tool company="celsys" name="paint" version="1.11.8"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e0e01f4ad9-4840-43b2-698f-e456ed26d4">
+            <tool company="celsys" name="paint" version="1.11.8"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_Dakra_Morag_mask</name>
+            <created_date>2022/02/13 04:05:09</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="52499a23f2-2c46-a58d-a1dd-2ba8051cf1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4654c13328-9747-2196-e821-19be026fda"/>
+            </data>
+            <icedata>
+              <fileref idref="a4f863c5b4-b44e-ec87-815d-99486a8aa8"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="4654c13328-9747-2196-e821-19be026fda" mime="application/octet-stream">
+      <path>Roulette_Dakra_Morag_mask.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="52499a23f2-2c46-a58d-a1dd-2ba8051cf1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="a4f863c5b4-b44e-ec87-815d-99486a8aa8" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

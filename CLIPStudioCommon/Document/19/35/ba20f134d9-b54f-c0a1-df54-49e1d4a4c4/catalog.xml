@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ba20f134d9-b54f-c0a1-df54-49e1d4a4c4">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.4"/>
+    <name>RheaHungers</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="56cd9db714-4f42-01a6-e370-4340718014">
+        <tool company="celsys" name="paint" version="1.11.4"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ddb008c213-ce48-61b1-ac52-bee84d9e7b">
+            <tool company="celsys" name="paint" version="1.11.4"/>
+            <type ver="">clipstudioformat</type>
+            <name>RheaHungers</name>
+            <created_date>2021/12/04 23:29:22</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="4593784d28-4b4d-80a6-739d-cc1e4cdf0b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9571a370f7-8d45-e08d-f32c-e21f2fc8ad"/>
+            </data>
+            <icedata>
+              <fileref idref="cafbce9249-1247-d797-cb40-43524c5b05"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="4593784d28-4b4d-80a6-739d-cc1e4cdf0b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="9571a370f7-8d45-e08d-f32c-e21f2fc8ad" mime="application/octet-stream">
+      <path>RheaHungers.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="cafbce9249-1247-d797-cb40-43524c5b05" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

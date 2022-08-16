@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="cb6021577c-764b-4298-afa5-37e3e0e054">
+    <datalist key="lead">
+      <data>一筆書きで簡単にプリズムのような何かを描ける雑なブラシです。
+強い光を表現したい時はそのまま、ぼかしたい場合は任意でぼかしツールを用いて自由にぼかしてあげて下さい。
+散布効果や水彩境界を弄っても楽しいかもしれません。</data>
+    </datalist>
+    <datalist key="tag">
+      <data>ペン</data>
+      <data>プリズム</data>
+      <data>光</data>
+      <data>虹</data>
+      <data>キラキラ</data>
+      <data>無料</data>
+      <data>Free</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data>※追記
+DL数10万越えの御礼として、ささやかではありますが新たに追加ブラシを2種類公開しました。
+つぶパーティクルの混じったプリズムペン5、ぼけの強いプリズムペン6です。</data>
+    </datalist>
+  </info>
+
+  <info uuid="5b2375808a-7744-f79b-22ba-f37595b36d">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="3e014c6ef4-024e-3db9-a3ff-a4ae52bc76">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="df6e74b3d1-aa40-0b81-4422-173dd7d9a3">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="889327e32d-f44e-278c-0557-2732743f4b">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="87f2003364-0b42-b182-827a-122404c915">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="9f6db13619-9946-a4af-cf66-38d8aaade1">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+</infolist>

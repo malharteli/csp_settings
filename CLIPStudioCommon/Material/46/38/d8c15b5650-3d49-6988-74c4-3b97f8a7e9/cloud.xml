@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>壁紙</name>
+
+  <cloudcontentid>122222823</cloudcontentid>
+
+  <revision>2</revision>
+
+  <key>d8c15b5650-3d49-6988-74c4-3b97f8a7e9</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>46/38</subpath>
+
+  <basePath></basePath>
+
+  <size>171759</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2020-12-24 16:16:52</createdat>
+
+  <updatedat>2022-08-12 14:21:39</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

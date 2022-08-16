@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="1f26b2a098-8140-cbb8-4664-2564a3db54">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>PatronRoulette_16122021_Alex</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c0c3f1a7a5-1e4b-6687-f30c-8c874becb4">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="13e0133c1b-8d4e-8d8b-7eb2-4db8e3f6ce">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>PatronRoulette_16122021_Alex</name>
+            <created_date>2021/12/17 06:11:50</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="8eafcfea71-6a45-b3a6-204f-a4c452e4f3"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c3418c32fd-a84b-459e-3f25-65864e7a7a"/>
+            </data>
+            <icedata>
+              <fileref idref="c2d8f10fa6-fa42-8f88-4cf8-c947404efe"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="8eafcfea71-6a45-b3a6-204f-a4c452e4f3" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="c2d8f10fa6-fa42-8f88-4cf8-c947404efe" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="c3418c32fd-a84b-459e-3f25-65864e7a7a" mime="application/octet-stream">
+      <path>PatronRoulette_16122021_Alex.clip</path>
+    </file>
+  </files>
+
+</archive>

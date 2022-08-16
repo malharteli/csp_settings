@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="00c091f97d-3e44-27b5-c9ff-7dfc632b78">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.3"/>
+    <name>KyokoBoop</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="34b254ceaa-a043-3eaf-8f33-50485e1d64">
+        <tool company="celsys" name="paint" version="1.12.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="955ae4fc99-e540-8b9b-69cd-cdddb6ec81">
+            <tool company="celsys" name="paint" version="1.12.3"/>
+            <type ver="">clipstudioformat</type>
+            <name>KyokoBoop</name>
+            <created_date>2022/08/11 04:28:11</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="161c54c18b-4049-ddb6-7dc3-154f1aceeb"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6a34105597-8947-a585-5961-e95e0e713f"/>
+            </data>
+            <icedata>
+              <fileref idref="1bb508215e-164a-4bb5-951f-b11ea2afef"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="161c54c18b-4049-ddb6-7dc3-154f1aceeb" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="1bb508215e-164a-4bb5-951f-b11ea2afef" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="6a34105597-8947-a585-5961-e95e0e713f" mime="application/octet-stream">
+      <path>KyokoBoop.clip</path>
+    </file>
+  </files>
+
+</archive>

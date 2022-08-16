@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="23fbf733e3-8645-dbbb-0fa7-53276b7c7d">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.9"/>
+    <name>Roulette_VZC_MinionCureWhip</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c233bce7e9-9249-b68a-6e67-ca221fc723">
+        <tool company="celsys" name="paint" version="1.11.9"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a9327c1159-c548-5f82-ca01-fe02afa2a6">
+            <tool company="celsys" name="paint" version="1.11.9"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_VZC_MinionCureWhip</name>
+            <created_date>2022/02/27 05:47:09</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="8efff67940-c947-e0ba-6e77-a751505b0b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="0a73488394-2d43-7a96-dcce-33841c712e"/>
+            </data>
+            <icedata>
+              <fileref idref="227e426e37-f94d-baa4-7715-ec4b77bea8"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="0a73488394-2d43-7a96-dcce-33841c712e" mime="application/octet-stream">
+      <path>Roulette_VZC_MinionCureWhip.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="227e426e37-f94d-baa4-7715-ec4b77bea8" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="8efff67940-c947-e0ba-6e77-a751505b0b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

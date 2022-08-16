@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="440dd5cf3c-004d-f68e-0f47-381e0851ad">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>PatronRoulette_16122021_Riley</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="623a1bb211-bb42-c491-abee-41598f2295">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d7cf80f8b3-f846-aa96-1c25-ef52e6d437">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>PatronRoulette_16122021_Riley</name>
+            <created_date>2021/12/17 06:11:21</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="66a5ae84aa-d74f-519a-60f2-997b332d06"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4b3777f423-1242-c3a8-a594-7f4f95de51"/>
+            </data>
+            <icedata>
+              <fileref idref="43242d77ca-d14c-fd8d-fb3f-8cf41295dc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="43242d77ca-d14c-fd8d-fb3f-8cf41295dc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="4b3777f423-1242-c3a8-a594-7f4f95de51" mime="application/octet-stream">
+      <path>PatronRoulette_16122021_Riley.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="66a5ae84aa-d74f-519a-60f2-997b332d06" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

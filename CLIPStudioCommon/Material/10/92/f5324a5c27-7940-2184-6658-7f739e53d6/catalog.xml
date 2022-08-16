@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="f5324a5c27-7940-2184-6658-7f739e53d6" ver="20180912215009">
+    <ccf_registed_at>2018/09/12 21:50:09</ccf_registed_at>
+    <content_id>1722368</content_id>
+    <origin_content_id>1722368</origin_content_id>
+    <url>https://assets.clip-studio.com</url>
+    <type>catalog</type>
+    <user_id>61014</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="ice" version="1.7.8"/>
+    <name>ネオンペン</name>
+    <created_date>2022/01/02 06:09:53</created_date>
+    <modified_date>2022/01/02 06:09:53</modified_date>
+    <description>
+      <fileref idref="61b7669b73-a240-6482-11b2-151e57cd3b"/>
+    </description>
+    <thumbnail>
+      <fileref idref="bec8a62fb8-894e-e8ae-2516-84ec6b6a4f"/>
+    </thumbnail>
+    <icedata>
+      <fileref idref="c6e91e5fb5-eb49-6cbb-1bab-3eb2bc8fe7"/>
+    </icedata>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8443670759-8f4c-daa0-9bec-19311b355a" ver="20180912215009">
+        <ccf_registed_at>2018/09/12 21:50:09</ccf_registed_at>
+        <tool company="celsys" name="ice" version="1.7.8"/>
+        <user_id>61014</user_id>
+        <group_id>378298</group_id>
+        <type ver="1.0.0">group</type>
+        <name>ネオンペン</name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7b3ddda66f-3841-d9aa-9ded-353f78a6ff" ver="20180912215009">
+          <ccf_registed_at>2018/09/12 21:50:09</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.7.8"/>
+          <user_id>61014</user_id>
+          <group_id>378299</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9b1d5af65a-f440-468f-2ccb-946200da9b" ver="20180912215009">
+              <ccf_registed_at>2018/09/12 21:50:09</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.7.8"/>
+              <user_id>61014</user_id>
+              <item_id>378301</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>ネオンペン１</name>
+              <created_date>2022/01/02 06:09:53</created_date>
+              <modified_date>2022/01/02 06:09:53</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="1773b18923-1349-0dba-af0f-47d79a9469"/>
+              </thumbnail>
+              <data>
+                <fileref idref="fd5c18c5c7-1f45-53b0-83dd-ce50000686"/>
+              </data>
+              <icedata>
+                <fileref idref="5af9512a7f-c147-2c85-5453-73a912c275"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2a80ff32bc-114f-318f-03cc-ab4c44e0ee" ver="20180912215009">
+          <ccf_registed_at>2018/09/12 21:50:09</ccf_registed_at>
+          <tool company="celsys" name="ice" version="1.7.8"/>
+          <user_id>61014</user_id>
+          <group_id>378300</group_id>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="594690839b-074a-ba9f-781f-a9c447781b" ver="20180912215009">
+              <ccf_registed_at>2018/09/12 21:50:09</ccf_registed_at>
+              <tool company="celsys" name="paint" version="1.7.8"/>
+              <user_id>61014</user_id>
+              <item_id>378302</item_id>
+              <type ver="1.0.1">brush</type>
+              <name>ネオンペン２</name>
+              <created_date>2022/01/02 06:09:53</created_date>
+              <modified_date>2022/01/02 06:09:53</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="4a5da81fc1-d842-bf9a-896e-079bfa78f9"/>
+              </thumbnail>
+              <data>
+                <fileref idref="15643f0d7a-be49-c0a0-6dbc-7553bbaa4c"/>
+              </data>
+              <icedata>
+                <fileref idref="6dc53579ff-b94d-7184-63b1-844ad7b9a3"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="15643f0d7a-be49-c0a0-6dbc-7553bbaa4c" mime="application/octet-stream">
+      <path>594690839b-074a-ba9f-781f-a9c447781b/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="1773b18923-1349-0dba-af0f-47d79a9469" mime="image/png">
+      <path>9b1d5af65a-f440-468f-2ccb-946200da9b/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="4a5da81fc1-d842-bf9a-896e-079bfa78f9" mime="image/png">
+      <path>594690839b-074a-ba9f-781f-a9c447781b/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="5af9512a7f-c147-2c85-5453-73a912c275" mime="text/xml">
+      <path>9b1d5af65a-f440-468f-2ccb-946200da9b/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="61b7669b73-a240-6482-11b2-151e57cd3b" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+    <file document="false" encrypt="false" id="6dc53579ff-b94d-7184-63b1-844ad7b9a3" mime="text/xml">
+      <path>594690839b-074a-ba9f-781f-a9c447781b/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="bec8a62fb8-894e-e8ae-2516-84ec6b6a4f" mime="image/png">
+      <path>thumbnail/catalogThumb.png</path>
+    </file>
+    <file document="false" encrypt="false" id="c6e91e5fb5-eb49-6cbb-1bab-3eb2bc8fe7" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="fd5c18c5c7-1f45-53b0-83dd-ce50000686" mime="application/octet-stream">
+      <path>9b1d5af65a-f440-468f-2ccb-946200da9b/data/material_0.tool</path>
+    </file>
+  </files>
+
+</archive>

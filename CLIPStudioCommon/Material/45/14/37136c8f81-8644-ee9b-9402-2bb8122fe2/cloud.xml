@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>鉛筆ブラシ先端2</name>
+
+  <cloudcontentid>215474187</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>37136c8f81-8644-ee9b-9402-2bb8122fe2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>45/14</subpath>
+
+  <basePath></basePath>
+
+  <size>83729</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-06-22 13:18:12</createdat>
+
+  <updatedat>2022-06-22 13:18:25</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

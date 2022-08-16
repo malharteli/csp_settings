@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="e02094346b-0b48-d387-517c-a0d506c281" ver="20161206031133">
+    <ccf_registed_at>2016/12/06 03:11:33</ccf_registed_at>
+    <content_id>1688111</content_id>
+    <origin_content_id>1688111</origin_content_id>
+    <url>https://assets.clip-studio.com</url>
+    <type>material</type>
+    <user_id>1152220</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.6.3"/>
+    <name>ガサカサ線画ペン</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="069bdadf20-384f-1083-d32f-27239971ce" ver="20161206031133">
+        <ccf_registed_at>2016/12/06 03:11:33</ccf_registed_at>
+        <tool company="celsys" name="paint" version="1.6.3"/>
+        <user_id>1152220</user_id>
+        <group_id>184919</group_id>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4ac98cd4d4-4240-36a6-a35a-b76bb01f63" ver="20161206031133">
+            <ccf_registed_at>2016/12/06 03:11:33</ccf_registed_at>
+            <tool company="celsys" name="paint" version="1.6.3"/>
+            <user_id>1152220</user_id>
+            <item_id>184920</item_id>
+            <type ver="1.0.1">brush</type>
+            <name>ガサ伽サ線画ペン</name>
+            <created_date>2021/12/30 00:23:11</created_date>
+            <modified_date>2022/04/30 01:06:27</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="dddc42ade7-e24c-9d92-6efa-ffdf2751c8"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9bca80b52c-d24b-6bb9-d059-b29da202e9"/>
+            </data>
+            <icedata>
+              <fileref idref="356f4ddbe4-bc42-30af-bbda-f2732a187c"/>
+            </icedata>
+            <description>
+              <fileref idref="eafc1fee9d-0e4e-e8a9-b83f-e2df898ec3"/>
+              <fileref idref="eafc1fee9d-0e4e-e8a9-b83f-e2df898ec3"/>
+              <fileref idref="eafc1fee9d-0e4e-e8a9-b83f-e2df898ec3"/>
+            </description>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="356f4ddbe4-bc42-30af-bbda-f2732a187c" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="9bca80b52c-d24b-6bb9-d059-b29da202e9" mime="application/octet-stream">
+      <path>data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="" id="dddc42ade7-e24c-9d92-6efa-ffdf2751c8" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="" id="eafc1fee9d-0e4e-e8a9-b83f-e2df898ec3" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+  </files>
+
+</archive>

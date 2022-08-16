@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="705d71d174-c54d-8093-275a-f42a8fc940">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>Roulette_Lucille_ElesaHaremGirl</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="112094ca00-0440-038b-bb5b-849f07d768">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5adab93eba-0345-a78b-bb05-30963153f9">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_Lucille_ElesaHaremGirl</name>
+            <created_date>2021/12/25 04:54:41</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="d68374f5ca-6647-e3ac-f47e-59228fca47"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a5d99ec5d2-7241-c9be-b2c1-a0c004b409"/>
+            </data>
+            <icedata>
+              <fileref idref="d2782bb999-5048-41a1-a37e-5f3cc9d4a1"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="a5d99ec5d2-7241-c9be-b2c1-a0c004b409" mime="application/octet-stream">
+      <path>Roulette_Lucille_ElesaHaremGirl.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="d2782bb999-5048-41a1-a37e-5f3cc9d4a1" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="d68374f5ca-6647-e3ac-f47e-59228fca47" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

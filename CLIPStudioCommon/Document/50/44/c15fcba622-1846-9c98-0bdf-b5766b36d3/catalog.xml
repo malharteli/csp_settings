@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="c15fcba622-1846-9c98-0bdf-b5766b36d3">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>Roulette_Lucille_CaitlinBun</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="344a5bca3b-3b40-048d-e700-2ef1a37794">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ba7baa10aa-934e-b697-99e4-b54e2b7077">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_Lucille_CaitlinBun</name>
+            <created_date>2022/04/11 04:07:00</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="90d96cf108-764d-46b2-a9b2-3d5b557563"/>
+            </thumbnail>
+            <data>
+              <fileref idref="094bbb91ad-1a46-f794-2931-a0b69a4ea6"/>
+            </data>
+            <icedata>
+              <fileref idref="1c02892610-3a4c-b7b5-ae7e-8bb1fef155"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="094bbb91ad-1a46-f794-2931-a0b69a4ea6" mime="application/octet-stream">
+      <path>Roulette_Lucille_CaitlinBun.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="1c02892610-3a4c-b7b5-ae7e-8bb1fef155" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="90d96cf108-764d-46b2-a9b2-3d5b557563" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

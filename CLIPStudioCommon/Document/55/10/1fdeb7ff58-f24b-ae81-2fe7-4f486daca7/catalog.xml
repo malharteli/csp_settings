@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="1fdeb7ff58-f24b-ae81-2fe7-4f486daca7">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>Courier_ComicTests</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f79ba87e4d-ae4b-6cb7-eaec-56fe82d3e1">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="72d40bd043-6548-20ad-3b50-c7e37221e8">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>Courier_ComicTests</name>
+            <created_date>2021/12/23 06:23:29</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="dba85c9945-b745-e3bd-2acc-455f550332"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9f01bd6718-2c43-be85-a981-65f3a5c097"/>
+            </data>
+            <icedata>
+              <fileref idref="23b30936b2-6c4b-afa5-0d60-ebc66eef82"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="23b30936b2-6c4b-afa5-0d60-ebc66eef82" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="9f01bd6718-2c43-be85-a981-65f3a5c097" mime="application/octet-stream">
+      <path>Courier_ComicTests.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="dba85c9945-b745-e3bd-2acc-455f550332" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

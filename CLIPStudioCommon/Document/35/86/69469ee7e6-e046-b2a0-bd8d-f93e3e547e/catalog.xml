@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="69469ee7e6-e046-b2a0-bd8d-f93e3e547e">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.4"/>
+    <name>SinglePointPerspective</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="960b5c3b23-7945-e68c-447b-91e8321bea">
+        <tool company="celsys" name="paint" version="1.11.4"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fc7c958504-6e47-77ba-9425-7cbef24e9a">
+            <tool company="celsys" name="paint" version="1.11.4"/>
+            <type ver="">clipstudioformat</type>
+            <name>SinglePointPerspective</name>
+            <created_date>2021/12/16 05:47:24</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="aff288d24d-d241-74bc-c375-048ef16e3a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="bddeae54ea-1a40-06b9-788f-67b2636b1a"/>
+            </data>
+            <icedata>
+              <fileref idref="db7eebec19-bf40-c694-7d2d-a9cd81712c"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="aff288d24d-d241-74bc-c375-048ef16e3a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="bddeae54ea-1a40-06b9-788f-67b2636b1a" mime="application/octet-stream">
+      <path>SinglePointPerspective.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="db7eebec19-bf40-c694-7d2d-a9cd81712c" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

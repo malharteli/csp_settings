@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="e6a3150b6e-8849-ddb4-72d9-254711980d">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.0"/>
+    <name>Artefact_ComicIdeas</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="02a40b8423-c94b-2c95-89ed-ccebb2749a">
+        <tool company="celsys" name="paint" version="1.12.0"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a22d5dbcf7-bd47-a194-7080-d3709548fb">
+            <tool company="celsys" name="paint" version="1.12.0"/>
+            <type ver="">clipstudioformat</type>
+            <name>Artefact_ComicIdeas</name>
+            <created_date>2022/05/31 04:02:22</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="14aa57210e-d243-648e-0443-1a348cad2c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="37e95ca8a2-1545-e59f-cf79-70ef84205c"/>
+            </data>
+            <icedata>
+              <fileref idref="1be80f76c8-d441-6496-cf60-1a8de52be6"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="14aa57210e-d243-648e-0443-1a348cad2c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="1be80f76c8-d441-6496-cf60-1a8de52be6" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="37e95ca8a2-1545-e59f-cf79-70ef84205c" mime="application/octet-stream">
+      <path>Artefact_ComicIdeas.clip</path>
+    </file>
+  </files>
+
+</archive>

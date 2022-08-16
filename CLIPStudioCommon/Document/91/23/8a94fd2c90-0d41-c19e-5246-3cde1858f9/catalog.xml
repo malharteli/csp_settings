@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8a94fd2c90-0d41-c19e-5246-3cde1858f9">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>AbhiClass_15052022</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b0e3e5b0cf-c242-c9ae-8837-4d4a0343e8">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fe67dd8fa3-5b46-328b-4323-cac873abec">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>AbhiClass_15052022</name>
+            <created_date>2022/05/16 04:31:57</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1c0275ff47-cf4f-8185-eada-e7162b152a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f2a4a6907f-2745-6983-f17f-6df28a80b9"/>
+            </data>
+            <icedata>
+              <fileref idref="3ce7bf165f-0a4f-7a96-0523-801672866e"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1c0275ff47-cf4f-8185-eada-e7162b152a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="3ce7bf165f-0a4f-7a96-0523-801672866e" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="f2a4a6907f-2745-6983-f17f-6df28a80b9" mime="application/octet-stream">
+      <path>AbhiClass_15052022.clip</path>
+    </file>
+  </files>
+
+</archive>

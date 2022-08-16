@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="472bee9a62-0a45-ec91-4055-cf94aa00bb">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.4"/>
+    <name>Roulette_Tikini_CorruptedIdol_Tsubasa</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="056c3f7dc9-1d43-4f8a-221d-c04a3975cc">
+        <tool company="celsys" name="paint" version="1.11.4"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6ef4278ddc-c741-1389-ae4b-17fe4a7d00">
+            <tool company="celsys" name="paint" version="1.11.4"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_Tikini_CorruptedIdol_Tsubasa</name>
+            <created_date>2021/12/12 06:17:06</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1569b550d8-064f-d4b6-15fc-01ed6726ca"/>
+            </thumbnail>
+            <data>
+              <fileref idref="2d0a6f504c-1d4d-6488-5f3a-ca13546390"/>
+            </data>
+            <icedata>
+              <fileref idref="c453ee102f-9342-b888-bc37-e5607dce7a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1569b550d8-064f-d4b6-15fc-01ed6726ca" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="2d0a6f504c-1d4d-6488-5f3a-ca13546390" mime="application/octet-stream">
+      <path>Roulette_Tikini_CorruptedIdol_Tsubasa.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="c453ee102f-9342-b888-bc37-e5607dce7a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

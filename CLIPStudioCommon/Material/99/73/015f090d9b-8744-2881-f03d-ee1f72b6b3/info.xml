@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="015f090d9b-8744-2881-f03d-ee1f72b6b3">
+    <datalist key="lead">
+      <data>Hologram particle brushes
+
+キラキラなホログラムのフレークをイメージした、紙吹雪のような多角形の散布ブラシです。
+色固定の2種(Aurora/Mermaid)と、色変更が可能な1種(2tone)。計3種のセットです。</data>
+    </datalist>
+    <datalist key="tag">
+      <data>ホログラム</data>
+      <data>キラキラ</data>
+      <data>光</data>
+      <data>効果</data>
+      <data>パーティクル</data>
+      <data>紙吹雪</data>
+      <data>カラフル</data>
+      <data>ふりかけ</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+  <info uuid="4e9de6cc07-b144-9c80-1255-ebed7a9d38">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="631f5e7e03-5f42-22b4-ef68-c85955838f">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="8d305dd46d-a34e-9c83-9346-712dcd7bf1">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+</infolist>

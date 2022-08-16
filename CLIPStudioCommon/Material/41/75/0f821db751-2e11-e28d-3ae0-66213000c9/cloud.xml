@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Sampled Brush 1</name>
+
+  <cloudcontentid>215474703</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0f821db751-2e11-e28d-3ae0-66213000c9</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>41/75</subpath>
+
+  <basePath></basePath>
+
+  <size>152571</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-06-22 13:21:11</createdat>
+
+  <updatedat>2022-06-22 13:21:30</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

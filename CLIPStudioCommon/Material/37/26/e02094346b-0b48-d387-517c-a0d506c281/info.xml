@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="4ac98cd4d4-4240-36a6-a35a-b76bb01f63">
+    <datalist key="lead">
+      <data>アナログ感のあるカスレを目指して作成。墨筆で引いた線をスキャンしました。
+
+※（2018/03/26追記）アプデ後に発生した本ブラシのバグ対処法を追加しました（気付かず記載が遅れましたことお詫び申し上げます）。
+
+※（2017/03/13追記）紛らわしさ回避のためツール名を一部変更しました。
+
+※（2017/01/10追記）本ツールと相性の良い他作者様のツールを作例とともにご紹介させて頂きました。
+
+※アナログ絵→デジタル移植後の修正・加筆用としても使えるよtipを下部に追加しました。タッチにもよってしまいますが何方かのお役に立てれば。</data>
+    </datalist>
+    <datalist key="tag">
+      <data>ペン</data>
+      <data>ブラシ</data>
+      <data>アナログ</data>
+      <data>かすれ</data>
+      <data>墨</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="60cf4e39-9878-42a5-820e-242c3abdb16d">
+    <datalist key="lead">
+      <data>3dの豪邸です。橋を非表示に出来ます。</data>
+    </datalist>
+    <datalist key="tag">
+      <data>3d</data>
+      <data>橋</data>
+      <data>豪邸</data>
+      <data>窓</data>
+      <data>屋根</data>
+      <data>建築</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data>7/22 橋を非表示に出来るようにしました。面の反転、窓の調節、位置の調節をしました。</data>
+    </datalist>
+  </info>
+
+</infolist>

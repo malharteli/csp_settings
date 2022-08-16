@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="3fa8b68ed2-6241-0dba-cbce-4a08315772">
+    <datalist key="lead">
+      <data>キラキラブラシです。
+キラ03は01と02を組み合わせて散布設定にしています。
+</data>
+    </datalist>
+    <datalist key="tag">
+      <data>キラキラ</data>
+      <data>光</data>
+      <data>星</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+  <info uuid="bb719f8958-364c-aea0-8c83-44d1a85b43">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="ce26e2f903-dd42-e082-ac8a-ec486dcd9d">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+  <info uuid="5e8abbcd57-fd44-e78a-70a3-3212a322c3">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+    <datalist key="tag"/>
+  </info>
+
+</infolist>

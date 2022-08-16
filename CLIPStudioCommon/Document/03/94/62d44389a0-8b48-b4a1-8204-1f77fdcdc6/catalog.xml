@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="62d44389a0-8b48-b4a1-8204-1f77fdcdc6">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.14"/>
+    <name>Ducardium_CharacterPortraits</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="553466b721-7341-c78a-e38a-10fdadac59">
+        <tool company="celsys" name="paint" version="1.11.14"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8b51d457ad-934a-2aaa-f1e8-520ecb9df4">
+            <tool company="celsys" name="paint" version="1.11.14"/>
+            <type ver="">clipstudioformat</type>
+            <name>Ducardium_CharacterPortraits</name>
+            <created_date>2022/04/24 06:32:16</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="0964a51272-be4b-a58e-293c-8bced80444"/>
+            </thumbnail>
+            <data>
+              <fileref idref="68a0d3026b-1e40-5b86-b2e6-f8fa1c6fb8"/>
+            </data>
+            <icedata>
+              <fileref idref="7b9949ed2b-9542-dfaa-bb18-f9355a1aa2"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0964a51272-be4b-a58e-293c-8bced80444" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="68a0d3026b-1e40-5b86-b2e6-f8fa1c6fb8" mime="application/octet-stream">
+      <path>Ducardium_CharacterPortraits.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="7b9949ed2b-9542-dfaa-bb18-f9355a1aa2" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

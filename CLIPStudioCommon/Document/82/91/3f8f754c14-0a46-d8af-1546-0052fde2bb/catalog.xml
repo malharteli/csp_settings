@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="3f8f754c14-0a46-d8af-1546-0052fde2bb">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.9"/>
+    <name>OrichalcumDoodle</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a527e801ad-dd45-cd98-8a62-e705c5d825">
+        <tool company="celsys" name="paint" version="1.11.9"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8a0e9d9dba-344d-8e99-56d5-1cd6dea593">
+            <tool company="celsys" name="paint" version="1.11.9"/>
+            <type ver="">paintwork2</type>
+            <name>OrichalcumDoodle</name>
+            <created_date>2022/02/14 03:09:43</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b494279a21-2f4b-fb9e-a489-2e0466b98a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6223a6777f-904e-13a9-8599-dd0dfbbb98"/>
+              <fileref idref="e48aac9a90-8346-1f92-3c59-550082b2df"/>
+              <fileref idref="bdfd45d4fe-064c-f998-80ed-5711787db6"/>
+              <fileref idref="49cce66d28-ae45-b285-c728-f5a7c71405"/>
+            </data>
+            <icedata>
+              <fileref idref="675e5a726d-5745-468c-3534-95664d8c55"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="49cce66d28-ae45-b285-c728-f5a7c71405" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="6223a6777f-904e-13a9-8599-dd0dfbbb98" mime="application/octet-stream">
+      <path>OrichalcumDoodle.cmc</path>
+    </file>
+    <file document="false" encrypt="false" id="675e5a726d-5745-468c-3534-95664d8c55" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="b494279a21-2f4b-fb9e-a489-2e0466b98a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="bdfd45d4fe-064c-f998-80ed-5711787db6" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e48aac9a90-8346-1f92-3c59-550082b2df" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+  </files>
+
+</archive>

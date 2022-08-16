@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>Pattern 3</name>
+
+  <cloudcontentid>215475449</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6bfedc3fff-9611-dab1-45ff-ee4032127e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>02/82</subpath>
+
+  <basePath></basePath>
+
+  <size>268304</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-06-22 13:25:48</createdat>
+
+  <updatedat>2022-06-22 13:26:00</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

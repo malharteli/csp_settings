@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="aae40aed4a-2c40-9581-42a9-8cd89e0564">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.3"/>
+    <name>Comm_Alex_BunWendy</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1d273cb487-4e4e-6a82-dadd-9d496321bc">
+        <tool company="celsys" name="paint" version="1.12.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="89f6f00b7a-d449-a5aa-0410-3537f4d5e2">
+            <tool company="celsys" name="paint" version="1.12.3"/>
+            <type ver="">clipstudioformat</type>
+            <name>Comm_Alex_BunWendy</name>
+            <created_date>2022/07/05 05:24:39</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1493c69bf1-ea43-39ad-d3bf-5415f32795"/>
+            </thumbnail>
+            <data>
+              <fileref idref="dfdb1bcd4c-c946-8aa1-950d-22fda6eb37"/>
+            </data>
+            <icedata>
+              <fileref idref="98f9803ae4-8a4d-789e-31e0-b80f9d0567"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1493c69bf1-ea43-39ad-d3bf-5415f32795" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="98f9803ae4-8a4d-789e-31e0-b80f9d0567" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="dfdb1bcd4c-c946-8aa1-950d-22fda6eb37" mime="application/octet-stream">
+      <path>Comm_Alex_BunWendy.clip</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>kira002</name>
+
+  <cloudcontentid>215474029</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>992af267b4-bc4a-2dbe-31ed-9b1e556d06</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>03/42</subpath>
+
+  <basePath></basePath>
+
+  <size>84627</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-06-22 13:17:08</createdat>
+
+  <updatedat>2022-06-22 13:17:24</updatedat>
+
+  <dataVersion>2.0.0</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

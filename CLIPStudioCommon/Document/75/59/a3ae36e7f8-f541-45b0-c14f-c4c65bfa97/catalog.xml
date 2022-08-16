@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a3ae36e7f8-f541-45b0-c14f-c4c65bfa97">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.8"/>
+    <name>Roulette_Chaosblade_ChaosHoney(CutieHoney)</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ae72fa0462-854d-8d8c-9659-f08750205f">
+        <tool company="celsys" name="paint" version="1.11.8"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="11d88aef05-7d46-3a99-1282-d8852aef30">
+            <tool company="celsys" name="paint" version="1.11.8"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_Chaosblade_ChaosHoney(CutieHoney)</name>
+            <created_date>2022/01/23 02:54:04</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="89ffdf9493-8a4a-3a8b-4035-86bf9aa412"/>
+            </thumbnail>
+            <data>
+              <fileref idref="943e1774e0-1c4e-cbb7-aa38-f7888d0001"/>
+            </data>
+            <icedata>
+              <fileref idref="b7800db069-b140-0f9d-4089-121b4931e6"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="89ffdf9493-8a4a-3a8b-4035-86bf9aa412" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="943e1774e0-1c4e-cbb7-aa38-f7888d0001" mime="application/octet-stream">
+      <path>Roulette_Chaosblade_ChaosHoney(CutieHoney).clip</path>
+    </file>
+    <file document="false" encrypt="false" id="b7800db069-b140-0f9d-4089-121b4931e6" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

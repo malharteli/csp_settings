@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="22eb7baf16-c346-9eb2-c10c-6989a9b7e1">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.1"/>
+    <name>Twinwolf_BunnyLine</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b72ef4829a-d140-dd91-6eb6-b3fc67342a">
+        <tool company="celsys" name="paint" version="1.12.1"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a69b1f5ac7-5e42-1dbc-c40a-c93670e403">
+            <tool company="celsys" name="paint" version="1.12.1"/>
+            <type ver="">clipstudioformat</type>
+            <name>Twinwolf_BunnyLine</name>
+            <created_date>2022/06/13 01:33:40</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="e9f659d71e-b545-bf85-ee52-f251bb2f8e"/>
+            </thumbnail>
+            <data>
+              <fileref idref="0d9e924340-934d-0d87-a942-2b99253bb3"/>
+            </data>
+            <icedata>
+              <fileref idref="d7d49fb288-4043-32ac-d658-1086b8b85e"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="0d9e924340-934d-0d87-a942-2b99253bb3" mime="application/octet-stream">
+      <path>Twinwolf_BunnyLine.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="d7d49fb288-4043-32ac-d658-1086b8b85e" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="e9f659d71e-b545-bf85-ee52-f251bb2f8e" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

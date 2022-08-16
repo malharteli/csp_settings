@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="e246c1805e-3145-f78a-d255-27df7e6fbd">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.8"/>
+    <name>Roulette_Dakra_KosMosBun</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="14a4ef741f-3446-0c88-3bba-a8e6a99935">
+        <tool company="celsys" name="paint" version="1.11.8"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b2428f0769-064b-0c95-73b1-a4f156c422">
+            <tool company="celsys" name="paint" version="1.11.8"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_Dakra_KosMosBun</name>
+            <created_date>2022/01/16 05:04:18</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="cbf712a4b4-e64d-9a98-2488-3e8eac34cd"/>
+            </thumbnail>
+            <data>
+              <fileref idref="8bb3eaaa31-2b4f-4fb2-7157-81d66137a9"/>
+            </data>
+            <icedata>
+              <fileref idref="e8e29857f9-d744-3d81-c71b-d3ee764a5c"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="8bb3eaaa31-2b4f-4fb2-7157-81d66137a9" mime="application/octet-stream">
+      <path>Roulette_Dakra_KosMosBun.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="cbf712a4b4-e64d-9a98-2488-3e8eac34cd" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="e8e29857f9-d744-3d81-c71b-d3ee764a5c" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>立方体</name>
+
+  <cloudcontentid>3058</cloudcontentid>
+
+  <revision>2</revision>
+
+  <key>a5f4e8403b-ce47-0eb2-9cfc-5937d24ac1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>3dprimitive</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint111</subpath>
+
+  <basePath>installation_material/58/30/3058</basePath>
+
+  <size>97522</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2021-12-14 14:39:58</createdat>
+
+  <updatedat>2021-12-15 01:52:13</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

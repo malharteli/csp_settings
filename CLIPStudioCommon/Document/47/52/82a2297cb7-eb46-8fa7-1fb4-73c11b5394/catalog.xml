@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="82a2297cb7-eb46-8fa7-1fb4-73c11b5394">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.8"/>
+    <name>Roulette_DragonMastrAlex_SakuragawCureClamingo</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="921e76621e-4146-10b9-417d-914eb955bb">
+        <tool company="celsys" name="paint" version="1.11.8"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b688ef1312-664f-fb8a-b037-755a4618de">
+            <tool company="celsys" name="paint" version="1.11.8"/>
+            <type ver="">clipstudioformat</type>
+            <name>Roulette_DragonMastrAlex_SakuragawCureClamingo</name>
+            <created_date>2022/01/30 06:05:47</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="a1a5bb69a4-b34b-0f86-3a16-ee3c65ebca"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e32a3f52ad-f34c-e480-ebf9-1a5978ef61"/>
+            </data>
+            <icedata>
+              <fileref idref="27e55b4365-a146-43a7-6aaa-a1545c8c17"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="27e55b4365-a146-43a7-6aaa-a1545c8c17" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="a1a5bb69a4-b34b-0f86-3a16-ee3c65ebca" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="e32a3f52ad-f34c-e480-ebf9-1a5978ef61" mime="application/octet-stream">
+      <path>Roulette_DragonMastrAlex_SakuragawCureClamingo.clip</path>
+    </file>
+  </files>
+
+</archive>

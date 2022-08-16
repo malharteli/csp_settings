@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="22519cfb84-594b-91a8-3f97-9c233b061d">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.1"/>
+    <name>PrecureJokes</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8bb4ce4ed5-6b46-c19a-ea81-0c4ccaeccc">
+        <tool company="celsys" name="paint" version="1.12.1"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0141b1cbd6-6140-c0b0-fd9e-d409e4f49b">
+            <tool company="celsys" name="paint" version="1.12.1"/>
+            <type ver="">clipstudioformat</type>
+            <name>PrecureJokes</name>
+            <created_date>2022/06/14 04:51:07</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1a5fc484dd-2a45-d68f-a636-920985bca3"/>
+            </thumbnail>
+            <data>
+              <fileref idref="fc4ed603a2-964f-088b-be82-da43ac377a"/>
+            </data>
+            <icedata>
+              <fileref idref="92d9aae9c9-f949-ee9a-0033-8d8c6ee70f"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1a5fc484dd-2a45-d68f-a636-920985bca3" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="92d9aae9c9-f949-ee9a-0033-8d8c6ee70f" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="fc4ed603a2-964f-088b-be82-da43ac377a" mime="application/octet-stream">
+      <path>PrecureJokes.clip</path>
+    </file>
+  </files>
+
+</archive>

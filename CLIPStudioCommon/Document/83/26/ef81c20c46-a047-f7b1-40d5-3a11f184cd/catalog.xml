@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ef81c20c46-a047-f7b1-40d5-3a11f184cd">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.4"/>
+    <name>FFV_DOOTDOOT</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2b5f749ca1-e545-56b2-59fb-35e7428cfc">
+        <tool company="celsys" name="paint" version="1.11.4"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5d2741f1a0-6f41-a494-df6d-ac4eb3019f">
+            <tool company="celsys" name="paint" version="1.11.4"/>
+            <type ver="">clipstudioformat</type>
+            <name>FFV_DOOTDOOT</name>
+            <created_date>2021/12/12 06:39:41</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="cb5d92db11-4544-1584-0350-a6523957a6"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9c5979e716-ab4a-ac91-5e6a-ecf54053ca"/>
+            </data>
+            <icedata>
+              <fileref idref="981618861f-e24b-e48d-998c-0dd9d8ebab"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="981618861f-e24b-e48d-998c-0dd9d8ebab" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="9c5979e716-ab4a-ac91-5e6a-ecf54053ca" mime="application/octet-stream">
+      <path>FFV_DOOTDOOT.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="cb5d92db11-4544-1584-0350-a6523957a6" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

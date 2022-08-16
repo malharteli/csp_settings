@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="4bb90f2a00-dd43-eabc-9668-1876865d23">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.4"/>
+    <name>RamenAnimatic</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5d8a0c6391-e146-4aaf-8d0a-c277552898">
+        <tool company="celsys" name="paint" version="1.11.4"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c1c24fb0e4-db48-6f84-2f79-1010bdf52d">
+            <tool company="celsys" name="paint" version="1.11.4"/>
+            <type ver="">clipstudioformat</type>
+            <name>RamenAnimatic</name>
+            <created_date>2021/12/16 05:47:33</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="858d0832da-5a44-fda1-6533-a22052aeef"/>
+            </thumbnail>
+            <data>
+              <fileref idref="ba57a521ad-f743-5fa5-c9e5-ec7aa81691"/>
+            </data>
+            <icedata>
+              <fileref idref="a678158bf4-0842-5f8c-dd34-0309a21fe1"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="858d0832da-5a44-fda1-6533-a22052aeef" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="a678158bf4-0842-5f8c-dd34-0309a21fe1" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="ba57a521ad-f743-5fa5-c9e5-ec7aa81691" mime="application/octet-stream">
+      <path>RamenAnimatic.clip</path>
+    </file>
+  </files>
+
+</archive>

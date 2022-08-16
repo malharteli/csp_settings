@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>square</name>
+
+  <cloudcontentid>215475592</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>775f17abf8-5111-e197-979a-2ea5d058cb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>24/00</subpath>
+
+  <basePath></basePath>
+
+  <size>126935</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-06-22 13:26:45</createdat>
+
+  <updatedat>2022-06-22 13:26:55</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

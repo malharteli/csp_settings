@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>角柱</name>
+
+  <cloudcontentid>3057</cloudcontentid>
+
+  <revision>2</revision>
+
+  <key>05d6cf1c1c-5344-96a0-01f4-1bc3b6c0bb</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>3dprimitive</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint111</subpath>
+
+  <basePath>installation_material/57/30/3057</basePath>
+
+  <size>93341</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2021-12-14 14:38:25</createdat>
+
+  <updatedat>2021-12-15 01:52:12</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

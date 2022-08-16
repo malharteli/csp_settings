@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="06da585a-f941-4e51-925f-10b8000b811e">
+    <datalist key="lead">
+      <data>3dの噴水です。※一つのオブジェクトに結合しています。水は含まれません。</data>
+    </datalist>
+    <datalist key="tag">
+      <data>3d</data>
+      <data>噴水</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

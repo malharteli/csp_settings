@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="d299ddf885-2c44-51b8-e696-4708302c2f">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.3"/>
+    <name>0714_Critique_Beige</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="60829ba519-5e42-0f8f-88c0-22379dbc3d">
+        <tool company="celsys" name="paint" version="1.12.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8dc34d7b97-464c-84a1-78bf-b644b57868">
+            <tool company="celsys" name="paint" version="1.12.3"/>
+            <type ver="">clipstudioformat</type>
+            <name>0714_Critique_Beige</name>
+            <created_date>2022/07/15 06:06:34</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="4b5faf166f-6648-d28a-8724-3c4de73652"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e6f3b00957-0947-f5ab-5174-d1d3d2ec01"/>
+            </data>
+            <icedata>
+              <fileref idref="969d9ec7b2-5f47-d499-10cc-bf2762683c"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="4b5faf166f-6648-d28a-8724-3c4de73652" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="969d9ec7b2-5f47-d499-10cc-bf2762683c" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="e6f3b00957-0947-f5ab-5174-d1d3d2ec01" mime="application/octet-stream">
+      <path>0714_Critique_Beige.clip</path>
+    </file>
+  </files>
+
+</archive>

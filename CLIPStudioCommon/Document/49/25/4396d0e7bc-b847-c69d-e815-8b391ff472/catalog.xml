@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="4396d0e7bc-b847-c69d-e815-8b391ff472">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.11.4"/>
+    <name>Drox_Crhstmas</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d5624fc522-cb4c-bebb-82b1-52312e2163">
+        <tool company="celsys" name="paint" version="1.11.4"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a616832d94-bd48-4695-79b7-05c30f38a5">
+            <tool company="celsys" name="paint" version="1.11.4"/>
+            <type ver="">clipstudioformat</type>
+            <name>Drox_Crhstmas</name>
+            <created_date>2021/12/10 22:53:55</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="618161e0a9-ba40-cea4-4380-a7a4f81173"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4f22a83534-a143-3fbf-693a-3d7c53ec62"/>
+            </data>
+            <icedata>
+              <fileref idref="4422814453-c046-5fa6-eb66-ed5921419a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="4422814453-c046-5fa6-eb66-ed5921419a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="4f22a83534-a143-3fbf-693a-3d7c53ec62" mime="application/octet-stream">
+      <path>Drox_Crhstmas.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="618161e0a9-ba40-cea4-4380-a7a4f81173" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

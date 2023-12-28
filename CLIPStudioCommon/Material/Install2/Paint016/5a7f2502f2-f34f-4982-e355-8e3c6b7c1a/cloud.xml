@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>リアル-ソフト</name>
+
+  <cloudcontentid>3066</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5a7f2502f2-f34f-4982-e355-8e3c6b7c1a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>3dhead</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint016</subpath>
+
+  <basePath>installation_material/66/30/3066</basePath>
+
+  <size>105115</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2023-02-17 12:10:31</createdat>
+
+  <updatedat>2023-02-17 12:10:34</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

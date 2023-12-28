@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Cork</name>
+
+  <cloudcontentid>229526848</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b646339d04-3344-5b81-a36d-b9ad56ed0c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>86/25</subpath>
+
+  <basePath></basePath>
+
+  <size>833238</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:39:45</createdat>
+
+  <updatedat>2022-09-01 12:39:55</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

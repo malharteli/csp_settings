@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>夕暮れ</name>
+
+  <cloudcontentid>3096</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>30cfccd779-ee44-4482-9b2a-5d03475a3c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint905</subpath>
+
+  <basePath>installation_material/96/30/3096</basePath>
+
+  <size>9448515</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2023-05-12 12:15:17</createdat>
+
+  <updatedat>2023-05-12 12:15:23</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

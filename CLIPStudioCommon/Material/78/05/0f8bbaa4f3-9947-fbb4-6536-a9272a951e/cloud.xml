@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Fish</name>
+
+  <cloudcontentid>229524734</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0f8bbaa4f3-9947-fbb4-6536-a9272a951e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>78/05</subpath>
+
+  <basePath></basePath>
+
+  <size>159447</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:23:41</createdat>
+
+  <updatedat>2022-09-01 12:23:50</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

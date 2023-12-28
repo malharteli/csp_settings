@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Pencillu</name>
+
+  <cloudcontentid>229527890</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ef91167a47-d04e-2786-7830-c11a9136e8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>49/52</subpath>
+
+  <basePath></basePath>
+
+  <size>3958920</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:48:21</createdat>
+
+  <updatedat>2022-09-01 12:48:32</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

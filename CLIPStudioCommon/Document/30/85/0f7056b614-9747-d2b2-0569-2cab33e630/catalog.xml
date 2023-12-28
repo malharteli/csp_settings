@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="0f7056b614-9747-d2b2-0569-2cab33e630">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.13.2"/>
+    <name>KatDayPic</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d32852f0ea-b54c-078d-a1a9-6949070351">
+        <tool company="celsys" name="paint" version="1.13.2"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="57966823e2-5b49-c89a-8c9d-69599e2ea2">
+            <tool company="celsys" name="paint" version="1.13.2"/>
+            <type ver="">clipstudioformat</type>
+            <name>KatDayPic</name>
+            <created_date>2023/02/23 00:07:50</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3d94890c94-2342-848a-cadf-15bb01166e"/>
+            </thumbnail>
+            <data>
+              <fileref idref="bdcd344c58-6642-eab6-4f93-b0dc44d2ab"/>
+            </data>
+            <icedata>
+              <fileref idref="9bcb6e39e4-b04b-fa9a-9f9d-9274821879"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3d94890c94-2342-848a-cadf-15bb01166e" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="9bcb6e39e4-b04b-fa9a-9f9d-9274821879" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="bdcd344c58-6642-eab6-4f93-b0dc44d2ab" mime="application/octet-stream">
+      <path>KatDayPic.clip</path>
+    </file>
+  </files>
+
+</archive>

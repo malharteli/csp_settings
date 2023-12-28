@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="3a64c7a1ae-5140-b495-863e-270d5779d2">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.3"/>
+    <name>Centaurseer</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="86270e7089-434f-f799-3857-4f683b45ef">
+        <tool company="celsys" name="paint" version="1.12.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0b7c69f9ad-1d40-d385-e494-ca0cf2f394">
+            <tool company="celsys" name="paint" version="1.12.3"/>
+            <type ver="">paintwork2</type>
+            <name>Centaurseer</name>
+            <created_date>2022/09/01 04:44:26</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="5c6d0c9a46-8145-b7a6-5de1-030f735b18"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f46619fbd2-8a4b-0e96-f8cd-e47619d323"/>
+              <fileref idref="6536dfad85-6142-afbe-8c70-b7eba65d50"/>
+              <fileref idref="ce495da7e1-a046-5cb4-1d85-056382d7ea"/>
+              <fileref idref="316e766296-7946-4dac-5a3e-61a4f918bd"/>
+            </data>
+            <icedata>
+              <fileref idref="53edf77510-754f-fb82-e6fa-a985757312"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="316e766296-7946-4dac-5a3e-61a4f918bd" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="53edf77510-754f-fb82-e6fa-a985757312" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="5c6d0c9a46-8145-b7a6-5de1-030f735b18" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="6536dfad85-6142-afbe-8c70-b7eba65d50" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="ce495da7e1-a046-5cb4-1d85-056382d7ea" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="f46619fbd2-8a4b-0e96-f8cd-e47619d323" mime="application/octet-stream">
+      <path>Centaurseer.cmc</path>
+    </file>
+  </files>
+
+</archive>

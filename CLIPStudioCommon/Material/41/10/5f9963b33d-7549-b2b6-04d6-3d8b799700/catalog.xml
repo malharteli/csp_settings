@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5f9963b33d-7549-b2b6-04d6-3d8b799700">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.8.4"/>
+    <name>Layer 2 Copy 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="413fb996be-ce41-2e87-72a4-a3524362c4">
+        <tool company="celsys" name="paint" version="1.8.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="68e6151082-704c-0eab-dd22-7cd1540882">
+            <tool company="celsys" name="paint" version="1.8.4"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Chalk C</name>
+            <created_date>2020/05/31 09:10:25</created_date>
+            <modified_date>2020/05/31 09:10:25</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="6d3cc291cb-4043-8e8a-6d9c-25c01ca720"/>
+            </thumbnail>
+            <data>
+              <fileref idref="2fc16eeb21-0d40-15b0-2f8f-6a2e7c5a46"/>
+            </data>
+            <icedata>
+              <fileref idref="c3bc6824cc-914d-8c83-3418-61ffbf990e"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="2fc16eeb21-0d40-15b0-2f8f-6a2e7c5a46" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="6d3cc291cb-4043-8e8a-6d9c-25c01ca720" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="c3bc6824cc-914d-8c83-3418-61ffbf990e" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

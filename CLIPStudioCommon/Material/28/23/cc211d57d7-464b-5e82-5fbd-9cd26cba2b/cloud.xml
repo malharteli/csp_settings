@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Floppy cube</name>
+
+  <cloudcontentid>229523071</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>cc211d57d7-464b-5e82-5fbd-9cd26cba2b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>28/23</subpath>
+
+  <basePath></basePath>
+
+  <size>168535</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:13:12</createdat>
+
+  <updatedat>2022-09-01 12:13:21</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

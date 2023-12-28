@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="c07f3c442b-0648-b9a1-a0fe-1cf11bd2d1">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.9.11"/>
+    <name>Layer 1 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="baaeb7e670-eb47-19a6-ae68-4fd65929da">
+        <tool company="celsys" name="paint" version="1.9.11"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="0c43b45cd8-704b-f6b0-94dc-8ac1a2f1bc">
+            <tool company="celsys" name="paint" version="1.9.11"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Pencil Hatch</name>
+            <created_date>2020/09/07 12:32:08</created_date>
+            <modified_date>2020/09/07 12:32:25</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="adede9cf3f-294f-4792-d5de-058f38bade"/>
+            </thumbnail>
+            <data>
+              <fileref idref="07a4bf3df4-2348-b488-bbda-92839ab2d1"/>
+            </data>
+            <icedata>
+              <fileref idref="2a1c525ac5-884e-949a-4712-cd54042e2e"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="07a4bf3df4-2348-b488-bbda-92839ab2d1" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="2a1c525ac5-884e-949a-4712-cd54042e2e" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="adede9cf3f-294f-4792-d5de-058f38bade" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

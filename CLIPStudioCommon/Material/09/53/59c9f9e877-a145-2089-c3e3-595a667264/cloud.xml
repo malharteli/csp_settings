@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Crayonu Flat</name>
+
+  <cloudcontentid>229528202</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>59c9f9e877-a145-2089-c3e3-595a667264</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>09/53</subpath>
+
+  <basePath></basePath>
+
+  <size>203864</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:50:50</createdat>
+
+  <updatedat>2022-09-01 12:50:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

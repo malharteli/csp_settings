@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Grunge Stripes</name>
+
+  <cloudcontentid>229525751</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b865f523c3-6b41-a99f-d79a-859508c7f4</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>28/01</subpath>
+
+  <basePath></basePath>
+
+  <size>1033410</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:31:49</createdat>
+
+  <updatedat>2022-09-01 12:31:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="e1adb150c2-8b48-148c-24ef-cadc58c938">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.3"/>
+    <name>BunnyBann</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="237bf5a0fe-6a48-efa0-1567-fc19f774fd">
+        <tool company="celsys" name="paint" version="2.0.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3e2cbc1d92-4847-f09e-5054-0cb7043592">
+            <tool company="celsys" name="paint" version="2.0.3"/>
+            <type ver="">clipstudioformat</type>
+            <name>BunnyBann</name>
+            <created_date>2023/06/28 06:06:19</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="c001ce7a21-4a41-d782-38f5-7d4f09e8f6"/>
+            </thumbnail>
+            <data>
+              <fileref idref="28f97e180e-dc40-539a-d26e-4d717b21a5"/>
+            </data>
+            <icedata>
+              <fileref idref="645b0f6ea3-2c4f-c9bb-105c-6b22afa0c6"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="28f97e180e-dc40-539a-d26e-4d717b21a5" mime="application/octet-stream">
+      <path>BunnyBann.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="645b0f6ea3-2c4f-c9bb-105c-6b22afa0c6" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="c001ce7a21-4a41-d782-38f5-7d4f09e8f6" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

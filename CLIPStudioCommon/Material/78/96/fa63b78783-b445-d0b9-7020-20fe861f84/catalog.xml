@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="fa63b78783-b445-d0b9-7020-20fe861f84">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>Layer 1 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="22550f7fa4-0c44-95b9-ab0d-143ed2e30c">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="59642dec06-8b49-4e99-3133-3fa85467f9">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Rugged</name>
+            <created_date>2021/04/28 09:23:44</created_date>
+            <modified_date>2021/04/28 09:23:59</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1ba020a354-504d-d2b5-1493-a93e8b10ff"/>
+            </thumbnail>
+            <data>
+              <fileref idref="dd9db4cd11-f54a-768b-6b32-4b04d8d6d7"/>
+            </data>
+            <icedata>
+              <fileref idref="3fa7d32af4-e24f-15ac-58f2-b1ca25e07c"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1ba020a354-504d-d2b5-1493-a93e8b10ff" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="3fa7d32af4-e24f-15ac-58f2-b1ca25e07c" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="dd9db4cd11-f54a-768b-6b32-4b04d8d6d7" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

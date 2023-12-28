@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version></version>
+
+  <info uuid="8897e15b06-4c4c-88aa-e0ed-396889e6fc">
+    <datalist key="lead">
+      <data>tired of csp's generate noise only being monochromatic so i made a chromatic one</data>
+    </datalist>
+    <datalist key="tag">
+      <data>noise</data>
+      <data>material</data>
+      <data>texture</data>
+      <data>rainbownoise</data>
+      <data>colornoise</data>
+      <data>colournoise</data>
+      <data>chromaticnoise</data>
+      <data>chromatic</data>
+      <data>tile</data>
+      <data>texturetile</data>
+      <data>seamless</data>
+      <data>seamlesstexture</data>
+      <data>seamlesstile</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

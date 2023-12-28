@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="97231cc444-1b43-27b1-89a2-523cdd3b26">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.6"/>
+    <name>Comic4</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="eaf61eb625-2e42-9eb8-034d-bf0b683a68">
+        <tool company="celsys" name="paint" version="2.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3d968ee7e4-6847-09a3-5811-799f3f9a83">
+            <tool company="celsys" name="paint" version="2.0.6"/>
+            <type ver="">paintwork2</type>
+            <name>Comic4</name>
+            <created_date>2023/08/11 02:36:19</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="17b7ab8c16-fb4e-b5b1-beba-f37f3d7c6d"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f58d2cc3a2-3e4a-7592-ad14-d4769698ee"/>
+              <fileref idref="e5d146bfa3-274c-d98b-2746-c2c75105e4"/>
+              <fileref idref="f407662d2d-7049-9eae-70dd-b9199e22dd"/>
+              <fileref idref="e221ccd664-3c41-9d97-3c77-b2de25450b"/>
+            </data>
+            <icedata>
+              <fileref idref="dc314777e1-c542-8080-5e82-2f3fd5ac2d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="17b7ab8c16-fb4e-b5b1-beba-f37f3d7c6d" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="dc314777e1-c542-8080-5e82-2f3fd5ac2d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="e221ccd664-3c41-9d97-3c77-b2de25450b" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e5d146bfa3-274c-d98b-2746-c2c75105e4" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="f407662d2d-7049-9eae-70dd-b9199e22dd" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="f58d2cc3a2-3e4a-7592-ad14-d4769698ee" mime="application/octet-stream">
+      <path>Comic4.cmc</path>
+    </file>
+  </files>
+
+</archive>

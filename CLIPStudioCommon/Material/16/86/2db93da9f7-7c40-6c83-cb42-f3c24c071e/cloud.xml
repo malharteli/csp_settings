@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Yoji 5</name>
+
+  <cloudcontentid>229523718</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2db93da9f7-7c40-6c83-cb42-f3c24c071e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>16/86</subpath>
+
+  <basePath></basePath>
+
+  <size>152990</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:16:48</createdat>
+
+  <updatedat>2022-09-01 12:16:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

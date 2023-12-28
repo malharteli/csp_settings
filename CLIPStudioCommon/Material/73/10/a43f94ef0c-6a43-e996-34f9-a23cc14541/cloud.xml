@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Stroke B</name>
+
+  <cloudcontentid>229523993</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a43f94ef0c-6a43-e996-34f9-a23cc14541</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>73/10</subpath>
+
+  <basePath></basePath>
+
+  <size>673758</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:18:24</createdat>
+
+  <updatedat>2022-09-01 12:18:35</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

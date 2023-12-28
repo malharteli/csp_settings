@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="cc211d57d7-464b-5e82-5fbd-9cd26cba2b">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>Layer 1 Copy 2 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0c1e23c3a7-5840-f5a9-4a60-990d3814e0">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="38b4dde421-fd47-c3be-8169-b45f97a48d">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Floppy cube</name>
+            <created_date>2022/02/28 19:23:54</created_date>
+            <modified_date>2022/02/28 19:24:16</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f642f33b3f-324b-458f-7fc7-09d19f5a01"/>
+            </thumbnail>
+            <data>
+              <fileref idref="21a1ba7475-0541-62bb-c0c0-1d0732d9c9"/>
+            </data>
+            <icedata>
+              <fileref idref="755233e224-2946-b4a5-11ee-14e0d013f9"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="21a1ba7475-0541-62bb-c0c0-1d0732d9c9" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="755233e224-2946-b4a5-11ee-14e0d013f9" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="f642f33b3f-324b-458f-7fc7-09d19f5a01" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

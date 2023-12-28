@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>リアル-シャープ</name>
+
+  <cloudcontentid>3070</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ae92a54a53-1f4a-dbb6-602b-8a5db217b3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>3dhead</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint016</subpath>
+
+  <basePath>installation_material/70/30/3070</basePath>
+
+  <size>106179</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2023-02-17 12:10:50</createdat>
+
+  <updatedat>2023-02-17 12:10:54</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

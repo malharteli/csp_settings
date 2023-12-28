@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_InkStroke A</name>
+
+  <cloudcontentid>229525907</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>bc683c806a-054c-6baa-8047-25968777dd</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>60/12</subpath>
+
+  <basePath></basePath>
+
+  <size>160523</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:33:06</createdat>
+
+  <updatedat>2022-09-01 12:33:15</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

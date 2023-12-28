@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ステージライト</name>
+
+  <cloudcontentid>3094</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>0303339989-e249-9aa3-c116-58da04ec2f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint905</subpath>
+
+  <basePath>installation_material/94/30/3094</basePath>
+
+  <size>8197961</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2023-05-12 12:15:06</createdat>
+
+  <updatedat>2023-05-12 12:15:11</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

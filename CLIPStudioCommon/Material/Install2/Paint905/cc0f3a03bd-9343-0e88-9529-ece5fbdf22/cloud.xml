@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>イルミネーション</name>
+
+  <cloudcontentid>3110</cloudcontentid>
+
+  <revision>2</revision>
+
+  <key>cc0f3a03bd-9343-0e88-9529-ece5fbdf22</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint905</subpath>
+
+  <basePath>installation_material/10/31/3110</basePath>
+
+  <size>6282277</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2023-05-12 12:16:44</createdat>
+
+  <updatedat>2023-06-19 03:02:15</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

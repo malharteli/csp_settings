@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="75f9b2ec92-2a46-5faf-c31c-b60c4893ed">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.13.1"/>
+    <name>Comm_Baox_Precure</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0e6d49a529-6648-7a91-36e9-f609ff5f9e">
+        <tool company="celsys" name="paint" version="1.13.1"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="936895c246-2742-b8a1-3de5-df3566b5ec">
+            <tool company="celsys" name="paint" version="1.13.1"/>
+            <type ver="">clipstudioformat</type>
+            <name>Comm_Baox_Precure</name>
+            <created_date>2023/01/28 21:02:30</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="db85cb1070-834c-a3b9-47f6-8f3f830549"/>
+            </thumbnail>
+            <data>
+              <fileref idref="46af2dd41f-7f47-bca0-0a39-342a0c0b38"/>
+            </data>
+            <icedata>
+              <fileref idref="8fbaeb6af5-3842-ae99-e6fb-692baf41b9"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="46af2dd41f-7f47-bca0-0a39-342a0c0b38" mime="application/octet-stream">
+      <path>Comm_Baox_Precure.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="8fbaeb6af5-3842-ae99-e6fb-692baf41b9" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="db85cb1070-834c-a3b9-47f6-8f3f830549" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

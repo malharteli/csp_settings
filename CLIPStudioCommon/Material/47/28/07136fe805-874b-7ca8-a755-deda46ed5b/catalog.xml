@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="07136fe805-874b-7ca8-a755-deda46ed5b">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>Layer 2 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="da482d6bec-9249-96ac-6732-d87d52e6cc">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="271bed5fba-d94a-0390-f3c6-fd6027a0af">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Big Splash</name>
+            <created_date>2021/06/06 09:39:34</created_date>
+            <modified_date>2021/06/06 09:39:54</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="8572c8082e-cf48-f8b4-cc3a-5b5bef01c0"/>
+            </thumbnail>
+            <data>
+              <fileref idref="57fae8ce10-5342-f9a8-bd76-aa8378d345"/>
+            </data>
+            <icedata>
+              <fileref idref="81ba50ecb3-7d44-4e8b-b70d-a7dc015a8b"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="57fae8ce10-5342-f9a8-bd76-aa8378d345" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="81ba50ecb3-7d44-4e8b-b70d-a7dc015a8b" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="8572c8082e-cf48-f8b4-cc3a-5b5bef01c0" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

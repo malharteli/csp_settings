@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b600607da2-ae46-03af-a812-287ccf7372">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.6"/>
+    <name>NinthSketchbook</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="f6601038fb-f14f-8ea8-872b-36fa028634">
+        <tool company="celsys" name="paint" version="2.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0661a14e7d-1247-52a6-2c37-d6f13d1ffb">
+            <tool company="celsys" name="paint" version="2.0.6"/>
+            <type ver="">paintwork2</type>
+            <name>NinthSketchbook</name>
+            <created_date>2023/07/21 12:38:12</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="9a75690574-a641-01b5-e22f-4a6409dedf"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e48314588e-ab45-f490-fa7c-458317e586"/>
+              <fileref idref="038501e507-1b47-6991-8564-ca536458f7"/>
+              <fileref idref="96d77639a8-db4b-179a-cbb1-183ff8fd89"/>
+              <fileref idref="d22144cee8-f14c-0799-a150-9550ab269d"/>
+              <fileref idref="8e94b07fc3-014b-1aaa-283f-577d073771"/>
+              <fileref idref="c64171ab08-f145-0989-bf23-8a11a3b902"/>
+              <fileref idref="2f78e25c60-ee40-5fb7-5f25-82c6e55d4c"/>
+              <fileref idref="e04c806d21-544e-1092-e097-d10ed91e8f"/>
+              <fileref idref="d3b73157fe-d04e-67a2-88fa-d9a41099db"/>
+              <fileref idref="e8fa09d8ce-1141-21ae-68e9-be17b8ca03"/>
+              <fileref idref="51fcf363d2-4a4b-02b9-1d4c-d925b44a26"/>
+              <fileref idref="b1122e9d58-124d-5cbe-3b61-c144fb5748"/>
+              <fileref idref="2452aab12c-9a45-e88c-e771-4989929e47"/>
+              <fileref idref="a08fe27452-8b4c-178f-649a-b6bb660a80"/>
+              <fileref idref="c9c0e2a4da-9f4b-60a4-ed34-a373c5646e"/>
+              <fileref idref="613c91505a-ec46-e890-3cb9-5f0d86ff40"/>
+              <fileref idref="41d3ac6ae2-a047-73bc-2d71-b2d2ea7a14"/>
+            </data>
+            <icedata>
+              <fileref idref="89a229ce95-d548-c3a4-feee-5a492ce2a7"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="038501e507-1b47-6991-8564-ca536458f7" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="2452aab12c-9a45-e88c-e771-4989929e47" mime="application/octet-stream">
+      <path>page0012.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="2f78e25c60-ee40-5fb7-5f25-82c6e55d4c" mime="application/octet-stream">
+      <path>page0006.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="41d3ac6ae2-a047-73bc-2d71-b2d2ea7a14" mime="application/octet-stream">
+      <path>page0016.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="51fcf363d2-4a4b-02b9-1d4c-d925b44a26" mime="application/octet-stream">
+      <path>page0010.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="613c91505a-ec46-e890-3cb9-5f0d86ff40" mime="application/octet-stream">
+      <path>page0015.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="89a229ce95-d548-c3a4-feee-5a492ce2a7" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="8e94b07fc3-014b-1aaa-283f-577d073771" mime="application/octet-stream">
+      <path>page0004.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="96d77639a8-db4b-179a-cbb1-183ff8fd89" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="9a75690574-a641-01b5-e22f-4a6409dedf" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="a08fe27452-8b4c-178f-649a-b6bb660a80" mime="application/octet-stream">
+      <path>page0013.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="b1122e9d58-124d-5cbe-3b61-c144fb5748" mime="application/octet-stream">
+      <path>page0011.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="c64171ab08-f145-0989-bf23-8a11a3b902" mime="application/octet-stream">
+      <path>page0005.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="c9c0e2a4da-9f4b-60a4-ed34-a373c5646e" mime="application/octet-stream">
+      <path>page0014.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="d22144cee8-f14c-0799-a150-9550ab269d" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="d3b73157fe-d04e-67a2-88fa-d9a41099db" mime="application/octet-stream">
+      <path>page0008.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e04c806d21-544e-1092-e097-d10ed91e8f" mime="application/octet-stream">
+      <path>page0007.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e48314588e-ab45-f490-fa7c-458317e586" mime="application/octet-stream">
+      <path>NinthCircuit.cmc</path>
+    </file>
+    <file document="false" encrypt="true" id="e8fa09d8ce-1141-21ae-68e9-be17b8ca03" mime="application/octet-stream">
+      <path>page0009.clip</path>
+    </file>
+  </files>
+
+</archive>

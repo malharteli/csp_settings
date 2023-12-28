@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="47ac1bbc30-4348-d88d-b472-9d2560030c">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>Layer 1 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="be81dea173-cc44-7f97-c14c-bf8a4ad2eb">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="80806cd436-8a49-aeaf-4d15-6f56528c7b">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Acrylic Daze 4</name>
+            <created_date>2022/01/16 20:10:09</created_date>
+            <modified_date>2022/01/16 20:10:48</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="7c32ff6203-f848-df8e-2757-2f38c16702"/>
+            </thumbnail>
+            <data>
+              <fileref idref="0479609759-9347-29b5-d05f-b923f744ee"/>
+            </data>
+            <icedata>
+              <fileref idref="00b43e96f0-f347-abad-c592-5dc4551af2"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="00b43e96f0-f347-abad-c592-5dc4551af2" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="0479609759-9347-29b5-d05f-b923f744ee" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="7c32ff6203-f848-df8e-2757-2f38c16702" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

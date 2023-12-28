@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Hatch Last</name>
+
+  <cloudcontentid>229520811</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>75e45c5dad-da45-7fa4-7745-3abd8a6ded</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>08/20</subpath>
+
+  <basePath></basePath>
+
+  <size>89832</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:01:20</createdat>
+
+  <updatedat>2022-09-01 12:01:29</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

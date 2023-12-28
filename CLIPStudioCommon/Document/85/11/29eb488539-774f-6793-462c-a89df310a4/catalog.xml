@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="29eb488539-774f-6793-462c-a89df310a4">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.0"/>
+    <name>Neko_ItFLoofinWindy</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2373c7ad4c-294f-d691-c481-98f3ce4ed0">
+        <tool company="celsys" name="paint" version="2.0.0"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9881cbd32a-7449-da84-2037-8438242391">
+            <tool company="celsys" name="paint" version="2.0.0"/>
+            <type ver="">clipstudioformat</type>
+            <name>Neko_ItFLoofinWindy</name>
+            <created_date>2023/03/25 01:23:47</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="463503bd61-4f46-6db1-f34e-a9bd37d0dd"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a1f91f7817-2a41-e2bc-70ed-4d1b747fc1"/>
+            </data>
+            <icedata>
+              <fileref idref="75edd5fe1f-f74d-62b7-088b-fad810d22b"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="463503bd61-4f46-6db1-f34e-a9bd37d0dd" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="75edd5fe1f-f74d-62b7-088b-fad810d22b" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="a1f91f7817-2a41-e2bc-70ed-4d1b747fc1" mime="application/octet-stream">
+      <path>Neko_ItFLoofinWindy.clip</path>
+    </file>
+  </files>
+
+</archive>

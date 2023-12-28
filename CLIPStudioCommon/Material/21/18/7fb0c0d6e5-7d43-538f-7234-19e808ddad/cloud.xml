@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Hatch Clean</name>
+
+  <cloudcontentid>229526151</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7fb0c0d6e5-7d43-538f-7234-19e808ddad</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>21/18</subpath>
+
+  <basePath></basePath>
+
+  <size>88547</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:34:43</createdat>
+
+  <updatedat>2022-09-01 12:34:52</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

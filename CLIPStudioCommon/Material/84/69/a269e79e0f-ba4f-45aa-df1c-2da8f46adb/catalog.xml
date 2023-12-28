@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a269e79e0f-ba4f-45aa-df1c-2da8f46adb">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.9.11"/>
+    <name>Layer 2 Copy 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="570d251dce-2b42-598d-ff23-e6275c524b">
+        <tool company="celsys" name="paint" version="1.9.11"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="afefaa6ceb-6349-6fb9-359a-7f160b02db">
+            <tool company="celsys" name="paint" version="1.9.11"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Duotone Tone Tip</name>
+            <created_date>2020/10/05 10:20:41</created_date>
+            <modified_date>2020/10/05 10:21:05</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="72a90ec583-a140-62b7-40ba-c8719b6bcd"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a5d59661c3-0d46-51b3-34b6-654296f3b1"/>
+            </data>
+            <icedata>
+              <fileref idref="f7e0a997fa-b546-ef91-893e-45824e6feb"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="72a90ec583-a140-62b7-40ba-c8719b6bcd" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="a5d59661c3-0d46-51b3-34b6-654296f3b1" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="f7e0a997fa-b546-ef91-893e-45824e6feb" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

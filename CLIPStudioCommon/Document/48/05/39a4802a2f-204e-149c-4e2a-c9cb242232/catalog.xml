@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="39a4802a2f-204e-149c-4e2a-c9cb242232">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.3"/>
+    <name>Comm_DrgmastrAlex_MagitechLapinBunnies</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="287a4e2dde-314e-59bb-be9a-62fcffb4e5">
+        <tool company="celsys" name="paint" version="1.12.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="afd38a57f0-c349-bb8e-9d0c-3c82932872">
+            <tool company="celsys" name="paint" version="1.12.3"/>
+            <type ver="">clipstudioformat</type>
+            <name>Comm_DrgmastrAlex_MagitechLapinBunnies</name>
+            <created_date>2022/08/18 02:54:36</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="4ff5f712f0-5043-84b9-8f0e-985a89872a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="3b86a0db8d-374d-38b1-d592-4a6e61e348"/>
+            </data>
+            <icedata>
+              <fileref idref="7fa5b22fa2-db4d-08a9-6ca4-201f0cb296"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="3b86a0db8d-374d-38b1-d592-4a6e61e348" mime="application/octet-stream">
+      <path>Comm_DrgmastrAlex_MagitechLapinBunnies.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="4ff5f712f0-5043-84b9-8f0e-985a89872a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="7fa5b22fa2-db4d-08a9-6ca4-201f0cb296" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

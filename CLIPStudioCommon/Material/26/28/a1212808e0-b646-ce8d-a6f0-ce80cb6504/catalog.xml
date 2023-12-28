@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a1212808e0-b646-ce8d-a6f0-ce80cb6504">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>image (9) Copy 4 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cbb7460c77-4940-af86-dc4a-4a53861b19">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="93750f741b-3e4c-3f9c-e7f3-22633a8a63">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Hatch Irregular</name>
+            <created_date>2021/10/29 16:37:56</created_date>
+            <modified_date>2021/10/29 16:38:11</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="2862472761-f24e-8a8f-7b57-ff20c4b6d0"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c603dd9711-0f40-ab96-d147-a1be3d0311"/>
+            </data>
+            <icedata>
+              <fileref idref="02a9fe2ff3-e845-2a99-1727-dd2cf4f2f3"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="02a9fe2ff3-e845-2a99-1727-dd2cf4f2f3" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="2862472761-f24e-8a8f-7b57-ff20c4b6d0" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="c603dd9711-0f40-ab96-d147-a1be3d0311" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

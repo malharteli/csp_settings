@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ドクロ風</name>
+
+  <cloudcontentid>3065</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>57a245fd41-e44e-b791-033e-333583e93e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>3dhead</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint016</subpath>
+
+  <basePath>installation_material/65/30/3065</basePath>
+
+  <size>107194</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2023-02-17 12:10:26</createdat>
+
+  <updatedat>2023-02-17 12:10:30</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

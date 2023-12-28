@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Hartch rune</name>
+
+  <cloudcontentid>229524482</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>216ed0895c-9c42-529f-4d16-e7cc898f4b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>98/06</subpath>
+
+  <basePath></basePath>
+
+  <size>190566</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:21:42</createdat>
+
+  <updatedat>2022-09-01 12:21:51</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Hatch Rugged</name>
+
+  <cloudcontentid>229521439</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>206b304e84-f147-b3bd-2c07-41433e795a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>75/91</subpath>
+
+  <basePath></basePath>
+
+  <size>154394</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:05:03</createdat>
+
+  <updatedat>2022-09-01 12:05:13</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

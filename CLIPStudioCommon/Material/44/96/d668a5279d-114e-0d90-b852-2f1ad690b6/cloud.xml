@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Bubbles 2</name>
+
+  <cloudcontentid>229524086</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d668a5279d-114e-0d90-b852-2f1ad690b6</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>44/96</subpath>
+
+  <basePath></basePath>
+
+  <size>166341</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:18:59</createdat>
+
+  <updatedat>2022-09-01 12:19:08</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

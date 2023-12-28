@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Tarmac 1</name>
+
+  <cloudcontentid>229528084</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>e062a148d2-c14d-00b3-5518-ec832b13f8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>97/47</subpath>
+
+  <basePath></basePath>
+
+  <size>1277506</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:49:48</createdat>
+
+  <updatedat>2022-09-01 12:49:59</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

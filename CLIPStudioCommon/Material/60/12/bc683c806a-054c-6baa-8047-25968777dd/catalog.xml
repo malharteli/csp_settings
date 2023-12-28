@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="bc683c806a-054c-6baa-8047-25968777dd">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>Layer 1 Copy 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="823594e0ce-b14b-67ae-6734-3ae6884968">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="c7e5a18475-9a4b-c59d-48b0-81778d0a9b">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_InkStroke A</name>
+            <created_date>2021/01/30 13:06:17</created_date>
+            <modified_date>2021/01/30 13:06:34</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="68ec83e8a6-2347-318b-6d9f-5061d811b4"/>
+            </thumbnail>
+            <data>
+              <fileref idref="fa1594f000-f64f-899e-93ae-9b50c6eccf"/>
+            </data>
+            <icedata>
+              <fileref idref="8823b6d901-fd45-8f93-121f-b7b0868437"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="68ec83e8a6-2347-318b-6d9f-5061d811b4" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="8823b6d901-fd45-8f93-121f-b7b0868437" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="fa1594f000-f64f-899e-93ae-9b50c6eccf" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

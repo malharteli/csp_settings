@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b296070eeb-6a49-e6a7-744e-139fc3d25d">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>12-mascara-brush-stroke-7 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="94c6e5172d-4545-c9ad-85a6-e3841ea10e">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="cfe79415d1-5c41-84a2-610f-44cbc62a36">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Stamper Stroker A</name>
+            <created_date>2020/12/22 22:23:58</created_date>
+            <modified_date>2020/12/22 22:24:18</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="d3928cf9d9-d349-f9b5-44cf-1cfc8f213d"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6834275fb3-9140-e286-55c5-51ed64c6cc"/>
+            </data>
+            <icedata>
+              <fileref idref="4373a96eed-e942-8a8c-7913-7a47cf8c88"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="4373a96eed-e942-8a8c-7913-7a47cf8c88" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="6834275fb3-9140-e286-55c5-51ed64c6cc" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="d3928cf9d9-d349-f9b5-44cf-1cfc8f213d" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="2faefb0b29-064a-34ae-90f7-658806ba79">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.6"/>
+    <name>TwinDetectives</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9de495ffa6-db4f-70b9-ffb5-0f3f6b72f8">
+        <tool company="celsys" name="paint" version="2.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5b0dd50231-af40-2293-6778-bc7aef02a4">
+            <tool company="celsys" name="paint" version="2.0.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>TwinDetectives</name>
+            <created_date>2023/12/23 23:58:58</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1011414d97-2241-28ad-c39f-3ddb5d97b6"/>
+            </thumbnail>
+            <data>
+              <fileref idref="728bb24f80-2043-dbaf-66d3-91bfe6231a"/>
+            </data>
+            <icedata>
+              <fileref idref="d1ea906daa-1645-e699-8dbf-25e80ca33b"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1011414d97-2241-28ad-c39f-3ddb5d97b6" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="728bb24f80-2043-dbaf-66d3-91bfe6231a" mime="application/octet-stream">
+      <path>TwinDetectives.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="d1ea906daa-1645-e699-8dbf-25e80ca33b" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

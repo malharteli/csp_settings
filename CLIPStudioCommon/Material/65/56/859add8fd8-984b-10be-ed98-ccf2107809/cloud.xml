@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Paper R 2</name>
+
+  <cloudcontentid>229522288</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>859add8fd8-984b-10be-ed98-ccf2107809</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>65/56</subpath>
+
+  <basePath></basePath>
+
+  <size>1318934</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:09:10</createdat>
+
+  <updatedat>2022-09-01 12:09:20</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

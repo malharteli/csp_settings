@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5a7f2502f2-f34f-4982-e355-8e3c6b7c1a">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.13.3"/>
+    <name>New 3D Head Model_9</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a4004762a7-7346-7e85-4c8e-e4177b0bd7">
+        <tool company="celsys" name="paint" version="1.13.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="74bde0826b-4344-3f81-6e2d-cc6a546512">
+            <tool company="celsys" name="paint" version="1.13.3"/>
+            <type ver="1.0.7">3dhead</type>
+            <name>Round realistic</name>
+            <created_date>2023/02/08 10:10:04</created_date>
+            <modified_date>2023/02/10 04:12:34</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="8160fe7d07-e04c-5cbc-7865-d6281428ed"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e2ea29c8f9-0a47-f88c-b255-79e606d0e2"/>
+            </data>
+            <icedata>
+              <fileref idref="68d085e64d-9442-00a7-c861-52164afe41"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="68d085e64d-9442-00a7-c861-52164afe41" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="8160fe7d07-e04c-5cbc-7865-d6281428ed" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="e2ea29c8f9-0a47-f88c-b255-79e606d0e2" mime="application/octet-stream">
+      <path>data/material_0.dessindollhead</path>
+    </file>
+  </files>
+
+</archive>

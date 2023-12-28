@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="42093cc7c9-c445-8ca8-da3a-c69a2dd7bd">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>Color</data>
+      <data>Color_pattern</data>
+      <data>Seamless</data>
+      <data>Heart</data>
+      <data>Effect_and_feeling</data>
+      <data>Bright_Quiet_Soft_Delight</data>
+      <data>Soft_Float</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

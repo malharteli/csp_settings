@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="181e54f60c-7841-abaf-6bbf-d1c9f8c132">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Layer 1 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="53b248437b-444b-fa9a-72c4-cc8e1cb69b">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="0ddac4025f-184d-5984-cddd-83a25e553c">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Pencil Square</name>
+            <created_date>2021/06/29 12:43:25</created_date>
+            <modified_date>2021/06/29 12:43:44</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="05362c9993-4940-029b-195a-8f363dd5f8"/>
+            </thumbnail>
+            <data>
+              <fileref idref="af5554c577-a644-64a7-ffe6-46d9164e3e"/>
+            </data>
+            <icedata>
+              <fileref idref="bb2f1a7b24-ae43-28ad-8e61-c3390fb773"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="05362c9993-4940-029b-195a-8f363dd5f8" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="af5554c577-a644-64a7-ffe6-46d9164e3e" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="bb2f1a7b24-ae43-28ad-8e61-c3390fb773" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

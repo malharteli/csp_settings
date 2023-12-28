@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Watercraft tip 1</name>
+
+  <cloudcontentid>229525220</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>dbc359abe6-1145-18b4-a5b0-6edb83e0c9</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>27/92</subpath>
+
+  <basePath></basePath>
+
+  <size>117152</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:27:42</createdat>
+
+  <updatedat>2022-09-01 12:27:51</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

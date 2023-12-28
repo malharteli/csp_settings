@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="15e059bbb4-d04d-7696-919b-cbd94bc96f">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>Layer 3 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0f6bfe42f6-5943-5f9b-ac05-45c53d3c2f">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="b8db30677c-7e4e-f290-6eb0-8b5a1cc1a6">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Mystic Triangle</name>
+            <created_date>2022/07/06 17:12:24</created_date>
+            <modified_date>2022/07/06 17:12:38</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="8e4fc1c8d5-d944-6aa7-65d8-734bb78d4f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c4bbc72461-8f4a-d2af-097e-1b2019f5e8"/>
+            </data>
+            <icedata>
+              <fileref idref="6f4245489c-b04c-d9b9-2e72-8484348efc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="6f4245489c-b04c-d9b9-2e72-8484348efc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="8e4fc1c8d5-d944-6aa7-65d8-734bb78d4f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="c4bbc72461-8f4a-d2af-097e-1b2019f5e8" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

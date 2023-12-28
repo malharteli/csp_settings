@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Canvas speckled</name>
+
+  <cloudcontentid>229522068</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b15f114dcb-394d-eb8d-c025-3db2c35901</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>95/50</subpath>
+
+  <basePath></basePath>
+
+  <size>3850206</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:08:11</createdat>
+
+  <updatedat>2022-09-01 12:08:21</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

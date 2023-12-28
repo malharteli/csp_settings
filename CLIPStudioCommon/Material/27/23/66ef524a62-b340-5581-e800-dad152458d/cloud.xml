@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Distress Round</name>
+
+  <cloudcontentid>229527662</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>66ef524a62-b340-5581-e800-dad152458d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>27/23</subpath>
+
+  <basePath></basePath>
+
+  <size>288291</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:46:30</createdat>
+
+  <updatedat>2022-09-01 12:46:40</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

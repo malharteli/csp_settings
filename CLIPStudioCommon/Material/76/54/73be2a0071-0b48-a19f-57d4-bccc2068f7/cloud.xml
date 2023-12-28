@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Crumbled Paper</name>
+
+  <cloudcontentid>229523860</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>73be2a0071-0b48-a19f-57d4-bccc2068f7</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>76/54</subpath>
+
+  <basePath></basePath>
+
+  <size>912085</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:17:34</createdat>
+
+  <updatedat>2022-09-01 12:17:44</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

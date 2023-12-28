@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Critter Small</name>
+
+  <cloudcontentid>229525035</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c44197cc41-324c-aa97-21d5-b2f31f212c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>68/57</subpath>
+
+  <basePath></basePath>
+
+  <size>465500</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:26:06</createdat>
+
+  <updatedat>2022-09-01 12:26:16</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

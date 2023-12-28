@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>きもいの～</name>
+
+  <cloudcontentid>164170854</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>583ccbb67d-a14d-43bb-5727-8863eede1a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>08/55</subpath>
+
+  <basePath></basePath>
+
+  <size>87658</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-09-20 02:35:27</createdat>
+
+  <updatedat>2021-09-20 02:35:38</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

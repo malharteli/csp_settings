@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Grain Light</name>
+
+  <cloudcontentid>229528598</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7905b140bf-d84b-e991-5a32-88280be557</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>76/35</subpath>
+
+  <basePath></basePath>
+
+  <size>262709</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:53:52</createdat>
+
+  <updatedat>2022-09-01 12:54:02</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

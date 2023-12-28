@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Static Tip</name>
+
+  <cloudcontentid>229521744</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>480e10e080-1e4a-8899-c87e-219fd242bd</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>76/01</subpath>
+
+  <basePath></basePath>
+
+  <size>105618</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:06:36</createdat>
+
+  <updatedat>2022-09-01 12:06:45</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

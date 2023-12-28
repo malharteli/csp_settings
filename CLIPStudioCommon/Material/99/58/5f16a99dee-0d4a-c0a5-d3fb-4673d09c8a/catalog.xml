@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5f16a99dee-0d4a-c0a5-d3fb-4673d09c8a">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>Layer 1 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="86d3c88540-8345-2092-5765-aa0fe3fa97">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="f8ca38ebb3-da46-62a7-d520-148c8ed71f">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Stamper Splatter 4</name>
+            <created_date>2021/06/16 11:49:05</created_date>
+            <modified_date>2021/06/16 11:49:17</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="9d126c2013-d44e-23a1-9ae0-9fd498cf6c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="379d188486-0844-1789-e983-8532e88358"/>
+            </data>
+            <icedata>
+              <fileref idref="9ddcd73be7-034e-5587-4a9d-afc2558d7f"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="379d188486-0844-1789-e983-8532e88358" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="9d126c2013-d44e-23a1-9ae0-9fd498cf6c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="9ddcd73be7-034e-5587-4a9d-afc2558d7f" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="4f205696e7-8d4d-949b-4036-82d0c5aa63">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.6"/>
+    <name>BunnyWeek2023</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fad1c9cd7a-8b48-3592-4cc5-acf7144113">
+        <tool company="celsys" name="paint" version="2.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="81e6961b2f-3648-61b2-df5f-5189ec3dea">
+            <tool company="celsys" name="paint" version="2.0.6"/>
+            <type ver="">paintwork2</type>
+            <name>BunnyWeek2023</name>
+            <created_date>2023/08/23 18:52:21</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1129fb1ece-5a4a-ceb9-224c-d7e08c8ba0"/>
+            </thumbnail>
+            <data>
+              <fileref idref="7a83288682-2d4d-479a-60e0-3ff6996293"/>
+              <fileref idref="09361a4036-e84a-b9a6-f1eb-819039dbd9"/>
+              <fileref idref="2af849d882-af4f-8e99-50ac-90789703d3"/>
+              <fileref idref="4e6853c09c-d840-7da4-4e0d-6743d24eeb"/>
+              <fileref idref="82787a311b-0940-efa3-3aca-199911b6d0"/>
+              <fileref idref="ca5502c9a6-5a4b-9da3-295c-7c48f15273"/>
+              <fileref idref="4374fe459d-da4d-699d-96f5-e1b6863457"/>
+              <fileref idref="553f9c1858-5046-e6aa-89db-60113c5ef1"/>
+              <fileref idref="8f8043e1ea-9345-a5ac-696f-6aa006c4ec"/>
+              <fileref idref="5950523091-6f44-9598-bb2a-af49a75dc4"/>
+              <fileref idref="b7b22f2891-7246-8bb6-0fdb-959772d42b"/>
+            </data>
+            <icedata>
+              <fileref idref="ae95d20f1d-af4d-1cac-d08b-03442f6961"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="09361a4036-e84a-b9a6-f1eb-819039dbd9" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="1129fb1ece-5a4a-ceb9-224c-d7e08c8ba0" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="2af849d882-af4f-8e99-50ac-90789703d3" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="4374fe459d-da4d-699d-96f5-e1b6863457" mime="application/octet-stream">
+      <path>page0006.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="4e6853c09c-d840-7da4-4e0d-6743d24eeb" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="553f9c1858-5046-e6aa-89db-60113c5ef1" mime="application/octet-stream">
+      <path>page0007.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="5950523091-6f44-9598-bb2a-af49a75dc4" mime="application/octet-stream">
+      <path>page0009.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="7a83288682-2d4d-479a-60e0-3ff6996293" mime="application/octet-stream">
+      <path>Bunny Week 2023.cmc</path>
+    </file>
+    <file document="false" encrypt="true" id="82787a311b-0940-efa3-3aca-199911b6d0" mime="application/octet-stream">
+      <path>page0004.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="8f8043e1ea-9345-a5ac-696f-6aa006c4ec" mime="application/octet-stream">
+      <path>page0008.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="ae95d20f1d-af4d-1cac-d08b-03442f6961" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="b7b22f2891-7246-8bb6-0fdb-959772d42b" mime="application/octet-stream">
+      <path>page0010.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="ca5502c9a6-5a4b-9da3-295c-7c48f15273" mime="application/octet-stream">
+      <path>page0005.clip</path>
+    </file>
+  </files>
+
+</archive>

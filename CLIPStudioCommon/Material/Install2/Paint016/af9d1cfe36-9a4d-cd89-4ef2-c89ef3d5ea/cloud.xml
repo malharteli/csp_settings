@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>マンガ-シャープ</name>
+
+  <cloudcontentid>3071</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>af9d1cfe36-9a4d-cd89-4ef2-c89ef3d5ea</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>3dhead</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint016</subpath>
+
+  <basePath>installation_material/71/30/3071</basePath>
+
+  <size>105588</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2023-02-17 12:10:55</createdat>
+
+  <updatedat>2023-02-17 12:10:58</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

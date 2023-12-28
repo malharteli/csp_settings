@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="989807425f-c44a-acb1-12ea-0176af890a">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="2.0.0"/>
+    <name>Cyberspace lighting</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a78429805e-2146-1eb7-73f2-5abd365560">
+        <tool company="celsys" name="paint" version="2.0.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="0" modify_thumbnail="1" parentuuid="" uuid="e0c3ffd121-db4c-31b3-378e-1b618f41f0">
+            <tool company="celsys" name="paint" version="2.0.0"/>
+            <type ver="1.0.1">image</type>
+            <name>Cyberspace lighting</name>
+            <created_date>2023/03/27 07:51:58</created_date>
+            <modified_date>2023/03/28 07:27:03</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="77b0616c49-f84b-7e95-97bc-01f97d91af"/>
+            </thumbnail>
+            <data>
+              <fileref idref="5c1c221a37-b04c-779e-8e21-994af54fe4"/>
+            </data>
+            <icedata>
+              <fileref idref="46b67d787e-8948-2991-38e4-616aa80084"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="46b67d787e-8948-2991-38e4-616aa80084" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="5c1c221a37-b04c-779e-8e21-994af54fe4" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="77b0616c49-f84b-7e95-97bc-01f97d91af" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

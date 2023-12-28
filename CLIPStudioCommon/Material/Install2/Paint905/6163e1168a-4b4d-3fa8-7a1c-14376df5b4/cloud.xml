@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>ハートテクスチャ</name>
+
+  <cloudcontentid>3101</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6163e1168a-4b4d-3fa8-7a1c-14376df5b4</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint905</subpath>
+
+  <basePath>installation_material/01/31/3101</basePath>
+
+  <size>2618237</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2023-05-12 12:15:47</createdat>
+
+  <updatedat>2023-05-12 12:15:52</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

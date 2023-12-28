@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="9e9386c377-1f48-5cbe-1d33-b5851c9ddb">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.3"/>
+    <name>BunnyWarrior</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cf03de5d47-a946-53b5-776b-c0f66ecbbc">
+        <tool company="celsys" name="paint" version="1.12.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="987a9117f2-344d-cd8f-a164-5947196918">
+            <tool company="celsys" name="paint" version="1.12.3"/>
+            <type ver="">clipstudioformat</type>
+            <name>BunnyWarrior</name>
+            <created_date>2022/08/26 02:52:26</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="db4d1e443a-784b-77bd-c6ea-1a2c3d088e"/>
+            </thumbnail>
+            <data>
+              <fileref idref="b990b8801d-8f4b-719e-2f0b-943ebefa95"/>
+            </data>
+            <icedata>
+              <fileref idref="99613ca327-944d-44bd-d56a-148fba8bfc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="99613ca327-944d-44bd-d56a-148fba8bfc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="b990b8801d-8f4b-719e-2f0b-943ebefa95" mime="application/octet-stream">
+      <path>BunnyWarrior.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="db4d1e443a-784b-77bd-c6ea-1a2c3d088e" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

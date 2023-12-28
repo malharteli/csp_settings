@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Watercolor 5</name>
+
+  <cloudcontentid>229520921</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c919ca4378-7c42-a3a4-b6a0-b668fbc546</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>43/45</subpath>
+
+  <basePath></basePath>
+
+  <size>1074509</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:02:06</createdat>
+
+  <updatedat>2022-09-01 12:02:16</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

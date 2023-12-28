@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>サイバーエフェクト</name>
+
+  <cloudcontentid>3105</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>989807425f-c44a-acb1-12ea-0176af890a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint905</subpath>
+
+  <basePath>installation_material/05/31/3105</basePath>
+
+  <size>5545002</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2023-05-12 12:16:19</createdat>
+
+  <updatedat>2023-05-12 12:16:24</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

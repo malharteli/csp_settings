@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5c33cf1d14-eb42-d283-8888-0bffed0b10">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.11"/>
+    <name>November Sketchbook</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2fcc883a69-f344-d887-b946-2db97de107">
+        <tool company="celsys" name="paint" version="1.12.11"/>
+        <type ver="1.0.0">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a28f082ca4-0746-2f9b-f6f5-881e56c21f">
+            <tool company="celsys" name="paint" version="1.12.11"/>
+            <type ver="1.0.0">paintwork2</type>
+            <name>December Sketchbook</name>
+            <created_date>2022/12/04 03:32:20</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b1e50bfb2c-e64e-289e-f62b-ebad1d1908"/>
+            </thumbnail>
+            <data>
+              <fileref idref="026b66c9fc-504a-ef97-1f05-1225267577"/>
+              <fileref idref="c2d1a4ecdc-c441-3098-e745-5036dbeb2e"/>
+              <fileref idref="e15c15ab8a-304d-9fba-e4f6-99ae04e33d"/>
+              <fileref idref="e712e5dbdb-4543-49ba-e458-178b9529a1"/>
+              <fileref idref="956cdb9b37-fe4a-4aa8-6c41-53ab1aa6b7"/>
+              <fileref idref="7f76319e9c-5b49-c586-e71f-fb9daeab25"/>
+              <fileref idref="69748f9ac9-964a-e1bc-2eec-5249ad134b"/>
+              <fileref idref="319418c599-4d4e-6198-3d0f-18a43be619"/>
+              <fileref idref="a9e84842df-b949-6db7-1970-4c86d2e626"/>
+              <fileref idref="4dbe71927a-1d48-74b2-7e67-65009bbd68"/>
+              <fileref idref="3e7b1e26e8-2841-a886-9681-d4bb3fb3f0"/>
+              <fileref idref="330351f5a0-b543-e683-f7a5-92a31aad12"/>
+              <fileref idref="0a641c280f-134f-6196-dd51-f6399cc5bb"/>
+              <fileref idref="af9713af6e-4f4f-2fb9-2d57-2d56119181"/>
+              <fileref idref="b405dfeaa1-8e44-fc8d-1550-9db0eb8d3a"/>
+              <fileref idref="9b30ce8f66-e54b-46b2-c6fc-b0402a0605"/>
+              <fileref idref="1fad9e7e52-204c-a089-8427-9f33d2e354"/>
+            </data>
+            <icedata>
+              <fileref idref="5ed0e7d6b2-7345-16a1-2f26-806db7f406"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="026b66c9fc-504a-ef97-1f05-1225267577" mime="application/octet-stream">
+      <path>December Sketchbook.cmc</path>
+    </file>
+    <file document="false" encrypt="true" id="0a641c280f-134f-6196-dd51-f6399cc5bb" mime="application/octet-stream">
+      <path>page0012.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="1fad9e7e52-204c-a089-8427-9f33d2e354" mime="application/octet-stream">
+      <path>page0016.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="319418c599-4d4e-6198-3d0f-18a43be619" mime="application/octet-stream">
+      <path>page0007.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="330351f5a0-b543-e683-f7a5-92a31aad12" mime="application/octet-stream">
+      <path>page0011.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="3e7b1e26e8-2841-a886-9681-d4bb3fb3f0" mime="application/octet-stream">
+      <path>page0010.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="4dbe71927a-1d48-74b2-7e67-65009bbd68" mime="application/octet-stream">
+      <path>page0009.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="5ed0e7d6b2-7345-16a1-2f26-806db7f406" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="69748f9ac9-964a-e1bc-2eec-5249ad134b" mime="application/octet-stream">
+      <path>page0006.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="7f76319e9c-5b49-c586-e71f-fb9daeab25" mime="application/octet-stream">
+      <path>page0005.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="956cdb9b37-fe4a-4aa8-6c41-53ab1aa6b7" mime="application/octet-stream">
+      <path>page0004.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="9b30ce8f66-e54b-46b2-c6fc-b0402a0605" mime="application/octet-stream">
+      <path>page0015.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="a9e84842df-b949-6db7-1970-4c86d2e626" mime="application/octet-stream">
+      <path>page0008.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="af9713af6e-4f4f-2fb9-2d57-2d56119181" mime="application/octet-stream">
+      <path>page0013.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="b1e50bfb2c-e64e-289e-f62b-ebad1d1908" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="b405dfeaa1-8e44-fc8d-1550-9db0eb8d3a" mime="application/octet-stream">
+      <path>page0014.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="c2d1a4ecdc-c441-3098-e745-5036dbeb2e" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e15c15ab8a-304d-9fba-e4f6-99ae04e33d" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e712e5dbdb-4543-49ba-e458-178b9529a1" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+  </files>
+
+</archive>

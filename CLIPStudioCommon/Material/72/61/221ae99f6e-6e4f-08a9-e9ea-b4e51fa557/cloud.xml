@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Ink Stroke A</name>
+
+  <cloudcontentid>229526768</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>221ae99f6e-6e4f-08a9-e9ea-b4e51fa557</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>72/61</subpath>
+
+  <basePath></basePath>
+
+  <size>154304</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:39:12</createdat>
+
+  <updatedat>2022-09-01 12:39:21</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

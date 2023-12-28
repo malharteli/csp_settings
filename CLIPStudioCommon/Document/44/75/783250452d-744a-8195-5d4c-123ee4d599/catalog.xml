@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="783250452d-744a-8195-5d4c-123ee4d599">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.3"/>
+    <name>Waifu-Chart-ImagineHavingAPlan</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ed67807939-654c-99a0-f32e-0de3cfc996">
+        <tool company="celsys" name="paint" version="1.12.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fb7e181fa1-d549-7c8d-1e4b-ea76fabf04">
+            <tool company="celsys" name="paint" version="1.12.3"/>
+            <type ver="">clipstudioformat</type>
+            <name>Waifu-Chart-ImagineHavingAPlan</name>
+            <created_date>2022/09/25 20:43:33</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f74144637b-1f47-56a0-13c2-f9e85060f7"/>
+            </thumbnail>
+            <data>
+              <fileref idref="3f30338b4b-d440-f681-2afa-0941410760"/>
+            </data>
+            <icedata>
+              <fileref idref="75562fadc0-c644-d6a0-586e-ec0286e31d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="3f30338b4b-d440-f681-2afa-0941410760" mime="application/octet-stream">
+      <path>Waifu-Chart-ImagineHavingAPlan.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="75562fadc0-c644-d6a0-586e-ec0286e31d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="f74144637b-1f47-56a0-13c2-f9e85060f7" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

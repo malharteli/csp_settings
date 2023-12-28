@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="40e061f863-3847-a9a4-add2-5bad8c326c">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Layer 3 2 Copy 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="80a856ca50-5740-d09c-e27c-c2801e5046">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="2e28170f8a-a54a-0fa6-6ca7-3d2f859844">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Hatch Micro</name>
+            <created_date>2020/12/17 18:32:17</created_date>
+            <modified_date>2020/12/17 18:32:30</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="c4665cc386-3b46-6f90-d3b9-35fc1635da"/>
+            </thumbnail>
+            <data>
+              <fileref idref="88a2a95a7f-c54f-aba5-c1af-51b964950c"/>
+            </data>
+            <icedata>
+              <fileref idref="a3c2832db1-a948-6f95-19c7-f196336e77"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="88a2a95a7f-c54f-aba5-c1af-51b964950c" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="a3c2832db1-a948-6f95-19c7-f196336e77" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="c4665cc386-3b46-6f90-d3b9-35fc1635da" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

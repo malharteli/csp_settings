@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="86791c4e5c-844a-f88d-7f1b-bee4a186a7">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>simple-old-paper-2-transparent Copy 2 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="09bc1365a4-5242-58a0-ad51-59bd9430b0">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="39cf7c824e-fa47-b68a-9a6d-68623901d8">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Blurry Tip</name>
+            <created_date>2022/07/22 14:45:47</created_date>
+            <modified_date>2022/07/22 14:46:12</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="74b731459f-e54c-1195-dc41-b71e5ba131"/>
+            </thumbnail>
+            <data>
+              <fileref idref="26f4beb7a9-d24b-d5bb-f4e5-44c06969eb"/>
+            </data>
+            <icedata>
+              <fileref idref="79cbb831f7-654a-eaa1-88ff-629082360c"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="26f4beb7a9-d24b-d5bb-f4e5-44c06969eb" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="74b731459f-e54c-1195-dc41-b71e5ba131" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="79cbb831f7-654a-eaa1-88ff-629082360c" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

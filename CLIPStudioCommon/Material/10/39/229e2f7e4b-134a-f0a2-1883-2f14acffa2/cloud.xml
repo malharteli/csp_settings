@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Watercolor Tip 00</name>
+
+  <cloudcontentid>229520865</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>229e2f7e4b-134a-f0a2-1883-2f14acffa2</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>10/39</subpath>
+
+  <basePath></basePath>
+
+  <size>96382</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:01:43</createdat>
+
+  <updatedat>2022-09-01 12:01:52</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

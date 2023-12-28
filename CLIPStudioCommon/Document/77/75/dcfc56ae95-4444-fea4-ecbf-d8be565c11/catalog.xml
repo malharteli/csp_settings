@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="dcfc56ae95-4444-fea4-ecbf-d8be565c11">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.6"/>
+    <name>Lazuria</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2d5a7a611a-bd4e-afb2-660a-ac11f654d3">
+        <tool company="celsys" name="paint" version="2.0.6"/>
+        <type ver="1.0.0">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2c9336d2a1-df42-af82-129e-f2516d8a52">
+            <tool company="celsys" name="paint" version="2.0.6"/>
+            <type ver="1.0.0">paintwork2</type>
+            <name>BunnyMas</name>
+            <created_date>2023/12/14 06:30:06</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="e87ea30741-1648-2987-379b-f271128d90"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c54843aec0-4143-b0bf-6e4e-d380fbf2b0"/>
+              <fileref idref="909847375f-f84a-57b9-21af-dbbe3b8154"/>
+              <fileref idref="85b6cd3ce4-da45-5db7-1034-850244faf7"/>
+              <fileref idref="924948f1b8-7c4c-71ac-d3cb-96a799edf7"/>
+              <fileref idref="38ad5b5ec6-704f-21ad-2351-2151c67c9a"/>
+              <fileref idref="4113e9417e-9d47-1088-550c-f270d5e56b"/>
+              <fileref idref="1b4c48c621-4a43-2992-f65a-18b72f85e4"/>
+              <fileref idref="4b89dad48b-8045-bb88-f854-757cf97747"/>
+              <fileref idref="6b1ee646d6-be42-ad91-7e4e-6569ab6e51"/>
+              <fileref idref="e2c0a53075-994e-32bc-20e2-72e9dcca6f"/>
+              <fileref idref="cd238830e0-a84a-29a5-ac66-d3ed4c421b"/>
+              <fileref idref="abf9c70096-384e-8e8d-8fad-52de3652bd"/>
+              <fileref idref="a85fbc127f-a34b-6fb9-7dcc-baed33651c"/>
+              <fileref idref="05bff6bf75-4140-eca5-527c-b6630c1695"/>
+              <fileref idref="d2c9fc1ce0-4c42-36a9-96dc-b7f46ec8ff"/>
+              <fileref idref="c5ed6b6173-6a4a-6dab-da70-110a44f90f"/>
+              <fileref idref="68da9121dd-1e48-93a6-a294-39e14d85f1"/>
+            </data>
+            <icedata>
+              <fileref idref="27eade772f-ac4e-7a90-0f25-707f890e81"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="05bff6bf75-4140-eca5-527c-b6630c1695" mime="application/octet-stream">
+      <path>page0013.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="1b4c48c621-4a43-2992-f65a-18b72f85e4" mime="application/octet-stream">
+      <path>page0006.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="27eade772f-ac4e-7a90-0f25-707f890e81" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="38ad5b5ec6-704f-21ad-2351-2151c67c9a" mime="application/octet-stream">
+      <path>page0004.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="4113e9417e-9d47-1088-550c-f270d5e56b" mime="application/octet-stream">
+      <path>page0005.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="4b89dad48b-8045-bb88-f854-757cf97747" mime="application/octet-stream">
+      <path>page0007.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="68da9121dd-1e48-93a6-a294-39e14d85f1" mime="application/octet-stream">
+      <path>page0016.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="6b1ee646d6-be42-ad91-7e4e-6569ab6e51" mime="application/octet-stream">
+      <path>page0008.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="85b6cd3ce4-da45-5db7-1034-850244faf7" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="909847375f-f84a-57b9-21af-dbbe3b8154" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="924948f1b8-7c4c-71ac-d3cb-96a799edf7" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="a85fbc127f-a34b-6fb9-7dcc-baed33651c" mime="application/octet-stream">
+      <path>page0012.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="abf9c70096-384e-8e8d-8fad-52de3652bd" mime="application/octet-stream">
+      <path>page0011.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="c54843aec0-4143-b0bf-6e4e-d380fbf2b0" mime="application/octet-stream">
+      <path>12Daysofbunmas.cmc</path>
+    </file>
+    <file document="false" encrypt="true" id="c5ed6b6173-6a4a-6dab-da70-110a44f90f" mime="application/octet-stream">
+      <path>page0015.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="cd238830e0-a84a-29a5-ac66-d3ed4c421b" mime="application/octet-stream">
+      <path>page0010.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="d2c9fc1ce0-4c42-36a9-96dc-b7f46ec8ff" mime="application/octet-stream">
+      <path>page0014.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e2c0a53075-994e-32bc-20e2-72e9dcca6f" mime="application/octet-stream">
+      <path>page0009.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="e87ea30741-1648-2987-379b-f271128d90" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

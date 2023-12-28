@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ef79d14454-fe4d-68ad-8432-24b94f962a">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>bedge-grunge (1) 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9c90ba075d-9146-f08d-67f9-aaf51072bc">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="6b83278dfb-5043-9d90-e004-b961b60348">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Grunge B</name>
+            <created_date>2021/12/26 10:26:37</created_date>
+            <modified_date>2021/12/26 10:26:58</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="7cc90f29c8-7f4c-1fae-a0ef-67ec20d638"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f4159b148f-2740-5b96-f914-1cc529d5a6"/>
+            </data>
+            <icedata>
+              <fileref idref="5e5d4e1112-724e-0591-11c7-7815ff4069"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="5e5d4e1112-724e-0591-11c7-7815ff4069" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="7cc90f29c8-7f4c-1fae-a0ef-67ec20d638" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="f4159b148f-2740-5b96-f914-1cc529d5a6" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

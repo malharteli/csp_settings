@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Pencil Texture</name>
+
+  <cloudcontentid>229523469</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>adb400ebf3-3440-11a4-dba7-67aac2327b</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>32/92</subpath>
+
+  <basePath></basePath>
+
+  <size>4722534</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:15:24</createdat>
+
+  <updatedat>2022-09-01 12:15:35</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

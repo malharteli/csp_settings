@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>トゥーンｰソフト</name>
+
+  <cloudcontentid>3067</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5d98c0b768-a446-47b1-7082-2692cbca64</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>3dhead</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint016</subpath>
+
+  <basePath>installation_material/67/30/3067</basePath>
+
+  <size>105183</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2023-02-17 12:10:35</createdat>
+
+  <updatedat>2023-02-17 12:10:39</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

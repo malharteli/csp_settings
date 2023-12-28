@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Mortar III</name>
+
+  <cloudcontentid>229526489</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c18adb0e0c-6c43-16a2-a583-254c4e7781</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>40/87</subpath>
+
+  <basePath></basePath>
+
+  <size>414653</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:37:05</createdat>
+
+  <updatedat>2022-09-01 12:37:16</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

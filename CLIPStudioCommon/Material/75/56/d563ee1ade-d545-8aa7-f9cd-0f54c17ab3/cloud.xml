@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Metalgrain</name>
+
+  <cloudcontentid>229521527</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d563ee1ade-d545-8aa7-f9cd-0f54c17ab3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>75/56</subpath>
+
+  <basePath></basePath>
+
+  <size>1064079</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:05:26</createdat>
+
+  <updatedat>2022-09-01 12:05:36</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

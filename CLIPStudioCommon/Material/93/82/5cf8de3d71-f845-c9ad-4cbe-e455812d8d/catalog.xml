@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5cf8de3d71-f845-c9ad-4cbe-e455812d8d">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.9.11"/>
+    <name>Layer 1 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="eb122d4306-054e-6c8e-e196-d105a82579">
+        <tool company="celsys" name="paint" version="1.9.11"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="b913deaab8-d84c-768e-ed5c-fc851bf9ca">
+            <tool company="celsys" name="paint" version="1.9.11"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Manual Grain Allen</name>
+            <created_date>2020/09/07 12:12:37</created_date>
+            <modified_date>2020/09/07 12:12:54</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="ffa664ec8a-fd4a-fcb5-1053-dab1d49a5b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="74b75537c2-6b49-6186-9d1b-408eec7468"/>
+            </data>
+            <icedata>
+              <fileref idref="b1cb8dad7b-f443-d498-f10f-6593a2b849"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="74b75537c2-6b49-6186-9d1b-408eec7468" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="b1cb8dad7b-f443-d498-f10f-6593a2b849" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="ffa664ec8a-fd4a-fcb5-1053-dab1d49a5b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

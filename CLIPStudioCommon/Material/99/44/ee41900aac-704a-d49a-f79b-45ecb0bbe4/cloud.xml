@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Inkblot 3</name>
+
+  <cloudcontentid>229524626</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ee41900aac-704a-d49a-f79b-45ecb0bbe4</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>99/44</subpath>
+
+  <basePath></basePath>
+
+  <size>148820</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:22:41</createdat>
+
+  <updatedat>2022-09-01 12:22:50</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

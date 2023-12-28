@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Splash 2</name>
+
+  <cloudcontentid>229523892</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>eb109547dc-bf47-2fb7-8dfb-9f83a72ca4</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>62/52</subpath>
+
+  <basePath></basePath>
+
+  <size>404255</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:17:46</createdat>
+
+  <updatedat>2022-09-01 12:17:56</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

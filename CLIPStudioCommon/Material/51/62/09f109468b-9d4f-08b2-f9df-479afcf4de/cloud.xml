@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Marker Tip. E</name>
+
+  <cloudcontentid>229528489</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>09f109468b-9d4f-08b2-f9df-479afcf4de</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>51/62</subpath>
+
+  <basePath></basePath>
+
+  <size>104402</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:53:03</createdat>
+
+  <updatedat>2022-09-01 12:53:13</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

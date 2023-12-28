@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Stamper Stroker B</name>
+
+  <cloudcontentid>229523142</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9deb8ae472-a84b-2fa5-e6bb-df7b51b8fa</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>49/41</subpath>
+
+  <basePath></basePath>
+
+  <size>323169</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:13:35</createdat>
+
+  <updatedat>2022-09-01 12:13:45</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Hatching Duotone</name>
+
+  <cloudcontentid>229522021</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b4080d0842-724e-f2bc-dd7d-1a974fb475</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>47/35</subpath>
+
+  <basePath></basePath>
+
+  <size>1411552</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:07:58</createdat>
+
+  <updatedat>2022-09-01 12:08:09</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

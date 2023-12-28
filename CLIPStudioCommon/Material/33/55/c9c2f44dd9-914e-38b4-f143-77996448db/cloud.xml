@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Blurred Light</name>
+
+  <cloudcontentid>229525679</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c9c2f44dd9-914e-38b4-f143-77996448db</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>33/55</subpath>
+
+  <basePath></basePath>
+
+  <size>172987</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:31:15</createdat>
+
+  <updatedat>2022-09-01 12:31:24</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

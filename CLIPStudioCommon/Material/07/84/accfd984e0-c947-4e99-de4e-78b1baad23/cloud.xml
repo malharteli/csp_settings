@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Combine 01</name>
+
+  <cloudcontentid>229524298</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>accfd984e0-c947-4e99-de4e-78b1baad23</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>07/84</subpath>
+
+  <basePath></basePath>
+
+  <size>83912</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:20:19</createdat>
+
+  <updatedat>2022-09-01 12:20:28</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

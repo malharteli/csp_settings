@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>墨佳８</name>
+
+  <cloudcontentid>229521368</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>585478fb02-7a45-b9a4-e731-f1152faf70</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>78/11</subpath>
+
+  <basePath></basePath>
+
+  <size>90622</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:04:40</createdat>
+
+  <updatedat>2022-09-01 12:04:49</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

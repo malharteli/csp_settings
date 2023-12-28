@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="edc6dbeaec-874f-bbba-b1cf-787014c1a4">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.8.4"/>
+    <name>Layer 2 Copy 3</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4c2c298bc7-b743-cdb4-42c4-3a88748a3a">
+        <tool company="celsys" name="paint" version="1.8.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="c1297b1002-8a45-b2b1-9c65-271819171d">
+            <tool company="celsys" name="paint" version="1.8.4"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Dusty Pencil</name>
+            <created_date>2019/12/17 13:36:00</created_date>
+            <modified_date>2019/12/17 13:36:00</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="917e023617-5d46-d68e-4e12-5cce1ed54b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="2ae36e2463-7d4b-549d-ffe1-9f0e0a6d21"/>
+            </data>
+            <icedata>
+              <fileref idref="c35a6d200e-7343-17b4-64e0-0c7571c7c3"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="2ae36e2463-7d4b-549d-ffe1-9f0e0a6d21" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="917e023617-5d46-d68e-4e12-5cce1ed54b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="c35a6d200e-7343-17b4-64e0-0c7571c7c3" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

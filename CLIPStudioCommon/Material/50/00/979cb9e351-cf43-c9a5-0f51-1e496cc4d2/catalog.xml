@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="979cb9e351-cf43-c9a5-0f51-1e496cc4d2">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.8.4"/>
+    <name>brush tips watercolor Copy 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="12880e0701-8d4d-47b9-aa23-d5604a2990">
+        <tool company="celsys" name="paint" version="1.8.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="43409f70f1-a849-5ea2-3322-8f69a461fa">
+            <tool company="celsys" name="paint" version="1.8.4"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Watercraft 3</name>
+            <created_date>2020/01/19 12:30:41</created_date>
+            <modified_date>2020/01/19 12:30:41</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="6abc896b32-6944-afa7-c57a-75f63c2c23"/>
+            </thumbnail>
+            <data>
+              <fileref idref="1123a98827-634d-4b97-a34d-0f8e1726d1"/>
+            </data>
+            <icedata>
+              <fileref idref="7c9b2af2d8-1d49-31aa-51eb-8d5a51fe2c"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="1123a98827-634d-4b97-a34d-0f8e1726d1" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="6abc896b32-6944-afa7-c57a-75f63c2c23" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="7c9b2af2d8-1d49-31aa-51eb-8d5a51fe2c" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

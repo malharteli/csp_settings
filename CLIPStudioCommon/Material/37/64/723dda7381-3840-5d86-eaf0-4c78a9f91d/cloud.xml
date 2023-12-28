@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_35mm-grain-texture</name>
+
+  <cloudcontentid>229528457</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>723dda7381-3840-5d86-eaf0-4c78a9f91d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>37/64</subpath>
+
+  <basePath></basePath>
+
+  <size>6687983</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:52:50</createdat>
+
+  <updatedat>2022-09-01 12:53:01</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

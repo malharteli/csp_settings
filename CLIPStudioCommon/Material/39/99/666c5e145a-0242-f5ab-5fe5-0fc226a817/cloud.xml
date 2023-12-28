@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Hatch Sharpen</name>
+
+  <cloudcontentid>229521294</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>666c5e145a-0242-f5ab-5fe5-0fc226a817</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>39/99</subpath>
+
+  <basePath></basePath>
+
+  <size>153980</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:04:17</createdat>
+
+  <updatedat>2022-09-01 12:04:26</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Chaos Tip</name>
+
+  <cloudcontentid>229525287</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>5d24611099-0e45-da87-8e6e-8df65d42ba</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>53/56</subpath>
+
+  <basePath></basePath>
+
+  <size>180097</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:28:17</createdat>
+
+  <updatedat>2022-09-01 12:28:27</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Aqua 03</name>
+
+  <cloudcontentid>229525312</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>cb10fedab4-1449-e890-9df3-20132ff60c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>25/18</subpath>
+
+  <basePath></basePath>
+
+  <size>240539</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:28:29</createdat>
+
+  <updatedat>2022-09-01 12:28:39</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

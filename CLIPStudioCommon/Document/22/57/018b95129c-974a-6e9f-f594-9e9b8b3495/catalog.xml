@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="018b95129c-974a-6e9f-f594-9e9b8b3495">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.6"/>
+    <name>LumiereKnights</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a50ffee626-c149-7eb9-8376-b8592db47c">
+        <tool company="celsys" name="paint" version="2.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9ceb5086db-864e-5db3-60b5-e70af6c2b1">
+            <tool company="celsys" name="paint" version="2.0.6"/>
+            <type ver="">paintwork2</type>
+            <name>LumiereKnights</name>
+            <created_date>2023/09/05 02:09:26</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="34b1340ad9-0540-4a88-9b6a-9bde13040a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6b9bd2c7b5-3245-d4b3-ffac-89442fbfed"/>
+              <fileref idref="6fd66e5475-ab47-2387-b236-870c1fbc19"/>
+              <fileref idref="0083f8263e-764f-79bf-a27a-e1972eaef1"/>
+              <fileref idref="e62935de7c-a24f-5ea6-10a3-f1266b717e"/>
+              <fileref idref="e15972aaa5-e04b-5eaf-5017-1041710d9d"/>
+              <fileref idref="f9c2714cae-1b40-73a2-a152-102cf20964"/>
+              <fileref idref="2ba93fd35c-4c42-0bb1-37f3-9194035713"/>
+              <fileref idref="de566fd40e-7c43-8190-f348-f3adf48153"/>
+              <fileref idref="4b4139c3cc-df4e-c1a6-e9f6-5ec655d041"/>
+              <fileref idref="87abda4698-f441-7c9b-4059-41f0ddfdcd"/>
+              <fileref idref="cbf77a49fc-9e46-4c87-3763-e6a1e78336"/>
+              <fileref idref="8f8f142bc2-4e43-f990-b90b-c46e446f9d"/>
+              <fileref idref="a903177e44-1846-4cbd-4577-0954915ab9"/>
+              <fileref idref="0e9cfe6174-5746-4982-433c-9982eae334"/>
+              <fileref idref="75f0d24685-c548-ec8b-b8cf-3eac715ad8"/>
+              <fileref idref="d00fdc996c-ce46-03a5-d88d-f3cdd8eab3"/>
+              <fileref idref="fa831268a0-fc4a-93ab-adbb-eb4e1a8bce"/>
+              <fileref idref="e4c6341eaa-0342-128f-ecc6-c69c428de2"/>
+              <fileref idref="5a46d11409-f845-68bf-1ae7-8354ed6ad5"/>
+              <fileref idref="296b47f463-8541-c9bd-ccfa-9f0d990f6e"/>
+              <fileref idref="9ebbc94c4f-1d4c-a2a9-5e53-59600cd421"/>
+              <fileref idref="e6b9f8d814-0742-b2a9-cec0-652ea67acf"/>
+              <fileref idref="5106161d70-fa46-37b4-f5ee-62146e035e"/>
+              <fileref idref="d7d3c688ee-b74a-18b9-6d7f-c92947d089"/>
+              <fileref idref="0e03822ee6-d740-99be-dd93-5536abd37a"/>
+              <fileref idref="46f60c338f-9844-ebad-0eb5-bc498839e0"/>
+              <fileref idref="c298f3efcd-4d45-a08a-7ddb-6c441f4700"/>
+              <fileref idref="0e5ff80a5e-6542-d3ba-0e3c-76aa468473"/>
+              <fileref idref="19d58d9549-a14d-1d87-0e97-6680519872"/>
+            </data>
+            <icedata>
+              <fileref idref="7423212577-0146-9292-2a07-1ecce1d3d0"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="0083f8263e-764f-79bf-a27a-e1972eaef1" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="0e03822ee6-d740-99be-dd93-5536abd37a" mime="application/octet-stream">
+      <path>page0024.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="0e5ff80a5e-6542-d3ba-0e3c-76aa468473" mime="application/octet-stream">
+      <path>page0027.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="0e9cfe6174-5746-4982-433c-9982eae334" mime="application/octet-stream">
+      <path>page0013.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="19d58d9549-a14d-1d87-0e97-6680519872" mime="application/octet-stream">
+      <path>page0028.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="296b47f463-8541-c9bd-ccfa-9f0d990f6e" mime="application/octet-stream">
+      <path>page0019.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="2ba93fd35c-4c42-0bb1-37f3-9194035713" mime="application/octet-stream">
+      <path>page0006.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="34b1340ad9-0540-4a88-9b6a-9bde13040a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="46f60c338f-9844-ebad-0eb5-bc498839e0" mime="application/octet-stream">
+      <path>page0025.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="4b4139c3cc-df4e-c1a6-e9f6-5ec655d041" mime="application/octet-stream">
+      <path>page0008.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="5106161d70-fa46-37b4-f5ee-62146e035e" mime="application/octet-stream">
+      <path>page0022.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="5a46d11409-f845-68bf-1ae7-8354ed6ad5" mime="application/octet-stream">
+      <path>page0018.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="6b9bd2c7b5-3245-d4b3-ffac-89442fbfed" mime="application/octet-stream">
+      <path>LumiereKnights.cmc</path>
+    </file>
+    <file document="false" encrypt="true" id="6fd66e5475-ab47-2387-b236-870c1fbc19" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="7423212577-0146-9292-2a07-1ecce1d3d0" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="75f0d24685-c548-ec8b-b8cf-3eac715ad8" mime="application/octet-stream">
+      <path>page0014.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="87abda4698-f441-7c9b-4059-41f0ddfdcd" mime="application/octet-stream">
+      <path>page0009.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="8f8f142bc2-4e43-f990-b90b-c46e446f9d" mime="application/octet-stream">
+      <path>page0011.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="9ebbc94c4f-1d4c-a2a9-5e53-59600cd421" mime="application/octet-stream">
+      <path>page0020.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="a903177e44-1846-4cbd-4577-0954915ab9" mime="application/octet-stream">
+      <path>page0012.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="c298f3efcd-4d45-a08a-7ddb-6c441f4700" mime="application/octet-stream">
+      <path>page0026.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="cbf77a49fc-9e46-4c87-3763-e6a1e78336" mime="application/octet-stream">
+      <path>page0010.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="d00fdc996c-ce46-03a5-d88d-f3cdd8eab3" mime="application/octet-stream">
+      <path>page0015.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="d7d3c688ee-b74a-18b9-6d7f-c92947d089" mime="application/octet-stream">
+      <path>page0023.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="de566fd40e-7c43-8190-f348-f3adf48153" mime="application/octet-stream">
+      <path>page0007.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e15972aaa5-e04b-5eaf-5017-1041710d9d" mime="application/octet-stream">
+      <path>page0004.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e4c6341eaa-0342-128f-ecc6-c69c428de2" mime="application/octet-stream">
+      <path>page0017.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e62935de7c-a24f-5ea6-10a3-f1266b717e" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e6b9f8d814-0742-b2a9-cec0-652ea67acf" mime="application/octet-stream">
+      <path>page0021.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="f9c2714cae-1b40-73a2-a152-102cf20964" mime="application/octet-stream">
+      <path>page0005.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="fa831268a0-fc4a-93ab-adbb-eb4e1a8bce" mime="application/octet-stream">
+      <path>page0016.clip</path>
+    </file>
+  </files>
+
+</archive>

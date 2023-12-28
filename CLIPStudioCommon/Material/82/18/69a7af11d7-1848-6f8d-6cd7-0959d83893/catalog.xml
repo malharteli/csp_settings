@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="69a7af11d7-1848-6f8d-6cd7-0959d83893">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Layer 1 2 Copy</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="36c30f92d7-6e4f-6791-cea0-d479026db0">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="6670121d30-7648-c9a7-8368-1a70b06117">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Distress Smallish</name>
+            <created_date>2021/06/29 15:56:33</created_date>
+            <modified_date>2021/06/29 15:56:53</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b810e97637-6f42-99ab-762f-6a62a6bbe1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="0247bb69bf-eb47-0e94-b90b-9b9bc06494"/>
+            </data>
+            <icedata>
+              <fileref idref="d6c6460dd8-2b47-14b6-d246-596ed95547"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="0247bb69bf-eb47-0e94-b90b-9b9bc06494" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="b810e97637-6f42-99ab-762f-6a62a6bbe1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="d6c6460dd8-2b47-14b6-d246-596ed95547" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

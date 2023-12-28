@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>sf green grain</name>
+
+  <cloudcontentid>229526262</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>bb83b4389a-e242-45a7-f4a5-f182fc6ac5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>88/54</subpath>
+
+  <basePath></basePath>
+
+  <size>424096</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:35:31</createdat>
+
+  <updatedat>2022-09-01 12:35:42</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="143d9c7835-bd46-b290-5f65-f12d9a6e04" ver="20230618211841">
+    <ccf_registed_at>2023/06/18 21:18:41</ccf_registed_at>
+    <content_id>2009826</content_id>
+    <origin_content_id>2009826</origin_content_id>
+    <url>https://assets.clip-studio.com</url>
+    <type>material</type>
+    <user_id>2062509</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.8"/>
+    <name>noise theft Copy</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c3b52db8cd-ff45-afb4-61bf-0911e74321" ver="20230618211841">
+        <ccf_registed_at>2023/06/18 21:18:41</ccf_registed_at>
+        <tool company="celsys" name="paint" version="1.12.8"/>
+        <user_id>2062509</user_id>
+        <group_id>2066712</group_id>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8897e15b06-4c4c-88aa-e0ed-396889e6fc" ver="20230618211841">
+            <ccf_registed_at>2023/06/18 21:18:41</ccf_registed_at>
+            <tool company="celsys" name="paint" version="1.12.8"/>
+            <user_id>2062509</user_id>
+            <item_id>2066713</item_id>
+            <type ver="1.0.1">image</type>
+            <name>chromatic noise</name>
+            <created_date>2023/10/06 16:51:11</created_date>
+            <modified_date>2023/10/06 16:51:11</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="607051d98f-5748-ac93-38b0-d6c63ce69b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="8060c84f64-a74a-8ea5-b8ee-245eabffa2"/>
+            </data>
+            <icedata>
+              <fileref idref="5e818eea71-554e-bf8b-1e3a-d9c0141e99"/>
+            </icedata>
+            <description>
+              <fileref idref="14b85a3cd2-0e4b-df90-8d08-075bbef22b"/>
+            </description>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="14b85a3cd2-0e4b-df90-8d08-075bbef22b" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+    <file document="false" encrypt="false" id="5e818eea71-554e-bf8b-1e3a-d9c0141e99" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="607051d98f-5748-ac93-38b0-d6c63ce69b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="8060c84f64-a74a-8ea5-b8ee-245eabffa2" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Dry Brush 22</name>
+
+  <cloudcontentid>229524414</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8a4e62e3f8-d24f-b1a7-3437-60b4f2adf8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>83/59</subpath>
+
+  <basePath></basePath>
+
+  <size>510334</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:21:17</createdat>
+
+  <updatedat>2022-09-01 12:21:27</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

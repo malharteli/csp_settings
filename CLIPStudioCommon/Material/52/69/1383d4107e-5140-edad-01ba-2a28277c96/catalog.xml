@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="1383d4107e-5140-edad-01ba-2a28277c96">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>Layer 3 Copy 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0d9917c9f3-a447-e2b6-f7b9-c0524e84c4">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="cf8237cee5-6c4a-958c-7ede-634ed6bb82">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Square Grunge 1</name>
+            <created_date>2021/12/26 10:12:00</created_date>
+            <modified_date>2021/12/26 10:12:25</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="170ad5e7ed-7841-39b5-08fd-adbbe8d3fe"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f33cda6de9-4941-3b9b-19df-eed5a16d06"/>
+            </data>
+            <icedata>
+              <fileref idref="44f4d67152-9849-c7a2-bb90-b61063f78a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="170ad5e7ed-7841-39b5-08fd-adbbe8d3fe" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="44f4d67152-9849-c7a2-bb90-b61063f78a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="f33cda6de9-4941-3b9b-19df-eed5a16d06" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

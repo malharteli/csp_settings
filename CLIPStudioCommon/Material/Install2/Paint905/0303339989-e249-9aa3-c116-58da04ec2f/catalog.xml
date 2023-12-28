@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="0303339989-e249-9aa3-c116-58da04ec2f">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="2.0.0"/>
+    <name>Stage lights</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="eca8553a88-8247-b293-be60-dc471f8ec7">
+        <tool company="celsys" name="paint" version="2.0.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="0" modify_thumbnail="1" parentuuid="" uuid="a0de8e15fd-d846-7caf-dbb9-afa4499079">
+            <tool company="celsys" name="paint" version="2.0.0"/>
+            <type ver="1.0.1">image</type>
+            <name>Stage lights</name>
+            <created_date>2023/03/27 07:40:46</created_date>
+            <modified_date>2023/03/28 06:19:14</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f1c05577e0-cd4f-108e-8877-e03b806d9c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="625e04ea77-8b4b-24bf-ee4e-3d129c7f4e"/>
+            </data>
+            <icedata>
+              <fileref idref="ea50653419-a84e-cd97-5bfd-62e10ef4d3"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="625e04ea77-8b4b-24bf-ee4e-3d129c7f4e" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="ea50653419-a84e-cd97-5bfd-62e10ef4d3" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="f1c05577e0-cd4f-108e-8877-e03b806d9c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

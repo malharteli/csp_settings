@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Splatter A11</name>
+
+  <cloudcontentid>229525629</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>393356bab8-e147-9d98-875e-8aac825aa9</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>19/85</subpath>
+
+  <basePath></basePath>
+
+  <size>99025</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:30:52</createdat>
+
+  <updatedat>2022-09-01 12:31:00</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

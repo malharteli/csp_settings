@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Paper  Grain</name>
+
+  <cloudcontentid>229526026</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d97fd23947-a04c-e5b1-0566-5b4bbb55fc</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>84/07</subpath>
+
+  <basePath></basePath>
+
+  <size>390644</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:33:53</createdat>
+
+  <updatedat>2022-09-01 12:34:04</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

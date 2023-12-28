@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Dry Triangle</name>
+
+  <cloudcontentid>229527346</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c2bdc55b6f-a545-aabf-64d7-d97df580c3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>26/04</subpath>
+
+  <basePath></basePath>
+
+  <size>224684</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:43:46</createdat>
+
+  <updatedat>2022-09-01 12:43:56</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

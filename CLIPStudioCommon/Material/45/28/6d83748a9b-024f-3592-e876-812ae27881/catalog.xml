@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="6d83748a9b-024f-3592-e876-812ae27881">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Layer 4 3 Copy 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b4a4663de6-4347-2794-eeee-9a95efc2c3">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="58f5b36bbc-644f-44b8-815b-6f77f88aa9">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Yoji 4</name>
+            <created_date>2021/11/11 14:44:20</created_date>
+            <modified_date>2021/11/11 14:44:33</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="06fb891719-c047-f589-ee1b-9fc97c835e"/>
+            </thumbnail>
+            <data>
+              <fileref idref="ca4f5a4219-c24c-4998-a64c-a2888e5e7d"/>
+            </data>
+            <icedata>
+              <fileref idref="bddd0bb3f8-be48-1093-07df-6b40aaa6fb"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="06fb891719-c047-f589-ee1b-9fc97c835e" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="bddd0bb3f8-be48-1093-07df-6b40aaa6fb" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="ca4f5a4219-c24c-4998-a64c-a2888e5e7d" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

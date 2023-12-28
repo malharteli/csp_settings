@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_kws aquarelle</name>
+
+  <cloudcontentid>229520985</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d22ef5a6d5-f54c-17a7-d21c-3d6494ffc0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>61/20</subpath>
+
+  <basePath></basePath>
+
+  <size>3161966</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:02:30</createdat>
+
+  <updatedat>2022-09-01 12:02:40</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

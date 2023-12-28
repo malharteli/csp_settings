@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Diamond Rake</name>
+
+  <cloudcontentid>229525059</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a5a363d6b1-4c4b-4687-51b4-e628456250</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>68/49</subpath>
+
+  <basePath></basePath>
+
+  <size>187705</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:26:18</createdat>
+
+  <updatedat>2022-09-01 12:26:28</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

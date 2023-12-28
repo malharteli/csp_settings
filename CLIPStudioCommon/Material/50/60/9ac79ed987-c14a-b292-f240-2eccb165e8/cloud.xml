@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Half and Half</name>
+
+  <cloudcontentid>229523435</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>9ac79ed987-c14a-b292-f240-2eccb165e8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>50/60</subpath>
+
+  <basePath></basePath>
+
+  <size>240977</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:15:13</createdat>
+
+  <updatedat>2022-09-01 12:15:22</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

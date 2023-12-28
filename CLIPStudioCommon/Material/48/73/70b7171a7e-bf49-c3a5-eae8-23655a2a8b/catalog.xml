@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="70b7171a7e-bf49-c3a5-eae8-23655a2a8b">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.11.6"/>
+    <name>Layer 1 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1f5ab0fbc4-6141-d7ae-5170-72b26cdbae">
+        <tool company="celsys" name="paint" version="1.11.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="cfeab90f85-7f49-99b5-670f-e6d3d2e670">
+            <tool company="celsys" name="paint" version="1.11.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Acrylic Daze 3</name>
+            <created_date>2022/01/16 20:08:52</created_date>
+            <modified_date>2022/01/16 20:09:16</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="27447bfe83-3f44-c1ab-9838-a41a4b825b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="ecb3603dde-de44-1ba2-a09f-5f1764b303"/>
+            </data>
+            <icedata>
+              <fileref idref="cdeb8e8440-fd4b-d3a0-0de1-36b56e05f0"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="27447bfe83-3f44-c1ab-9838-a41a4b825b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="cdeb8e8440-fd4b-d3a0-0de1-36b56e05f0" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="ecb3603dde-de44-1ba2-a09f-5f1764b303" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

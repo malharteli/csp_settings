@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Better Triangle</name>
+
+  <cloudcontentid>229525199</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>69fe862b97-a44a-dfb0-6830-315f7b9946</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>32/39</subpath>
+
+  <basePath></basePath>
+
+  <size>150169</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:27:31</createdat>
+
+  <updatedat>2022-09-01 12:27:40</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

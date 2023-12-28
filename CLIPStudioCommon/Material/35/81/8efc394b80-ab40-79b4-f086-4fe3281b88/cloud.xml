@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Rounder Distress</name>
+
+  <cloudcontentid>229526232</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8efc394b80-ab40-79b4-f086-4fe3281b88</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>35/81</subpath>
+
+  <basePath></basePath>
+
+  <size>653054</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:35:18</createdat>
+
+  <updatedat>2022-09-01 12:35:29</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

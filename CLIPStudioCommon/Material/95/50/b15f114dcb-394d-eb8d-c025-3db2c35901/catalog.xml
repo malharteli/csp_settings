@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b15f114dcb-394d-eb8d-c025-3db2c35901">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.8.4"/>
+    <name>overlay over canvas Copy</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="770d3066b1-8e49-a394-7163-a9abd9118a">
+        <tool company="celsys" name="paint" version="1.8.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="191364aaad-5d4a-71a5-ad5f-720696039c">
+            <tool company="celsys" name="paint" version="1.8.4"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Canvas speckled</name>
+            <created_date>2019/10/06 18:20:31</created_date>
+            <modified_date>2019/10/06 18:20:31</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="657d76fcb4-da42-c5ad-6469-88058dbefb"/>
+            </thumbnail>
+            <data>
+              <fileref idref="1c48d28141-3340-8780-c379-3faaf4ec2f"/>
+            </data>
+            <icedata>
+              <fileref idref="c97ceffc0d-9041-d9bb-15c5-a6d813ce9a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="1c48d28141-3340-8780-c379-3faaf4ec2f" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="657d76fcb4-da42-c5ad-6469-88058dbefb" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="c97ceffc0d-9041-d9bb-15c5-a6d813ce9a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

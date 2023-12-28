@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Splatter Ps</name>
+
+  <cloudcontentid>229523002</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7e523b2763-2d4a-a19f-7e58-97ce0e30b3</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>41/92</subpath>
+
+  <basePath></basePath>
+
+  <size>140353</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:12:48</createdat>
+
+  <updatedat>2022-09-01 12:12:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

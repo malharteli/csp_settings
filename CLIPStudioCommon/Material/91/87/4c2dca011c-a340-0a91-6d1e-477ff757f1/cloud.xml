@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Watercolor paper</name>
+
+  <cloudcontentid>229521778</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4c2dca011c-a340-0a91-6d1e-477ff757f1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>91/87</subpath>
+
+  <basePath></basePath>
+
+  <size>904052</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:06:47</createdat>
+
+  <updatedat>2022-09-01 12:06:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

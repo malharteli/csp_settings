@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="243f384ebd-c54b-61b3-fe19-1f263fd035">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.8.4"/>
+    <name>Layer 4 3 Copy</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ab8bc875b5-1446-b58d-3083-37e7551ffe">
+        <tool company="celsys" name="paint" version="1.8.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="6b6e94c655-7944-f8b7-43a6-275f7cdc42">
+            <tool company="celsys" name="paint" version="1.8.4"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Frayed Triangle Tip</name>
+            <created_date>2020/06/12 07:47:48</created_date>
+            <modified_date>2020/06/12 07:47:48</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="f4dc9547af-7847-34bb-7cc0-d2fa3e2588"/>
+            </thumbnail>
+            <data>
+              <fileref idref="daaa99426a-704c-919c-b0ec-a9d8d81aac"/>
+            </data>
+            <icedata>
+              <fileref idref="ac43b71899-a04a-acbf-e4e1-a7373d2750"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="ac43b71899-a04a-acbf-e4e1-a7373d2750" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="daaa99426a-704c-919c-b0ec-a9d8d81aac" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="f4dc9547af-7847-34bb-7cc0-d2fa3e2588" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

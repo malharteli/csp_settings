@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="5b3816329d-0a48-eeb7-9fef-4d6de8d279">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.5"/>
+    <name>Paper 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cf92a33287-3548-488f-9f5f-8e03d37bcd">
+        <tool company="celsys" name="paint" version="1.10.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="8d7dbfe1b8-034c-61b6-1a3b-6e84b6cd68">
+            <tool company="celsys" name="paint" version="1.10.5"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Paper Ridged Distress Grunge</name>
+            <created_date>2021/01/03 16:28:03</created_date>
+            <modified_date>2021/01/03 16:28:23</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="5c08404144-694f-379b-0394-d4ccc62f25"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4d17dc8199-9543-37a8-27cd-363ca2f058"/>
+            </data>
+            <icedata>
+              <fileref idref="9d3a263c5f-7546-bca8-b01c-4f99551b00"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="4d17dc8199-9543-37a8-27cd-363ca2f058" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="5c08404144-694f-379b-0394-d4ccc62f25" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="9d3a263c5f-7546-bca8-b01c-4f99551b00" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Tip Hatch Black</name>
+
+  <cloudcontentid>229527806</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>830dc4e1bf-884e-cfac-3216-5946980796</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>79/51</subpath>
+
+  <basePath></basePath>
+
+  <size>177514</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:47:43</createdat>
+
+  <updatedat>2022-09-01 12:47:52</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

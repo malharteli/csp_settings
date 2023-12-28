@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="57a245fd41-e44e-b791-033e-333583e93e">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.13.3"/>
+    <name>New 3D Head Model_9</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="11c322c8d9-bc45-45ad-2c29-f9f21325b7">
+        <tool company="celsys" name="paint" version="1.13.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="891fd1f3ae-6649-1e92-7675-b6fce8c1c5">
+            <tool company="celsys" name="paint" version="1.13.3"/>
+            <type ver="1.0.7">3dhead</type>
+            <name>Skeletal</name>
+            <created_date>2023/02/08 10:11:22</created_date>
+            <modified_date>2023/02/10 04:13:53</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="91ac823c38-3443-1ba0-213d-5fb1770dbb"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4d76cd9de9-6d47-ccb6-d49b-cc56506b6d"/>
+            </data>
+            <icedata>
+              <fileref idref="b55c6b061f-6b40-33a2-a5bd-8b91d3751d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="4d76cd9de9-6d47-ccb6-d49b-cc56506b6d" mime="application/octet-stream">
+      <path>data/material_0.dessindollhead</path>
+    </file>
+    <file document="false" encrypt="false" id="91ac823c38-3443-1ba0-213d-5fb1770dbb" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="b55c6b061f-6b40-33a2-a5bd-8b91d3751d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

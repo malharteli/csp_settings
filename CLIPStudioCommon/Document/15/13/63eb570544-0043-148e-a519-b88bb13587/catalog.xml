@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="63eb570544-0043-148e-a519-b88bb13587">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.6"/>
+    <name>TwinDetectives</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a81a297ebc-0643-978e-d728-f6f3e9003f">
+        <tool company="celsys" name="paint" version="2.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7a1d84d6ce-7145-59bd-a788-7f5a453077">
+            <tool company="celsys" name="paint" version="2.0.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>TwinDetectives</name>
+            <created_date>2023/12/26 21:53:15</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="ef3d0e91e1-d946-378a-83c4-7114f80f7d"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6f8e422a2b-e944-ee99-56dc-dcb2e01214"/>
+            </data>
+            <icedata>
+              <fileref idref="93448022b8-4e46-f4bd-058a-9adfc7476d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="6f8e422a2b-e944-ee99-56dc-dcb2e01214" mime="application/octet-stream">
+      <path>TwinDetectives.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="93448022b8-4e46-f4bd-058a-9adfc7476d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="ef3d0e91e1-d946-378a-83c4-7114f80f7d" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

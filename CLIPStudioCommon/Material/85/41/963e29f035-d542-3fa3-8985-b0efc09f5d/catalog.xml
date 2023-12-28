@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="963e29f035-d542-3fa3-8985-b0efc09f5d">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.8.4"/>
+    <name>TexturesCom_BrushStrokes2_overlay_S Copy</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="81f6eeeaef-2646-c6a8-e61f-b03f85f40b">
+        <tool company="celsys" name="paint" version="1.8.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="6b7eb9e1ce-0743-e9a0-b9ef-1dd05c3c54">
+            <tool company="celsys" name="paint" version="1.8.4"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_brushstroke 01</name>
+            <created_date>2019/09/21 21:31:13</created_date>
+            <modified_date>2019/09/21 21:31:13</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="4985ff7c53-9049-e09d-fb72-1610b4b250"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c970f7dadd-2b45-fdb9-7ad8-33a09a0c2f"/>
+            </data>
+            <icedata>
+              <fileref idref="6174b6528d-a94c-2695-de60-e68a67e472"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="4985ff7c53-9049-e09d-fb72-1610b4b250" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="6174b6528d-a94c-2695-de60-e68a67e472" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="c970f7dadd-2b45-fdb9-7ad8-33a09a0c2f" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8ccc3462ac-d64e-b4b3-1feb-110e837e94">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.11"/>
+    <name>PairOfEyes</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="bac5528d26-1c47-b5a4-b08b-449dd1eafa">
+        <tool company="celsys" name="paint" version="1.12.11"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2d0607c51c-fb40-c1b9-8c62-a10e8ec2b1">
+            <tool company="celsys" name="paint" version="1.12.11"/>
+            <type ver="">clipstudioformat</type>
+            <name>PairOfEyes</name>
+            <created_date>2022/11/04 02:09:59</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="21d16f6de5-5047-45b5-b797-a268eb8018"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4332432e7b-c14e-7f89-1824-0686791ba2"/>
+            </data>
+            <icedata>
+              <fileref idref="e22e302868-b14f-6dbe-adfc-1ece1c12a8"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="21d16f6de5-5047-45b5-b797-a268eb8018" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="4332432e7b-c14e-7f89-1824-0686791ba2" mime="application/octet-stream">
+      <path>PairOfEyes.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="e22e302868-b14f-6dbe-adfc-1ece1c12a8" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

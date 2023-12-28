@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="bb83b4389a-e242-45a7-f4a5-f182fc6ac5">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.8.4"/>
+    <name>green-cup 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2f5414d6f5-8043-38ba-838e-d293c7fed8">
+        <tool company="celsys" name="paint" version="1.8.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="007c1d21b7-6c48-96b2-6bb7-e4aa7dc34e">
+            <tool company="celsys" name="paint" version="1.8.4"/>
+            <type ver="1.0.1">image</type>
+            <name>sf green grain</name>
+            <created_date>2019/08/06 12:27:10</created_date>
+            <modified_date>2019/08/06 12:27:10</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1a2f68eca5-224e-7786-acf5-e8e7bdc4b7"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f43560731c-8d41-2e9a-8abb-16330206fc"/>
+            </data>
+            <icedata>
+              <fileref idref="b21cae32ed-7a41-9fbd-6235-72b79c4904"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1a2f68eca5-224e-7786-acf5-e8e7bdc4b7" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="b21cae32ed-7a41-9fbd-6235-72b79c4904" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="f43560731c-8d41-2e9a-8abb-16330206fc" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

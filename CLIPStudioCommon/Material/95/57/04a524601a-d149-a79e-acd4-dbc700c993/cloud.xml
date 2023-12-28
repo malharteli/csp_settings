@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Acrylic Smudge</name>
+
+  <cloudcontentid>229523762</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>04a524601a-d149-a79e-acd4-dbc700c993</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>95/57</subpath>
+
+  <basePath></basePath>
+
+  <size>204314</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:17:00</createdat>
+
+  <updatedat>2022-09-01 12:17:09</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

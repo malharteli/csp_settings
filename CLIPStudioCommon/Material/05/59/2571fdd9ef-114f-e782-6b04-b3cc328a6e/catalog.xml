@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="2571fdd9ef-114f-e782-6b04-b3cc328a6e">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.13"/>
+    <name>Layer 3 Copy 3</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="edd9265546-ad40-6eac-da2d-c89582dcc8">
+        <tool company="celsys" name="paint" version="1.10.13"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="deec93d979-1647-5892-0ee4-33820eaa89">
+            <tool company="celsys" name="paint" version="1.10.13"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Blurred Tip 2</name>
+            <created_date>2021/08/21 10:50:29</created_date>
+            <modified_date>2021/08/21 10:50:45</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="989ceb7b38-404a-f0bc-b76d-8c93af6224"/>
+            </thumbnail>
+            <data>
+              <fileref idref="591b96c721-6b44-f698-9b7f-7396de6afd"/>
+            </data>
+            <icedata>
+              <fileref idref="b1d5e94ee4-d54e-c493-dbff-9a524b6044"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="591b96c721-6b44-f698-9b7f-7396de6afd" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="989ceb7b38-404a-f0bc-b76d-8c93af6224" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="b1d5e94ee4-d54e-c493-dbff-9a524b6044" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

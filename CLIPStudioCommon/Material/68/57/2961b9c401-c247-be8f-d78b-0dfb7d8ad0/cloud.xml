@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Fuzzy Center</name>
+
+  <cloudcontentid>229524362</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2961b9c401-c247-be8f-d78b-0dfb7d8ad0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>68/57</subpath>
+
+  <basePath></basePath>
+
+  <size>317628</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:20:53</createdat>
+
+  <updatedat>2022-09-01 12:21:02</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

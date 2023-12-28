@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Dry Ink</name>
+
+  <cloudcontentid>229523327</cloudcontentid>
+
+  <revision>2</revision>
+
+  <key>573d2b722a-b54c-dcab-735a-72f04f49ee</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>77/48</subpath>
+
+  <basePath></basePath>
+
+  <size>189482</size>
+
+  <permit>0</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:14:37</createdat>
+
+  <updatedat>2022-10-16 06:09:41</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

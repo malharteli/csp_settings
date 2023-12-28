@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Critter Paper</name>
+
+  <cloudcontentid>229524989</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>87263d16f4-f14b-0c99-95b9-fd96c345ee</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>73/09</subpath>
+
+  <basePath></basePath>
+
+  <size>466597</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:25:42</createdat>
+
+  <updatedat>2022-09-01 12:25:52</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

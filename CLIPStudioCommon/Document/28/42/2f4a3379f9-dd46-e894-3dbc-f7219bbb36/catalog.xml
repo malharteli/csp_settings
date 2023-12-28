@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="2f4a3379f9-dd46-e894-3dbc-f7219bbb36">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.13.2"/>
+    <name>Mean_Magical_girl_Story</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="04dc3d0d33-844a-d583-45db-5b5c1214e2">
+        <tool company="celsys" name="paint" version="1.13.2"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d4944b9146-1945-ed84-4e3e-3a836d663f">
+            <tool company="celsys" name="paint" version="1.13.2"/>
+            <type ver="">clipstudioformat</type>
+            <name>Mean_Magical_girl_Story</name>
+            <created_date>2023/03/09 15:18:55</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="8d57bd4353-e747-3394-6bd8-db6aec9c89"/>
+            </thumbnail>
+            <data>
+              <fileref idref="671abfa475-b540-a59a-5211-ccf0805a1c"/>
+            </data>
+            <icedata>
+              <fileref idref="4a54f0b1eb-3c4e-f692-9888-617e28db28"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="4a54f0b1eb-3c4e-f692-9888-617e28db28" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="671abfa475-b540-a59a-5211-ccf0805a1c" mime="application/octet-stream">
+      <path>Mean_Magical_girl_Story.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="8d57bd4353-e747-3394-6bd8-db6aec9c89" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

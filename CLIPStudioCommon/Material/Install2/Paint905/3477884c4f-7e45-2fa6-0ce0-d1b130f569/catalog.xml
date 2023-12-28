@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="3477884c4f-7e45-2fa6-0ce0-d1b130f569">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="2.0.0"/>
+    <name>Ribbon banner</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b9f8fd3952-3843-5c85-c26f-a26c4ced7d">
+        <tool company="celsys" name="paint" version="2.0.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="779ddd5d0e-364f-cbbb-b1fb-e4ca70be02">
+            <tool company="celsys" name="paint" version="2.0.0"/>
+            <type ver="1.0.1">image</type>
+            <name>Ribbon banner</name>
+            <created_date>2023/03/27 07:26:06</created_date>
+            <modified_date>2023/03/28 06:22:14</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="9af3e779d6-b946-f781-efb0-7047218cd1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="503d6f106e-ee4d-cdb1-43e2-7e2f192730"/>
+            </data>
+            <icedata>
+              <fileref idref="991374dfcf-8643-b3b3-4068-424d34096c"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="503d6f106e-ee4d-cdb1-43e2-7e2f192730" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="991374dfcf-8643-b3b3-4068-424d34096c" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="9af3e779d6-b946-f781-efb0-7047218cd1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

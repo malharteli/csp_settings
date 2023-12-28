@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Acrylic Daze 1</name>
+
+  <cloudcontentid>229527782</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>405fabc7ba-a149-45bf-b089-5cc9b84b9f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>79/75</subpath>
+
+  <basePath></basePath>
+
+  <size>1781195</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:47:30</createdat>
+
+  <updatedat>2022-09-01 12:47:41</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="e046c1b9b3-e144-19ba-3638-287f34332e">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.6"/>
+    <name>grunge-brush-stroke-banner-2-25 (1) 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8344de34d7-eb40-4696-280a-72ece85492">
+        <tool company="celsys" name="paint" version="1.10.6"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="3841e97068-c145-3681-1a90-286e4761e0">
+            <tool company="celsys" name="paint" version="1.10.6"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_InkStroke C 3</name>
+            <created_date>2021/01/30 13:28:19</created_date>
+            <modified_date>2021/01/30 13:28:34</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="9c45ea2b58-f949-f7be-1fa2-7d2766226f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="919584c714-694e-3985-e3c4-bec42f4bf8"/>
+            </data>
+            <icedata>
+              <fileref idref="3338f68ad4-3543-0fa4-3475-c0f62efd89"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3338f68ad4-3543-0fa4-3475-c0f62efd89" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="919584c714-694e-3985-e3c4-bec42f4bf8" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="9c45ea2b58-f949-f7be-1fa2-7d2766226f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

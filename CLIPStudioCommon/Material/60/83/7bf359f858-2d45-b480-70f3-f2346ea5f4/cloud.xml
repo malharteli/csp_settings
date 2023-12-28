@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Simple Rake</name>
+
+  <cloudcontentid>229527456</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7bf359f858-2d45-b480-70f3-f2346ea5f4</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>60/83</subpath>
+
+  <basePath></basePath>
+
+  <size>83537</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:44:44</createdat>
+
+  <updatedat>2022-09-01 12:44:53</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

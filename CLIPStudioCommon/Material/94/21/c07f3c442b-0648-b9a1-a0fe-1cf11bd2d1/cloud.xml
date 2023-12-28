@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Pencil Hatch</name>
+
+  <cloudcontentid>229526115</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c07f3c442b-0648-b9a1-a0fe-1cf11bd2d1</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>94/21</subpath>
+
+  <basePath></basePath>
+
+  <size>1005820</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:34:31</createdat>
+
+  <updatedat>2022-09-01 12:34:41</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

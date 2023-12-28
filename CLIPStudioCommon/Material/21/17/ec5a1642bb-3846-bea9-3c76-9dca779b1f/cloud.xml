@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Rounded Triangle Small</name>
+
+  <cloudcontentid>229525604</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>ec5a1642bb-3846-bea9-3c76-9dca779b1f</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>21/17</subpath>
+
+  <basePath></basePath>
+
+  <size>124177</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:30:40</createdat>
+
+  <updatedat>2022-09-01 12:30:49</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

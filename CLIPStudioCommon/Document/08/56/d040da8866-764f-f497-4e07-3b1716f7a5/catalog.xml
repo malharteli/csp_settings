@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="d040da8866-764f-f497-4e07-3b1716f7a5">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.3"/>
+    <name>MagicalGIrlNTR</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="172b478e37-2f4b-498d-b06a-0203c3c421">
+        <tool company="celsys" name="paint" version="1.12.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0ea755bb3a-df46-138b-1a80-4855f7e548">
+            <tool company="celsys" name="paint" version="1.12.3"/>
+            <type ver="">paintwork2</type>
+            <name>MagicalGIrlNTR</name>
+            <created_date>2022/08/20 04:44:28</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="c5e32f3a6d-cd48-2a88-ec73-e3b20e3897"/>
+            </thumbnail>
+            <data>
+              <fileref idref="d71f76302c-964c-4bb4-30c0-457b999e03"/>
+              <fileref idref="d1269c01aa-d342-c99d-1059-5d3028dded"/>
+              <fileref idref="931411d0c2-bf46-028d-81ec-400c8a86b4"/>
+              <fileref idref="27d6ec242a-1d4d-70a6-c0f5-2766447b9c"/>
+            </data>
+            <icedata>
+              <fileref idref="ae22ebbfbc-8f4e-1884-7284-b6191c7a32"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="27d6ec242a-1d4d-70a6-c0f5-2766447b9c" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="931411d0c2-bf46-028d-81ec-400c8a86b4" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="ae22ebbfbc-8f4e-1884-7284-b6191c7a32" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="c5e32f3a6d-cd48-2a88-ec73-e3b20e3897" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="d1269c01aa-d342-c99d-1059-5d3028dded" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="d71f76302c-964c-4bb4-30c0-457b999e03" mime="application/octet-stream">
+      <path>MagicalGIrlNTR.cmc</path>
+    </file>
+  </files>
+
+</archive>

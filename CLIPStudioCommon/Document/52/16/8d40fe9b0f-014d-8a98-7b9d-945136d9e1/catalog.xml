@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="8d40fe9b0f-014d-8a98-7b9d-945136d9e1">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.11"/>
+    <name>Comm_DrgnMastrAlex_Detective_G-AI</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4a047c82a2-3645-8cbd-35b8-e22e2d5a48">
+        <tool company="celsys" name="paint" version="1.12.11"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b7df919712-c645-7cae-1b47-609c7ab44d">
+            <tool company="celsys" name="paint" version="1.12.11"/>
+            <type ver="">clipstudioformat</type>
+            <name>Comm_DrgnMastrAlex_Detective_G-AI</name>
+            <created_date>2022/11/27 02:42:20</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3dfc5550d7-5b4e-c0bd-b248-891f053763"/>
+            </thumbnail>
+            <data>
+              <fileref idref="f1fcbe5a53-1c41-ef9c-1acc-71d7008748"/>
+            </data>
+            <icedata>
+              <fileref idref="2404126867-324e-9598-7ad5-bc80e62c1d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2404126867-324e-9598-7ad5-bc80e62c1d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="3dfc5550d7-5b4e-c0bd-b248-891f053763" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="f1fcbe5a53-1c41-ef9c-1acc-71d7008748" mime="application/octet-stream">
+      <path>Comm_DrgnMastrAlex_Detective_G-AI.clip</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Real Gpen Tip</name>
+
+  <cloudcontentid>229525389</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>4391c28bb9-ab4d-5883-d9a9-6e6358b1d5</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>70/96</subpath>
+
+  <basePath></basePath>
+
+  <size>88356</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:29:07</createdat>
+
+  <updatedat>2022-09-01 12:29:16</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

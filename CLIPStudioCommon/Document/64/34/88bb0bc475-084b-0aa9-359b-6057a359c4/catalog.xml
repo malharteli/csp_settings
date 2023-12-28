@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="88bb0bc475-084b-0aa9-359b-6057a359c4">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.8"/>
+    <name>IceColFlamingo</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b966e5d2c5-9c49-08b6-d810-e5503dc7e0">
+        <tool company="celsys" name="paint" version="1.12.8"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="985efa84aa-ac40-b787-cb97-51b9cfaa00">
+            <tool company="celsys" name="paint" version="1.12.8"/>
+            <type ver="">clipstudioformat</type>
+            <name>IceColFlamingo</name>
+            <created_date>2022/10/20 05:57:26</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="039c51c43d-554a-2b86-bb3f-8e4859b8dc"/>
+            </thumbnail>
+            <data>
+              <fileref idref="50f1f8141d-a249-ef89-58f3-dc85398b48"/>
+            </data>
+            <icedata>
+              <fileref idref="184ea92f81-f643-7da1-fee7-0c82d2a6c2"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="039c51c43d-554a-2b86-bb3f-8e4859b8dc" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="184ea92f81-f643-7da1-fee7-0c82d2a6c2" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="50f1f8141d-a249-ef89-58f3-dc85398b48" mime="application/octet-stream">
+      <path>IceColFlamingo.clip</path>
+    </file>
+  </files>
+
+</archive>

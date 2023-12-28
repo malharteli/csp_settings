@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="af9d1cfe36-9a4d-cd89-4ef2-c89ef3d5ea">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.13.3"/>
+    <name>New 3D Head Model_9</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="341edb5778-b34f-5e8d-748b-91cddc7260">
+        <tool company="celsys" name="paint" version="1.13.3"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="b56c95b82c-a14d-31a2-737a-279bca0225">
+            <tool company="celsys" name="paint" version="1.13.3"/>
+            <type ver="1.0.7">3dhead</type>
+            <name>Sharp anime</name>
+            <created_date>2023/02/08 10:12:41</created_date>
+            <modified_date>2023/02/10 04:16:56</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1ef2fd67ea-8f4d-fb82-f8a1-9f8b4b6248"/>
+            </thumbnail>
+            <data>
+              <fileref idref="dd1e426a20-7849-a3b9-0afc-957403edf0"/>
+            </data>
+            <icedata>
+              <fileref idref="e4453c3160-a44e-cabe-511e-a7fd682189"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1ef2fd67ea-8f4d-fb82-f8a1-9f8b4b6248" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="dd1e426a20-7849-a3b9-0afc-957403edf0" mime="application/octet-stream">
+      <path>data/material_0.dessindollhead</path>
+    </file>
+    <file document="false" encrypt="false" id="e4453c3160-a44e-cabe-511e-a7fd682189" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

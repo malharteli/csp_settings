@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Fragonard 2</name>
+
+  <cloudcontentid>229521178</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>718d1b487e-1841-7e86-faa8-64b6dded1a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>94/14</subpath>
+
+  <basePath></basePath>
+
+  <size>1184770</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:03:41</createdat>
+
+  <updatedat>2022-09-01 12:03:51</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

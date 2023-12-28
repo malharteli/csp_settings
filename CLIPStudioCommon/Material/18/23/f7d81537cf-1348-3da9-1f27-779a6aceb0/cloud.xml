@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Watercolor Blue</name>
+
+  <cloudcontentid>229520837</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>f7d81537cf-1348-3da9-1f27-779a6aceb0</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>18/23</subpath>
+
+  <basePath></basePath>
+
+  <size>731305</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:01:31</createdat>
+
+  <updatedat>2022-09-01 12:01:41</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

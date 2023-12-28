@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Motips 07</name>
+
+  <cloudcontentid>229526927</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>51b2121cd1-7a4b-51bb-2ea9-926e6bcc4d</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>49/67</subpath>
+
+  <basePath></basePath>
+
+  <size>87314</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:40:19</createdat>
+
+  <updatedat>2022-09-01 12:40:28</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

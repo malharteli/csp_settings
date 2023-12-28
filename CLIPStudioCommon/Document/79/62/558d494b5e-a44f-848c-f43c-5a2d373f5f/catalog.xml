@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="558d494b5e-a44f-848c-f43c-5a2d373f5f">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.6"/>
+    <name>Lazuria</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cfed9c13c9-934e-65b8-f04b-546f72b4f9">
+        <tool company="celsys" name="paint" version="2.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8ab83793e0-4846-2b84-5cec-6cfc064a1d">
+            <tool company="celsys" name="paint" version="2.0.6"/>
+            <type ver="">paintwork2</type>
+            <name>Lazuria</name>
+            <created_date>2023/11/07 19:50:07</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="e4530c3252-1d4a-c1a7-0c36-ac5ac70ef8"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9d73f5f7db-5942-89b6-f1ac-50cf9cecd5"/>
+              <fileref idref="4da7df5fa7-0c43-34af-9de0-704bdf6de8"/>
+              <fileref idref="845fa9d284-d149-4b80-9f9a-3cccce14b2"/>
+              <fileref idref="ef9780f9ae-4846-a382-c76b-876097dfc1"/>
+              <fileref idref="2966edac15-2e43-7288-d2c6-a758411255"/>
+              <fileref idref="347cfbea98-4446-81a4-708b-9ca4d994d8"/>
+              <fileref idref="8bf0fa0021-8f49-898b-e4e0-690f7621e6"/>
+              <fileref idref="31461587f6-c849-7199-6c57-bff7360144"/>
+              <fileref idref="194797e76c-ce49-febb-db3d-8331d4ff5e"/>
+              <fileref idref="eb1d77520c-184f-e9a5-6cb3-975724b206"/>
+              <fileref idref="2ed1a541fe-1f46-9a8b-977b-f88db92646"/>
+              <fileref idref="8279c2b130-3d4b-f5b2-0ba1-e3772deeac"/>
+              <fileref idref="b92655b60d-dd4b-9181-9790-305a6e7fef"/>
+              <fileref idref="74fdfbd04a-f54b-42b4-cfaf-0f740631bb"/>
+              <fileref idref="72d60661bc-e348-0da9-94a4-9a70b81df2"/>
+              <fileref idref="9435c71f42-e64d-1894-c0b5-e1008c35d3"/>
+              <fileref idref="a378b621b1-2d4f-c9b3-5474-93d7d0724c"/>
+            </data>
+            <icedata>
+              <fileref idref="8e8d447d22-8b41-5198-f0fd-bfc56a7557"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="194797e76c-ce49-febb-db3d-8331d4ff5e" mime="application/octet-stream">
+      <path>page0008.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="2966edac15-2e43-7288-d2c6-a758411255" mime="application/octet-stream">
+      <path>page0004.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="2ed1a541fe-1f46-9a8b-977b-f88db92646" mime="application/octet-stream">
+      <path>page0010.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="31461587f6-c849-7199-6c57-bff7360144" mime="application/octet-stream">
+      <path>page0007.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="347cfbea98-4446-81a4-708b-9ca4d994d8" mime="application/octet-stream">
+      <path>page0005.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="4da7df5fa7-0c43-34af-9de0-704bdf6de8" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="72d60661bc-e348-0da9-94a4-9a70b81df2" mime="application/octet-stream">
+      <path>page0014.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="74fdfbd04a-f54b-42b4-cfaf-0f740631bb" mime="application/octet-stream">
+      <path>page0013.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="8279c2b130-3d4b-f5b2-0ba1-e3772deeac" mime="application/octet-stream">
+      <path>page0011.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="845fa9d284-d149-4b80-9f9a-3cccce14b2" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="8bf0fa0021-8f49-898b-e4e0-690f7621e6" mime="application/octet-stream">
+      <path>page0006.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="8e8d447d22-8b41-5198-f0fd-bfc56a7557" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="9435c71f42-e64d-1894-c0b5-e1008c35d3" mime="application/octet-stream">
+      <path>page0015.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="9d73f5f7db-5942-89b6-f1ac-50cf9cecd5" mime="application/octet-stream">
+      <path>Lazuria.cmc</path>
+    </file>
+    <file document="false" encrypt="true" id="a378b621b1-2d4f-c9b3-5474-93d7d0724c" mime="application/octet-stream">
+      <path>page0016.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="b92655b60d-dd4b-9181-9790-305a6e7fef" mime="application/octet-stream">
+      <path>page0012.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="e4530c3252-1d4a-c1a7-0c36-ac5ac70ef8" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="eb1d77520c-184f-e9a5-6cb3-975724b206" mime="application/octet-stream">
+      <path>page0009.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="ef9780f9ae-4846-a382-c76b-876097dfc1" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+  </files>
+
+</archive>

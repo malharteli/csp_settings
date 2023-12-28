@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Blurred Tip 2</name>
+
+  <cloudcontentid>229528112</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>2571fdd9ef-114f-e782-6b04-b3cc328a6e</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>05/59</subpath>
+
+  <basePath></basePath>
+
+  <size>398377</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:50:02</createdat>
+
+  <updatedat>2022-09-01 12:50:12</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

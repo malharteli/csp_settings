@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Hatch Micro</name>
+
+  <cloudcontentid>229525728</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>40e061f863-3847-a9a4-add2-5bad8c326c</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>95/93</subpath>
+
+  <basePath></basePath>
+
+  <size>227033</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:31:37</createdat>
+
+  <updatedat>2022-09-01 12:31:46</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

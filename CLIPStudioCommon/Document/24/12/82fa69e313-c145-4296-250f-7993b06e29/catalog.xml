@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="82fa69e313-c145-4296-250f-7993b06e29">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.0"/>
+    <name>060402023_magicalgirlbullying</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c7b648ddf2-b440-ecb3-7649-0106dace56">
+        <tool company="celsys" name="paint" version="2.0.0"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="cffe685eb0-8e48-dda9-a1ab-2bf14ff310">
+            <tool company="celsys" name="paint" version="2.0.0"/>
+            <type ver="">clipstudioformat</type>
+            <name>060402023_magicalgirlbullying</name>
+            <created_date>2023/04/07 04:04:21</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="070f7b6241-8f41-f6ab-303b-e5f526405e"/>
+            </thumbnail>
+            <data>
+              <fileref idref="11ceb08a0f-3748-2eb1-a5bf-cad3f23ab6"/>
+            </data>
+            <icedata>
+              <fileref idref="861c94e6e8-834e-1aa2-5bc3-8b2251950b"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="070f7b6241-8f41-f6ab-303b-e5f526405e" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="11ceb08a0f-3748-2eb1-a5bf-cad3f23ab6" mime="application/octet-stream">
+      <path>060402023_magicalgirlbullying.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="861c94e6e8-834e-1aa2-5bc3-8b2251950b" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

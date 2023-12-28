@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>まりも</name>
+
+  <cloudcontentid>164170823</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>bfc35751b4-8544-b0a8-03fa-5fa89fd743</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>00/15</subpath>
+
+  <basePath></basePath>
+
+  <size>87257</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2021-09-20 02:35:14</createdat>
+
+  <updatedat>2021-09-20 02:35:25</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

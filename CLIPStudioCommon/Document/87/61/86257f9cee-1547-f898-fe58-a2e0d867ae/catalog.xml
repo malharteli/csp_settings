@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="86257f9cee-1547-f898-fe58-a2e0d867ae">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.12.3"/>
+    <name>Lunarose_Romance</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3b214fbb7d-5640-2bb9-dd1d-49f0ff597b">
+        <tool company="celsys" name="paint" version="1.12.3"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3d6876d433-984d-4eb1-a17c-46980a063c">
+            <tool company="celsys" name="paint" version="1.12.3"/>
+            <type ver="">clipstudioformat</type>
+            <name>Lunarose_Romance</name>
+            <created_date>2022/09/02 00:25:57</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="2cdcb2c860-ac4b-30a1-25d1-1a0e60fff4"/>
+            </thumbnail>
+            <data>
+              <fileref idref="3257054e91-734b-ccb6-aac6-59b5f8c579"/>
+            </data>
+            <icedata>
+              <fileref idref="d4a08546e7-7f47-61a3-ec6a-39f0f519fc"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2cdcb2c860-ac4b-30a1-25d1-1a0e60fff4" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="3257054e91-734b-ccb6-aac6-59b5f8c579" mime="application/octet-stream">
+      <path>Lunarose_Romance.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="d4a08546e7-7f47-61a3-ec6a-39f0f519fc" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

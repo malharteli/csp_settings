@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Marker A</name>
+
+  <cloudcontentid>229524830</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>b6f93fd5ad-3846-a286-f206-6c98fbb08a</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>59/23</subpath>
+
+  <basePath></basePath>
+
+  <size>1311153</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:24:27</createdat>
+
+  <updatedat>2022-09-01 12:24:37</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

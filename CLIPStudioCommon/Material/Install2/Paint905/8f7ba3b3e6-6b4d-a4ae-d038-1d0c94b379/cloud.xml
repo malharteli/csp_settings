@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>浴衣金魚</name>
+
+  <cloudcontentid>3103</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>8f7ba3b3e6-6b4d-a4ae-d038-1d0c94b379</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint905</subpath>
+
+  <basePath>installation_material/03/31/3103</basePath>
+
+  <size>2874740</size>
+
+  <permit>0</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2023-05-12 12:16:00</createdat>
+
+  <updatedat>2023-05-12 12:16:08</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

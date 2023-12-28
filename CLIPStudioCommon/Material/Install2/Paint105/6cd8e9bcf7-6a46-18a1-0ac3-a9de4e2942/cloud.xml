@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>多角形</name>
+
+  <cloudcontentid>3062</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>6cd8e9bcf7-6a46-18a1-0ac3-a9de4e2942</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>3dprimitive</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>Paint105</subpath>
+
+  <basePath>installation_material/62/30/3062</basePath>
+
+  <size>87189</size>
+
+  <permit>1</permit>
+
+  <husk>1</husk>
+
+  <owner>9114</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-21 15:14:22</createdat>
+
+  <updatedat>2022-09-21 15:14:29</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

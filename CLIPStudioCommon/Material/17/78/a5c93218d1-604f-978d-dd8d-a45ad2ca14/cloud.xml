@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Brushstrokes</name>
+
+  <cloudcontentid>229525334</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>a5c93218d1-604f-978d-dd8d-a45ad2ca14</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>17/78</subpath>
+
+  <basePath></basePath>
+
+  <size>337719</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:28:41</createdat>
+
+  <updatedat>2022-09-01 12:28:51</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="ec5a1642bb-3846-bea9-3c76-9dca779b1f">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.8.4"/>
+    <name>Layer 2 2 Copy 2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="02991d5fae-9041-5fb1-5725-3136fbb257">
+        <tool company="celsys" name="paint" version="1.8.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="3bae5bb138-9d41-c280-a6fc-0f13d94e60">
+            <tool company="celsys" name="paint" version="1.8.4"/>
+            <type ver="1.0.1">image</type>
+            <name>SF_Rounded Triangle Small</name>
+            <created_date>2020/05/07 06:29:01</created_date>
+            <modified_date>2020/05/07 06:29:01</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="6acfb566be-b445-2ba5-735b-298cf71a9f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="944dbaa24a-9f42-5fb0-5dd4-a5a4655c17"/>
+            </data>
+            <icedata>
+              <fileref idref="6aa6354e7c-e544-eea6-3b23-c0f7ce58f4"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="6aa6354e7c-e544-eea6-3b23-c0f7ce58f4" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="6acfb566be-b445-2ba5-735b-298cf71a9f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="944dbaa24a-9f42-5fb0-5dd4-a5a4655c17" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

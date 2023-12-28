@@ -7,19 +7,38 @@
     <meta name="format-detection" content="telephone=no"/>
     <title>CLIP STUDIO</title>
     <link rel="stylesheet" href="assets/side_menu.css"/>
-    <script>window.onerror=function(){return true;}</script>
+    <script>
+        window.onerror=function(){return true;}
+        var fromServer = false;
+    </script>
     <script src="assets/side_menu.js"></script>
     <script>
+        var softwareCall = null;
+        var softwareCallCount = 0;
         function _afterSetServer(){
             if(sideMenu.settedUp) return;
             sideMenu.createSideMenu();
             $(window).scroll(function(){sideMenu.shadowControl();});
             $(window).resize(function(){sideMenu.shadowControl();});
+            if(fromServer && (OS == 'Win' || OS == 'Mac')){
+                softwareCall = setInterval(function(){
+                    main.callIce('getSoftwareInfo',{'software':'server'});
+                    softwareCallCount++;
+                    if(softwareCallCount > 15){
+                        clearInterval(softwareCall);
+                    }
+                }, 1000);
+            }
         }
+        function clearSoftwareCall(){clearInterval(softwareCall);}
         function setActiveSideMenu(_target){sideMenu.menuActive(_target);}
         function setSideMenuColor(_color){sideMenu.setSideMenuColor(_color);}
         function notChangeMenu(){sideMenu.notChangeMenu();}
         function setMenuAlert(_target, _string){sideMenu.setMenuAlert(_target, _string);}
+        function setDexMode(){
+            $('body').addClass('dex');
+        }
+        function setSoftwareInfo(_app, _data, _type, _ver, _grade){sideMenu.setSoftwareInfo(_app, _data, _type, _ver, _grade);}
         $(document).ready(function(){
             if(main.versionCompare(main.getIceVer(), '>=', '1.9.5') || OS == 'iOS'){
                 main.callIce('getSideMenuColor',{},1);

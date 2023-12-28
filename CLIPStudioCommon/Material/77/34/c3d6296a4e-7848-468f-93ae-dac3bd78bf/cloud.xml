@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Grunge</name>
+
+  <cloudcontentid>229523172</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>c3d6296a4e-7848-468f-93ae-dac3bd78bf</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>77/34</subpath>
+
+  <basePath></basePath>
+
+  <size>375143</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:13:47</createdat>
+
+  <updatedat>2022-09-01 12:13:57</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

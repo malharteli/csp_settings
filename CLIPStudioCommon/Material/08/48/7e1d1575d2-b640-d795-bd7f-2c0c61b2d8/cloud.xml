@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Ballpoint Pen 2</name>
+
+  <cloudcontentid>229522618</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>7e1d1575d2-b640-d795-bd7f-2c0c61b2d8</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>08/48</subpath>
+
+  <basePath></basePath>
+
+  <size>98424</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:10:43</createdat>
+
+  <updatedat>2022-09-01 12:10:51</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>

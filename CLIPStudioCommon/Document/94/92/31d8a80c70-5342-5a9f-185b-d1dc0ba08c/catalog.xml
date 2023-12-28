@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="31d8a80c70-5342-5a9f-185b-d1dc0ba08c">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="2.0.6"/>
+    <name>SisterhoodSketchPad</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="dce5300eba-ab46-659c-dc4a-fbcb5353dc">
+        <tool company="celsys" name="paint" version="2.0.6"/>
+        <type ver="1.0.0">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="265b45e4b2-3343-bc96-6fa3-4165808cab">
+            <tool company="celsys" name="paint" version="2.0.6"/>
+            <type ver="1.0.0">paintwork2</type>
+            <name>SisterhoodSketchPad</name>
+            <created_date>2023/09/27 01:22:47</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="7b1923287b-2643-c691-5abf-f9ce464cf6"/>
+            </thumbnail>
+            <data>
+              <fileref idref="a2057bb7fa-db43-0191-ebfc-1d1093dae0"/>
+              <fileref idref="396e7a9600-3e45-b69b-aded-d6d4fcef3e"/>
+              <fileref idref="74d6e59241-f34e-e499-7d91-5439e1ebca"/>
+              <fileref idref="e4406451c0-d94b-1f80-bfe8-1db361f603"/>
+              <fileref idref="bc1731f533-4248-7ea0-f4f1-7e4cd6d60f"/>
+              <fileref idref="be59d9e763-6e47-19ba-b907-5bf76466de"/>
+              <fileref idref="5f103c39c4-0543-4b9a-6d09-265e6a3135"/>
+              <fileref idref="f41157d59b-4441-2bb3-30b2-bddb136600"/>
+              <fileref idref="72c76cb879-6c4c-0385-5b85-44fe82a854"/>
+              <fileref idref="b24a3629ad-2d45-06ba-d140-cd3724c0b0"/>
+              <fileref idref="19890d19a8-8441-1283-33e2-f34c0e6116"/>
+              <fileref idref="7350e8e795-954a-48b8-31e0-34f46b464d"/>
+              <fileref idref="f4d09c41f2-b64a-47a2-b75a-db97470d4d"/>
+              <fileref idref="0a57277c31-9c44-0b89-61c8-5a168e9c98"/>
+              <fileref idref="f82394936a-e644-9bbb-157b-a9133d780b"/>
+              <fileref idref="700d14e224-3b41-148e-f268-a977486a21"/>
+              <fileref idref="e6617106ef-8144-6a96-96da-eb9dc664f3"/>
+              <fileref idref="724f2b050d-b74a-45ae-dcf9-fdce845fd5"/>
+              <fileref idref="5bf95081bc-0e47-b99f-e377-97887003c5"/>
+              <fileref idref="4989612746-9248-7b88-6443-2d18d5b789"/>
+              <fileref idref="2e5387ea5b-c04d-09bb-edec-57b858f95c"/>
+              <fileref idref="1982b14549-704d-d98e-7c78-85b757e33b"/>
+              <fileref idref="6f4f676bec-324e-79a1-9f0c-3b2fcebd4e"/>
+            </data>
+            <icedata>
+              <fileref idref="492206e6cb-7449-ee96-9d3f-6da0430fd9"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="0a57277c31-9c44-0b89-61c8-5a168e9c98" mime="application/octet-stream">
+      <path>page0013.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="1982b14549-704d-d98e-7c78-85b757e33b" mime="application/octet-stream">
+      <path>page0021.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="19890d19a8-8441-1283-33e2-f34c0e6116" mime="application/octet-stream">
+      <path>page0010.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="2e5387ea5b-c04d-09bb-edec-57b858f95c" mime="application/octet-stream">
+      <path>page0020.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="396e7a9600-3e45-b69b-aded-d6d4fcef3e" mime="application/octet-stream">
+      <path>page0001.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="492206e6cb-7449-ee96-9d3f-6da0430fd9" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="4989612746-9248-7b88-6443-2d18d5b789" mime="application/octet-stream">
+      <path>page0019.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="5bf95081bc-0e47-b99f-e377-97887003c5" mime="application/octet-stream">
+      <path>page0018.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="5f103c39c4-0543-4b9a-6d09-265e6a3135" mime="application/octet-stream">
+      <path>page0006.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="6f4f676bec-324e-79a1-9f0c-3b2fcebd4e" mime="application/octet-stream">
+      <path>page0022.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="700d14e224-3b41-148e-f268-a977486a21" mime="application/octet-stream">
+      <path>page0015.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="724f2b050d-b74a-45ae-dcf9-fdce845fd5" mime="application/octet-stream">
+      <path>page0017.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="72c76cb879-6c4c-0385-5b85-44fe82a854" mime="application/octet-stream">
+      <path>page0008.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="7350e8e795-954a-48b8-31e0-34f46b464d" mime="application/octet-stream">
+      <path>page0011.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="74d6e59241-f34e-e499-7d91-5439e1ebca" mime="application/octet-stream">
+      <path>page0002.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="7b1923287b-2643-c691-5abf-f9ce464cf6" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="a2057bb7fa-db43-0191-ebfc-1d1093dae0" mime="application/octet-stream">
+      <path>SisterhoodSketchpad.cmc</path>
+    </file>
+    <file document="false" encrypt="true" id="b24a3629ad-2d45-06ba-d140-cd3724c0b0" mime="application/octet-stream">
+      <path>page0009.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="bc1731f533-4248-7ea0-f4f1-7e4cd6d60f" mime="application/octet-stream">
+      <path>page0004.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="be59d9e763-6e47-19ba-b907-5bf76466de" mime="application/octet-stream">
+      <path>page0005.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e4406451c0-d94b-1f80-bfe8-1db361f603" mime="application/octet-stream">
+      <path>page0003.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="e6617106ef-8144-6a96-96da-eb9dc664f3" mime="application/octet-stream">
+      <path>page0016.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="f41157d59b-4441-2bb3-30b2-bddb136600" mime="application/octet-stream">
+      <path>page0007.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="f4d09c41f2-b64a-47a2-b75a-db97470d4d" mime="application/octet-stream">
+      <path>page0012.clip</path>
+    </file>
+    <file document="false" encrypt="true" id="f82394936a-e644-9bbb-157b-a9133d780b" mime="application/octet-stream">
+      <path>page0014.clip</path>
+    </file>
+  </files>
+
+</archive>

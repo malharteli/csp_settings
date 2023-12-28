@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cloud>
+
+  <version>1.0.0</version>
+
+  <name>SF_Frail</name>
+
+  <cloudcontentid>229527944</cloudcontentid>
+
+  <revision>1</revision>
+
+  <key>d2a26d0f63-9745-d984-ec69-41b13f5576</key>
+
+  <contenttype>material</contenttype>
+
+  <contentsubtype>image</contentsubtype>
+
+  <thumbnailurl></thumbnailurl>
+
+  <subpath>06/40</subpath>
+
+  <basePath></basePath>
+
+  <size>153022</size>
+
+  <permit>1</permit>
+
+  <husk>0</husk>
+
+  <owner>919503</owner>
+
+  <acl></acl>
+
+  <createdat>2022-09-01 12:48:46</createdat>
+
+  <updatedat>2022-09-01 12:48:55</updatedat>
+
+  <dataVersion>2.0.8</dataVersion>
+
+  <ownerhistory/>
+
+  <teamNameList/>
+
+</cloud>
